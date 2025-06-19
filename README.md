@@ -67,6 +67,7 @@
 - 🧠 支持 Clash、Shadowrocket 一键导入订阅链接
 - 🚀 夜间高峰测试速度不降，延迟低至 30ms 内
 - 💡 专属优惠码：`bbxy-5th` 可享 95 折购买套餐
+- 📺 LV3以及以上会员免费提供Netflix,Disney+,Hbo MAX账号,就冲这几个平台的账号,也是值得的
 
 📌 详细图文教程与测速报告请移步 ➜ [https://gptvpnhelper.com/airport-access/bbxy/](https://gptvpnhelper.com/airport-access/bbxy/)
 
