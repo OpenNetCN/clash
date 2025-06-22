@@ -202,7 +202,7 @@ Trojan 协议 + 原生 IP + IPLC 专线，节点构建稳健，兼容 Clash、Me
 
 ---
 
-### 3. [TNTCloud — 全IPLC 专线机场，高速稳定](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
+### 3. [TNTCloud — 全IPLC 专线机场，618 8折优惠](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
 
 > **服务亮点**：Trojan + 全节点 IPLC 专线，不限速不限设备，解锁率极高。
 
