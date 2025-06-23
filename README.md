@@ -15,7 +15,7 @@
 - [新手指南：如何挑选靠谱机场](#how-to-choose)
 
 ### 🚀 实测与配置教程
-- [个人推荐](#person)
+- [快速选择机场](#person)
 - [热门机场实测（2025年6月）](#benchmark)
 - [科学上网配置流程（适配全平台）](#setup)
 - [风险提示：科学上网需注意哪些问题？](#risk)
@@ -105,7 +105,7 @@
 
 ### 💎 高端旗舰用户推荐
 
-**1. WgetCloud 机场**  
+**1. [WgetCloud 机场](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS)**  
 如果你追求**极致稳定性**与专业服务，这家机场绝对不容错过。  
 虽然价格略高，但其自主线路构建 + 企业级IEPL架构，能确保高峰期依然保持高速不掉线。  
 > ✅ 推荐理由：线路干净、服务稳健，属于“买贵买对”的典范机场。
@@ -114,19 +114,19 @@
 
 ### 🏆 中端主力，适合多数场景用户
 
-**1. 小蜜蜂机场**  
+**1. [小蜜蜂机场](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)**  
 全 IEPL 专线接入，节点丰富稳定，Netflix 4K 高峰无卡顿。  
 套餐灵活、设备不限、流媒体解锁能力强，附送美区 ID（方便下载 Shadowrocket）。  
 目前**年付最低仅 96 元/年**，使用优惠码还可享 7 折活动价。  
 > ✅ 推荐理由：海外团队运营，节点数量多、质量稳，是多数用户科学上网的理想选择。
 
-**2. 银河云 Galaxy**  
+**2. [银河云 Galaxy](https://realvpntest.galaxyvipaff01.cc/register?aff=tcOd0ob7)**  
 该服务由老牌机场“青云梯”团队全新打造，线路表现更加出色。  
 Trojan 协议 + IEPL 专线架构，支持 GPT / Claude / TikTok / Netflix 全平台访问。  
 用户反馈极佳，客服响应迅速，支持退款机制，专业度高。  
 > ✅ 推荐理由：全天候稳定不掉线，4K 油管可满速，ChatGPT + 流媒体表现顶级，近期优惠也非常可观（截止 6 月底）。
 
-**3. TNTCloud**  
+**3. [TNTCloud](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)**  
 Trojan 协议 + 原生 IP + IPLC 专线，节点构建稳健，兼容 Clash、Meta 等主流客户端。  
 适合开发者、自媒体人或 AI 工具深度用户使用。不限速、不限设备，CP值极高。  
 > ✅ 推荐理由：高速稳定、覆盖广泛，适合重度科学上网与流媒体高频需求者。当前 618 活动优惠大，月底截止。
