@@ -230,7 +230,7 @@ Trojan 协议 + 原生 IP + IPLC 专线，节点构建稳健，兼容 Clash、Me
 
 ---
 
-### 4. [Galaxy 银河云 — 高性价比专线机场，节点超广](https://realvpntest.galaxyvipaff01.cc/register?aff=tcOd0ob7)
+### 4. [Galaxy 银河云 — 高性价比专线机场，节点超广](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7)
 
 > **特色优势**：Trojan + IEPL + 超广节点覆盖，ChatGPT/Claude 多平台直连，支持微信支付宝。
 
