@@ -120,7 +120,7 @@
 目前**年付最低仅 96 元/年**，使用618优惠码还可享 7 折活动价。  
 > ✅ 推荐理由：海外团队运营，节点数量多、质量稳，是多数用户科学上网的理想选择。
 
-**2. [银河云 Galaxy](https://realvpntest.galaxyvipaff01.cc/register?aff=tcOd0ob7)**  
+**2. [银河云 Galaxy](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7)**  
 该服务由老牌机场“青云梯”团队全新打造，线路表现更加出色。  
 Trojan 协议 + IEPL 专线架构，支持 GPT / Claude / TikTok / Netflix 全平台访问。  
 用户反馈极佳，客服响应迅速，支持退款机制，专业度高。  
