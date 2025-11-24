@@ -15,11 +15,11 @@
 
 | 机场 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
 | --- |---------|----------| --- | -------- | --- |
-| 百变小樱 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
 | TNTCloud | 双11 8 折（30元季付小包除外） | 2025-11-30 | `Crazy1111` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
 | 小蜜蜂机场 | 双11 8 折（96元年付小包除外） | 2025-11-30 | `11118` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
 | 青云梯 | 双11 8 折（96元活动年付小包除外） | 2025-11-11 | `10180` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
 | 银河云 | 双11 8 折（98元年付小包除外） | 2025-11-30 | `1180` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
+| 百变小樱 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
 | 贝贝云 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
 | WgetCloud | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
 
@@ -421,7 +421,17 @@
 
 ### 🔥 主力推荐（适合 80% 用户）
 
-#### 1. [**小蜜蜂机场**｜性价比王者 · 年付¥8/月 · 双11 8折 / 长期85折](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)
+#### 1. [**TNTCloud**｜AI工具专用 · IPLC专线 · 双11限时8折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
+
+- ✅ IPLC专线，延迟<30ms，海外团队运营
+- ✅ ChatGPT/Claude/Gemini 原生IP 100%解锁
+- ✅ 流媒体全解锁，不限速不限设备
+
+> 🎉 **双11 8折码：**`Crazy1111`（即日起至 2025年11月30日 23:59）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
+
+---
+
+#### 2. [**小蜜蜂机场**｜性价比王者 · 年付¥8/月 · 双11 8折 / 长期85折](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)
 
 - ✅ 年付¥96（≈¥8/月）全IEPL专线，不限速不限设备
 - ✅ Netflix/Disney+/ChatGPT/TikTok 全解锁
@@ -431,15 +441,6 @@
 
 ---
 
-#### 2. [**TNTCloud**｜AI工具专用 · IPLC专线 · 双11限时8折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
-
-- ✅ IPLC专线，延迟<30ms，海外团队运营
-- ✅ ChatGPT/Claude/Gemini 原生IP 100%解锁
-- ✅ 流媒体全解锁，不限速不限设备
-
-> 🎉 **双11 8折码：**`Crazy1111`（即日起至 2025年11月30日 23:59）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
-
----
 
 #### 3. [**青云梯**｜五年老牌 · 年付¥96/60G · 8折](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 
@@ -501,117 +502,8 @@
 
 🧭 无论你的需求是“零故障生产环境”、还是“流媒体刷剧党”，或是“低价备用应急”，这份清单都为你准备好了对应的优选方案。
 
-<a id="xiaomifeng"></a>
-### 1. <a href="https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 小蜜蜂机场 — 性价比王者，全IEPL专线，年付低至8元/月</a>
-
-**综合评分：9.6 / 10** 🏆 **编辑首选推荐**  
-**关键词标签**：全IEPL专线 | 不限速不限设备 | 年付低至¥8/月 | 全平台解锁 | 美区ID赠送 | 双11限时8折 | 长期85折
-
-> **小蜜蜂机场**是性价比最高的全IEPL专线机场之一，适合80%的用户。所有套餐不限速、不限设备，原生IP解锁全球流媒体（Netflix、Disney+、HBO等）和AI工具（ChatGPT、Copilot、Gemini），特色年付套餐低至¥8/月，还提供美区ID下载小火箭。无论是日常使用、流媒体追剧还是AI工具开发，都是不二之选。
-
----
-
-#### ✅ 核心信息一览
-
-| **评测指标**     | **详情**                                                 |
-|------------------|--------------------------------------------------------|
-| **开业时间**     | 2022 年                                                 |
-| **入口 / 出海**  | 深圳 → 深港 IEPL 专线                                        |
-| **节点覆盖**     | 香港×10、台湾×5、日本×5、新加坡×5、美国×5、马来西亚×2、英国×2、阿根廷×2、泰国×2、巴西×2 |
-| **协议支持**     | Trojan                                                 |
-| **UDP 支持**     | 全节点开启 Full‑Cone UDP                                    |
-| **ChatGPT 支持** | 全节点解锁，响应稳定                                             |
-| **流媒体解锁**   | 支持 Netflix 全球 90+ 区、Disney+、Hulu、HBO Max 等主流平台         |
-| **设备限制**     | 不限设备数                                                  |
-| **支付方式**     | 支持支付宝 + 微信 + USDT                                      |
-
----
-
-#### 💰 套餐价格一览
-
-| 套餐名称           | 流量            | 价格         | 计费方式 | 特点简述                                               |
-|------------------|----------------|--------------|---------|------------------------------------------------------|
-| 🐝 **大黄蜂特惠年度版** | 60GB/月 × 12     | ¥96         | 年付     | 每月轻度使用，年费低至 8 元/月，解锁 ChatGPT、Tiktok，稳定不掉线 |
-| 🐝 **小蜜蜂畅游版**     | 120GB / 月       | ¥20 / 月     | 月付     | 适合日常通用场景，支持 AI 工具与多流媒体平台，高性价比         |
-| 🛠 **工蜂极速版**      | 240GB / 月       | ¥40 / 月     | 月付     | 对速度和稳定性要求较高用户，IEPL 全专线，高峰不卡顿             |
-| 👑 **蜂王尊享版**      | 500GB / 月       | ¥75 / 月     | 月付     | 中重度用户推荐，解锁所有平台，流畅看 4K 视频                   |
-| 🌀 **蜂群无限版**      | 1000GB / 月      | ¥140 / 月    | 月付     | 超重度使用者首选，流量大户/办公族/AI重度工具用户推荐           |
-| 📦 **备用流量包**      | 200GB（一次性）  | ¥125         | 一次性   | 不限时间使用，适合临时补充流量，应急使用场景                   |
-
-> ✅ 所有套餐均为 **全IEPL专线**，不限速、不限设备数，支持 Netflix、Disney+、HBO、Tiktok、ChatGPT、Copilot、Midjourney 等  
-> ✅ 提供美区 ID 下载小火箭，iOS 用户福音
-
----
-
-#### 🎯 推荐人群
-
-- ✅ **日常上网用户**：年付¥96（¥8/月）轻松应对日常需求
-- ✅ **流媒体狂热用户**：Netflix全球90+区、Disney+、HBO完美解锁
-- ✅ **AI工具深度用户**：ChatGPT、Copilot、Gemini全节点可用
-- ✅ **多设备家庭用户**：不限设备数，全家共享无压力
-- ✅ **跨境电商/技术团队**：注册各国账号、SEO测试、广告投放
-- ✅ **TikTok运营者**：原生IP，完美解锁TikTok
-
-📌 **一句话总结**：性价比王者，全IEPL专线，年付低至8元/月，适合80%用户的主力机场。
-
-<div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A" target="_blank" style="
-    display:inline-block;
-    background:linear-gradient(90deg,#00c9ff,#92fe9d);
-    color:#000;
-    font-weight:600;
-    font-size:16px;
-    padding:12px 24px;
-    border-radius:8px;
-    text-decoration:none;
-    box-shadow:0 4px 14px rgba(0,0,0,0.2);
-    transition:all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🐝 立即注册小蜜蜂（年付低至8元/月+双11 8折/长期85折）</strong>
-  </a>
-</div>
-
-#### 🎁 双11 限时 8 折优惠码
-
-> 📋 **优惠码：** `11118`
->
-> 💰 **优惠力度：** 双十一期间全场 **8 折**
->
-> ⚠️ **重要说明：**
-> - ❌ **大黄蜂特惠年付版（¥96/年）为福利款，历史活动常见不参与优惠码折扣**（如页面提示不支持折扣属正常情况）
-> - ✅ 其他套餐默认为 8 折优惠，若遇到不支持可尝试切换套餐周期或联系官方客服确认活动
-> - 🔥 年付及多年套餐叠加优惠码后折上折，建议在双11 活动窗口优先入手
-
-#### 🎁 长期 85 折优惠码
-
-> 📋 **优惠码：** `xmfwww85`
->
-> 💰 **优惠力度：** 全场 **85 折**（长期有效）
->
-> ⚠️ **使用建议：**
-> - ✅ 双11 活动结束后可继续享受折扣，也可在活动期作为补充方案
-> - 🔁 若 `11118` 对某套餐不可用，可立即切换 `xmfwww85`
-> - 💡 适合错峰入手或补购流量，长期保持省钱力度
-
---- 
-
->  👉 [小蜜蜂机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/xmf/)
-
----
-
-<details>
-<summary><strong>📈 最新测速图（点击展开）｜小蜜蜂</strong></summary>
-
-<img src="./assets/xiaomifeng.webp" alt="小蜜蜂机场测速图" loading="lazy" />
-
-</details>
-
----
-
----
-
 <a id="tnt"></a>
-### 2. <a href="https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营</a>
+### 1. <a href="https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营</a>
 
 **综合评分：9.3 / 10** 🏆 **AI工具首选**  
 **关键词标签**：IPLC专线 | Trojan协议 | 海外团队 | 不限速不限设备 | ChatGPT完美支持 | 原生IP | 双11限时8折 | 长期85折
@@ -715,6 +607,113 @@
 <summary><strong>📈 最新测速图（点击展开）｜TNTCloud</strong></summary>
 
 <img src="./assets/tnt250828.webp" alt="TNTCloud 机场测速图" loading="lazy" />
+
+</details>
+
+---
+
+<a id="xiaomifeng"></a>
+### 2. <a href="https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 小蜜蜂机场 — 性价比王者，全IEPL专线，年付低至8元/月</a>
+
+**综合评分：9.6 / 10** 🏆 **编辑首选推荐**  
+**关键词标签**：全IEPL专线 | 不限速不限设备 | 年付低至¥8/月 | 全平台解锁 | 美区ID赠送 | 双11限时8折 | 长期85折
+
+> **小蜜蜂机场**是性价比最高的全IEPL专线机场之一，适合80%的用户。所有套餐不限速、不限设备，原生IP解锁全球流媒体（Netflix、Disney+、HBO等）和AI工具（ChatGPT、Copilot、Gemini），特色年付套餐低至¥8/月，还提供美区ID下载小火箭。无论是日常使用、流媒体追剧还是AI工具开发，都是不二之选。
+
+---
+
+#### ✅ 核心信息一览
+
+| **评测指标**     | **详情**                                                 |
+|------------------|--------------------------------------------------------|
+| **开业时间**     | 2022 年                                                 |
+| **入口 / 出海**  | 深圳 → 深港 IEPL 专线                                        |
+| **节点覆盖**     | 香港×10、台湾×5、日本×5、新加坡×5、美国×5、马来西亚×2、英国×2、阿根廷×2、泰国×2、巴西×2 |
+| **协议支持**     | Trojan                                                 |
+| **UDP 支持**     | 全节点开启 Full‑Cone UDP                                    |
+| **ChatGPT 支持** | 全节点解锁，响应稳定                                             |
+| **流媒体解锁**   | 支持 Netflix 全球 90+ 区、Disney+、Hulu、HBO Max 等主流平台         |
+| **设备限制**     | 不限设备数                                                  |
+| **支付方式**     | 支持支付宝 + 微信 + USDT                                      |
+
+---
+
+#### 💰 套餐价格一览
+
+| 套餐名称           | 流量            | 价格         | 计费方式 | 特点简述                                               |
+|------------------|----------------|--------------|---------|------------------------------------------------------|
+| 🐝 **大黄蜂特惠年度版** | 60GB/月 × 12     | ¥96         | 年付     | 每月轻度使用，年费低至 8 元/月，解锁 ChatGPT、Tiktok，稳定不掉线 |
+| 🐝 **小蜜蜂畅游版**     | 120GB / 月       | ¥20 / 月     | 月付     | 适合日常通用场景，支持 AI 工具与多流媒体平台，高性价比         |
+| 🛠 **工蜂极速版**      | 240GB / 月       | ¥40 / 月     | 月付     | 对速度和稳定性要求较高用户，IEPL 全专线，高峰不卡顿             |
+| 👑 **蜂王尊享版**      | 500GB / 月       | ¥75 / 月     | 月付     | 中重度用户推荐，解锁所有平台，流畅看 4K 视频                   |
+| 🌀 **蜂群无限版**      | 1000GB / 月      | ¥140 / 月    | 月付     | 超重度使用者首选，流量大户/办公族/AI重度工具用户推荐           |
+| 📦 **备用流量包**      | 200GB（一次性）  | ¥125         | 一次性   | 不限时间使用，适合临时补充流量，应急使用场景                   |
+
+> ✅ 所有套餐均为 **全IEPL专线**，不限速、不限设备数，支持 Netflix、Disney+、HBO、Tiktok、ChatGPT、Copilot、Midjourney 等  
+> ✅ 提供美区 ID 下载小火箭，iOS 用户福音
+
+---
+
+#### 🎯 推荐人群
+
+- ✅ **日常上网用户**：年付¥96（¥8/月）轻松应对日常需求
+- ✅ **流媒体狂热用户**：Netflix全球90+区、Disney+、HBO完美解锁
+- ✅ **AI工具深度用户**：ChatGPT、Copilot、Gemini全节点可用
+- ✅ **多设备家庭用户**：不限设备数，全家共享无压力
+- ✅ **跨境电商/技术团队**：注册各国账号、SEO测试、广告投放
+- ✅ **TikTok运营者**：原生IP，完美解锁TikTok
+
+📌 **一句话总结**：性价比王者，全IEPL专线，年付低至8元/月，适合80%用户的主力机场。
+
+<div align="left" style="margin: 10px 0 20px 0;">
+  <a href="https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A" target="_blank" style="
+    display:inline-block;
+    background:linear-gradient(90deg,#00c9ff,#92fe9d);
+    color:#000;
+    font-weight:600;
+    font-size:16px;
+    padding:12px 24px;
+    border-radius:8px;
+    text-decoration:none;
+    box-shadow:0 4px 14px rgba(0,0,0,0.2);
+    transition:all 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <strong>🐝 立即注册小蜜蜂（年付低至8元/月+双11 8折/长期85折）</strong>
+  </a>
+</div>
+
+#### 🎁 双11 限时 8 折优惠码
+
+> 📋 **优惠码：** `11118`
+>
+> 💰 **优惠力度：** 双十一期间全场 **8 折**
+>
+> ⚠️ **重要说明：**
+> - ❌ **大黄蜂特惠年付版（¥96/年）为福利款，历史活动常见不参与优惠码折扣**（如页面提示不支持折扣属正常情况）
+> - ✅ 其他套餐默认为 8 折优惠，若遇到不支持可尝试切换套餐周期或联系官方客服确认活动
+> - 🔥 年付及多年套餐叠加优惠码后折上折，建议在双11 活动窗口优先入手
+
+#### 🎁 长期 85 折优惠码
+
+> 📋 **优惠码：** `xmfwww85`
+>
+> 💰 **优惠力度：** 全场 **85 折**（长期有效）
+>
+> ⚠️ **使用建议：**
+> - ✅ 双11 活动结束后可继续享受折扣，也可在活动期作为补充方案
+> - 🔁 若 `11118` 对某套餐不可用，可立即切换 `xmfwww85`
+> - 💡 适合错峰入手或补购流量，长期保持省钱力度
+
+--- 
+
+>  👉 [小蜜蜂机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/xmf/)
+
+---
+
+<details>
+<summary><strong>📈 最新测速图（点击展开）｜小蜜蜂</strong></summary>
+
+<img src="./assets/xiaomifeng.webp" alt="小蜜蜂机场测速图" loading="lazy" />
 
 </details>
 
