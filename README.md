@@ -1,6 +1,6 @@
 # 🚀 机场推荐｜科学上网 / 魔法上网 / 梯子实测（专注 AI 工具与流媒体）
 
-📅 **内容最后更新：2025年11月21日**
+📅 **内容最后更新：2025年11月24日**
 
 想长期稳定地使用 ChatGPT、Claude、GitHub Copilot 等 AI 工具，同时又希望 YouTube、Netflix、Disney+ 看剧不再卡成 PPT？  
 本项目聚焦 **机场推荐 + 科学上网/魔法上网/梯子实测**，特别为程序员、远程办公用户和流媒体重度用户筛选出更适合日常工作的稳定线路。
@@ -16,9 +16,9 @@
 | 机场 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
 | --- |---------|----------| --- | -------- | --- |
 | 百变小樱 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
+| TNTCloud | 双11 8 折（30元季付小包除外） | 2025-11-30 | `Crazy1111` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
 | 小蜜蜂机场 | 双11 8 折（96元年付小包除外） | 2025-11-30 | `11118` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
 | 青云梯 | 双11 8 折（96元活动年付小包除外） | 2025-11-11 | `10180` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
-| TNTCloud | 双11 8 折（30元季付小包除外） | 2025-11-30 | `Crazy1111` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
 | 银河云 | 双11 8 折（98元年付小包除外） | 2025-11-30 | `1180` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
 | 贝贝云 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
 | WgetCloud | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
@@ -28,7 +28,7 @@
 ## ⚡ 快速选择
 
 - **高端旗舰首选**：追求企业级稳定与自研面板，直接上车 [WgetCloud](#wgetcloud)。
-- **主力性价比组合**：日常主力使用 AI 或者 流媒体锁定 [小蜜蜂](#xiaomifeng)、[TNTCloud 专线](#tnt)、[青云梯](#qingyunti) 。
+- **主力性价比组合**：日常主力使用 AI工具 或者 Netflix等流媒体锁定 [小蜜蜂](#xiaomifeng)、[TNTCloud 专线](#tnt)、[青云梯](#qingyunti) 。
 - **免费快速救急**：完全无法翻墙时，用 [百变小樱 3 天免费试用](#free) 先恢复连接。
 - **轻度备用线路**：预算有限或需要备用线就用 [贝贝云 95 折套餐](#bby)。
 
@@ -430,7 +430,17 @@
 
 ---
 
-#### 2. [**青云梯**｜五年老牌 · 年付¥96/60G · 8折](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
+#### 2. [**TNTCloud**｜AI工具专用 · IPLC专线 · 双11限时8折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
+
+- ✅ IPLC专线，延迟<30ms，海外团队运营
+- ✅ ChatGPT/Claude/Gemini 原生IP 100%解锁
+- ✅ 流媒体全解锁，不限速不限设备
+
+> 🎉 **双11 8折码：**`Crazy1111`（即日起至 2025年11月30日 23:59）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
+
+---
+
+#### 3. [**青云梯**｜五年老牌 · 年付¥96/60G · 8折](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 
 - ✅ 2020年运营至今，企业级IPLC专线
 - ✅ 全平台解锁 + 海外团队7x24维护
@@ -440,13 +450,6 @@
 
 ---
 
-#### 3. [**TNTCloud**｜AI工具专用 · IPLC专线 · 双11限时8折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
-
-- ✅ IPLC专线，延迟<30ms，海外团队运营
-- ✅ ChatGPT/Claude/Gemini 原生IP 100%解锁
-- ✅ 流媒体全解锁，不限速不限设备
-
-> 🎉 **双11 8折码：**`Crazy1111`（即日起至 2025年11月30日 23:59）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
 
 ---
 
@@ -604,113 +607,10 @@
 
 ---
 
-<a id="qingyunti"></a>
-### 2. <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="color:#1a73e8;text-decoration:underline;">🌤 青云梯 — 五年实力老牌，性价比 IPLC 专线，年付¥8/月</a>
-
-**综合评分：9.4 / 10** 🔥 **性价比拉满的实力一线**  
-**关键词标签**：五年老牌 | 企业级IPLC专线 | 智能负载均衡 | 年付¥96 | 80+全球节点 | 8折优惠
-
-> **青云梯** 成立于 2020 年 11 月，是一家专注性价比的实力派老牌机场。采用 **企业级 IPLC 专线 + 智能负载均衡技术**（根据用户本地网络自动分配最优入口和线路），全线 Shadowsocks 协议，三网优化。拥有覆盖全球 17+ 地区的 **80+ 专线节点**，全平台解锁 Netflix / Disney+ / ChatGPT / Gemini / TikTok。**年付套餐低至 ¥96/年（每月仅 ¥8）**，海外团队 7x24 专业运营，真人客服实时在线，新手友好。
-
----
-
-| **评测维度**     | **详情说明**                                                                      |
-|------------------|-----------------------------------------------------------------------------------|
-| **开业时间**     | 2020.11.1（稳定运营 5 年+，实力老牌）                                             |
-| **协议支持**     | Shadowsocks（SS）                                                                  |
-| **接入方式**     | 企业级 IPLC 专线，三网优化，智能负载均衡（自动分配最优线路）                        |
-| **节点覆盖**     | 80+ 全专线节点，覆盖香港、台湾、日本、新加坡、马来西亚、美国、韩国、泰国、印尼、菲律宾、越南、英国、德国、法国、土耳其、巴西、阿根廷等 17+ 地区 |
-| **流媒体解锁**   | 全节点解锁 Netflix / Disney+ / HBO Max / HBO Go / YouTube Premium 等，晚高峰不限速 4K 秒开 |
-| **ChatGPT 支持** | 全节点解锁 ChatGPT / Gemini / Claude 等 AI 工具，TikTok 全球短视频 + 直播环境可用    |
-| **设备限制**     | 不限系统，支持多设备同时使用                                                        |
-| **客户端支持**   | Shadowrocket / Clash / V2rayN / V2rayNG / Surge / Quantumult X / Stash 等全平台   |
-| **售后服务**     | 真人客服实时在线，为新手用户排忧解难                                                |
-| **支付方式**     | 支持支付宝 / 微信 / USDT                                                           |
-
----
-
-**📦 套餐价格一览**
-
-| 套餐方案     | 流量配额           | 月付价格 | 季付价格 | 年付价格        | 性价比推荐 |
-|--------------|-------------------|---------|---------|----------------|-----------|
-| **青云·诀** | 每月 60GB          | -       | -       | **¥96/年（≈¥8/月）** | ⭐⭐⭐⭐⭐ 超高性价比 |
-| 青云·VIP1    | 每月 150GB         | ¥25     | ¥67     | ¥240（≈¥20/月） | ⭐⭐⭐⭐ |
-| 青云·VIP2    | 每月 300GB         | ¥45     | ¥121    | ¥432（≈¥36/月） | ⭐⭐⭐⭐ |
-| 青云·VIP3    | 每月 600GB         | ¥85     | ¥229    | ¥916（≈¥76/月） | ⭐⭐⭐ |
-
-**💡 套餐选择建议：**
-- 🌟 **青云·诀（¥96/年）**：轻度用户/备用机场首选，每月 60GB 够日常使用
-- 🔥 **VIP1（¥240/年）**：中度用户最佳选择，150GB 流量覆盖办公 + 娱乐
-- 💼 **VIP2/VIP3**：重度用户/多设备共享，支持企业级定制线路
-
----
-
-**🌐 核心技术亮点**
-
-✅ **智能负载均衡** - 根据用户本地实际网络环境，自动分配最适合的入口和线路，确保最优连接速度  
-✅ **全线 IPLC 专线** - 企业级国际专线，三网优化，晚高峰不限速，4K 视频秒开  
-✅ **80+ 全球节点** - 覆盖亚洲、欧洲、美洲 17+ 地区，全节点专线接入  
-✅ **全平台解锁** - Netflix / Disney+ / HBO Max / ChatGPT / Gemini / TikTok 等全解锁  
-✅ **海外团队运营** - 专业 7x24 全天候维护，真人客服实时在线  
-✅ **新手友好** - 支持 Clash / Shadowrocket 等主流客户端，一键导入订阅
-
----
-
-**🎯 推荐人群**
-
-- ✅ **年付省心用户** - 追求性价比，每月 ¥8 享受专线品质
-- ✅ **AI 工具重度用户** - ChatGPT / Gemini / Claude 等 AI 工具全节点解锁
-- ✅ **流媒体爱好者** - Netflix / Disney+ / HBO 4K 秒开，晚高峰不卡顿
-- ✅ **TikTok 运营者** - 全球短视频 + 直播环境完美支持
-- ✅ **跨境办公人群** - 企业级 IPLC 专线，稳定可靠
-- ✅ **新手入门** - 真人客服在线指导，支持主流客户端
-
-<div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="
-    display:inline-block;
-    background:linear-gradient(90deg,#00bcd4,#2196f3);
-    color:#fff;
-    font-weight:600;
-    font-size:16px;
-    padding:12px 24px;
-    border-radius:8px;
-    text-decoration:none;
-    box-shadow:0 4px 14px rgba(0,0,0,0.25);
-    transition:all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🌤 立即注册青云梯（年付¥96/60G + 8折）</strong>
-  </a>
-</div>
-
-🎁 **双十一限时活动**
-
-> 📋 **优惠码：** `10180`
->
-> 💰 **优惠力度：** 全场 **8 折**（20% OFF）
->
-> ⏱ **活动时间：** 即日起 ～ 2025年11月11日 23:59
->
-> ⚠️ **重要说明：**
-> - ❌ **青云·诀年付套餐（¥96/年）为福利款，不参与本次8折活动**（该套餐已是厂商最低价，无法再享优惠码折扣）
-> - ✅ VIP1/VIP2/VIP3 套餐均可使用优惠码享8折优惠
-> - 🔥 优惠码可与套餐活动叠加，享受折上折优惠
-
----
-
->  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/qingyunti/)
----
-
-<details>
-<summary><strong>📈 最新测速图（点击展开）｜青云梯</strong></summary>
-
-<img src="./assets/qingyunti.webp" alt="青云梯机场测速图" loading="lazy" />
-
-</details>
-
 ---
 
 <a id="tnt"></a>
-### 3. <a href="https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营</a>
+### 2. <a href="https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营</a>
 
 **综合评分：9.3 / 10** 🏆 **AI工具首选**  
 **关键词标签**：IPLC专线 | Trojan协议 | 海外团队 | 不限速不限设备 | ChatGPT完美支持 | 原生IP | 双11限时8折 | 长期85折
@@ -814,6 +714,111 @@
 <summary><strong>📈 最新测速图（点击展开）｜TNTCloud</strong></summary>
 
 <img src="./assets/tnt250828.webp" alt="TNTCloud 机场测速图" loading="lazy" />
+
+</details>
+
+---
+
+<a id="qingyunti"></a>
+### 3. <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="color:#1a73e8;text-decoration:underline;">🌤 青云梯 — 五年实力老牌，性价比 IPLC 专线，年付¥8/月</a>
+
+**综合评分：9.4 / 10** 🔥 **性价比拉满的实力一线**  
+**关键词标签**：五年老牌 | 企业级IPLC专线 | 智能负载均衡 | 年付¥96 | 80+全球节点 | 8折优惠
+
+> **青云梯** 成立于 2020 年 11 月，是一家专注性价比的实力派老牌机场。采用 **企业级 IPLC 专线 + 智能负载均衡技术**（根据用户本地网络自动分配最优入口和线路），全线 Shadowsocks 协议，三网优化。拥有覆盖全球 17+ 地区的 **80+ 专线节点**，全平台解锁 Netflix / Disney+ / ChatGPT / Gemini / TikTok。**年付套餐低至 ¥96/年（每月仅 ¥8）**，海外团队 7x24 专业运营，真人客服实时在线，新手友好。
+
+---
+
+| **评测维度**     | **详情说明**                                                                      |
+|------------------|-----------------------------------------------------------------------------------|
+| **开业时间**     | 2020.11.1（稳定运营 5 年+，实力老牌）                                             |
+| **协议支持**     | Shadowsocks（SS）                                                                  |
+| **接入方式**     | 企业级 IPLC 专线，三网优化，智能负载均衡（自动分配最优线路）                        |
+| **节点覆盖**     | 80+ 全专线节点，覆盖香港、台湾、日本、新加坡、马来西亚、美国、韩国、泰国、印尼、菲律宾、越南、英国、德国、法国、土耳其、巴西、阿根廷等 17+ 地区 |
+| **流媒体解锁**   | 全节点解锁 Netflix / Disney+ / HBO Max / HBO Go / YouTube Premium 等，晚高峰不限速 4K 秒开 |
+| **ChatGPT 支持** | 全节点解锁 ChatGPT / Gemini / Claude 等 AI 工具，TikTok 全球短视频 + 直播环境可用    |
+| **设备限制**     | 不限系统，支持多设备同时使用                                                        |
+| **客户端支持**   | Shadowrocket / Clash / V2rayN / V2rayNG / Surge / Quantumult X / Stash 等全平台   |
+| **售后服务**     | 真人客服实时在线，为新手用户排忧解难                                                |
+| **支付方式**     | 支持支付宝 / 微信 / USDT                                                           |
+
+---
+
+**📦 套餐价格一览**
+
+| 套餐方案     | 流量配额           | 月付价格 | 季付价格 | 年付价格        | 性价比推荐 |
+|--------------|-------------------|---------|---------|----------------|-----------|
+| **青云·诀** | 每月 60GB          | -       | -       | **¥96/年（≈¥8/月）** | ⭐⭐⭐⭐⭐ 超高性价比 |
+| 青云·VIP1    | 每月 150GB         | ¥25     | ¥67     | ¥240（≈¥20/月） | ⭐⭐⭐⭐ |
+| 青云·VIP2    | 每月 300GB         | ¥45     | ¥121    | ¥432（≈¥36/月） | ⭐⭐⭐⭐ |
+| 青云·VIP3    | 每月 600GB         | ¥85     | ¥229    | ¥916（≈¥76/月） | ⭐⭐⭐ |
+
+**💡 套餐选择建议：**
+- 🌟 **青云·诀（¥96/年）**：轻度用户/备用机场首选，每月 60GB 够日常使用
+- 🔥 **VIP1（¥240/年）**：中度用户最佳选择，150GB 流量覆盖办公 + 娱乐
+- 💼 **VIP2/VIP3**：重度用户/多设备共享，支持企业级定制线路
+
+---
+
+**🌐 核心技术亮点**
+
+✅ **智能负载均衡** - 根据用户本地实际网络环境，自动分配最适合的入口和线路，确保最优连接速度  
+✅ **全线 IPLC 专线** - 企业级国际专线，三网优化，晚高峰不限速，4K 视频秒开  
+✅ **80+ 全球节点** - 覆盖亚洲、欧洲、美洲 17+ 地区，全节点专线接入  
+✅ **全平台解锁** - Netflix / Disney+ / HBO Max / ChatGPT / Gemini / TikTok 等全解锁  
+✅ **海外团队运营** - 专业 7x24 全天候维护，真人客服实时在线  
+✅ **新手友好** - 支持 Clash / Shadowrocket 等主流客户端，一键导入订阅
+
+---
+
+**🎯 推荐人群**
+
+- ✅ **年付省心用户** - 追求性价比，每月 ¥8 享受专线品质
+- ✅ **AI 工具重度用户** - ChatGPT / Gemini / Claude 等 AI 工具全节点解锁
+- ✅ **流媒体爱好者** - Netflix / Disney+ / HBO 4K 秒开，晚高峰不卡顿
+- ✅ **TikTok 运营者** - 全球短视频 + 直播环境完美支持
+- ✅ **跨境办公人群** - 企业级 IPLC 专线，稳定可靠
+- ✅ **新手入门** - 真人客服在线指导，支持主流客户端
+
+<div align="left" style="margin: 10px 0 20px 0;">
+  <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="
+    display:inline-block;
+    background:linear-gradient(90deg,#00bcd4,#2196f3);
+    color:#fff;
+    font-weight:600;
+    font-size:16px;
+    padding:12px 24px;
+    border-radius:8px;
+    text-decoration:none;
+    box-shadow:0 4px 14px rgba(0,0,0,0.25);
+    transition:all 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <strong>🌤 立即注册青云梯（年付¥96/60G + 8折）</strong>
+  </a>
+</div>
+
+🎁 **双十一限时活动**
+
+> 📋 **优惠码：** `10180`
+>
+> 💰 **优惠力度：** 全场 **8 折**（20% OFF）
+>
+> ⏱ **活动时间：** 即日起 ～ 2025年11月11日 23:59
+>
+> ⚠️ **重要说明：**
+> - ❌ **青云·诀年付套餐（¥96/年）为福利款，不参与本次8折活动**（该套餐已是厂商最低价，无法再享优惠码折扣）
+> - ✅ VIP1/VIP2/VIP3 套餐均可使用优惠码享8折优惠
+> - 🔥 优惠码可与套餐活动叠加，享受折上折优惠
+
+---
+
+>  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/qingyunti/)
+---
+
+<details>
+<summary><strong>📈 最新测速图（点击展开）｜青云梯</strong></summary>
+
+<img src="./assets/qingyunti.webp" alt="青云梯机场测速图" loading="lazy" />
 
 </details>
 
