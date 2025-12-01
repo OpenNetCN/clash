@@ -16,14 +16,16 @@
 | 机场 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
 | --- |---------|----------| --- | -------- | --- |
 | TNTCloud | 专属长期 8 折（30元季付小包除外） | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
-| 小蜜蜂机场 | 长期 85 折（96元年付小包除外） | 长期 | `xmfwww85` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
-| 青云梯 | 暂无限时优惠 | — | — | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
+| 小蜜蜂机场 | 专属长期 8 折（¥96 年付小包除外） | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
+| 青云梯 | 年付及以上 8 折 / 其他 85 折 | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
 | 银河云 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
 | 百变小樱 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
 | 贝贝云 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
 | WgetCloud | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
 
 \* 以官方公告为准，如活动调整请以官网提示为准。
+
+> ⚠️ **务必使用本站专属优惠码下单**：所有折扣码均为作者亲自向机场官方申请的长期最低折扣，确保终身可用且折扣力度不低于官网。机场官网上展示的公共优惠码可能已经过期或折扣较低，结算前请确认输入本站提供的专属码，以免错失更大优惠。
 
 ## ⚡ 快速选择
 
@@ -435,13 +437,13 @@
 
 ---
 
-#### 2. [**小蜜蜂机场**｜性价比王者 · 年付¥8/月 · 长期85折](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)
+#### 2. [**小蜜蜂机场**｜性价比王者 · 年付¥8/月 · 专属长期8折](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)
 
 - ✅ 年付¥96（≈¥8/月）全IEPL专线，不限速不限设备
 - ✅ Netflix/Disney+/ChatGPT/TikTok 全解锁
 - ✅ 提供美区ID下载小火箭，新手友好
 
-> 🎁 **长期 85 折码：**`xmfwww85`（¥96年付小包除外）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/xmf/)
+> 🎁 **专属长期 8 折码：**`TVX8JfZP`（¥96 年付小包除外）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/xmf/)
 
 ---
 
@@ -452,7 +454,7 @@
 - ✅ 全平台解锁 + 海外团队7x24维护
 - ✅ 80+节点覆盖全球，真人客服在线
 
-> 🎯 **温馨提示：** 当前暂无额外优惠码，直接按官网标价结算 ｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/qingyunti/)
+> 🎯 **专属优惠：** 年付及以上使用 `gptvpnhelper80` 享 8 折，月付/季付等使用 `gptvpnhelper85` 享 85 折（青云·诀 ¥96/年福利款除外）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/qingyunti/)
 
 ---
 
@@ -599,7 +601,7 @@
 >
 > ⚠️ **重要说明：**
 > - ❌ 30 元季付小包/福利款不支持任何优惠码（系统会直接提示不可用）
-> - ✅ 其他常规套餐（月付、季付、半年付、年付等）均可使用 `Tnt80` 获得 8 折
+> - ✅ 其他常规套餐均可使用 `Tnt80` 获得 8 折
 > - 💡 结算页输入折扣码后自动生效，如提示不可用，可尝试更换套餐周期或联系官方客服
 
 --- 
@@ -621,7 +623,7 @@
 ### 2. <a href="https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 小蜜蜂机场 — 性价比王者，全IEPL专线，年付低至8元/月</a>
 
 **综合评分：9.6 / 10** 🏆 **编辑首选推荐**  
-**关键词标签**：全IEPL专线 | 不限速不限设备 | 年付低至¥8/月 | 全平台解锁 | 美区ID赠送 | 长期85折
+**关键词标签**：全IEPL专线 | 不限速不限设备 | 年付低至¥8/月 | 全平台解锁 | 美区ID赠送 | 专属8折
 
 > **小蜜蜂机场**是性价比最高的全IEPL专线机场之一，适合80%的用户。所有套餐不限速、不限设备，原生IP解锁全球流媒体（Netflix、Disney+、HBO等）和AI工具（ChatGPT、Copilot、Gemini），特色年付套餐低至¥8/月，还提供美区ID下载小火箭。无论是日常使用、流媒体追剧还是AI工具开发，都是不二之选。
 
@@ -683,20 +685,20 @@
     box-shadow:0 4px 14px rgba(0,0,0,0.2);
     transition:all 0.3s ease;
   " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🐝 立即注册小蜜蜂（年付低至8元/月+长期85折）</strong>
+    <strong>🐝 立即注册小蜜蜂（年付低至8元/月+专属8折）</strong>
   </a>
 </div>
 
-#### 🎁 长期 85 折优惠码
+#### 🎁 专属长期 8 折优惠码
 
-> 📋 **优惠码：** `xmfwww85`
+> 📋 **优惠码：** `TVX8JfZP`
 >
-> 💰 **优惠力度：** 全场 **85 折**（长期有效，¥96年付福利款除外）
+> 💰 **优惠力度：** 全场 **8 折**（长期有效，¥96 年付福利小包除外）
 >
 > ⚠️ **使用建议：**
-> - ❌ **大黄蜂特惠年付版（¥96/年）为福利款**，若页面提示不支持折扣属正常情况
-> - 🔁 若结算页提示不可用，可尝试切换套餐周期或联系客服确认
-> - 💡 长期入手或补购流量时都能享受折扣，年付/多年套餐叠加更省
+> - ❌ **大黄蜂特惠年付版（¥96/年）为福利款**，官方默认不支持任何折扣
+> - 🔁 若结算页提示不可用，可尝试切换套餐周期或联系官方客服确认
+> - 💡 适合错峰入手或补购流量，叠加年付/多年套餐更省，确保在支付前输入专属码
 
 --- 
 
@@ -791,9 +793,16 @@
   </a>
 </div>
 
-🎯 **优惠信息说明**
+🎯 **专属长期折扣（8 折 / 85 折）**
 
-> 📌 当前暂无额外优惠码，官网所示价格即为实际支付金额（如后续开放新活动，将第一时间在官网公告与 Telegram 频道同步）
+> 💥 **年付及以上套餐：** 使用 `gptvpnhelper80` 享 8 折优惠（适用于 VIP1+、多年付套餐；青云·诀 ¥96/年福利款不参与）
+>
+> 🎁 **月付 / 季付等短周期套餐：** 使用 `gptvpnhelper85` 享 85 折（同样不含青云·诀福利款）
+>
+> ⚠️ **使用提示：**
+> - ❌ 青云·诀（¥96/年）为福利款，不参与任何专属优惠码
+> - ✅ 结算页输入对应优惠码即可折扣，可与站内活动叠加
+> - 📣 如遇提示不可用，可尝试切换套餐周期、刷新页面或咨询真人客服
 
 --- 
 
@@ -1165,7 +1174,7 @@
 | 机场 | 特点 | 价格 | 优惠 | 注册链接 |
 |------|------|------|------|---------|
 | 🌸 **百变小樱** | 免费试用 3 天 | ¥0 试用 | 95折码：`bbxy-5th` | [立即注册](#free) |
-| 🐝 **小蜜蜂** | 性价比最高 | ¥20/月起 | 长期85折：`xmfwww85` | [立即注册](#xiaomifeng) |
+| 🐝 **小蜜蜂** | 性价比最高 | ¥20/月起 | 专属8折：`TVX8JfZP` | [立即注册](#xiaomifeng) |
 | 💸 **贝贝云** | 最便宜 | ¥14.9/月 | 95折码：`beibei.cloud` | [立即注册](#bby) |
 
 #### 📋 注册步骤：
