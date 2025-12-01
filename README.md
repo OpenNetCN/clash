@@ -15,10 +15,10 @@
 
 | 机场 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
 | --- |---------|----------| --- | -------- | --- |
-| TNTCloud | 双11 8 折（30元季付小包除外） | 2025-11-30 | `Crazy1111` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
-| 小蜜蜂机场 | 双11 8 折（96元年付小包除外） | 2025-11-30 | `11118` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
-| 青云梯 | 双11 8 折（96元活动年付小包除外） | 2025-11-11 | `10180` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
-| 银河云 | 双11 8 折（98元年付小包除外） | 2025-11-30 | `1180` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
+| TNTCloud | 长期 85 折（30元季付小包除外） | 长期 | `TNT85` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
+| 小蜜蜂机场 | 长期 85 折（96元年付小包除外） | 长期 | `xmfwww85` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
+| 青云梯 | 暂无限时优惠 | — | — | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
+| 银河云 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
 | 百变小樱 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
 | 贝贝云 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
 | WgetCloud | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
@@ -425,34 +425,34 @@
 
 ### 🔥 主力推荐（适合 80% 用户）
 
-#### 1. [**TNTCloud**｜AI工具专用 · IPLC专线 · 双11限时8折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
+#### 1. [**TNTCloud**｜AI工具专用 · IPLC专线 · 长期85折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
 
 - ✅ IPLC专线，延迟<30ms，海外团队运营
 - ✅ ChatGPT/Claude/Gemini 原生IP 100%解锁
 - ✅ 流媒体全解锁，不限速不限设备
 
-> 🎉 **双11 8折码：**`Crazy1111`（即日起至 2025年11月30日 23:59）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
+> 🎉 **长期 85 折码：**`TNT85`（30元季付小包除外）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
 
 ---
 
-#### 2. [**小蜜蜂机场**｜性价比王者 · 年付¥8/月 · 双11 8折 / 长期85折](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)
+#### 2. [**小蜜蜂机场**｜性价比王者 · 年付¥8/月 · 长期85折](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)
 
 - ✅ 年付¥96（≈¥8/月）全IEPL专线，不限速不限设备
 - ✅ Netflix/Disney+/ChatGPT/TikTok 全解锁
 - ✅ 提供美区ID下载小火箭，新手友好
 
-> 🎁 **双11 8折码：**`11118`（¥96年付除外）｜ **长期 85 折码：**`xmfwww85`｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/xmf/)
+> 🎁 **长期 85 折码：**`xmfwww85`（¥96年付小包除外）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/xmf/)
 
 ---
 
 
-#### 3. [**青云梯**｜五年老牌 · 年付¥96/60G · 8折](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
+#### 3. [**青云梯**｜五年老牌 · 年付¥96/60G](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 
 - ✅ 2020年运营至今，企业级IPLC专线
 - ✅ 全平台解锁 + 海外团队7x24维护
 - ✅ 80+节点覆盖全球，真人客服在线
 
-> 🎁 **8折码：**`10180`（¥96年付除外，至11.11）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/qingyunti/)
+> 🎯 **温馨提示：** 当前暂无额外优惠码，直接按官网标价结算 ｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/qingyunti/)
 
 ---
 
@@ -510,7 +510,7 @@
 ### 1. <a href="https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营</a>
 
 **综合评分：9.3 / 10** 🏆 **AI工具首选**  
-**关键词标签**：IPLC专线 | Trojan协议 | 海外团队 | 不限速不限设备 | ChatGPT完美支持 | 原生IP | 双11限时8折 | 长期85折
+**关键词标签**：IPLC专线 | Trojan协议 | 海外团队 | 不限速不限设备 | ChatGPT完美支持 | 原生IP | 长期85折
 
 > **TNTCloud** 是一家成立于 2024 年的海外团队运营的专线级机场服务商，采用 Trojan 协议 + 全线 IPLC 专线通道（速度比IEPL更快），节点速度极快、晚高峰稳定性极高。**特别适合 AI 工具深度用户**（ChatGPT、Claude、Copilot、Midjourney 等），原生IP确保100%解锁，不受国内政策影响。同时也是流媒体重度用户、TikTok 运营者、跨境电商的绝佳选择。
 
@@ -589,17 +589,17 @@
     box-shadow:0 4px 14px rgba(0,0,0,0.25);
     transition:all 0.3s ease;
   " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🦦 立即注册 TNTCloud（IPLC专线·双11限时8折）</strong>
+    <strong>🦦 立即注册 TNTCloud（IPLC专线·长期85折）</strong>
   </a>
 </div>
 
-🎉 **双11限时 8 折 + 长期 85 折优惠**
+🎉 **长期 85 折优惠**
 
-> 💥 **双11专享 8 折码：** `Crazy1111`（即日起至 2025年11月30日 23:59）
+> 🎁 **优惠码：** `TNT85`
 >
-> 🎁 **长期 85 折码：** `TNT85`（常年有效）
+> 💰 **优惠力度：** 全场 85 折（30元季付限量包除外）
 >
-> ⚠️ **重要说明：** 30元季付限量包为福利款，任何优惠码均不参与折扣；其余套餐（月付、半年付、年付等）可在双11 活动期间使用 `Crazy1111` 享 8 折，活动结束后可继续使用 `TNT85` 享 85 折
+> ⚠️ **重要说明：** 福利款（30元季付限量包）不参与优惠；其余套餐（月付、季付、半年付、年付）均可使用 `TNT85`，结算页输入后自动折扣
 
 --- 
 
@@ -620,7 +620,7 @@
 ### 2. <a href="https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 小蜜蜂机场 — 性价比王者，全IEPL专线，年付低至8元/月</a>
 
 **综合评分：9.6 / 10** 🏆 **编辑首选推荐**  
-**关键词标签**：全IEPL专线 | 不限速不限设备 | 年付低至¥8/月 | 全平台解锁 | 美区ID赠送 | 双11限时8折 | 长期85折
+**关键词标签**：全IEPL专线 | 不限速不限设备 | 年付低至¥8/月 | 全平台解锁 | 美区ID赠送 | 长期85折
 
 > **小蜜蜂机场**是性价比最高的全IEPL专线机场之一，适合80%的用户。所有套餐不限速、不限设备，原生IP解锁全球流媒体（Netflix、Disney+、HBO等）和AI工具（ChatGPT、Copilot、Gemini），特色年付套餐低至¥8/月，还提供美区ID下载小火箭。无论是日常使用、流媒体追剧还是AI工具开发，都是不二之选。
 
@@ -682,31 +682,20 @@
     box-shadow:0 4px 14px rgba(0,0,0,0.2);
     transition:all 0.3s ease;
   " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🐝 立即注册小蜜蜂（年付低至8元/月+双11 8折/长期85折）</strong>
+    <strong>🐝 立即注册小蜜蜂（年付低至8元/月+长期85折）</strong>
   </a>
 </div>
-
-#### 🎁 双11 限时 8 折优惠码
-
-> 📋 **优惠码：** `11118`
->
-> 💰 **优惠力度：** 双十一期间全场 **8 折**
->
-> ⚠️ **重要说明：**
-> - ❌ **大黄蜂特惠年付版（¥96/年）为福利款，历史活动常见不参与优惠码折扣**（如页面提示不支持折扣属正常情况）
-> - ✅ 其他套餐默认为 8 折优惠，若遇到不支持可尝试切换套餐周期或联系官方客服确认活动
-> - 🔥 年付及多年套餐叠加优惠码后折上折，建议在双11 活动窗口优先入手
 
 #### 🎁 长期 85 折优惠码
 
 > 📋 **优惠码：** `xmfwww85`
 >
-> 💰 **优惠力度：** 全场 **85 折**（长期有效）
+> 💰 **优惠力度：** 全场 **85 折**（长期有效，¥96年付福利款除外）
 >
 > ⚠️ **使用建议：**
-> - ✅ 双11 活动结束后可继续享受折扣，也可在活动期作为补充方案
-> - 🔁 若 `11118` 对某套餐不可用，可立即切换 `xmfwww85`
-> - 💡 适合错峰入手或补购流量，长期保持省钱力度
+> - ❌ **大黄蜂特惠年付版（¥96/年）为福利款**，若页面提示不支持折扣属正常情况
+> - 🔁 若结算页提示不可用，可尝试切换套餐周期或联系客服确认
+> - 💡 长期入手或补购流量时都能享受折扣，年付/多年套餐叠加更省
 
 --- 
 
@@ -727,7 +716,7 @@
 ### 3. <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="color:#1a73e8;text-decoration:underline;">🌤 青云梯 — 五年实力老牌，性价比 IPLC 专线，年付¥8/月</a>
 
 **综合评分：9.4 / 10** 🔥 **性价比拉满的实力一线**  
-**关键词标签**：五年老牌 | 企业级IPLC专线 | 智能负载均衡 | 年付¥96 | 80+全球节点 | 8折优惠
+**关键词标签**：五年老牌 | 企业级IPLC专线 | 智能负载均衡 | 年付¥96 | 80+全球节点 | 真人客服
 
 > **青云梯** 成立于 2020 年 11 月，是一家专注性价比的实力派老牌机场。采用 **企业级 IPLC 专线 + 智能负载均衡技术**（根据用户本地网络自动分配最优入口和线路），全线 Shadowsocks 协议，三网优化。拥有覆盖全球 17+ 地区的 **80+ 专线节点**，全平台解锁 Netflix / Disney+ / ChatGPT / Gemini / TikTok。**年付套餐低至 ¥96/年（每月仅 ¥8）**，海外团队 7x24 专业运营，真人客服实时在线，新手友好。
 
@@ -797,24 +786,15 @@
     box-shadow:0 4px 14px rgba(0,0,0,0.25);
     transition:all 0.3s ease;
   " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🌤 立即注册青云梯（年付¥96/60G + 8折）</strong>
+    <strong>🌤 立即注册青云梯（年付¥96/60G）</strong>
   </a>
 </div>
 
-🎁 **双十一限时活动**
+🎯 **优惠信息说明**
 
-> 📋 **优惠码：** `10180`
->
-> 💰 **优惠力度：** 全场 **8 折**（20% OFF）
->
-> ⏱ **活动时间：** 即日起 ～ 2025年11月11日 23:59
->
-> ⚠️ **重要说明：**
-> - ❌ **青云·诀年付套餐（¥96/年）为福利款，不参与本次8折活动**（该套餐已是厂商最低价，无法再享优惠码折扣）
-> - ✅ VIP1/VIP2/VIP3 套餐均可使用优惠码享8折优惠
-> - 🔥 优惠码可与套餐活动叠加，享受折上折优惠
+> 📌 当前暂无额外优惠码，官网所示价格即为实际支付金额（如后续开放新活动，将第一时间在官网公告与 Telegram 频道同步）
 
----
+--- 
 
 >  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/qingyunti/)
 ---
@@ -884,9 +864,9 @@
 **银河云特别适合以下用户：**
 
 - 💰 **预算有限的长期用户**（⭐⭐⭐⭐⭐ 强烈推荐）
-    - 年付仅¥98（配合8折码实际¥78.4），每月不到10元
+    - 年付仅¥98（福利款默认不参与优惠码，依然是最划算的专线套餐）
     - 享受专线品质，比机场中转快10倍
-    - 长期稳定，适合囤年付套餐
+    - 长期稳定，可搭配 `gptvpnhelper80/85` 在其他套餐上折上折
 
 - 👨‍👩‍👧‍👦 **多设备家庭用户**
     - 不限设备数，全家共享无压力
@@ -919,13 +899,11 @@
     box-shadow:0 4px 14px rgba(0,0,0,0.25);
     transition:all 0.3s ease;
   " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🚀 立即注册银河云（年付¥98起+最高8折优惠）</strong>
+    <strong>🚀 立即注册银河云（年付¥98起+专属折扣码）</strong>
   </a>
 </div>
 
 🎁 **专属优惠码（分阶梯）**
-
-> 🧧 双11折扣｜优惠力度：8折｜截止：2025-11-30 23:59｜折扣码：`1180`
 
 > 📋 **优惠码（月付/季付/半年付）：** `gptvpnhelper85`
 >
@@ -1186,7 +1164,7 @@
 | 机场 | 特点 | 价格 | 优惠 | 注册链接 |
 |------|------|------|------|---------|
 | 🌸 **百变小樱** | 免费试用 3 天 | ¥0 试用 | 95折码：`bbxy-5th` | [立即注册](#free) |
-| 🐝 **小蜜蜂** | 性价比最高 | ¥20/月起 | 双11 8折：`11118` / 长期85折：`xmfwww85` | [立即注册](#xiaomifeng) |
+| 🐝 **小蜜蜂** | 性价比最高 | ¥20/月起 | 长期85折：`xmfwww85` | [立即注册](#xiaomifeng) |
 | 💸 **贝贝云** | 最便宜 | ¥14.9/月 | 95折码：`beibei.cloud` | [立即注册](#bby) |
 
 #### 📋 注册步骤：
@@ -1506,14 +1484,14 @@
 > ⚙️ 本模块只是作者的**简单连通性检查结果**（只检查订阅是否能正常拉取，不代表实时速度和解锁表现），方便快速了解各机场当前是否可正常使用,如有疑问可去机场官网联系客服
 
 <!-- daily-check start -->
-巡检日期：2025年12月1日 10:31:26
+巡检日期：2025年12月1日 18:01:39
 
 | 机场名称 | 状态 | 备注 |
 |---------|------|------|
-| 百变小樱 | 正常 | 订阅可访问，节点 44/49 在线 |
-| TNTCloud | 正常 | 订阅可访问，节点 50/55 在线 |
+| 百变小樱 | 正常 | 订阅可访问，节点 49/49 在线 |
+| TNTCloud | 正常 | 订阅可访问，节点 55/55 在线 |
 | 小蜜蜂机场 | 正常 | 订阅可访问，节点 44/44 在线 |
-| 青云梯 | 异常 | 网络错误：_ssl.c:983: The handshake operation timed out |
+| 青云梯 | 正常 | 订阅可访问，节点 73/78 在线 |
 | 银河云 | 正常 | 订阅可访问，节点 48/48 在线 |
 <!-- daily-check end -->
 
