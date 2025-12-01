@@ -1,6 +1,6 @@
 # 🚀 机场推荐｜科学上网 / 魔法上网 / 梯子实测（专注 AI 工具与流媒体）
 
-📅 **内容最后更新：2025年11月24日**
+📅 **内容最后更新：2025年12月01日**
 
 想长期稳定地使用 ChatGPT、Claude、GitHub Copilot 等 AI 工具，同时又希望 YouTube、Netflix、Disney+ 看剧不再卡成 PPT？  
 本项目聚焦 **机场推荐 + 科学上网/魔法上网/梯子实测**，特别为程序员、远程办公用户和流媒体重度用户筛选出更适合日常工作的稳定线路。
@@ -15,7 +15,7 @@
 
 | 机场 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
 | --- |---------|----------| --- | -------- | --- |
-| TNTCloud | 长期 85 折（30元季付小包除外） | 长期 | `TNT85` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
+| TNTCloud | 专属长期 8 折（30元季付小包除外） | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
 | 小蜜蜂机场 | 长期 85 折（96元年付小包除外） | 长期 | `xmfwww85` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
 | 青云梯 | 暂无限时优惠 | — | — | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
 | 银河云 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
@@ -425,13 +425,13 @@
 
 ### 🔥 主力推荐（适合 80% 用户）
 
-#### 1. [**TNTCloud**｜AI工具专用 · IPLC专线 · 长期85折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
+#### 1. [**TNTCloud**｜AI工具专用 · IPLC专线 · 专属长期8折](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
 
 - ✅ IPLC专线，延迟<30ms，海外团队运营
 - ✅ ChatGPT/Claude/Gemini 原生IP 100%解锁
 - ✅ 流媒体全解锁，不限速不限设备
 
-> 🎉 **长期 85 折码：**`TNT85`（30元季付小包除外）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
+> 🎉 **本站专属长期折扣：**`Tnt80`（8 折，不适用于 30 元季付小包）｜ [👉 完整测评](https://gptvpnhelper.com/airport-access/tntcloud/)
 
 ---
 
@@ -510,7 +510,7 @@
 ### 1. <a href="https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营</a>
 
 **综合评分：9.3 / 10** 🏆 **AI工具首选**  
-**关键词标签**：IPLC专线 | Trojan协议 | 海外团队 | 不限速不限设备 | ChatGPT完美支持 | 原生IP | 长期85折
+**关键词标签**：IPLC专线 | Trojan协议 | 海外团队 | 不限速不限设备 | ChatGPT完美支持 | 原生IP | 专属8折
 
 > **TNTCloud** 是一家成立于 2024 年的海外团队运营的专线级机场服务商，采用 Trojan 协议 + 全线 IPLC 专线通道（速度比IEPL更快），节点速度极快、晚高峰稳定性极高。**特别适合 AI 工具深度用户**（ChatGPT、Claude、Copilot、Midjourney 等），原生IP确保100%解锁，不受国内政策影响。同时也是流媒体重度用户、TikTok 运营者、跨境电商的绝佳选择。
 
@@ -589,17 +589,18 @@
     box-shadow:0 4px 14px rgba(0,0,0,0.25);
     transition:all 0.3s ease;
   " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🦦 立即注册 TNTCloud（IPLC专线·长期85折）</strong>
+    <strong>🦦 立即注册 TNTCloud（IPLC专线·专属8折）</strong>
   </a>
 </div>
 
-🎉 **长期 85 折优惠**
+🎉 **本站独家长期 8 折优惠**
 
-> 🎁 **优惠码：** `TNT85`
+> 💥 **专属优惠码：** `Tnt80`（长期有效，30 元季付限量包不参与）
 >
-> 💰 **优惠力度：** 全场 85 折（30元季付限量包除外）
->
-> ⚠️ **重要说明：** 福利款（30元季付限量包）不参与优惠；其余套餐（月付、季付、半年付、年付）均可使用 `TNT85`，结算页输入后自动折扣
+> ⚠️ **重要说明：**
+> - ❌ 30 元季付小包/福利款不支持任何优惠码（系统会直接提示不可用）
+> - ✅ 其他常规套餐（月付、季付、半年付、年付等）均可使用 `Tnt80` 获得 8 折
+> - 💡 结算页输入折扣码后自动生效，如提示不可用，可尝试更换套餐周期或联系官方客服
 
 --- 
 
