@@ -1,6 +1,6 @@
 # 🚀 机场推荐｜科学上网 / 魔法上网 / 梯子实测（专注 AI 工具与流媒体）
 
-📅 **内容最后更新：2025年12月06日**
+📅 **内容最后更新：2025年12月09日**
 
 想长期稳定地使用 ChatGPT、Claude、GitHub Copilot 等 AI 工具，同时又希望 YouTube、Netflix、Disney+ 看剧不再卡成 PPT？  
 本项目聚焦 **机场推荐 + 科学上网/魔法上网/梯子实测**，特别为程序员、远程办公用户和流媒体重度用户筛选出更适合日常工作的稳定线路。
@@ -13,15 +13,15 @@
 
 ## 🔝 快速注册入口
 
-| 机场 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
-| --- |---------|----------| --- | -------- | --- |
-| TNTCloud | 专属长期 8 折（30元季付小包除外） | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
-| 小蜜蜂机场 | 专属长期 8 折（¥96 年付小包除外） | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
-| 青云梯 | 年付及以上 8 折 / 其他 85 折 | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
-| 银河云 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
-| 百变小樱 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
-| 贝贝云 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
-| WgetCloud | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
+| 机场 | 核心优势 | 优惠力度                        | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
+| --- | --- |-----------------------------|----------| --- | -------- | --- |
+| TNTCloud | 全 IPLC 专线 + 原生 IP，AI 解锁顶级 | 专属长期 8 折（30元季付小包除外）         | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
+| 小蜜蜂机场 | 全 IEPL 性价比王，AI/流媒体全解锁 | 专属长期 8 折（¥96 年付小包除外）        | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
+| 青云梯 | 六年老牌， 智能分流稳定 | 年付及以上 8 折 / 其他 85 折（¥96年付小包除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
+| 银河云 | ¥98 年付专线，预算党首选主力 | 长期 8 折 / 85 折（¥98 福利年付除外）   | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
+| 百变小樱 | 3 天免费试用，新手应急必备 | 3 天免费 + 95 折                | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
+| 贝贝云 | 月付 ¥14.9 低门槛，日常稳连 | 95 折（新手福利）                  | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
+| WgetCloud | 企业级 99.9% 在线率，重度/团队优选 | 新用户 85 折                    | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
 
 \* 以官方公告为准，如活动调整请以官网提示为准。
 
@@ -460,9 +460,9 @@
 ---
 
 
-#### 3. [**青云梯**｜五年老牌 · 年付¥96/60G](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
+#### 3. [**青云梯**｜六年老牌 · 年付¥96/60G](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 
-- ✅ 2020年运营至今，企业级IPLC专线
+- ✅ 2020年运营至今（6年），企业级IPLC专线
 - ✅ 全平台解锁 + 海外团队7x24维护
 - ✅ 80+节点覆盖全球，真人客服在线
 
@@ -738,14 +738,14 @@
 ---
 
 <a id="qingyunti"></a>
-### 3. <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="color:#1a73e8;text-decoration:underline;">🌤 青云梯 — 五年实力老牌，性价比 IPLC 专线，年付¥8/月</a>
+### 3. <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="color:#1a73e8;text-decoration:underline;">🌤 青云梯 — 六年实力老牌，性价比 IPLC 专线，年付¥8/月</a>
 
 **综合评分：9.4 / 10** 🔥 **性价比拉满的实力一线**  
-**关键词标签**：五年老牌 | 企业级IPLC专线 | 智能负载均衡 | 年付¥96 | 80+全球节点 | 真人客服
+**关键词标签**：六年老牌 | 企业级IPLC专线 | 智能负载均衡 | 年付¥96 | 80+全球节点 | 真人客服
 
 **适合人群：** 希望长期稳定、又想把月均成本压到个位数的用户，以及需要多设备共享、全年无脑续费的家庭 / 团队。  
 **不适合：** 完全不愿意年付、只想短期试水且对长期稳定性要求不高的用户。  
-**核心优势：** 五年老牌 + 企业级 IPLC 专线 + 智能负载均衡，年付 ¥96 起即享专线体验，新手也能无脑使用。  
+**核心优势：** 六年老牌 + 企业级 IPLC 专线 + 智能负载均衡，年付 ¥96 起即享专线体验，新手也能无脑使用。  
 👉 想直接上车： [立即注册青云梯（年付 ¥96 / 60G）](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 
 > **青云梯** 成立于 2020 年 11 月，是一家专注性价比的实力派老牌机场。采用 **企业级 IPLC 专线 + 智能负载均衡技术**（根据用户本地网络自动分配最优入口和线路），全线 Shadowsocks 协议，三网优化。拥有覆盖全球 17+ 地区的 **80+ 专线节点**，全平台解锁 Netflix / Disney+ / ChatGPT / Gemini / TikTok。**年付套餐低至 ¥96/年（每月仅 ¥8）**，海外团队 7x24 专业运营，真人客服实时在线，新手友好。
@@ -754,7 +754,7 @@
 
 | **评测维度**     | **详情说明**                                                                      |
 |------------------|-----------------------------------------------------------------------------------|
-| **开业时间**     | 2020.11.1（稳定运营 5 年+，实力老牌）                                             |
+| **开业时间**     | 2020.11.1（稳定运营 6 年+，实力老牌）                                             |
 | **协议支持**     | Shadowsocks（SS）                                                                  |
 | **接入方式**     | 企业级 IPLC 专线，三网优化，智能负载均衡（自动分配最优线路）                        |
 | **节点覆盖**     | 80+ 全专线节点，覆盖香港、台湾、日本、新加坡、马来西亚、美国、韩国、泰国、印尼、菲律宾、越南、英国、德国、法国、土耳其、巴西、阿根廷等 17+ 地区 |
@@ -1543,7 +1543,7 @@
 > 💡 如果你看到**所有机场都显示异常**，通常是检测脚本所在网络/运营商出现 DNS 或连通性问题，不代表这些机场已经全部失效，请以机场官网公告和客户端实际使用情况为准。
 
 <!-- daily-check start -->
-巡检日期：2025年12月9日 10:30:42
+巡检日期：2025年12月9日 11:08:00
 
 | 机场名称 | 状态 | 备注 |
 |---------|------|------|
