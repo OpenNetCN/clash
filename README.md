@@ -1600,13 +1600,13 @@
 > 💡 如果你看到**所有机场都显示异常**，通常是检测脚本所在网络/运营商出现 DNS 或连通性问题，不代表这些机场已经全部失效，请以机场官网公告和客户端实际使用情况为准。
 
 <!-- daily-check start -->
-巡检日期：2026年1月16日 10:35:35
+巡检日期：2026年1月16日 12:22:24
 
 | 机场名称 | 状态 | 备注 |
 |---------|------|------|
-| 百变小樱 | 异常 | 网络错误：[Errno 54] Connection reset by peer |
-| TNTCloud | 异常 | 网络错误：[Errno 54] Connection reset by peer |
-| 小蜜蜂机场 | 异常 | 网络错误：[Errno 54] Connection reset by peer |
+| 百变小樱 | 正常 | 订阅可访问，节点 50/50 在线 |
+| TNTCloud | 正常 | 订阅可访问，节点 55/55 在线 |
+| 小蜜蜂机场 | 正常 | 订阅可访问，节点 44/44 在线 |
 | 青云梯 | 异常 | 网络错误：[Errno 54] Connection reset by peer |
 | 银河云 | 异常 | 网络错误：[Errno 54] Connection reset by peer |
 <!-- daily-check end -->
