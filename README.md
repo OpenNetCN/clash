@@ -1,6 +1,6 @@
 # 🚀 机场推荐｜科学上网 / 魔法上网 / 梯子实测（专注 AI 工具与流媒体）
 
-📅 **内容最后更新：2026年01月21日**
+📅 **内容最后更新：2026年01月19日**
 
 想长期稳定地使用 ChatGPT、Claude、GitHub Copilot 等 AI 工具，同时又希望 YouTube、Netflix、Disney+ 看剧不再卡成 PPT？  
 本项目聚焦 **机场推荐 + 科学上网/魔法上网/梯子实测**，特别为程序员、远程办公用户和流媒体重度用户筛选出更适合日常工作的稳定线路。
@@ -31,7 +31,7 @@
 | 青云梯 | 六年老牌， 智能分流稳定              | 年付及以上 8 折 / 其他 85 折（¥96年付小包除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
 | 银河云 | Trojan专线，预算党首选主力          | 长期 8 折 / 85 折（¥98 福利年付除外）   | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
 | 百变小樱 | 3 天免费试用，新手应急必备            | 3 天免费 + 95 折                | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
-| 贝贝云 | 低门槛入门，日常稳连                | 95 折（新手福利）                  | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://888.2beibei.com/register?code=Oa86Fbs3) |
+| 贝贝云 | 低门槛入门，日常稳连                | 95 折（新手福利）                  | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
 | WgetCloud | 企业级 99.99% 在线率，重度/团队优选    | 新用户 85 折                    | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
 
 \* 以官方公告为准，如活动调整请以官网提示为准。
@@ -461,7 +461,7 @@
 - 💎 99.9%在线率，自建面板，适合重度办公/游戏党
 - [👉 详细测评](https://gptvpnhelper.com/airport-access/wgetcloud/)
 
-#### [**贝贝云**｜新手入门 · ¥19.9/月起 · 95折](https://888.2beibei.com/register?code=Oa86Fbs3)
+#### [**贝贝云**｜新手入门 · ¥19.9/月起 · 95折](https://beibeilink.top/register?code=Oa86Fbs3)
 - 💸 低门槛入门之选，网页浏览/AI工具无压力
 - 🎁 **95折码：**`beibei.cloud` ｜ [👉 详细测评](https://gptvpnhelper.com/airport-access/bby/)
 
@@ -1074,7 +1074,7 @@
 ---
 
 <a id="bby"></a>
-### 6. <a href="https://888.2beibei.com/register?code=Oa86Fbs3" target="_blank" style="color:#1a73e8;text-decoration:underline;">💸 贝贝云 — 低价入门之选，月付¥19.9起，江苏入口</a>
+### 6. <a href="https://beibeilink.top/register?code=Oa86Fbs3" target="_blank" style="color:#1a73e8;text-decoration:underline;">💸 贝贝云 — 低价入门之选，月付¥19.9起，江苏入口</a>
 
 **综合评分：8.4 / 10**  
 **推荐标签**：入门首选  
@@ -1083,7 +1083,7 @@
 **适合人群：** 预算有限、主要用来日常浏览网站、查资料、轻度使用 ChatGPT / YouTube / Netflix 的新手和轻度用户。  
 **不适合：** 对晚高峰速度、长时间高并发下载或极致低延迟有刚性要求的重度用户。  
 **核心优势：** 月付 ¥19.9 起、入口在江苏隧道中转，性价比高、上手门槛低，非常适合作为「入门 / 备用」梯子。  
-👉 想直接上车： [立即注册贝贝云（月付 ¥19.9 起 · 95 折优惠码）](https://888.2beibei.com/register?code=Oa86Fbs3)
+👉 想直接上车： [立即注册贝贝云（月付 ¥19.9 起 · 95 折优惠码）](https://beibeilink.top/register?code=Oa86Fbs3)
 
 > 贝贝云是一款入门友好的高性价比机场，主打“低门槛 + 可用性稳定”，适合轻度使用者和日常访问 ChatGPT、YouTube、Netflix 等常规场景。官方 TG 群活跃，响应及时，适合新手入坑。
 
@@ -1127,7 +1127,7 @@
 - 日常 ChatGPT / Netflix / 邮箱收发等轻度应用者
 
 <div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://888.2beibei.com/register?code=Oa86Fbs3" target="_blank" style="
+  <a href="https://beibeilink.top/register?code=Oa86Fbs3" target="_blank" style="
     display:inline-block;
     background:linear-gradient(90deg,#00b09b,#96c93d);
     color:#fff;
@@ -1610,14 +1610,14 @@
 > 💡 如果你看到**所有机场都显示异常**，通常是检测脚本所在网络/运营商出现 DNS 或连通性问题，不代表这些机场已经全部失效，请以机场官网公告和客户端实际使用情况为准。
 
 <!-- daily-check start -->
-巡检日期：2026年1月21日 18:00:18
+巡检日期：2026年1月21日 10:08:09
 
 | 机场名称 | 状态 | 备注 |
 |---------|------|------|
-| 百变小樱 | 正常 | 订阅可访问，节点 50/50 在线 |
+| 百变小樱 | 正常 | 订阅可访问，节点 43/50 在线 |
 | TNTCloud | 正常 | 订阅可访问，节点 55/55 在线 |
 | 小蜜蜂机场 | 正常 | 订阅可访问，节点 44/44 在线 |
-| 青云梯 | 正常 | 订阅可访问，节点 76/78 在线 |
+| 青云梯 | 正常 | 订阅可访问，节点 78/78 在线 |
 | 银河云 | 正常 | 订阅可访问，节点 48/48 在线 |
 <!-- daily-check end -->
 
