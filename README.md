@@ -32,7 +32,7 @@
 | 银河云 | Trojan专线，预算党首选主力          | 长期 8 折 / 85 折（¥98 福利年付除外）   | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
 | 百变小樱 | 3 天免费试用，新手应急必备            | 3 天免费 + 95 折                | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
 | 贝贝云 | 低门槛入门，日常稳连                | 95 折（新手福利）                  | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://888.2beibei.com/register?code=Oa86Fbs3) |
-| WgetCloud | 企业级 99.99% 在线率，重度/团队优选    | 新用户 85 折                    | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
+| WgetCloud | 企业级 99.99% 在线率，重度/团队优选    | 新用户 85 折                    | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
 
 \* 以官方公告为准，如活动调整请以官网提示为准。
 
@@ -457,7 +457,7 @@
 
 ### 🚀 高端 & 入门推荐
 
-#### [**WgetCloud**｜企业级稳定 · 新用户85折](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS)
+#### [**WgetCloud**｜企业级稳定 · 新用户85折](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh)
 - 💎 99.9%在线率，自建面板，适合重度办公/游戏党
 - [👉 详细测评](https://gptvpnhelper.com/airport-access/wgetcloud/)
 
@@ -963,7 +963,7 @@
 ---
 
 <a id="wgetcloud"></a>
-### 5. <a href="https://invite.wgetcloud.ltd/auth/register?code=xEgJKS" target="_blank" style="color:#1a73e8;text-decoration:underline;">💎 WgetCloud — 高端旗舰，企业级稳定，重度用户之选</a>
+### 5. <a href="https://invite.wgetcloud.ltd/auth/register?code=kVJQPh" target="_blank" style="color:#1a73e8;text-decoration:underline;">💎 WgetCloud — 高端旗舰，企业级稳定，重度用户之选</a>
 
 **综合评分：9.5 / 10**  
 **推荐标签**：企业级稳定  
@@ -972,7 +972,7 @@
 **适合人群：** 对稳定性和在线率有刚性要求的企业用户、远程团队、专业内容创作者，以及愿意为「更少故障、更好售后」付费的重度用户。  
 **不适合：** 月预算 < ¥50、主要只是日常浏览和轻度 AI / 流媒体的用户（这类选择小蜜蜂 / 银河云性价比更高）。  
 **核心优势：** 99.9% 在线率 + 自研控制面板 + 广州 BGP 接入 + IEPL 专线传输，为高价值工作场景提供更接近企业级的网络体验。  
-👉 想直接上车： [立即注册 WgetCloud（新用户 85 折）](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS)
+👉 想直接上车： [立即注册 WgetCloud（新用户 85 折）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh)
 
 > **WgetCloud**（原名GaCloud）是一家成立于2021年的高端全球加速服务提供商，聚焦"稳定、速度、安全"三位一体的企业级体验。采用多线BGP中转和双程CN2优质线路，在香港设有自建机房，确保高峰期稳定连接。适合对服务质量有严苛要求的重度用户、团队办公和内容创作者。
 
@@ -1036,7 +1036,7 @@
 📌 **一句话总结**：企业级旗舰，价格较高但稳定性极佳，适合追求 99.9% 在线率的高端用户。
 
 <div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://invite.wgetcloud.ltd/auth/register?code=xEgJKS" target="_blank" style="
+  <a href="https://invite.wgetcloud.ltd/auth/register?code=kVJQPh" target="_blank" style="
     display:inline-block;
     background:linear-gradient(90deg,#ff416c,#ff4b2b);
     color:#fff;
