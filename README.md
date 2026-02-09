@@ -30,15 +30,15 @@
 
 ## 🔝 快速注册入口
 
-| 机场 | 适合人群 | 核心优势 | AI/流媒体 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
+| 机场 | 适合人群 | 核心优势                      | AI/流媒体 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
 | --- | --- |---------------------------|----------|-----------------------------|----------| --- | -------- | --- |
 | TNTCloud | AI 工具重度 | 全 IPLC 专线 + 原生 IP，AI 解锁顶级 | AI 强 / 流媒体强 | 专属长期 8 折（30元季付小包除外） | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
-| 小蜜蜂机场 | 主力性价比 | 全 IEPL 性价比王，AI/流媒体全解锁 | 全解锁 | 专属长期 8 折（¥96 年付小包除外） | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://inva.xmfaff.cc/register?aff=oClLBb5A) |
-| 青云梯 | 年付省心/家庭 | 六年老牌， 智能分流稳定 | 全解锁 | 年付及以上 8 折 / 其他 85 折（¥96年付小包除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
-| 银河云 | 预算主力/备用 | Trojan专线，预算党首选主力 | 全解锁 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
-| 百变小樱 | 应急/试用 | 3 天免费试用，新手应急必备 | 全解锁（试用） | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
-| 贝贝云 | 新手/低价备用 | 低门槛入门，日常稳连 | 部分解锁 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://888.2beibei.com/register?code=Oa86Fbs3) |
-| WgetCloud | 团队/重度稳定 | 企业级 99.99% 在线率，重度/团队优选 | 全解锁 | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
+| 小蜜蜂机场 | 主力性价比 | 全 IEPL 性价比王，AI/流媒体全解锁     | 全解锁 | 专属长期 8 折（¥96 年付小包除外） | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://inva.xmfaff.cc/register?aff=oClLBb5A) |
+| 青云梯 | 年付省心/家庭 | 六年老牌， 智能分流稳定              | 全解锁 | 年付及以上 8 折 / 其他 85 折（¥96年付小包除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
+| 银河云 | 预算主力/备用 | Trojan专线，预算党首选主力          | 全解锁 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
+| 百变小樱 | 应急/试用 | 3 天免费试用，新手应急必备            | 全解锁（试用） | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
+| 贝贝云 | 新手/低价备用 | 低门槛入门，日常稳连                | 部分解锁 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://888.2beibei.com/register?code=Oa86Fbs3) |
+| WgetCloud | 团队/重度稳定 | 测试过很多机场,这个是最稳定的,对稳定性要求高首选 | 全解锁 | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
 
 \* 以官方公告为准，如活动调整请以官网提示为准。
 
