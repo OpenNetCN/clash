@@ -1,6 +1,6 @@
 # 🚀 机场推荐｜科学上网 / 魔法上网 / 梯子实测（专注 AI 工具与流媒体）
 
-📅 **内容最后更新：2026年02月04日**
+📅 **内容最后更新：2026年02月23日**
 
 想长期稳定地使用 ChatGPT、Claude、GitHub Copilot 等 AI 工具，同时又希望 YouTube、Netflix、Disney+ 看剧不再卡成 PPT？  
 本项目聚焦 **机场推荐 + 科学上网/魔法上网/梯子实测**，特别为程序员、远程办公用户和流媒体重度用户筛选出更适合日常工作的稳定线路。
@@ -112,7 +112,7 @@
 
 > ⚠️ **网络环境特别说明（省墙）**  
 > 近期部分地区出现明显“省墙”现象，如果你遇到“所有节点都不可用”，除了机场本身问题，还可能是本地网络/运营商限制（如湖北域名解析 `127.0.0.1`、福建屏蔽境外 IP、江苏跳转反诈、新疆屏蔽国内中转）。  
-> 本文推荐的机场均为作者长期自费实测、在绝大多数地区可正常使用(XinJ省基本所有机场都不能使用)；如你所在省份受省墙影响，建议先重新导入并更新订阅链接，如仍无法使用，尽快联系机场客服说明所在省份与运营商，申请更换入口或应急线路。
+> 本文推荐的机场均为作者长期自费实测、在绝大多数地区可正常使用；如你所在地区受“省墙/运营商策略”影响，建议先重新导入并更新订阅链接，如仍无法使用，尽快联系机场客服说明所在地区与运营商，申请更换入口或应急线路。
 
 ---
 
@@ -176,7 +176,7 @@
 7. [购买建议与风险提醒（如何防跑路/规避封锁）](#risk)
 8. [免责声明](#免责声明)
 
-### 关于机场和VPN
+### 🧩 关于机场和 VPN
 9. [机场 vs VPN：哪个好用？适合谁？](#vs)
 
 ### 📖 更多阅读
@@ -510,10 +510,20 @@
 - **以结算页最终价格为准**，如遇活动叠加以官方说明为准
 
 <a id="tnt"></a>
-### 1. <a href="https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营</a>
+### 1. 🔥 TNTCloud — AI工具专用，IPLC专线，海外团队运营
 
 **综合评分：9.3 / 10** 🏆 **AI工具首选**  
 **关键词标签**：IPLC专线 | Trojan协议 | 海外团队 | 不限速不限设备 | ChatGPT完美支持 | 原生IP | 专属8折
+
+> ✅ **3 行结论（先看这个再往下）**  
+> - **适合谁：** ChatGPT / Claude / Copilot / Gemini 深度用户、远程办公/开发主力、对晚高峰稳定性要求高的人  
+> - **不适合：** 只想“偶尔翻一下墙”、预算极低的超轻度用户  
+> - **怎么买：** 轻度优先 **VIP1（110GB）**；主力优先 **VIP2（220GB）**；多设备/重度优先 **VIP3（440GB）**｜[立即注册 TNTCloud（IPLC 专线 · 专属 8 折）](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
+>
+> 🧾 **优惠码怎么用（30 秒）**  
+> 1）点上面的注册链接 → 选套餐/周期 → 进入结算页  
+> 2）在「优惠码/折扣码」输入 `Tnt80`  
+> 3）确认折扣后再支付（如提示不可用，多半是 30 元季付小包/福利款不参与）
 
 #### ✅ 适合人群 / 不适合 / 核心优势
 
@@ -529,7 +539,7 @@
 #### ✅ 核心信息一览
 
 | **评测维度**     | **详情说明**                                                                 |
-  |------------------|------------------------------------------------------------------------------|
+|------------------|------------------------------------------------------------------------------|
 | **上线时间**     | 2024 年                                                                       |
 | **协议支持**     | Trojan（支持 Clash、Clash Meta、Singbox、Shadowrocket 等客户端）            |
 | **接入方式**     | IPLC 全专线传输，不限速、不限倍率                                             |
@@ -607,20 +617,27 @@
 
 ---
 
-<details>
-<summary><strong>👇 点击展开测速图｜TNTCloud（2026-01-18 实测）</strong></summary>
+**📷 测速图｜TNTCloud（2026-01-18 实测）**
 
 <img src="https://img.petnooko.com/2026/01/5e4f9e11b7e226cc9d679b0e7fbbd882.webp" alt="TNTCloud 机场测速图" loading="lazy" />
-
-</details>
 
 ---
 
 <a id="xiaomifeng"></a>
-### 2. <a href="https://inva.xmfaff.cc/register?aff=oClLBb5A" target="_blank" style="color:#1a73e8;text-decoration:underline;">🔥 小蜜蜂机场 — 性价比王者，全IEPL专线，年付低至8元/月</a>
+### 2. 🔥 小蜜蜂机场 — 性价比王者，全IEPL专线，年付低至8元/月
 
 **综合评分：9.6 / 10** 🏆 **编辑首选推荐**  
 **关键词标签**：全IEPL专线 | 不限速不限设备 | 年付低至¥8/月 | 全平台解锁 | 美区ID赠送 | 专属8折
+
+> ✅ **3 行结论（先看这个再往下）**  
+> - **适合谁：** 想要“买一条当主力就行”的大多数用户（AI + 流媒体都要、预算中等、设备多）  
+> - **不适合：** 只想短期体验最低价、完全不确定是否长期用的人  
+> - **怎么买：** 轻度可选 **¥96 年付福利款**（通常不参与优惠码）；主力优先 **工蜂极速版（240GB/月）**；重度优先 **蜂王尊享版（500GB/月）**｜[立即注册小蜜蜂（年付低至 8 元/月 · 专属 8 折）](https://inva.xmfaff.cc/register?aff=oClLBb5A)
+>
+> 🧾 **优惠码怎么用（30 秒）**  
+> 1）点上面的注册链接 → 选套餐/周期 → 进入结算页  
+> 2）输入优惠码 `TVX8JfZP`  
+> 3）确认折扣后再支付（如提示不可用，通常是你选了 ¥96 年付福利款/特价包）
 
 #### ✅ 适合人群 / 不适合 / 核心优势
 
@@ -681,22 +698,7 @@
 
 📌 **一句话总结**：性价比王者，全IEPL专线，年付低至8元/月，适合80%用户的主力机场。
 
-<div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://inva.xmfaff.cc/register?aff=oClLBb5A" target="_blank" style="
-    display:inline-block;
-    background:linear-gradient(90deg,#00c9ff,#92fe9d);
-    color:#000;
-    font-weight:600;
-    font-size:16px;
-    padding:12px 24px;
-    border-radius:8px;
-    text-decoration:none;
-    box-shadow:0 4px 14px rgba(0,0,0,0.2);
-    transition:all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🐝 立即注册小蜜蜂（年付低至8元/月+专属8折）</strong>
-  </a>
-</div>
+> 👉 **立即注册：** [小蜜蜂（年付低至 8 元/月 + 专属 8 折）](https://inva.xmfaff.cc/register?aff=oClLBb5A)
 
 #### 🎁 专属长期 8 折优惠码
 
@@ -715,20 +717,27 @@
 
 ---
 
-<details>
-<summary><strong>👇 点击展开测速图｜小蜜蜂（2026-01-18 实测）</strong></summary>
+**📷 测速图｜小蜜蜂（2026-01-18 实测）**
 
 <img src="https://img.petnooko.com/2026/01/a6cc5405261f7565d2e34b5f0ce2c506.webp" alt="小蜜蜂机场测速图" loading="lazy" />
-
-</details>
 
 ---
 
 <a id="qingyunti"></a>
-### 3. <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="color:#1a73e8;text-decoration:underline;">🌤 青云梯 — 六年实力老牌，性价比 IPLC 专线，年付¥8/月</a>
+### 3. 🌤 青云梯 — 六年实力老牌，性价比 IPLC 专线，年付¥8/月
 
 **综合评分：9.4 / 10** 🔥 **性价比拉满的实力一线**  
 **关键词标签**：六年老牌 | 企业级IPLC专线 | 智能负载均衡 | 年付¥96 | 80+全球节点 | 真人客服
+
+> ✅ **3 行结论（先看这个再往下）**  
+> - **适合谁：** 想长期稳定、省心年付、多设备全家用；同时希望 AI/流媒体都能用的人  
+> - **不适合：** 完全不愿意年付、只想短期试水的用户  
+> - **怎么买：** 轻度/备用优先 **青云·诀（¥96/年）**（福利款通常不参与优惠码）；中度主力优先 **VIP1（150GB/月）**；多设备/重度优先 **VIP2（300GB/月）**｜[立即注册青云梯（年付 ¥96 / 60G）](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
+>
+> 🧾 **优惠码怎么用（30 秒）**  
+> 1）点上面的注册链接 → 选套餐/周期 → 进入结算页  
+> 2）**年付及以上**输入 `gptvpnhelper80`（8 折）；**月付/季付/半年付**输入 `gptvpnhelper85`（85 折）  
+> 3）确认折扣后再支付（如提示不可用，通常是你选了青云·诀福利款）
 
 #### ✅ 适合人群 / 不适合 / 核心优势
 
@@ -797,22 +806,7 @@
 - ✅ **跨境办公人群** - 企业级 IPLC 专线，稳定可靠
 - ✅ **新手入门** - 真人客服在线指导，支持主流客户端
 
-<div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY" target="_blank" style="
-    display:inline-block;
-    background:linear-gradient(90deg,#00bcd4,#2196f3);
-    color:#fff;
-    font-weight:600;
-    font-size:16px;
-    padding:12px 24px;
-    border-radius:8px;
-    text-decoration:none;
-    box-shadow:0 4px 14px rgba(0,0,0,0.25);
-    transition:all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🌤 立即注册青云梯（年付¥96/60G）</strong>
-  </a>
-</div>
+> 👉 **立即注册：** [青云梯（年付¥96/60G）](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 
 🎯 **专属长期折扣（8 折 / 85 折）**
 
@@ -830,21 +824,28 @@
 >  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/qingyunti/)
 ---
 
-<details>
-<summary><strong>👇 点击展开测速图｜青云梯</strong></summary>
+**📷 测速图｜青云梯**
 
 <img src="./assets/qingyunti.webp" alt="青云梯机场测速图" loading="lazy" />
-
-</details>
 
 ---
 
 <a id="yhy"></a>
 <a id="yinheyun"></a>
-### 4. <a href="https://inv03.galaxyaff.cc/register?aff=tcOd0ob7" target="_blank" style="color:#1a73e8;text-decoration:underline;">🌌 银河云 Galaxy — 年付爆款¥98，Trojan专线，节点丰富</a>
+### 4. 🌌 银河云 Galaxy — 年付爆款¥98，Trojan专线，节点丰富
 
 **综合评分：9 / 10** 💰 **年付性价比之王**  
 **关键词标签**：Trojan协议 | IEPL专线 | 年付¥98起 | 不限速不限设备 | 支持退款 | 全球节点 | 最高8折优惠
+
+> ✅ **3 行结论（先看这个再往下）**  
+> - **适合谁：** 预算优先、想要“年付一条够用”的长期用户；也适合做主力 + 备用的低成本组合  
+> - **不适合：** 对线路极致苛刻、需要企业级 SLA 的顶级刚需用户（更适合 WgetCloud）  
+> - **怎么买：** 极低预算长期可选 **年付轻量包（¥98/年）**（福利款通常不参与优惠码）；中度主力优先 **行星套餐（200GB/月）**；重度优先 **恒星套餐（400GB/月）**｜[立即注册银河云（年付 ¥98 起 · 专属折扣码）](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7)
+>
+> 🧾 **优惠码怎么用（30 秒）**  
+> 1）点上面的注册链接 → 选套餐/周期 → 进入结算页  
+> 2）**月付/季付/半年付**输入 `gptvpnhelper85`（85 折）；**年付及以上**输入 `gptvpnhelper80`（8 折）  
+> 3）确认折扣后再支付（如提示不可用，通常是你选了 ¥98 年付轻量包福利款）
 
 #### ✅ 适合人群 / 不适合 / 核心优势
 
@@ -928,22 +929,7 @@
 
 📌 **为什么选银河云年付？** 年付¥98就能享受全IEPL专线，相当于每天只需0.27元，比一杯奶茶还便宜，却能全年稳定访问全球网络。
 
-<div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://inv03.galaxyaff.cc/register?aff=tcOd0ob7" target="_blank" style="
-    display:inline-block;
-    background:linear-gradient(90deg,#0f2027,#2c5364);
-    color:#fff;
-    font-weight:600;
-    font-size:16px;
-    padding:12px 24px;
-    border-radius:8px;
-    text-decoration:none;
-    box-shadow:0 4px 14px rgba(0,0,0,0.25);
-    transition:all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>🚀 立即注册银河云（年付¥98起+专属折扣码）</strong>
-  </a>
-</div>
+> 👉 **立即注册：** [银河云（年付¥98起 + 专属折扣码）](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7)
 
 🎁 **专属优惠码（分阶梯）**
 
@@ -968,21 +954,28 @@
 
 >  👉 [Galaxy 银河云 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/yinheyun/)
 
-<details>
-<summary><strong>👇 点击展开测速图｜银河云（2026-01-18 实测）</strong></summary>
+**📷 测速图｜银河云（2026-01-18 实测）**
 
 <img src="https://img.petnooko.com/2026/01/9890c60caa8e3fb3fd16659dd7983c88.webp" alt="银河云机场测速图" loading="lazy" />
-
-</details>
 
 ---
 
 <a id="wgetcloud"></a>
-### 5. <a href="https://invite.wgetcloud.ltd/auth/register?code=kVJQPh" target="_blank" style="color:#1a73e8;text-decoration:underline;">💎 WgetCloud — 高端旗舰，企业级稳定，重度用户之选</a>
+### 5. 💎 WgetCloud — 高端旗舰，企业级稳定，重度用户之选
 
 **综合评分：9.5 / 10**  
 **推荐标签**：企业级稳定  
 **关键词标签**：广州IEPL专线 | 自研控制面板 | 99.9%在线率 | 多线路动态分组 | 邮件流量提醒
+
+> ✅ **3 行结论（先看这个再往下）**  
+> - **适合谁：** 团队/办公/内容创作等“稳定性第一”的重度场景用户  
+> - **不适合：** 月预算 < ¥50、只是日常浏览 + 轻度 AI/流媒体的用户（性价比更推荐小蜜蜂/银河云）  
+> - **怎么买：** 先用 **基础组 B（月付）** 跑 1 个月验证稳定性；重度上传/会议/协作再考虑 **优质组 C** 或更高｜[立即注册 WgetCloud（新用户 85 折）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh)
+>
+> 🧾 **折扣怎么用（30 秒）**  
+> 1）点上面的注册链接 → 选套餐/周期 → 进入结算页  
+> 2）新用户一般会自动显示 **85 折**（无需输入优惠码）  
+> 3）确认结算价后再支付（如未显示折扣，刷新页面或联系官方客服）
 
 #### ✅ 适合人群 / 不适合 / 核心优势
 
@@ -1052,22 +1045,7 @@
 
 📌 **一句话总结**：企业级旗舰，价格较高但稳定性极佳，适合追求 99.9% 在线率的高端用户。
 
-<div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://invite.wgetcloud.ltd/auth/register?code=kVJQPh" target="_blank" style="
-    display:inline-block;
-    background:linear-gradient(90deg,#ff416c,#ff4b2b);
-    color:#fff;
-    font-weight:600;
-    font-size:16px;
-    padding:12px 24px;
-    border-radius:8px;
-    text-decoration:none;
-    box-shadow:0 4px 14px rgba(0,0,0,0.25);
-    transition:all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>💎 点击进入 WgetCloud 官网，立享 85 折限时优惠</strong>
-  </a>
-</div>
+> 👉 **立即注册：** [WgetCloud（新用户自动 85 折）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh)
 
 #### 💡 新用户优惠
 
@@ -1081,21 +1059,28 @@
 
 ---
 
-<details>
-<summary><strong>👇 点击展开测速图｜WgetCloud（2026-01-18 实测）</strong></summary>
+**📷 测速图｜WgetCloud（2026-01-18 实测）**
 
 <img src="https://img.petnooko.com/2026/01/e6ba0d2b15b2144394d14fd4b1d8d410.webp" alt="WgetCloud 机场测速图" loading="lazy" />
-
-</details>
 
 ---
 
 <a id="bby"></a>
-### 6. <a href="https://888.2beibei.com/register?code=Oa86Fbs3" target="_blank" style="color:#1a73e8;text-decoration:underline;">💸 贝贝云 — 低价入门之选，月付¥19.9起，江苏入口</a>
+### 6. 💸 贝贝云 — 低价入门之选，月付¥19.9起，江苏入口
 
 **综合评分：8.4 / 10**  
 **推荐标签**：入门首选  
 **关键词标签**：月付低至 ¥19.9｜江苏隧道接入｜Telegram 社群活跃｜95 折优惠码
+
+> ✅ **3 行结论（先看这个再往下）**  
+> - **适合谁：** 新手入门、预算有限、日常浏览/查资料 + 轻度 ChatGPT/YouTube/Netflix 的用户；也适合做备用线  
+> - **不适合：** 晚高峰极致速度、长期大流量下载、超低延迟有刚需的重度用户  
+> - **怎么买：** 入门/备用优先 **100G/月**；日常主力优先 **200G/月**；偏重度可选 **300G/月 或 500G/月**｜[立即注册贝贝云（月付 ¥19.9 起 · 95 折优惠码）](https://888.2beibei.com/register?code=Oa86Fbs3)
+>
+> 🧾 **优惠码怎么用（30 秒）**  
+> 1）点上面的注册链接 → 选套餐/周期 → 进入结算页  
+> 2）输入优惠码 `beibei.cloud`  
+> 3）确认折扣后再支付（如提示不可用，尝试更换周期或联系官方客服）
 
 #### ✅ 适合人群 / 不适合 / 核心优势
 
@@ -1145,22 +1130,7 @@
 - 科学-上网新手 & 小白友好入门方案
 - 日常 ChatGPT / Netflix / 邮箱收发等轻度应用者
 
-<div align="left" style="margin: 10px 0 20px 0;">
-  <a href="https://888.2beibei.com/register?code=Oa86Fbs3" target="_blank" style="
-    display:inline-block;
-    background:linear-gradient(90deg,#00b09b,#96c93d);
-    color:#fff;
-    font-weight:600;
-    font-size:16px;
-    padding:12px 24px;
-    border-radius:8px;
-    text-decoration:none;
-    box-shadow:0 4px 14px rgba(0,0,0,0.25);
-    transition:all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <strong>💸 立即注册贝贝云（新手首选¥19.9/月起）</strong>
-  </a>
-</div>
+> 👉 **立即注册：** [贝贝云（新手入门 ¥19.9/月起）](https://888.2beibei.com/register?code=Oa86Fbs3)
 
 🎁 **新手专属 95 折优惠码**
 
@@ -1173,12 +1143,9 @@
 >  👉 [贝贝云 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/bby/)
 ---
 
-<details>
-<summary><strong>👇 点击展开测速图｜贝贝云（2026-01-18 实测）</strong></summary>
+**📷 测速图｜贝贝云（2026-01-18 实测）**
 
 <img src="https://img.petnooko.com/2026/01/1cac542af006e1f37705d7aa5b105253.webp" alt="贝贝云机场测速图" loading="lazy" />
-
-</details>
 
 ---
 
@@ -1199,7 +1166,7 @@
 
 
 <a id="free"></a>
-## 🆓 限时免费高端机场推荐：<a href="https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk" target="_blank" style="color:#1a73e8;text-decoration:underline;">百变小樱</a> —— 稳定实用科学上网方案
+## 🆓 限时免费高端机场推荐：百变小樱 —— 稳定实用科学上网方案
 
 ### 🚀 无法访问 ChatGPT、YouTube、GitHub？先用这个免费机场恢复联网！
 
@@ -1240,12 +1207,9 @@
 
 📊 [👉 查看百变小樱机场详细测评：IEPL专线测速、ChatGPT解锁测试、完整套餐介绍](https://gptvpnhelper.com/airport-access/bbxy/)
 
-<details>
-<summary><strong>👇 点击展开测速图｜百变小樱（2026-01-19 实测）</strong></summary>
+**📷 测速图｜百变小樱（2026-01-19 实测）**
 
 <img src="https://img.petnooko.com/2026/01/c31132d81515ee53f39195eb4df90dc0.webp" alt="百变小樱 机场测速图" loading="lazy" />
-
-</details>
 ---
 
 ### 🔗 立即开启你的科学上网之路：
