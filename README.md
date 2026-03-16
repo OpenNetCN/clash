@@ -36,7 +36,7 @@
 | 小蜜蜂机场 | 主力性价比 | 全 IEPL 性价比王，AI/流媒体全解锁，价格适中 | 全解锁 | 专属长期 8 折（¥96 年付小包除外） | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://inva.xmfaff.cc/register?aff=oClLBb5A) |
 | 青云梯 | 年付省心/家庭 | 六年老牌，智能分流稳定，年付便宜 | 全解锁 | 年付及以上 8 折 / 其他 85 折（¥96年付小包除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
 | 银河云 | 预算主力/备用 | Trojan专线，预算党首选主力，价格便宜 | 全解锁 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
-| 百变小樱 | 应急/试用 | 3 天免费试用，新手应急必备，付费门槛低 | 全解锁（试用） | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
+| 百变小樱 | 应急/试用 | 3 天免费试用，新手应急必备，付费门槛低 | 全解锁（试用） | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/v2/register?code=FFHk) |
 | 贝贝云 | 新手/低价备用 | 低门槛入门，日常稳连，价格便宜 | 部分解锁 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://888.2beibei.com/register?code=Oa86Fbs3) |
 | BoostNet | 中高端/省心主力 | 三网直连 IEPL + 全节点 UDP，速度上限高，价格适中偏高 | AI 强 / 流媒体强 | 新用户 8 折（一次性，福利款除外） | 长期 | `boost` | 三网直连 IEPL 专线 | [立即注册](https://boostnet1.com/register?code=kKMFirlm) |
 | WgetCloud | 团队/重度稳定 | 测试过很多机场,这个是最稳定的,对稳定性要求高首选，价格偏贵 | 优质/精品更适合 AI 与全解锁 | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
@@ -1292,7 +1292,7 @@
 **适合人群：** 完全无法访问外网，需要先恢复基础联网的新手用户，以及想在付费前真实体验 IEPL 专线质量的轻度/备用用户。  
 **不适合：** 已有稳定主力机场、只追求长期极致低价的纯重度用户。  
 **核心优势：** 3 天免费试用 + IEPL 高速专线 + 全平台客户端支持，适合作为「从 0 到 1」的起步梯子。  
-👉 想直接上车： [立即免费注册百变小樱（3 天试用 + 95 折）](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk)
+👉 想直接上车： [立即免费注册百变小樱（3 天试用 + 95 折）](https://bbxy.xn--cesw6hd3s99f.com/v2/register?code=FFHk)
 
 📌 **强烈建议立即注册，恢复基础联网能力，体验顶级加速 IEPL 专线！**
 
@@ -1330,7 +1330,7 @@
 ### 🔗 立即开启你的科学上网之路：
 
 <div align="center">
-  <a href="https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk">
+  <a href="https://bbxy.xn--cesw6hd3s99f.com/v2/register?code=FFHk">
     <img src="https://img.shields.io/badge/🚀_免费注册百变小樱-3天试用+95折优惠-blueviolet?style=for-the-badge" alt="注册百变小樱" />
   </a>
 </div>
