@@ -1920,20 +1920,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月12日 08:00:08
+更新时间：2026年4月12日 11:02:22
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: U.S. and Iran Fail to Agree on Peace Deal, Vance Says, Leaving Cease-Fire’s Fate Uncertain](https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan)
-2. [Hungarians vote on whether to end 16 years of Orbán rule and elect rival](https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss)
-3. [At least 30 feared dead in crush at Haitian tourist site](https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss)
-4. [How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot](https://www.nytimes.com/2026/04/11/world/asia/lu-xun-chinese-writer-communist-mascot.html)
-5. [Prosecutor probes abuse claims against California governor candidate Swalwell](https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss)
-6. [Mass Stampede at Haitian Tourist Site Leaves Dozens Dead](https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html)
-7. ['We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine](https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss)
-8. [What to Know as Hungary Votes in Elections Watched by the World](https://www.nytimes.com/2026/04/12/world/europe/hungary-election-what-to-know.html)
-9. [Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins.](https://www.nytimes.com/2026/04/12/world/europe/hungary-election-polls.html)
-10. [Who Is Peter Magyar, the Main Rival to Viktor Orban in Hungary’s Election?](https://www.nytimes.com/2026/04/12/world/europe/who-peter-magyar-hungary-election-opposition-orban.html)
+1. [Iran War Live Updates: Top Iranian Negotiator Suggests Further Peace Talks Are Possible](https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan)
+2. [Justin Bieber headlines Coachella with nostalgia-fuelled set](https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss)
+3. [Asha Bhosle: The sound of Bollywood dies aged 92](https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss)
+4. [A Hezbollah commander describes battling Israel in Lebanon](https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel)
+5. [No Deal: U.S.-Iran peace talks in Islamabad collapse](https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse)
+6. [Hungarians vote in big numbers on whether to end Orbán rule and elect rival](https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss)
+7. [Ukraine and Russia accuse each other of hundreds of ceasefire violations](https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss)
+8. [Peru Votes for President, With 35 Names on the Ballot](https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html)
+9. [Inside Tyre, a Lebanese City Bombarded by Israel](https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html)
+10. [Mass Stampede at Haitian Tourist Site Leaves Dozens Dead](https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html)
 <!-- daily-check end -->
 
 ---
