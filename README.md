@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月13日 12:00:28
+更新时间：2026年4月13日 13:01:42
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Orban Loss May Ease Hungary’s Tensions with European Union](https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html)
-2. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
-3. [Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’](https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html)
-4. [Ghanaian footballer killed after armed attackers open fire at team bus](https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss)
-5. [U.S. military to block ships from Iran's ports after peace talks fail](https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates)
-6. [Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)
-7. [Pope says he has 'no fear' of Trump after scathing criticism](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
-8. [Israelis Don’t Feel Much Like Victors in War With Iran](https://www.nytimes.com/2026/04/13/world/israeli-iran-war-polls.html)
-9. [Crowds gather ahead of Bollywood legend Asha Bhosle's funeral](https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss)
-10. [To Fill Drone Force Ranks, Russia Targets a New Demographic: Students](https://www.nytimes.com/2026/04/13/world/europe/russia-ukraine-war-recruitment-students.html)
+1. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
+2. [Iran carried out highest number of executions in decades](https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss)
+3. [Pope says he has 'no fear' of Trump after scathing criticism](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
+4. [Pope Leo Heads to Africa to Meet the Future of Catholicism](https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html)
+5. [Ghanaian footballer killed after armed attackers open fire at team bus](https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss)
+6. [Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election](https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election)
+7. [Orban Loss May Ease Hungary’s Tensions with European Union](https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html)
+8. [Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’](https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html)
+9. [U.S. military to block ships from Iran's ports after peace talks fail](https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates)
+10. [Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
