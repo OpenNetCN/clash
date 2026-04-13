@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月12日 15:01:41
+更新时间：2026年4月13日 05:03:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Trump Says U.S. Will ‘Blockade’ Strait of Hormuz After No Peace Deal Reached](https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan)
-2. [Justin Bieber headlines Coachella with nostalgia-fuelled set](https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss)
-3. [In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate](https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html)
-4. [After Iran talks falter, the big question is 'what happens next?'](https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss)
-5. [U.S. and Iran fail to reach agreement during high-level talks in Islamabad](https://www.npr.org/2026/04/12/nx-s1-5782052/u-s-and-iran-fail-to-reach-agreement-during-high-level-talks-in-islamabad)
-6. [Ukraine and Russia accuse each other of hundreds of ceasefire violations](https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss)
-7. [The ‘Islamabad Peace Talks’ Are Over. What Now for Pakistan?](https://www.nytimes.com/2026/04/12/world/asia/iran-peace-talks-pakistan.html)
-8. [Asha Bhosle: The sound of Bollywood dies aged 92](https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss)
-9. [A Hezbollah commander describes battling Israel in Lebanon](https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel)
-10. [Trump claims U.S. will close Strait of Hormuz after Iran peace talks collapse](https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse)
+1. [Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports](https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan)
+2. [Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff](https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo)
+3. [Oil back above $100 as US to blockade Iranian ports after peace talks fail](https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss)
+4. [Who Is Peter Magyar, the Man Who Toppled Hungary’s Orban](https://www.nytimes.com/2026/04/12/world/europe/who-peter-magyar-hungary-election-opposition-orban.html)
+5. [Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)
+6. [Congressman Eric Swalwell quits California governor race amid sexual misconduct claims](https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss)
+7. [In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate](https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html)
+8. [Pope prioritises world's fastest-growing Catholic region in major Africa tour](https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss)
+9. [Trump's blockade threat raises risks and leaves predicaments unchanged](https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss)
+10. [Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar](https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html)
 <!-- daily-check end -->
 
 ---
