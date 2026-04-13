@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月13日 11:01:51
+更新时间：2026年4月13日 12:00:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
-2. [Pope says he has 'no fear' of Trump after scathing criticism](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
-3. [Crowds gather ahead of Bollywood legend Asha Bhosle's funeral](https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss)
-4. [Morning news brief](https://www.npr.org/2026/04/13/nx-s1-5780733/morning-news-brief)
-5. [Gaza's ceasefire hasn't brought the surge of aid it promised](https://www.npr.org/2026/04/13/nx-s1-5782662/gazas-ceasefire-hasnt-brought-the-surge-of-aid-it-promised)
-6. [After Victor Orbán's election loss, what's next for Hungary?](https://www.npr.org/2026/04/13/nx-s1-5782688/after-victor-orbans-election-loss-whats-next-for-hungary)
-7. [Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold](https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss)
-8. [Britney Spears goes into rehab after driving under the influence arrest](https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss)
-9. [Carney on verge of Liberal majority government as votes cast in three by-elections](https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss)
-10. [‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump](https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html)
+1. [Orban Loss May Ease Hungary’s Tensions with European Union](https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html)
+2. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
+3. [Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’](https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html)
+4. [Ghanaian footballer killed after armed attackers open fire at team bus](https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss)
+5. [U.S. military to block ships from Iran's ports after peace talks fail](https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates)
+6. [Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)
+7. [Pope says he has 'no fear' of Trump after scathing criticism](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
+8. [Israelis Don’t Feel Much Like Victors in War With Iran](https://www.nytimes.com/2026/04/13/world/israeli-iran-war-polls.html)
+9. [Crowds gather ahead of Bollywood legend Asha Bhosle's funeral](https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss)
+10. [To Fill Drone Force Ranks, Russia Targets a New Demographic: Students](https://www.nytimes.com/2026/04/13/world/europe/russia-ukraine-war-recruitment-students.html)
 <!-- daily-check end -->
 
 ---
