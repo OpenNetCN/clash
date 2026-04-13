@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月13日 08:03:49
+更新时间：2026年4月13日 09:00:21
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump attacks Pope over criticism of Iran war](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
-3. [‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump](https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html)
-4. [Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)
-5. [Strikes on alleged drug boats kill 5 in eastern Pacific, U.S. military says](https://www.npr.org/2026/04/13/g-s1-117217/strikes-alleged-drug-boats-kill-5)
-6. [Oil back above $100 as US to blockade Iranian ports after peace talks fail](https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss)
-7. [A stampede at a Haitian mountaintop fortress kills at least 25 people and injures dozens](https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people)
-8. [After Chaotic Election Day, Peru Orders 2nd Day of Voting for Some Areas](https://www.nytimes.com/2026/04/13/world/americas/peru-election-extended-voting.html)
-9. [Peru election results delayed after thousands get a one-day voting extension](https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed)
-10. [In Myanmar, Even Flowers Stoke Fear](https://www.nytimes.com/2026/04/13/world/asia/myanmar-war-military-fear.html)
+1. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
+2. [Oil prices surge after US-Iran peace talks break down](https://www.npr.org/2026/04/13/nx-s1-5781260/oil-prices-surge-after-us-iran-peace-talks-break-down)
+3. [Former US special envoy on where US and Iran stand after failed negotiations](https://www.npr.org/2026/04/13/nx-s1-5780993/former-us-special-envoy-on-where-us-and-iran-stand-after-failed-negotiations)
+4. [Gaza's ceasefire hasn't brought the surge of aid it promised](https://www.npr.org/2026/04/13/nx-s1-5782662/gazas-ceasefire-hasnt-brought-the-surge-of-aid-it-promised)
+5. [Viktor Orbán, Hungary's long-serving prime minister, ousted after 16 years in power](https://www.npr.org/2026/04/13/nx-s1-5777729/viktor-orban-hungarys-long-serving-prime-minister-ousted-after-16-years-in-power)
+6. [After Victor Orbán's election loss, what's next for Hungary?](https://www.npr.org/2026/04/13/nx-s1-5782688/after-victor-orbans-election-loss-whats-next-for-hungary)
+7. [Trump attacks Pope over criticism of Iran war](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
+8. [Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold](https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss)
+9. [Britney Spears goes into rehab after driving under the influence arrest](https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss)
+10. [Carney on verge of Liberal majority government as votes cast in three by-elections](https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
