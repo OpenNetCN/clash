@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月13日 06:04:46
+更新时间：2026年4月13日 08:03:49
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Strikes on alleged drug boats kill 5 in eastern Pacific, U.S. military says](https://www.npr.org/2026/04/13/g-s1-117217/strikes-alleged-drug-boats-kill-5)
-2. [U.S. to Blockade Ships From Iranian Ports](https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan)
-3. [Oil back above $100 as US to blockade Iranian ports after peace talks fail](https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss)
-4. [A stampede at a Haitian mountaintop fortress kills at least 25 people and injures dozens](https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people)
-5. [Peru election results delayed after thousands get a one-day voting extension](https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed)
-6. [Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff](https://www.npr.org/2026/04/13/nx-s1-5783008/trump-pope-leo)
-7. [Who Is Peter Magyar, the Man Who Toppled Hungary’s Orban](https://www.nytimes.com/2026/04/12/world/europe/who-peter-magyar-hungary-election-opposition-orban.html)
-8. [Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)
-9. [Leading candidate quits California governor race amid sexual misconduct claims](https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss)
-10. [Viktor Orbán's Hungarian experiment runs out of steam](https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss)
+1. [Trump attacks Pope over criticism of Iran war](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
+3. [‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump](https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html)
+4. [Orbán era swept away by Péter Magyar's Hungary election landslide](https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss)
+5. [Strikes on alleged drug boats kill 5 in eastern Pacific, U.S. military says](https://www.npr.org/2026/04/13/g-s1-117217/strikes-alleged-drug-boats-kill-5)
+6. [Oil back above $100 as US to blockade Iranian ports after peace talks fail](https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss)
+7. [A stampede at a Haitian mountaintop fortress kills at least 25 people and injures dozens](https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people)
+8. [After Chaotic Election Day, Peru Orders 2nd Day of Voting for Some Areas](https://www.nytimes.com/2026/04/13/world/americas/peru-election-extended-voting.html)
+9. [Peru election results delayed after thousands get a one-day voting extension](https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed)
+10. [In Myanmar, Even Flowers Stoke Fear](https://www.nytimes.com/2026/04/13/world/asia/myanmar-war-military-fear.html)
 <!-- daily-check end -->
 
 ---
