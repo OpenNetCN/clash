@@ -1939,11 +1939,11 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月14日 03:03:55
+更新时间：2026年4月14日 04:02:29
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Iran Proposes Suspending Nuclear Activity for Up to 5 Years](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
+1. [Iran Proposes Suspending Nuclear Activity for Up to 5 Years](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
 2. [Harry and Meghan arrive in Australia for four-day tour](https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss)
 3. [‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit](https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss)
 4. [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss)
