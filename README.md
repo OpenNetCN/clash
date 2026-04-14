@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月13日 14:02:49
+更新时间：2026年4月14日 02:00:11
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
-2. [Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’](https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html)
-3. [Peru election drags into second day after ballot delivery fiasco](https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss)
-4. [Israelis Don’t Feel Much Like Victors in War With Iran](https://www.nytimes.com/2026/04/13/world/israeli-iran-war-polls.html)
-5. [Iran carried out highest number of executions in decades](https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss)
-6. [Pope says he has 'no fear' of Trump after scathing criticism](https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss)
-7. [Pope Leo Heads to Africa to Meet the Future of Catholicism](https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html)
-8. [Ghanaian footballer killed after armed attackers open fire at team bus](https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss)
-9. [Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election](https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election)
-10. [Orban Loss May Ease Hungary’s Tensions with European Union](https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html)
+1. [Iran War Live Updates: Iran Proposes Suspending Nuclear Activity for Up to 5 Years](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
+2. [Harry and Meghan arrive in Australia for four-day tour](https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss)
+3. [‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit](https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss)
+4. [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss)
+5. [Lebanon enters talks with Israel but with no cards to play](https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss)
+6. [After years of speculation, a reporter claims to have uncovered the founder of Bitcoin](https://www.npr.org/2026/04/13/nx-s1-5778501/after-years-of-speculation-a-reporter-claims-to-have-uncovered-the-founder-of-bitcoin)
+7. [BBC joins paramedics on duty in Lebanon after Israeli strikes](https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss)
+8. [Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war](https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss)
+9. [Spanish PM's wife charged with corruption after two-year probe](https://www.bbc.com/news/articles/c8ejg3wk81no?at_medium=RSS&at_campaign=rss)
+10. [A U.S. military blockade of Iran's ports takes effect. What does that mean?](https://www.npr.org/2026/04/13/nx-s1-5783804/a-u-s-military-blockade-of-irans-ports-takes-effect-what-does-that-mean)
 <!-- daily-check end -->
 
 ---
