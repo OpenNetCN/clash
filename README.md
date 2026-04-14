@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月14日 04:02:29
+更新时间：2026年4月14日 09:02:15
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran Proposes Suspending Nuclear Activity for Up to 5 Years](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
-2. [Harry and Meghan arrive in Australia for four-day tour](https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss)
-3. [‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit](https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss)
-4. [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss)
-5. [Lebanon enters talks with Israel but with no cards to play](https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss)
-6. [After years of speculation, a reporter claims to have uncovered the founder of Bitcoin](https://www.npr.org/2026/04/13/nx-s1-5778501/after-years-of-speculation-a-reporter-claims-to-have-uncovered-the-founder-of-bitcoin)
-7. [BBC joins paramedics on duty in Lebanon after Israeli strikes](https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss)
-8. [Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war](https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss)
-9. [Spanish PM's wife charged with corruption after two-year probe](https://www.bbc.com/news/articles/c8ejg3wk81no?at_medium=RSS&at_campaign=rss)
-10. [A U.S. military blockade of Iran's ports takes effect. What does that mean?](https://www.npr.org/2026/04/13/nx-s1-5783804/a-u-s-military-blockade-of-irans-ports-takes-effect-what-does-that-mean)
+1. [Ukraine hopes for more cooperation after Hungary elects new prime minister](https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister)
+2. ['Hanging by a thread': Fertilizer shortage in India deepens due to ongoing Iran war](https://www.npr.org/2026/04/14/nx-s1-5779769/hanging-by-a-thread-fertilizer-shortage-in-india-deepens-due-to-ongoing-iran-war)
+3. [Iran Proposes Suspending Nuclear Activity for Up to 5 Years](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
+4. [South Korea jails 90-year-old woman for laundering son's drug money](https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss)
+5. [Israelis Don’t Feel Much Like Victors in War With Iran](https://www.nytimes.com/2026/04/13/world/middleeast/israeli-iran-war-polls.html)
+6. [U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class](https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class)
+7. [Greek police using masked migrants to forcibly push other migrants back across border](https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss)
+8. [How Orban Lost His Touch, and Hungary’s Election](https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html)
+9. [‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit](https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss)
+10. [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
