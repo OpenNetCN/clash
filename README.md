@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月14日 12:00:57
+更新时间：2026年4月14日 13:02:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [French woman, 86, held by ICE after moving to US to reunite with long-lost love](https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss)
-2. [Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War](https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act)
-3. [Israel and Lebanon set to meet for first direct talks in more than 30 years](https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks)
-4. [Sixteen injured after ex-student opens fire at high school in Turkey](https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss)
-5. [What's changed since Harry and Meghan last visited Australia in 2018?](https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss)
-6. [Ukraine hopes for more cooperation after Hungary elects new prime minister](https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister)
-7. ['Hanging by a thread': Fertilizer shortage in India deepens due to ongoing Iran war](https://www.npr.org/2026/04/14/nx-s1-5779769/hanging-by-a-thread-fertilizer-shortage-in-india-deepens-due-to-ongoing-iran-war)
-8. [U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class](https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class)
-9. [Greek police using masked migrants to forcibly push other migrants back across border](https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss)
-10. [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: U.S. and Iran Trade Proposals on Nuclear Restrictions](https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz)
+2. [What Happened After Denmark Adopted a Ruined City in Ukraine](https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html)
+3. [Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?](https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html)
+4. [French woman, 86, held by ICE after moving to US to reunite with long-lost love](https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss)
+5. [Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War](https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act)
+6. [Israel and Lebanon set to meet for first direct talks in more than 30 years](https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks)
+7. [With Algeria Visit, Pope Leo Returns to His Augustinian Roots](https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html)
+8. [Sixteen injured after ex-student opens fire at high school in Turkey](https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss)
+9. [How Harry and Meghan's Australia tour differs to their last visit there](https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss)
+10. [Mark Carney’s Liberal Party Seals Dominance in Canada’s Special Elections](https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html)
 <!-- daily-check end -->
 
 ---
