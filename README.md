@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月14日 09:02:15
+更新时间：2026年4月14日 11:01:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Ukraine hopes for more cooperation after Hungary elects new prime minister](https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister)
-2. ['Hanging by a thread': Fertilizer shortage in India deepens due to ongoing Iran war](https://www.npr.org/2026/04/14/nx-s1-5779769/hanging-by-a-thread-fertilizer-shortage-in-india-deepens-due-to-ongoing-iran-war)
-3. [Iran Proposes Suspending Nuclear Activity for Up to 5 Years](https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news)
-4. [South Korea jails 90-year-old woman for laundering son's drug money](https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss)
-5. [Israelis Don’t Feel Much Like Victors in War With Iran](https://www.nytimes.com/2026/04/13/world/middleeast/israeli-iran-war-polls.html)
-6. [U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class](https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class)
-7. [Greek police using masked migrants to forcibly push other migrants back across border](https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss)
-8. [How Orban Lost His Touch, and Hungary’s Election](https://www.nytimes.com/2026/04/13/world/europe/orban-hungary-election-magyar-populism.html)
-9. [‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit](https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss)
-10. [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss)
+1. [Sixteen injured after ex-student opens fire at high school in Turkey](https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: U.S. and Iran Trade Proposals on Nuclear Restrictions](https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz)
+3. [Police officers among seven arrested over deadly Haiti stampede](https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss)
+4. [Mark Carney’s Liberal Party Seals Dominance in Canada’s Special Elections](https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html)
+5. [Adopted by Denmark, a Bombed-Out Ukrainian City Is Given New Life](https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html)
+6. [As Bahrain Cracked Down Amid War, a Death in Custody Sparked Outrage](https://www.nytimes.com/2026/04/14/world/middleeast/bahrain-mohammed-al-mousawi.html)
+7. [Europe Is Desperate for More Energy. Can Norway Come to the Rescue?](https://www.nytimes.com/2026/04/14/world/europe/norway-oil-europe-war.html)
+8. [As War Chills Economy, Dubai’s Most Vulnerable Bear the Cost](https://www.nytimes.com/2026/04/14/world/middleeast/dubai-migrant-workers-war.html)
+9. [Ukraine hopes for more cooperation after Hungary elects new prime minister](https://www.npr.org/2026/04/14/nx-s1-5783682/ukraine-hopes-for-more-cooperation-after-hungary-elects-new-prime-minister)
+10. ['Hanging by a thread': Fertilizer shortage in India deepens due to ongoing Iran war](https://www.npr.org/2026/04/14/nx-s1-5779769/hanging-by-a-thread-fertilizer-shortage-in-india-deepens-due-to-ongoing-iran-war)
 <!-- daily-check end -->
 
 ---
