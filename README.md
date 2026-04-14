@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月14日 13:02:33
+更新时间：2026年4月14日 15:01:42
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: U.S. and Iran Trade Proposals on Nuclear Restrictions](https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz)
-2. [What Happened After Denmark Adopted a Ruined City in Ukraine](https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html)
-3. [Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?](https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html)
-4. [French woman, 86, held by ICE after moving to US to reunite with long-lost love](https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss)
-5. [Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War](https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act)
-6. [Israel and Lebanon set to meet for first direct talks in more than 30 years](https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks)
-7. [With Algeria Visit, Pope Leo Returns to His Augustinian Roots](https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html)
-8. [Sixteen injured after ex-student opens fire at high school in Turkey](https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss)
-9. [How Harry and Meghan's Australia tour differs to their last visit there](https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss)
-10. [Mark Carney’s Liberal Party Seals Dominance in Canada’s Special Elections](https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html)
+1. [Iran War Live Updates: Israel and Lebanon Are Set for Rare Direct Talks as Strikes Go On](https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz)
+2. [With Algeria Visit, Pope Leo Returns to His Augustinian Roots](https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html)
+3. [French woman, 86, held by ICE after moving to US to reunite with long-lost love](https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss)
+4. [US blockade of Iran ports irresponsible and dangerous, China says](https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss)
+5. [After losing loved ones, an Israeli and a Palestinian work together for Middle East peace](https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book)
+6. [Hamas rejects Gaza disarmament plan, Palestinian official says](https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss)
+7. [Fuel protests have Ireland's government facing possible no-confidence vote](https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote)
+8. [Mark Carney Seals a Majority Government and Remakes Canada’s Liberal Party](https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html)
+9. [What Happened After Denmark Adopted a Ruined City in Ukraine](https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html)
+10. [Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?](https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html)
 <!-- daily-check end -->
 
 ---
