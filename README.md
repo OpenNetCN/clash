@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月15日 14:03:03
+更新时间：2026年4月15日 15:04:43
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Iran Threatens Retaliation Over U.S. Blockade](https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel)
-2. [Four killed in second Turkish school shooting in two days](https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss)
-3. [Magyar calls for fast handover of power in talks with Hungary's president](https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss)
-4. [Catholicism Thrives in Africa, but Pope’s Cameroon Visit Highlights a Divide](https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html)
-5. [South Africa names apartheid-era politician as new ambassador to the US](https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss)
-6. [At Least 4 Dead in Second School Shooting in Turkey in 2 Days](https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html)
-7. [Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations](https://www.npr.org/2026/04/15/g-s1-117501/up-first-newsletter-israel-iran-lebanon-us-strait-eric-swalwell-virginia-face-act)
-8. [American Streamer Johnny Somali Is Sentenced to Prison in South Korea](https://www.nytimes.com/2026/04/15/world/asia/johnny-somali-youtube-prison-korea.html)
-9. [Trump's rift with Pope is playing out in public - it's costing him valuable support](https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss)
-10. [Trump says peace talks could resume in days as U.S. military blocks Iranian ports](https://www.npr.org/2026/04/15/nx-s1-5786034/iran-middle-east-updates)
+2. [Greetings from Nairobi, where taking a matatu is no ordinary bus ride](https://www.npr.org/2026/04/15/g-s1-117275/nairobi-matatu-bus-kenya)
+3. [Catholicism Thrives in Africa, but Pope’s Cameroon Visit Highlights a Divide](https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html)
+4. [Israel and Hezbollah continue attacks after Israel-Lebanon talks in US](https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss)
+5. [Trump threatens to fire Fed chair Powell if he doesn't leave in May](https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss)
+6. [How China’s Weapons Transfers to Iran Have Evolved Over Decades](https://www.nytimes.com/2026/04/15/world/asia/china-iran-weapons-sales.html)
+7. [Four killed in second Turkish school shooting in two days](https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss)
+8. [Magyar calls for fast handover of power in talks with Hungary's president](https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss)
+9. [South Africa names apartheid-era politician as new ambassador to the US](https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss)
+10. [At Least 4 Dead in Second School Shooting in Turkey in 2 Days](https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html)
 <!-- daily-check end -->
 
 ---
