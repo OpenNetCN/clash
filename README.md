@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月15日 11:02:32
+更新时间：2026年4月15日 12:03:03
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Magyar calls for fast handover of power in talks with Hungary's president](https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss)
-2. [South Africa names apartheid-era politician as new ambassador to the US](https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss)
-3. [Fela Kuti is the first African artist to enter the Rock & Roll Hall of Fame](https://www.npr.org/2026/04/15/g-s1-117406/rock-roll-hall-of-fame-africa-fela-kuti)
-4. [More than 200 Iranian sailors stranded after US torpedo attack return home](https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss)
-5. [Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on](https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss)
-6. [Pope heads to Cameroon as separatists announce 3-day pause in fighting](https://www.npr.org/2026/04/15/g-s1-117486/pope-heads-to-cameroon)
-7. [When El Salvador’s Prisoners Are Set Free, She’s There To Pick Them Up](https://www.nytimes.com/2026/04/15/world/americas/sugey-amaya-el-salvador-prisoners.html)
-8. [Dodging Bombs and Drones, This Postman Still Delivers](https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html)
-9. ['Humiliated, broken, powerless': Sudan enters fourth year of war](https://www.npr.org/2026/04/15/nx-s1-5781032/sudan-darfur-war-genocide-famine)
-10. [As fuel prices continue to rise, Iran war drives Europe toward new crisis](https://www.npr.org/2026/04/15/nx-s1-5784802/as-fuel-prices-continue-to-rise-iran-war-drives-europe-toward-new-crisis)
+1. [South Africa names apartheid-era politician as new ambassador to the US](https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss)
+2. [Starmer 'not going to yield' to pressure from Trump on Iran war](https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss)
+3. [Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations](https://www.npr.org/2026/04/15/g-s1-117501/up-first-newsletter-israel-iran-lebanon-us-strait-eric-swalwell-virginia-face-act)
+4. [Trump's rift with Pope is playing out in public - it's costing him valuable support](https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss)
+5. [Trump says peace talks could resume in days as U.S. military blocks Iranian ports](https://www.npr.org/2026/04/15/nx-s1-5786034/iran-middle-east-updates)
+6. [Magyar calls for fast handover of power in talks with Hungary's president](https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss)
+7. [Fela Kuti is the first African artist to enter the Rock & Roll Hall of Fame](https://www.npr.org/2026/04/15/g-s1-117406/rock-roll-hall-of-fame-africa-fela-kuti)
+8. [More than 200 Iranian sailors stranded after US torpedo attack return home](https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss)
+9. [Pope heads to Cameroon as separatists announce 3-day pause in fighting](https://www.npr.org/2026/04/15/g-s1-117486/pope-heads-to-cameroon)
+10. [When El Salvador’s Prisoners Are Set Free, She’s There To Pick Them Up](https://www.nytimes.com/2026/04/15/world/americas/sugey-amaya-el-salvador-prisoners.html)
 <!-- daily-check end -->
 
 ---
