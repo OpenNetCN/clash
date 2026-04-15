@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月14日 15:01:42
+更新时间：2026年4月15日 01:00:42
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Israel and Lebanon Are Set for Rare Direct Talks as Strikes Go On](https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz)
-2. [With Algeria Visit, Pope Leo Returns to His Augustinian Roots](https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html)
-3. [French woman, 86, held by ICE after moving to US to reunite with long-lost love](https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss)
-4. [US blockade of Iran ports irresponsible and dangerous, China says](https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss)
-5. [After losing loved ones, an Israeli and a Palestinian work together for Middle East peace](https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book)
-6. [Hamas rejects Gaza disarmament plan, Palestinian official says](https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss)
-7. [Fuel protests have Ireland's government facing possible no-confidence vote](https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote)
-8. [Mark Carney Seals a Majority Government and Remakes Canada’s Liberal Party](https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html)
-9. [What Happened After Denmark Adopted a Ruined City in Ukraine](https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html)
-10. [Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?](https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html)
+1. [Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks](https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz)
+2. [How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election](https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html)
+3. [Another woman accuses Swalwell of rape, saying he drugged her in 2018](https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss)
+4. [Benin’s Romuald Wadagni Poised to Win Presidential Election](https://www.nytimes.com/2026/04/14/world/africa/benin-election-president-romuald-wadagni.html)
+5. [Retrial over death of Argentina legend Maradona begins](https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss)
+6. [With Algeria Visit, Pope Leo Returns to His Augustinian Roots](https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html)
+7. [Partner of US influencer who died in Zanzibar speaking to police as witness](https://www.bbc.com/news/articles/cx299rxk0ngo?at_medium=RSS&at_campaign=rss)
+8. [Veteran diplomat offers insights into the war in Iran — and thoughts on what's next](https://www.npr.org/2026/04/14/nx-s1-5784072/veteran-diplomat-offers-insights-into-the-war-in-iran-and-thoughts-on-whats-next)
+9. [JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat](https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss)
+10. [French woman, 86, held by ICE after moving to US to reunite with long-lost love](https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
