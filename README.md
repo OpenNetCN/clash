@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月15日 04:03:27
+更新时间：2026年4月15日 05:00:44
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks](https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz)
 2. [Watch: Vance heckled as he chides Pope](https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss)
-3. [Trump hints Iran talks could resume this week as US port blockade continues](https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss)
-4. [Mark Carney Seals a Majority Government and Remakes Canada’s Liberal Party](https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html)
-5. [250 missing after migrant boat sinks in Indian Ocean](https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss)
-6. [Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on](https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss)
-7. [How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election](https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html)
-8. [Man wins €1m Picasso painting in €100 charity raffle](https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss)
-9. [Israel and Lebanon hold first direct talks since 1993](https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss)
-10. ['Bit of pain' worth long-term security from Iran, Bessent tells BBC](https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss)
+3. [Mark Carney Seals a Majority Government and Remakes Canada’s Liberal Party](https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html)
+4. [250 missing after migrant boat sinks in Indian Ocean](https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss)
+5. [Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on](https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss)
+6. [How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election](https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html)
+7. [Man wins €1m Picasso painting in €100 charity raffle](https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss)
+8. [Israel and Lebanon hold first direct talks since 1993](https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss)
+9. ['Bit of pain' worth long-term security from Iran, Bessent tells BBC](https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss)
+10. [Benin’s Romuald Wadagni Poised to Win Presidential Election](https://www.nytimes.com/2026/04/14/world/africa/benin-election-president-romuald-wadagni.html)
 <!-- daily-check end -->
 
 ---
