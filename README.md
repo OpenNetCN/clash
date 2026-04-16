@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月16日 13:03:09
+更新时间：2026年4月16日 14:04:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail](https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news)
-2. [Pope criticises 'tyrants' who spend billions on wars, days after Trump spat](https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss)
-3. [Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months](https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html)
-4. [South African opposition figure Malema sentenced to five years in prison](https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss)
-5. [Xi Alludes to Trump’s Policies to Make a Case for Closer Ties to Vietnam](https://www.nytimes.com/2026/04/16/world/asia/xi-china-vietnam-security.html)
-6. [Iran War timeline continues to shift. And, jury rules Live Nation acted as monopoly](https://www.npr.org/2026/04/16/g-s1-117639/up-first-newsletter-trump-iran-war-strait-pope-leo-ticketmaster-live-nation-january-6)
-7. [Orban’s Defeat Punctures Europe’s Far Right, but Also Offers It a Road Map](https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html)
-8. [Mediators are pushing to extend the U.S.-Iran ceasefire](https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates)
-9. [Wanted activist arrested in South Africa over support for Benin coup plot](https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss)
-10. [Turkish police detain 162 people over online praise for school shootings](https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss)
+1. [Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months](https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html)
+2. [Pope criticises 'tyrants' who spend billions on wars after Trump spat](https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss)
+3. [Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail](https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news)
+4. [Ex-keeper Manninger dies after car hit by train](https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss)
+5. [The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump](https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html)
+6. [Orban’s Defeat Punctures Europe’s Far Right, but Also Offers It a Road Map](https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html)
+7. [Got $100 Million? Ukraine Has Just the Fertilizer Plant for You.](https://www.nytimes.com/2026/04/16/world/europe/ukraine-odesa-fertilizer-plant-privatization.html)
+8. [South African opposition figure Malema sentenced to five years in prison](https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss)
+9. [Iran War timeline continues to shift. And, jury rules Live Nation acted as monopoly](https://www.npr.org/2026/04/16/g-s1-117639/up-first-newsletter-trump-iran-war-strait-pope-leo-ticketmaster-live-nation-january-6)
+10. [Mediators are pushing to extend the U.S.-Iran ceasefire](https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates)
 <!-- daily-check end -->
 
 ---
