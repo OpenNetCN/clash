@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月15日 15:04:43
+更新时间：2026年4月16日 07:04:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Iran Threatens Retaliation Over U.S. Blockade](https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel)
-2. [Greetings from Nairobi, where taking a matatu is no ordinary bus ride](https://www.npr.org/2026/04/15/g-s1-117275/nairobi-matatu-bus-kenya)
-3. [Catholicism Thrives in Africa, but Pope’s Cameroon Visit Highlights a Divide](https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html)
-4. [Israel and Hezbollah continue attacks after Israel-Lebanon talks in US](https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss)
-5. [Trump threatens to fire Fed chair Powell if he doesn't leave in May](https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss)
-6. [How China’s Weapons Transfers to Iran Have Evolved Over Decades](https://www.nytimes.com/2026/04/15/world/asia/china-iran-weapons-sales.html)
-7. [Four killed in second Turkish school shooting in two days](https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss)
-8. [Magyar calls for fast handover of power in talks with Hungary's president](https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss)
-9. [South Africa names apartheid-era politician as new ambassador to the US](https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss)
-10. [At Least 4 Dead in Second School Shooting in Turkey in 2 Days](https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html)
+1. [Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive](https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel)
+2. [Israeli demolitions levelling towns in south Lebanon, satellite images show](https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss)
+3. [French government seeking release of 86-year-old French widow detained by ICE](https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice)
+4. [Bukele signs reforms allowing life prison sentences for people as young as 12](https://www.npr.org/2026/04/16/g-s1-117613/bukele-life-prison-sentences-for-people-as-young-as-12)
+5. [Former US Marine pilot loses appeal against extradition from Australia](https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss)
+6. [Trump threatens to fire Fed chair Powell if he doesn't leave in May](https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss)
+7. [Claudia Sheinbaum’s War on Crime in Mexico Faces a Grim Reckoning: 133,000 Missing People](https://www.nytimes.com/2026/04/15/world/americas/claudia-sheinbaum-mexico-crime-missing-people.html)
+8. [Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done](https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss)
+9. [Nine killed in second Turkish school shooting in two days](https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss)
+10. [Catholicism Thrives in Africa, but Pope’s Cameroon Visit Highlights a Divide](https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html)
 <!-- daily-check end -->
 
 ---
