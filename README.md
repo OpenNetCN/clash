@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月17日 02:04:15
+更新时间：2026年4月17日 06:01:01
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Singer D4vd arrested in connection with death of missing teen girl](https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss)
-2. [Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect](https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news)
-3. [South Korea's runaway wolf finally captured after nine-day search](https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss)
-4. [Six months after ceasefire with Israel, people in Gaza say recovery hasn't even begun](https://www.npr.org/2026/04/16/nx-s1-5786615/six-months-after-ceasefire-with-israel-people-in-gaza-say-recovery-hasnt-even-begun)
-5. [UN looks for a short-term solution for moving fertilizer through the Strait of Hormuz](https://www.npr.org/2026/04/16/nx-s1-5787688/un-looks-for-a-short-term-solution-for-moving-fertilizer-through-the-strait-of-hormuz)
-6. [How the conflict in Iran is testing the U.S.-European alliance](https://www.npr.org/2026/04/16/nx-s1-5787539/how-the-conflict-in-iran-is-testing-the-u-s-european-alliance)
-7. [Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again](https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html)
-8. [Pope criticises 'tyrants' who spend billions on wars after Trump spat](https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss)
-9. [The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump](https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html)
-10. [Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’](https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html)
+1. [Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect](https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news)
+2. [What we know about the ceasefire between Lebanon and Israel](https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss)
+3. [Singer D4vd arrested on suspicion of murdering teenage girl](https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss)
+4. [Why China Isn’t Pushing Iran to Accept U.S. Demands to End War](https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html)
+5. [South Korea's runaway wolf finally captured after nine-day search](https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss)
+6. [Six months after ceasefire with Israel, people in Gaza say recovery hasn't even begun](https://www.npr.org/2026/04/16/nx-s1-5786615/six-months-after-ceasefire-with-israel-people-in-gaza-say-recovery-hasnt-even-begun)
+7. [UN looks for a short-term solution for moving fertilizer through the Strait of Hormuz](https://www.npr.org/2026/04/16/nx-s1-5787688/un-looks-for-a-short-term-solution-for-moving-fertilizer-through-the-strait-of-hormuz)
+8. [How the conflict in Iran is testing the U.S.-European alliance](https://www.npr.org/2026/04/16/nx-s1-5787539/how-the-conflict-in-iran-is-testing-the-u-s-european-alliance)
+9. [Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again](https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html)
+10. [Pope criticises 'tyrants' who spend billions on wars after Trump spat](https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
