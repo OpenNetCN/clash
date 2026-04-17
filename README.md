@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月17日 12:02:01
+更新时间：2026年4月17日 14:02:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.](https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs)
-2. [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss)
-3. [Lebanon-Israel Cease-Fire Goes Into Effect](https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news)
-4. [In China, swapping out an EV battery is as fast as filling up a gas tank](https://www.npr.org/2026/04/17/nx-s1-5786722/in-china-swapping-out-an-ev-battery-is-as-fast-as-filling-up-a-gas-tank)
-5. [Three charged with arson on Persian media offices in London](https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss)
-6. [Singer D4vd arrested on suspicion of murdering teenage girl](https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss)
-7. [Why China Isn’t Pushing Iran to Accept U.S. Demands to End War](https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html)
-8. [Runaway wolf finally captured after nine-day search in South Korea](https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss)
-9. [Iranian footballers say Australia has given them 'hope' for safe future](https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss)
-10. ['I was tortured and lost my hand' - one student's struggle to get an education in Nigeria](https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss)
+1. [Live Updates: Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce](https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah)
+2. [Iran War Live Updates: Strait of Hormuz Is ‘Completely Open’ After Lebanon Deal, Iran and U.S. Say](https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump)
+3. [Mugabe's son pleads guilty to pointing a gun in South Africa](https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss)
+4. [Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris](https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss)
+5. [Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect](https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates)
+6. [Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html)
+7. [‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html)
+8. [Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations](https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html)
+9. [Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.](https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs)
+10. [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
