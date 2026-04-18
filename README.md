@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月18日 10:02:51
+更新时间：2026年4月18日 14:03:10
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz](https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz)
 2. [A Potent Threat in Strait of Hormuz: Iran’s ‘Mosquito Fleet’](https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html)
-3. [DR Congo accepts first set of deportees from the US](https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss)
-4. [Uncertainty over the Strait of Hormuz remains, as ceasefire nears its end](https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates)
-5. [How Trump Helped Pope Leo Find His Voice](https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html)
-6. [What's it like to negotiate with Iran? We asked people who have done it](https://www.npr.org/2026/04/18/nx-s1-5783873/iran-talks-islamabad-nuclear-jcpoa)
-7. [Maduro’s Successor Is Purging Allies Who Kept Him in Power in Venezuela](https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html)
-8. [In Angola, Pope Leo XIV Faces the Legacy of Colonialism](https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html)
-9. [Madonna joins Sabrina Carpenter to surprise Coachella](https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss)
-10. [Oil prices plunge as Iran says Strait 'open'](https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss)
+3. [Millions listen to Ethiopian star's song taking swipe at government](https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss)
+4. [Orbán's era was over in a flash and Hungary's next PM is a man in a hurry](https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss)
+5. [Photos: How overfishing in Southeast Asia is an ecological and human crisis](https://www.npr.org/sections/the-picture-show/2026/04/18/nx-s1-5766110/overfishing-in-southeast-asia)
+6. [French film star Nathalie Baye dies aged 77, media report](https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss)
+7. [Ukraine launches specialized Russian studies program to better understand the enemy](https://www.npr.org/2026/04/18/nx-s1-5780860/ukraine-launches-specialized-russian-studies-program-to-better-understand-the-enemy)
+8. [Tired of waiting for your EV to charge up? One Chinese company has a novel solution](https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio)
+9. [One dead after car hits pedestrians in Melbourne, police say](https://www.bbc.com/news/articles/c20dy511v3lo?at_medium=RSS&at_campaign=rss)
+10. [Maduro’s Successor Is Purging Allies Who Kept Him in Power in Venezuela](https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html)
 <!-- daily-check end -->
 
 ---
