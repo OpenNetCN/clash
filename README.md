@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月18日 09:02:34
+更新时间：2026年4月18日 10:02:51
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz](https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz)
-2. [In Angola, Pope Leo XIV Faces the Legacy of Colonialism](https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html)
-3. [A Potent Threat in Strait of Hormuz: Iran’s ‘Mosquito Fleet’](https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html)
-4. [Oil prices plunge as Iran says Strait 'open'](https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss)
-5. [Trump Spat Gives Spain Leader Pedro Sánchez a Political Lifeline](https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html)
-6. [How Trump Helped Pope Leo Find His Voice](https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html)
-7. [The 27-Year-Old Diplomat Waging Trump’s Cultural War With Europe](https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html)
-8. [‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html)
-9. [Animal activists celebrate their first global 'Sanctuary Day'](https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day)
-10. [Hormuz reopens, but insurers aren't ready to sound the all-clear](https://www.npr.org/2026/04/17/nx-s1-5785167/hormuz-reopens-but-insurers-arent-ready-to-sound-the-all-clear)
+2. [A Potent Threat in Strait of Hormuz: Iran’s ‘Mosquito Fleet’](https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html)
+3. [DR Congo accepts first set of deportees from the US](https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss)
+4. [Uncertainty over the Strait of Hormuz remains, as ceasefire nears its end](https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates)
+5. [How Trump Helped Pope Leo Find His Voice](https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html)
+6. [What's it like to negotiate with Iran? We asked people who have done it](https://www.npr.org/2026/04/18/nx-s1-5783873/iran-talks-islamabad-nuclear-jcpoa)
+7. [Maduro’s Successor Is Purging Allies Who Kept Him in Power in Venezuela](https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html)
+8. [In Angola, Pope Leo XIV Faces the Legacy of Colonialism](https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html)
+9. [Madonna joins Sabrina Carpenter to surprise Coachella](https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss)
+10. [Oil prices plunge as Iran says Strait 'open'](https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
