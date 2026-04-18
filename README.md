@@ -1939,20 +1939,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月17日 14:02:31
+更新时间：2026年4月18日 03:02:29
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Live Updates: Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce](https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah)
-2. [Iran War Live Updates: Strait of Hormuz Is ‘Completely Open’ After Lebanon Deal, Iran and U.S. Say](https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump)
-3. [Mugabe's son pleads guilty to pointing a gun in South Africa](https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss)
-4. [Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris](https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss)
-5. [Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect](https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates)
-6. [Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html)
-7. [‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html)
-8. [Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations](https://www.nytimes.com/2026/04/17/world/europe/uk-starmer-mandelson-foreign-office-robbins-fired.html)
-9. [Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.](https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs)
-10. [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open](https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump)
+2. [Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce](https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah)
+3. [‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html)
+4. [Animal activists celebrate their first global 'Sanctuary Day'](https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day)
+5. [Oil prices plunge as Iran says Strait 'open'](https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss)
+6. [Hormuz reopens, but insurers aren't ready to sound the all-clear](https://www.npr.org/2026/04/17/nx-s1-5785167/hormuz-reopens-but-insurers-arent-ready-to-sound-the-all-clear)
+7. [Gasoline could drop below $4 in coming days](https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran)
+8. [Starmer’s Credibility Just Took Another Body Blow Over the Mandelson Scandal](https://www.nytimes.com/2026/04/17/world/europe/starmer-credibility-mandelson-epstein-scandal.html)
+9. [Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures](https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss)
+10. [Japan reveals new name for 40C-and-hotter days after blistering summer](https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
