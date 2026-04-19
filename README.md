@@ -1940,20 +1940,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月19日 13:02:26
+更新时间：2026年4月19日 15:01:43
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Rat poison found in HiPP baby food jar in Austria, police say](https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: Trump Says U.S. Officials Will Travel to Pakistan for Talks](https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz)
-3. [NATO allies working to reopen the Strait of Hormuz spark fury from Trump](https://www.npr.org/2026/04/19/nx-s1-5788656/nato-allies-working-to-reopen-the-strait-of-hormuz-spark-fury-from-trump)
-4. [What are Iran's longterm goals for a peace deal with the U.S.?](https://www.npr.org/2026/04/19/nx-s1-5786637/what-are-irans-longterm-goals-for-a-peace-deal-with-the-u-s)
-5. [Gen Z Looks to Nepal as a Test Case of Its Hopes](https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html)
-6. [U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran](https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible)
-7. [Zelensky condemns US extension of Russian sanctions waiver](https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss)
-8. [In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning](https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html)
-9. [How Gen Z Protests Have Fared Around the World](https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html)
-10. [Bodies of 50 infants dumped at Trinidad graveyard](https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: Trump Says U.S. Officials Will Travel to Pakistan for Talks](https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz)
+2. [Rat poison found in HiPP baby food jar in Austria, police say](https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss)
+3. [Gen Z Looks to Nepal as a Test Case of Its Hopes](https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html)
+4. [U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran](https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible)
+5. [Zelensky condemns US extension of Russian sanctions waiver](https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss)
+6. [In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning](https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html)
+7. [How Gen Z Protests Have Fared Around the World](https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html)
+8. [Bodies of 50 infants dumped at Trinidad graveyard](https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss)
+9. [Pope says 'tyrants' speech was not aimed at Trump](https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss)
+10. [Australia's most-decorated soldier vows to fight war crime charges](https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
