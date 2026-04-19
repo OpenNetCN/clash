@@ -1940,20 +1940,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月19日 06:02:54
+更新时间：2026年4月19日 11:04:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats](https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz)
-2. [Australia's most-decorated soldier vows to 'fight' war crime charges](https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss)
-3. [What to Know About the Bulgarian Election](https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html)
-4. [French peacekeeper killed in southern Lebanon](https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss)
-5. [North Korea launches ballistic missiles toward sea](https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles)
-6. [US Coast Guard spots overturned vessel near Saipan during search for missing ship](https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana)
-7. [Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested](https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss)
-8. [Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000](https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction)
-9. [Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row](https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss)
-10. [Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump](https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html)
+1. [Zelensky condemns US extension of Russian sanctions waiver](https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Strait of Hormuz Largely Closed as Iran Says Parties Are Far From Final Deal](https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz)
+3. [In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning](https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html)
+4. [How Gen Z Protests Have Fared Around the World](https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html)
+5. [Gen Z Looks to Nepal as a Test Case of Its Hopes](https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html)
+6. [Bodies of 50 infants dumped at Trinidad graveyard](https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss)
+7. [Pope says 'tyrants' speech was not aimed at Trump](https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss)
+8. [Australia's most-decorated soldier vows to fight war crime charges](https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss)
+9. [What to Know About the Bulgarian Election](https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html)
+10. [North Korea launches ballistic missiles toward sea](https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles)
 <!-- daily-check end -->
 
 ---
