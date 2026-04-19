@@ -1940,13 +1940,13 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月19日 02:03:29
+更新时间：2026年4月19日 03:02:52
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [North Korea launches ballistic missiles toward sea](https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles)
-2. [US Coast Guard spots overturned vessel near Saipan during search for missing ship](https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana)
-3. [Iran War Live Updates: Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats](https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz)
+1. [Iran War Live Updates: Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats](https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz)
+2. [North Korea launches ballistic missiles toward sea](https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles)
+3. [US Coast Guard spots overturned vessel near Saipan during search for missing ship](https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana)
 4. [Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000](https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction)
 5. [Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row](https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss)
 6. [Strait of Hormuz closed again, Iran says, as ships attacked](https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss)
