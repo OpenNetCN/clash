@@ -1940,20 +1940,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月19日 03:02:52
+更新时间：2026年4月19日 06:02:54
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats](https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz)
-2. [North Korea launches ballistic missiles toward sea](https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles)
-3. [US Coast Guard spots overturned vessel near Saipan during search for missing ship](https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana)
-4. [Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000](https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction)
-5. [Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row](https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss)
-6. [Strait of Hormuz closed again, Iran says, as ships attacked](https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss)
-7. [Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump](https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html)
-8. [Trump Spat Gives Spain Leader Pedro Sánchez a Political Lifeline](https://www.nytimes.com/2026/04/18/world/europe/pedro-sanchez-donald-trump-lifeline.html)
-9. [Carney’s Liberal Majority Reshapes Fortunes to the Left and the Right](https://www.nytimes.com/2026/04/18/world/canada/carney-poilievre-lewis-canada-politics.html)
-10. [A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman](https://www.npr.org/2026/04/18/nx-s1-5789903/mass-shooting-kyiv-ukraine)
+1. [Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats](https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz)
+2. [Australia's most-decorated soldier vows to 'fight' war crime charges](https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss)
+3. [What to Know About the Bulgarian Election](https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html)
+4. [French peacekeeper killed in southern Lebanon](https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss)
+5. [North Korea launches ballistic missiles toward sea](https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles)
+6. [US Coast Guard spots overturned vessel near Saipan during search for missing ship](https://www.npr.org/2026/04/18/nx-s1-5789936/us-coast-guard-overturned-vessel-mariana)
+7. [Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested](https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss)
+8. [Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000](https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction)
+9. [Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row](https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss)
+10. [Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump](https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html)
 <!-- daily-check end -->
 
 ---
