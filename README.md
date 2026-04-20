@@ -1940,20 +1940,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月19日 15:01:43
+更新时间：2026年4月20日 06:00:57
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Trump Says U.S. Officials Will Travel to Pakistan for Talks](https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz)
-2. [Rat poison found in HiPP baby food jar in Austria, police say](https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss)
-3. [Gen Z Looks to Nepal as a Test Case of Its Hopes](https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html)
-4. [U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran](https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible)
-5. [Zelensky condemns US extension of Russian sanctions waiver](https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss)
-6. [In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning](https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html)
-7. [How Gen Z Protests Have Fared Around the World](https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html)
-8. [Bodies of 50 infants dumped at Trinidad graveyard](https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss)
-9. [Pope says 'tyrants' speech was not aimed at Trump](https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss)
-10. [Australia's most-decorated soldier vows to fight war crime charges](https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss)
+1. [U.K police investigating if attacks in London are the work of Iranian proxies](https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies)
+2. [U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks](https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz)
+3. [Rumen Radev set to win Bulgarian Parliamentary election](https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss)
+4. [Man kills seven of his children, and an eighth child, in Louisiana mass shooting](https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss)
+5. [Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)
+6. [Hamas Officials Say Group Is Ready to Hand Over Some Weapons](https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html)
+7. [Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC](https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss)
+8. [U.S. says it seized an Iranian cargo ship, ceasefire expires soon](https://www.npr.org/2026/04/19/nx-s1-5790487/u-s-says-it-seized-an-iranian-cargo-ship-ceasefire-expires-soon)
+9. [Bulgarian Voters Back New Political Coalition Led by Radev](https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html)
+10. [Ukraine police chief resigns after officers allegedly fled deadly shooting](https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
