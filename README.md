@@ -1940,20 +1940,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月20日 06:00:57
+更新时间：2026年4月20日 08:01:21
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.K police investigating if attacks in London are the work of Iranian proxies](https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies)
-2. [U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks](https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz)
-3. [Rumen Radev set to win Bulgarian Parliamentary election](https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss)
-4. [Man kills seven of his children, and an eighth child, in Louisiana mass shooting](https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss)
-5. [Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)
-6. [Hamas Officials Say Group Is Ready to Hand Over Some Weapons](https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html)
-7. [Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC](https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss)
-8. [U.S. says it seized an Iranian cargo ship, ceasefire expires soon](https://www.npr.org/2026/04/19/nx-s1-5790487/u-s-says-it-seized-an-iranian-cargo-ship-ceasefire-expires-soon)
-9. [Bulgarian Voters Back New Political Coalition Led by Radev](https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html)
-10. [Ukraine police chief resigns after officers allegedly fled deadly shooting](https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack](https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz)
+2. [Rumen Radev wins Bulgarian Parliamentary election](https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss)
+3. [Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)
+4. [A humanoid robot sprints past the human half-marathon world record in Beijing race](https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon)
+5. [The Iran War Sent Shock Waves Through Asia That Are Likely to Spread](https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html)
+6. [U.K police investigating if attacks in London are the work of Iranian proxies](https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies)
+7. [Man kills seven of his children, and an eighth child, in Louisiana mass shooting](https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss)
+8. [In Turkey, Middle Powers Ponder Diplomacy With a Rogue U.S.](https://www.nytimes.com/2026/04/20/world/middleeast/turkey-diplomacy-antalya.html)
+9. [Hamas Officials Say Group Is Ready to Hand Over Some Weapons](https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html)
+10. [Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC](https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
