@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月21日 08:00:56
+更新时间：2026年4月21日 10:01:38
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Tehran and Trump Send Mixed Signals Ahead of Potential Talks](https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz)
-2. [Japan loosens arms export rules in break from post-WW2 pacifism](https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss)
-3. [New era as Apple names new boss to replace Tim Cook after 15 years](https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss)
-4. [Gunman shoots several tourists at historic pyramids in Mexico](https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico)
-5. [Cuba confirms meeting with US officials on island, wants energy blockade lifted](https://www.npr.org/2026/04/21/g-s1-118182/cuba-meeting-with-us-officials-on-island)
-6. [Japan approves scrapping a ban on lethal weapons exports](https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports)
-7. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
-8. [Japan on high alert for 'huge' second quake after lifting tsunami warning](https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss)
-9. [US singer D4vd pleads not guilty to murder in death of missing teen girl](https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss)
-10. [Canada's PM Carney indicates a move away from economic reliance on the U.S.](https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s)
+1. [South Africa's police boss charged in connection with controversial health contract](https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss)
+2. [The Onion launches new effort to turn Infowars into parody website](https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss)
+3. [Iran War Live Updates: Vance Is Expected to Lead Talks in Pakistan, U.S. Officials Say](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
+4. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
+5. [How the Cole Disaster Drove the U.S. to Develop New Warship Defenses](https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html)
+6. [Japan approves removing ban on lethal weapons exports](https://www.npr.org/2026/04/21/nx-s1-5793052/japan-approves-removing-ban-on-lethal-weapons-exports)
+7. [Gulf aluminum shipments stuck as Strait of Hormuz blockades put a strain on supply](https://www.npr.org/2026/04/21/nx-s1-5770135/gulf-aluminum-shipments-stuck-as-strait-of-hormuz-blockades-put-a-strain-on-supply)
+8. [Japan loosens arms export rules in break from post-WW2 pacifism](https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss)
+9. [New Zealand Declares Emergency in Capital After It Was Battered by Torrential Rain](https://www.nytimes.com/2026/04/21/world/australia/wellington-new-zealand-emergency-flooding.html)
+10. [Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism](https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html)
 <!-- daily-check end -->
 
 ---
