@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月21日 04:04:03
+更新时间：2026年4月21日 05:04:52
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Tehran and Trump Send Mixed Signals Ahead of Potential Talks](https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz)
-2. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
-3. [Japan on high alert for 'huge' second quake after lifting tsunami warning](https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss)
-4. [US singer D4vd pleads not guilty to murder in death of missing teen girl](https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss)
-5. [Apple names new chief executive to replace Tim Cook](https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss)
-6. [Canada's PM Carney indicates a move away from economic reliance on the U.S.](https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s)
-7. [Trump says US will not lift Hormuz blockade until deal made with Iran](https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss)
-8. [Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)
-9. [Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts](https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html)
-10. [U.S.-Iran talks are uncertain as ceasefire is set to expire](https://www.npr.org/2026/04/20/nx-s1-5791630/u-s-iran-talks-are-uncertain-as-ceasefire-is-set-to-expire)
+2. [Japan approves scrapping a ban on lethal weapons exports](https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports)
+3. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
+4. [Japan on high alert for 'huge' second quake after lifting tsunami warning](https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss)
+5. [US singer D4vd pleads not guilty to murder in death of missing teen girl](https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss)
+6. [Apple names new chief executive to replace Tim Cook](https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss)
+7. [Canada's PM Carney indicates a move away from economic reliance on the U.S.](https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s)
+8. [Trump says US will not lift Hormuz blockade until deal made with Iran](https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss)
+9. [Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)
+10. [Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts](https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html)
 <!-- daily-check end -->
 
 ---
