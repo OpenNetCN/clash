@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月21日 13:00:24
+更新时间：2026年4月21日 14:02:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Uncertainty Surrounds U.S.-Iran Talks as Cease-Fire Nears End](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
-2. [London Faces Disruption From Tube Drivers’ Strike](https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html)
-3. [Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values](https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss)
-4. [As the U.S.-Iran ceasefire deadline looms, here are the main sticking points](https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates)
-5. [U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing](https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh)
-6. [Role of US officials killed in crash in Mexico under scrutiny](https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss)
-7. [Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'](https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss)
-8. [Arrests in Nigeria after abduction of local monarch 'held for ransom'](https://www.bbc.com/news/articles/cr71de2dr32o?at_medium=RSS&at_campaign=rss)
-9. [Ceasefire agreement between the U.S. and Iran ends Wednesday](https://www.npr.org/2026/04/21/nx-s1-5791613/ceasefire-agreement-between-the-u-s-and-iran-ends-wednesday)
-10. [Madonna offers reward for return of missing Coachella costume](https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss)
+2. [2 Americans Killed in Mexico Crash Were C.I.A. Members](https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html)
+3. [Nigeria charges six people with treason over Independence Day coup plot](https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss)
+4. [Imprisoned for 30 Years, He Wooed Her With Love Poems](https://www.nytimes.com/2026/04/21/world/europe/turkey-kurdish-poet-comak.html)
+5. [Mass trial for 486 alleged MS-13 gang leaders begins in El Salvador](https://www.bbc.com/news/articles/c20ql985gryo?at_medium=RSS&at_campaign=rss)
+6. [London Faces Disruption From Tube Drivers’ Strike](https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html)
+7. [Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values](https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss)
+8. [As the U.S.-Iran ceasefire deadline looms, here are the main sticking points](https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates)
+9. [U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing](https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh)
+10. [Role of US officials killed in crash in Mexico under scrutiny](https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
