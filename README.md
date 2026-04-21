@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月21日 10:01:38
+更新时间：2026年4月21日 12:02:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [South Africa's police boss charged in connection with controversial health contract](https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss)
-2. [The Onion launches new effort to turn Infowars into parody website](https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss)
-3. [Iran War Live Updates: Vance Is Expected to Lead Talks in Pakistan, U.S. Officials Say](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
-4. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
-5. [How the Cole Disaster Drove the U.S. to Develop New Warship Defenses](https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html)
-6. [Japan approves removing ban on lethal weapons exports](https://www.npr.org/2026/04/21/nx-s1-5793052/japan-approves-removing-ban-on-lethal-weapons-exports)
-7. [Gulf aluminum shipments stuck as Strait of Hormuz blockades put a strain on supply](https://www.npr.org/2026/04/21/nx-s1-5770135/gulf-aluminum-shipments-stuck-as-strait-of-hormuz-blockades-put-a-strain-on-supply)
+1. [Ofcom investigating Telegram over child sexual abuse material concerns](https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Uncertainty Surrounds U.S.-Iran Talks as Cease-Fire Nears End](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
+3. [U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing](https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh)
+4. [Role of US officials killed in crash in Mexico under scrutiny](https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss)
+5. [Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'](https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss)
+6. [How will Apple change under 'product guy' John Ternus?](https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss)
+7. [Madonna offers reward for return of missing Coachella costume](https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss)
 8. [Japan loosens arms export rules in break from post-WW2 pacifism](https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss)
-9. [New Zealand Declares Emergency in Capital After It Was Battered by Torrential Rain](https://www.nytimes.com/2026/04/21/world/australia/wellington-new-zealand-emergency-flooding.html)
-10. [Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism](https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html)
+9. [Fired U.K. Official Describes ‘Pressure’ From Starmer’s Office for Envoy’s Appointment](https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html)
+10. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
