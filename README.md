@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月21日 07:00:36
+更新时间：2026年4月21日 08:00:56
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Tehran and Trump Send Mixed Signals Ahead of Potential Talks](https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz)
-2. [New era for Apple as names new boss to replace Tim Cook after 15 years](https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss)
-3. [Gunman shoots several tourists at historic pyramids in Mexico](https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico)
-4. [Cuba confirms meeting with US officials on island, wants energy blockade lifted](https://www.npr.org/2026/04/21/g-s1-118182/cuba-meeting-with-us-officials-on-island)
-5. [Japan approves scrapping a ban on lethal weapons exports](https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports)
-6. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
-7. [Japan on high alert for 'huge' second quake after lifting tsunami warning](https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss)
-8. [US singer D4vd pleads not guilty to murder in death of missing teen girl](https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss)
-9. [Canada's PM Carney indicates a move away from economic reliance on the U.S.](https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s)
-10. [Trump says US will not lift Hormuz blockade until deal made with Iran](https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss)
+2. [Japan loosens arms export rules in break from post-WW2 pacifism](https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss)
+3. [New era as Apple names new boss to replace Tim Cook after 15 years](https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss)
+4. [Gunman shoots several tourists at historic pyramids in Mexico](https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico)
+5. [Cuba confirms meeting with US officials on island, wants energy blockade lifted](https://www.npr.org/2026/04/21/g-s1-118182/cuba-meeting-with-us-officials-on-island)
+6. [Japan approves scrapping a ban on lethal weapons exports](https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports)
+7. [Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids](https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss)
+8. [Japan on high alert for 'huge' second quake after lifting tsunami warning](https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss)
+9. [US singer D4vd pleads not guilty to murder in death of missing teen girl](https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss)
+10. [Canada's PM Carney indicates a move away from economic reliance on the U.S.](https://www.npr.org/2026/04/20/nx-s1-5791353/canadas-pm-carney-indicates-a-move-away-from-economic-reliance-on-the-u-s)
 <!-- daily-check end -->
 
 ---
