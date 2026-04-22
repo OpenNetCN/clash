@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月22日 09:05:00
+更新时间：2026年4月22日 10:01:34
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump Extends Cease-Fire With Iran](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
-2. [Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid](https://www.npr.org/2026/04/22/nx-s1-5795403/golden-helmet-romania-recovery)
-3. [Mexico to beef up security at tourist sites after shooting at pyramids](https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites)
-4. [Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report](https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss)
-5. [Domestic workers legally recognised in Indonesia after '22-year struggle'](https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss)
-6. [Virginia approves redistricting measure, boosting Democrats' hopes for midterms](https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss)
-7. [Trump buys time for Iran deal after frantic day of diplomacy](https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss)
-8. [2 Americans Killed in Mexico Crash Were C.I.A. Members](https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html)
-9. [Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo](https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html)
-10. [Fired U.K. Official Describes ‘Pressure’ to Expedite Envoy’s Appointment](https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html)
+1. [Iran War Live Updates: 2 Ships Are Attacked as Future of Talks Is Uncertain](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
+2. [EU decides on key €90bn Ukraine loan after pipeline deadlock ends](https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss)
+3. [Iranian Expats in U.A.E. Caught Between Home and Homeland](https://www.nytimes.com/2026/04/22/world/middleeast/iranian-expats-in-uae-caught-between-home-and-homeland.html)
+4. [Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine](https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html)
+5. [EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban](https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html)
+6. [South Korean fighter jets collided due to pilots snapping pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss)
+7. [Taiwan president cancels trip after African countries revoke flight permits](https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss)
+8. [Thirteen killed in second India fireworks blast in three days](https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss)
+9. [Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid](https://www.npr.org/2026/04/22/nx-s1-5795403/golden-helmet-romania-recovery)
+10. [Mexico to beef up security at tourist sites after shooting at pyramids](https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites)
 <!-- daily-check end -->
 
 ---
