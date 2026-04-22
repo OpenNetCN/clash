@@ -1941,7 +1941,7 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月22日 08:01:57
+更新时间：2026年4月22日 09:05:00
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -1950,7 +1950,7 @@
 3. [Mexico to beef up security at tourist sites after shooting at pyramids](https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites)
 4. [Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report](https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss)
 5. [Domestic workers legally recognised in Indonesia after '22-year struggle'](https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss)
-6. [Virginia approves redistricting, giving Democrats edge in midterms](https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss)
+6. [Virginia approves redistricting measure, boosting Democrats' hopes for midterms](https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss)
 7. [Trump buys time for Iran deal after frantic day of diplomacy](https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss)
 8. [2 Americans Killed in Mexico Crash Were C.I.A. Members](https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html)
 9. [Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo](https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html)
