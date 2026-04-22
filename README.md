@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月21日 14:02:33
+更新时间：2026年4月22日 01:05:03
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Uncertainty Surrounds U.S.-Iran Talks as Cease-Fire Nears End](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
+1. [Iran War Live Updates: Trump Extends Cease-Fire With Iran](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
 2. [2 Americans Killed in Mexico Crash Were C.I.A. Members](https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html)
-3. [Nigeria charges six people with treason over Independence Day coup plot](https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss)
-4. [Imprisoned for 30 Years, He Wooed Her With Love Poems](https://www.nytimes.com/2026/04/21/world/europe/turkey-kurdish-poet-comak.html)
-5. [Mass trial for 486 alleged MS-13 gang leaders begins in El Salvador](https://www.bbc.com/news/articles/c20ql985gryo?at_medium=RSS&at_campaign=rss)
-6. [London Faces Disruption From Tube Drivers’ Strike](https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html)
-7. [Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values](https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss)
-8. [As the U.S.-Iran ceasefire deadline looms, here are the main sticking points](https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates)
-9. [U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing](https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh)
-10. [Role of US officials killed in crash in Mexico under scrutiny](https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss)
+3. [Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo](https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html)
+4. [Fired U.K. Official Describes ‘Pressure’ to Expedite Envoy’s Appointment](https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html)
+5. [As Pakistan seeks to broker U.S.–Iran peace, citizens watch for gains at home](https://www.npr.org/2026/04/21/nx-s1-5791760/as-pakistan-seeks-to-broker-u-s-iran-peace-citizens-watch-for-gains-at-home)
+6. [What would happen next if Iran agreed to surrender its highly enriched uranium](https://www.npr.org/2026/04/21/nx-s1-5788988/what-would-happen-next-if-iran-agreed-to-surrender-its-highly-enriched-uranium)
+7. [U.S. Turns Up Pressure on Iraq to Distance Itself From Iran](https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html)
+8. [Two Palestinians Killed in Israeli Shooting Near West Bank School](https://www.nytimes.com/2026/04/21/world/middleeast/palestinians-killed-israeli-shooting-west-bank-school.html)
+9. [Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon](https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html)
+10. [Mass trial for 486 alleged gang members begins in El Salvador](https://www.bbc.com/news/videos/ce9mernj0gko?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
