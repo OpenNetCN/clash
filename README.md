@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月22日 12:04:17
+更新时间：2026年4月22日 14:00:14
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Iranian Forces Claim Seizure of 2 Ships After Trump Extends Truce](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
-2. [Ships attacked in Strait of Hormuz. And, VA voters approve redistricting effort](https://www.npr.org/2026/04/22/g-s1-118328/up-first-newsletter-iran-us-ceasefire-virginia-redistricting-aca)
-3. [EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock](https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss)
-4. [Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html)
-5. [Ships attacked in Strait of Hormuz after ceasefire extension](https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates)
-6. [Lufthansa cuts 20,000 summer flights as fuel prices surge](https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss)
-7. [Iranian Expats in U.A.E. Caught Between Home and Homeland](https://www.nytimes.com/2026/04/22/world/middleeast/iran-war-uae-dubai.html)
-8. [Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine](https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html)
-9. [EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban](https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html)
-10. [South Korean fighter jets collided due to pilots taking pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss)
+2. [EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban](https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html)
+3. [Greetings from an Islamabad park, a peaceful vantage point in an uncertain world](https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park)
+4. [Ships attacked in Strait of Hormuz. And, VA voters approve redistricting effort](https://www.npr.org/2026/04/22/g-s1-118328/up-first-newsletter-iran-us-ceasefire-virginia-redistricting-aca)
+5. [EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock](https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss)
+6. [Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html)
+7. [Iran attacks ships in Hormuz Strait as the U.S. continues its blockade amid ceasefire](https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates)
+8. [Lufthansa cuts 20,000 summer flights as fuel prices surge](https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss)
+9. [Iranian Expats in U.A.E. Caught Between Home and Homeland](https://www.nytimes.com/2026/04/22/world/middleeast/iran-war-uae-dubai.html)
+10. [Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine](https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html)
 <!-- daily-check end -->
 
 ---
