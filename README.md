@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月22日 01:05:03
+更新时间：2026年4月22日 02:04:50
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Trump Extends Cease-Fire With Iran](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
-2. [2 Americans Killed in Mexico Crash Were C.I.A. Members](https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html)
-3. [Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo](https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html)
-4. [Fired U.K. Official Describes ‘Pressure’ to Expedite Envoy’s Appointment](https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html)
-5. [As Pakistan seeks to broker U.S.–Iran peace, citizens watch for gains at home](https://www.npr.org/2026/04/21/nx-s1-5791760/as-pakistan-seeks-to-broker-u-s-iran-peace-citizens-watch-for-gains-at-home)
-6. [What would happen next if Iran agreed to surrender its highly enriched uranium](https://www.npr.org/2026/04/21/nx-s1-5788988/what-would-happen-next-if-iran-agreed-to-surrender-its-highly-enriched-uranium)
-7. [U.S. Turns Up Pressure on Iraq to Distance Itself From Iran](https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html)
-8. [Two Palestinians Killed in Israeli Shooting Near West Bank School](https://www.nytimes.com/2026/04/21/world/middleeast/palestinians-killed-israeli-shooting-west-bank-school.html)
-9. [Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon](https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html)
-10. [Mass trial for 486 alleged gang members begins in El Salvador](https://www.bbc.com/news/videos/ce9mernj0gko?at_medium=RSS&at_campaign=rss)
+2. [Virginia approves redistricting, giving Democrats edge in midterms](https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss)
+3. [Trump buys time for Iran deal after frantic day of diplomacy](https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss)
+4. [2 Americans Killed in Mexico Crash Were C.I.A. Members](https://www.nytimes.com/2026/04/21/world/americas/americans-cia-mexico-crash.html)
+5. [Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo](https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html)
+6. [Fired U.K. Official Describes ‘Pressure’ to Expedite Envoy’s Appointment](https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html)
+7. [As Pakistan seeks to broker U.S.–Iran peace, citizens watch for gains at home](https://www.npr.org/2026/04/21/nx-s1-5791760/as-pakistan-seeks-to-broker-u-s-iran-peace-citizens-watch-for-gains-at-home)
+8. [What would happen next if Iran agreed to surrender its highly enriched uranium](https://www.npr.org/2026/04/21/nx-s1-5788988/what-would-happen-next-if-iran-agreed-to-surrender-its-highly-enriched-uranium)
+9. [U.S. Turns Up Pressure on Iraq to Distance Itself From Iran](https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html)
+10. [Two Palestinians Killed in Israeli Shooting Near West Bank School](https://www.nytimes.com/2026/04/21/world/middleeast/palestinians-killed-israeli-shooting-west-bank-school.html)
 <!-- daily-check end -->
 
 ---
