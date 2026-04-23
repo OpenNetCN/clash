@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月23日 12:00:20
+更新时间：2026年4月23日 13:00:36
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
-2. [South African court orders Zambia to return former president's body](https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss)
-3. [Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted](https://www.npr.org/2026/04/23/g-s1-118440/up-first-newsletter-us-iran-john-phelan-trump-republican-democrat-midterm-fundraising-budget-reconciliation-ice)
-4. [Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?](https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html)
-5. [U.S.-Iran peace talks still in limbo after Iran seizes ships in the Strait of Hormuz](https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates)
-6. [Iran War Live Updates: Reported Ship Seizures Add to Anxiety in Oil Markets](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
-7. [A Lost Tribe in India Makes Its Exodus to Israel](https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html)
-8. [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
-9. [Trains Collide in Denmark, Leaving 5 Critically Injured](https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html)
-10. [After U.S. Aid Fell by 99%, E.U. Pledges $106 Billion Loan to Ukraine](https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html)
+1. [Iran War Live Updates: Reported Ship Seizures Add to Anxiety in Oil Markets](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
+2. [$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away](https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html)
+3. [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
+4. [South African court orders Zambia to return former president's body](https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss)
+5. [Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted](https://www.npr.org/2026/04/23/g-s1-118440/up-first-newsletter-us-iran-john-phelan-trump-republican-democrat-midterm-fundraising-budget-reconciliation-ice)
+6. [Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?](https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html)
+7. [U.S. seizes another oil tanker as peace talks with Iran still in limbo](https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates)
+8. [A Lost Tribe in India Makes Its Exodus to Israel](https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html)
+9. [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
+10. [Trains Collide in Denmark, Leaving 5 Critically Injured](https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html)
 <!-- daily-check end -->
 
 ---
