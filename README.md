@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月23日 09:00:24
+更新时间：2026年4月23日 10:00:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Candidates vying for U.N. secretary-general role face questions](https://www.npr.org/2026/04/23/nx-s1-5786581/candidates-vying-for-u-n-secretary-general-role-face-questions)
-2. [Putin's approval rating falls amid state-imposed internet restrictions](https://www.npr.org/2026/04/23/nx-s1-5793960/putins-approval-rating-falls-amid-state-imposed-internet-restrictions)
-3. [World Press Photo announces Photo of the Year 2026](https://www.npr.org/2026/04/23/nx-s1-5793922/world-press-photo-announces-photo-of-the-year-2026)
-4. [Istanbul plants over 3 million tulips for annual festival](https://www.npr.org/2026/04/23/nx-s1-5787849/istanbul-plants-over-3-million-tulips-for-annual-festival)
-5. [After being held up for months, Ukraine set to get $100B loan from EU](https://www.npr.org/2026/04/23/nx-s1-5795803/after-being-held-up-for-months-ukraine-set-to-get-100b-loan-from-eu)
-6. [US Navy chief leaving post 'effective immediately', Pentagon says](https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss)
-7. [Reported Seizure of Ships Injects New Uncertainty Over Peace Talks](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
-8. [Two trains collide head-on in Denmark, leaving four critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
-9. [EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban](https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html)
-10. [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: Reported Ship Seizures Add to Anxiety in Oil Markets](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
+2. [Trains Collide in Denmark, Leaving 5 Critically Injured](https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html)
+3. [After U.S. Aid Fell by 99%, E.U. Pledges $106 Billion Loan to Ukraine](https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html)
+4. [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
+5. [The Generals Who Are Now Running Iran](https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html)
+6. [Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?](https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html)
+7. [World Press Photo announces Photo of the Year 2026](https://www.npr.org/sections/the-picture-show/2026/04/23/nx-s1-5793922/world-press-photo-announces-photo-of-the-year-2026)
+8. [How TikTok is driving American expats to Southeast Asia](https://www.npr.org/2026/04/23/nx-s1-5763809/tiktok-moving-vietnam-thailand-american-expats)
+9. [Candidates vying for U.N. secretary-general role face questions](https://www.npr.org/2026/04/23/nx-s1-5786581/candidates-vying-for-u-n-secretary-general-role-face-questions)
+10. [Putin's approval rating falls amid state-imposed internet restrictions](https://www.npr.org/2026/04/23/nx-s1-5793960/putins-approval-rating-falls-amid-state-imposed-internet-restrictions)
 <!-- daily-check end -->
 
 ---
