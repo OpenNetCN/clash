@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月23日 06:02:28
+更新时间：2026年4月23日 09:00:24
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
-2. [Lebanon accuses Israel of targeting journalist killed in air strike](https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss)
-3. [US Navy chief leaving post 'effective immediately', Pentagon says](https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss)
-4. [Teenager found in singer D4vd's car died of 'multiple injuries'](https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss)
-5. [Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html)
-6. [China weathered Trump's tariffs - but the Iran war is taking a toll](https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss)
-7. [To Iran, Trump Blinked First by Extending the Cease-Fire](https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html)
-8. [Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html)
-9. [US Withholding Iraq’s Own Oil Money Over Ties to Iran](https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html)
-10. [Billionaire backer sues Trump family's crypto firm over alleged extortion](https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss)
+1. [Candidates vying for U.N. secretary-general role face questions](https://www.npr.org/2026/04/23/nx-s1-5786581/candidates-vying-for-u-n-secretary-general-role-face-questions)
+2. [Putin's approval rating falls amid state-imposed internet restrictions](https://www.npr.org/2026/04/23/nx-s1-5793960/putins-approval-rating-falls-amid-state-imposed-internet-restrictions)
+3. [World Press Photo announces Photo of the Year 2026](https://www.npr.org/2026/04/23/nx-s1-5793922/world-press-photo-announces-photo-of-the-year-2026)
+4. [Istanbul plants over 3 million tulips for annual festival](https://www.npr.org/2026/04/23/nx-s1-5787849/istanbul-plants-over-3-million-tulips-for-annual-festival)
+5. [After being held up for months, Ukraine set to get $100B loan from EU](https://www.npr.org/2026/04/23/nx-s1-5795803/after-being-held-up-for-months-ukraine-set-to-get-100b-loan-from-eu)
+6. [US Navy chief leaving post 'effective immediately', Pentagon says](https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss)
+7. [Reported Seizure of Ships Injects New Uncertainty Over Peace Talks](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
+8. [Two trains collide head-on in Denmark, leaving four critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
+9. [EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban](https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html)
+10. [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
