@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月22日 15:04:02
+更新时间：2026年4月23日 01:03:15
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Lufthansa cuts 20,000 summer flights as fuel prices surge](https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: Iranian Forces Claim to Seize 2 Ships After Trump Extends Truce](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
-3. [Los Angeles becomes first major US school district to limit classroom screen time](https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss)
-4. [EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban](https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html)
-5. [Greetings from an Islamabad park, a peaceful vantage point in an uncertain world](https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park)
-6. [To Iran, Trump Blinked First by Extending the Cease-Fire](https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html)
-7. [Ships attacked in Strait of Hormuz. And, VA voters approve redistricting effort](https://www.npr.org/2026/04/22/g-s1-118328/up-first-newsletter-iran-us-ceasefire-virginia-redistricting-aca)
-8. [EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock](https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss)
-9. [Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html)
-10. [Iran attacks ships in Hormuz Strait as the U.S. continues its blockade amid ceasefire](https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates)
+1. [Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
+2. [Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html)
+3. [To Iran, Trump Blinked First by Extending the Cease-Fire](https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html)
+4. [Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html)
+5. [US Withholding Iraq’s Own Oil Money Over Ties to Iran](https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html)
+6. [Billionaire backer sues Trump family's crypto firm over alleged extortion](https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss)
+7. [EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock](https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss)
+8. [Nigeria's suspected coup plotters deny treason charges](https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss)
+9. [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
+10. [US and Iran in blockade standoff as Pakistan pushes for talks](https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
