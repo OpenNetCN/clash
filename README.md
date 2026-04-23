@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月23日 05:01:32
+更新时间：2026年4月23日 06:02:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks](https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks)
-2. [Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html)
-3. [To Iran, Trump Blinked First by Extending the Cease-Fire](https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html)
-4. [Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html)
-5. [US Withholding Iraq’s Own Oil Money Over Ties to Iran](https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html)
-6. [Billionaire backer sues Trump family's crypto firm over alleged extortion](https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss)
-7. [EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock](https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss)
-8. [Nigeria's suspected coup plotters deny treason charges](https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss)
-9. [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
-10. [US and Iran in blockade standoff as Pakistan pushes for talks](https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss)
+2. [Lebanon accuses Israel of targeting journalist killed in air strike](https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss)
+3. [US Navy chief leaving post 'effective immediately', Pentagon says](https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss)
+4. [Teenager found in singer D4vd's car died of 'multiple injuries'](https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss)
+5. [Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html)
+6. [China weathered Trump's tariffs - but the Iran war is taking a toll](https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss)
+7. [To Iran, Trump Blinked First by Extending the Cease-Fire](https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html)
+8. [Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations](https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html)
+9. [US Withholding Iraq’s Own Oil Money Over Ties to Iran](https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html)
+10. [Billionaire backer sues Trump family's crypto firm over alleged extortion](https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
