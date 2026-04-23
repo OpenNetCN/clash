@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月23日 13:00:36
+更新时间：2026年4月23日 15:03:11
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Reported Ship Seizures Add to Anxiety in Oil Markets](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
-2. [$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away](https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html)
-3. [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
-4. [South African court orders Zambia to return former president's body](https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss)
-5. [Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted](https://www.npr.org/2026/04/23/g-s1-118440/up-first-newsletter-us-iran-john-phelan-trump-republican-democrat-midterm-fundraising-budget-reconciliation-ice)
-6. [Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?](https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html)
-7. [U.S. seizes another oil tanker as peace talks with Iran still in limbo](https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates)
-8. [A Lost Tribe in India Makes Its Exodus to Israel](https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html)
-9. [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
-10. [Trains Collide in Denmark, Leaving 5 Critically Injured](https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html)
+1. [Warner Bros shareholders approve Paramount's $111bn takeover](https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Trump Threatens Iranian Boats He Says Are Mining the Strait of Hormuz](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
+3. [A Lost Tribe in India Makes Its Exodus to Israel](https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html)
+4. [The Generals Who Are Now Running Iran](https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html)
+5. [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
+6. [$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away](https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html)
+7. [Russian Officials Say Town’s Air Is Toxic, Days After Strike on Oil Refinery](https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html)
+8. [MrBeast's company sued by ex-employee over sexual harassment claim](https://www.bbc.com/news/articles/c937z1nxze8o?at_medium=RSS&at_campaign=rss)
+9. [Germany, a Steadfast Ally of Israel, Now Voices Some Frustration](https://www.nytimes.com/2026/04/23/world/europe/germany-israel-iran-war-support.html)
+10. [More than 500 people killed in Tanzania election violence, inquiry finds](https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
