@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月24日 09:04:12
+更新时间：2026年4月24日 10:03:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Kenyan leader sparks uproar after mocking Nigerians' spoken English](https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss)
-2. [Cuba's ambassador to Mexico says US is to blame for island's crisis](https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-to-mexico-says-us-is-to-blame-for-islands-crisis)
-3. [Woman trapped in poo for three hours after outback toilet collapses](https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss)
-4. [South Korea police arrest man for posting AI photo of runaway wolf](https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss)
-5. [Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
-6. [Europe Mulls What Mutual Defense Looks Like Outside NATO](https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html)
-7. [Aboriginal children's book pulled over illustrator's Bondi attack comments](https://www.bbc.com/news/articles/c87wzv3lv1vo?at_medium=RSS&at_campaign=rss)
-8. [Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models](https://www.npr.org/2026/04/24/g-s1-118582/administration-crackdown-on-chinese-firms-exploiting-u-s-ai-models)
-9. [EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto](https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto)
-10. [Epstein housed abuse victims in London flats, BBC reveals](https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
+2. [Key suspect in notorious Tadamon massacre during Syria civil war arrested](https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss)
+3. [Judge dismisses Smokey Robinson's defamation claim against rape accusers](https://www.bbc.com/news/articles/c0e70e4wr00o?at_medium=RSS&at_campaign=rss)
+4. [Gaza Set to Hold First Local Election in Two Decades](https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html)
+5. [Briton in Netflix's 'Con Mum' faces fresh charges in Singapore](https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss)
+6. [Kenyan leader sparks uproar after mocking Nigerians' spoken English](https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss)
+7. [Cuba's ambassador to Mexico says US is to blame for island's crisis](https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-to-mexico-says-us-is-to-blame-for-islands-crisis)
+8. [Woman trapped in poo for three hours after outback toilet collapses](https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss)
+9. [South Korea police arrest man for posting AI photo of runaway wolf](https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss)
+10. [Europe Mulls What Mutual Defense Looks Like Outside NATO](https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html)
 <!-- daily-check end -->
 
 ---
