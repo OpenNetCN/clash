@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月24日 10:03:12
+更新时间：2026年4月24日 12:01:22
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
-2. [Key suspect in notorious Tadamon massacre during Syria civil war arrested](https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss)
-3. [Judge dismisses Smokey Robinson's defamation claim against rape accusers](https://www.bbc.com/news/articles/c0e70e4wr00o?at_medium=RSS&at_campaign=rss)
-4. [Gaza Set to Hold First Local Election in Two Decades](https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html)
-5. [Briton in Netflix's 'Con Mum' faces fresh charges in Singapore](https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss)
-6. [Kenyan leader sparks uproar after mocking Nigerians' spoken English](https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss)
-7. [Cuba's ambassador to Mexico says US is to blame for island's crisis](https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-to-mexico-says-us-is-to-blame-for-islands-crisis)
-8. [Woman trapped in poo for three hours after outback toilet collapses](https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss)
-9. [South Korea police arrest man for posting AI photo of runaway wolf](https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss)
-10. [Europe Mulls What Mutual Defense Looks Like Outside NATO](https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html)
+1. [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
+3. [Poisoning suspected in deaths of 18 wolves in Italian national park](https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss)
+4. [South Africa's top envoy to Ghana summoned over attacks on foreigners](https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss)
+5. [Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules](https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket)
+6. [Key suspect in notorious Tadamon massacre during Syria civil war arrested](https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss)
+7. [Nato says 'no provision' to expel members after report US could seek to suspend Spain](https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss)
+8. [Gaza Set to Hold First Local Election in Two Decades](https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html)
+9. [Kenyan leader sparks uproar after mocking Nigerians' spoken English](https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss)
+10. [Cuba's ambassador to Mexico says US is to blame for island's crisis](https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-to-mexico-says-us-is-to-blame-for-islands-crisis)
 <!-- daily-check end -->
 
 ---
