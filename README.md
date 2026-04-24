@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月23日 15:03:11
+更新时间：2026年4月24日 03:01:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Warner Bros shareholders approve Paramount's $111bn takeover](https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: Trump Threatens Iranian Boats He Says Are Mining the Strait of Hormuz](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
-3. [A Lost Tribe in India Makes Its Exodus to Israel](https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html)
-4. [The Generals Who Are Now Running Iran](https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html)
-5. [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
-6. [$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away](https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html)
-7. [Russian Officials Say Town’s Air Is Toxic, Days After Strike on Oil Refinery](https://www.nytimes.com/2026/04/23/world/europe/russia-oil-refinery-black-rain.html)
-8. [MrBeast's company sued by ex-employee over sexual harassment claim](https://www.bbc.com/news/articles/c937z1nxze8o?at_medium=RSS&at_campaign=rss)
-9. [Germany, a Steadfast Ally of Israel, Now Voices Some Frustration](https://www.nytimes.com/2026/04/23/world/europe/germany-israel-iran-war-support.html)
-10. [More than 500 people killed in Tanzania election violence, inquiry finds](https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
+2. [US soldier charged after winning $400,000 betting on removal of Maduro](https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss)
+3. [Crash That Killed 2 Americans Is a Reminder of the Depth of Security Ties in Mexico](https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html)
+4. [Meta says it will cut 8,000 jobs as AI spending soars](https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss)
+5. [Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say](https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss)
+6. [French police probe suspected weather device tampering after odd Polymarket bet](https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet)
+7. [US boards ship carrying Iran oil as Trump threatens mine-laying vessels](https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss)
+8. [Afghans Who Helped U.S. Forces Say They’re Being Pushed Back to the Taliban](https://www.nytimes.com/2026/04/23/world/asia/afghans-qatar-refugees-congo.html)
+9. [Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies](https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs)
+10. [Touring Africa, Pope Leo Raised His Voice, but Didn’t Like the Echo](https://www.nytimes.com/2026/04/23/world/europe/pope-leo-africa-trump.html)
 <!-- daily-check end -->
 
 ---
