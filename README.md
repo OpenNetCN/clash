@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月24日 04:01:46
+更新时间：2026年4月24日 06:00:36
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire](https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news)
-2. [Trump tells BBC that King's visit could 'absolutely' help repair relations with UK](https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss)
-3. [US soldier charged after winning $400,000 betting on removal of Maduro](https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss)
-4. [Crash That Killed 2 Americans Is a Reminder of the Depth of Security Ties in Mexico](https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html)
-5. [Meta says it will cut 8,000 jobs as AI spending soars](https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss)
-6. [Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say](https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss)
-7. [French police probe suspected weather device tampering after odd Polymarket bet](https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet)
-8. [US boards ship carrying Iran oil as Trump threatens mine-laying vessels](https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss)
-9. [Afghans Who Helped U.S. Forces Say They’re Being Pushed Back to the Taliban](https://www.nytimes.com/2026/04/23/world/asia/afghans-qatar-refugees-congo.html)
-10. [Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies](https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs)
+2. [Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models](https://www.npr.org/2026/04/24/g-s1-118582/administration-crackdown-on-chinese-firms-exploiting-u-s-ai-models)
+3. [EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto](https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto)
+4. [‘Didi vs. Modi’: A Test for the Hindu Right in India’s Bengali Heartland](https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html)
+5. [In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill](https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html)
+6. [Europe Mulls What Mutual Defense Looks Like Outside NATO](https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html)
+7. [Trump tells BBC that King's visit could 'absolutely' help repair relations with UK](https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss)
+8. [US soldier charged after winning $400,000 betting on removal of Maduro](https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss)
+9. [Meta says it will cut 8,000 jobs as AI spending soars](https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss)
+10. [Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say](https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
