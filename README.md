@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月25日 06:01:17
+更新时间：2026年4月25日 07:02:02
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Witkoff and Kushner to Go to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
-2. [31 sloths die in Florida before opening of attraction](https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss)
-3. [The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts](https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss)
-4. [Katya Adler: Europe's Nato allies push back at reported US threat to Spain](https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss)
-5. [Thousands at risk after multi-million dollar Everest flood warning system left to rust](https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss)
-6. [Meeting with the King would 'demonstrate human dignity', says Epstein survivor](https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss)
-7. [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
-8. [China car giant BYD says it can thrive without US](https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss)
-9. [Vessels seized by the U.S. this week were part of a global 'shadow fleet'](https://www.npr.org/2026/04/24/nx-s1-5795895/vessels-seized-by-the-u-s-this-week-were-part-of-a-global-shadow-fleet)
-10. [Britain and Spain Reject Reported Plans by Trump to Punish Them](https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html)
+1. [Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks](https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates)
+2. [Witkoff and Kushner to Go to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
+3. [31 sloths die in Florida before opening of attraction](https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss)
+4. [The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts](https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss)
+5. [Katya Adler: Europe's Nato allies push back at reported US threat to Spain](https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss)
+6. [Thousands at risk after multi-million dollar Everest flood warning system left to rust](https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss)
+7. [Epstein survivor: Meeting the King would be a 'grand step'](https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss)
+8. [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
+9. [China car giant BYD says it can thrive without US](https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss)
+10. [Vessels seized by the U.S. this week were part of a global 'shadow fleet'](https://www.npr.org/2026/04/24/nx-s1-5795895/vessels-seized-by-the-u-s-this-week-were-part-of-a-global-shadow-fleet)
 <!-- daily-check end -->
 
 ---
