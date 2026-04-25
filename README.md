@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月25日 01:01:42
+更新时间：2026年4月25日 03:03:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Witkoff and Kushner to Go to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
-2. [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
-3. [Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks](https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss)
-4. [Vessels seized by the U.S. this week were part of a global 'shadow fleet'](https://www.npr.org/2026/04/24/nx-s1-5795895/vessels-seized-by-the-u-s-this-week-were-part-of-a-global-shadow-fleet)
-5. [US justice department drops probe into Fed chairman Jerome Powell](https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss)
-6. [Britain and Spain Reject Reported Plans by Trump to Punish Them](https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html)
-7. [Three Kosovo Serbs jailed over deadly gun battle and monastery siege](https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss)
-8. [In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill](https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html)
-9. [As Putin Orders That the Economy Be Fixed, Russia Grasps for Solutions](https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html)
-10. [Who is making decisions in Iran?](https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss)
+2. [Dozens of sloths died before opening of Sloth World attraction in Florida](https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss)
+3. [Katya Adler: Europe's Nato allies push back at reported US threat to Spain](https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss)
+4. [Thousands at risk after multi-million dollar Everest flood warning system left to rust](https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss)
+5. [Meeting with the King would 'demonstrate human dignity', says Epstein survivor](https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss)
+6. [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
+7. [Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks](https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss)
+8. [China car giant BYD says it can thrive without US](https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss)
+9. [Vessels seized by the U.S. this week were part of a global 'shadow fleet'](https://www.npr.org/2026/04/24/nx-s1-5795895/vessels-seized-by-the-u-s-this-week-were-part-of-a-global-shadow-fleet)
+10. [Britain and Spain Reject Reported Plans by Trump to Punish Them](https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html)
 <!-- daily-check end -->
 
 ---
