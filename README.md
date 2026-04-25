@@ -1941,17 +1941,17 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月25日 11:02:17
+更新时间：2026年4月25日 13:03:07
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
-3. [Mali army says armed groups launch coordinated attacks across country](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
-4. [Seven dead in major Russian attack on Ukraine](https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss)
-5. [The Elite ‘Doctors’ Who Care for Mount Everest](https://www.nytimes.com/2026/04/25/world/asia/mount-everest-sherpa-icefall-doctor.html)
-6. [The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown](https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html)
-7. [Europe Prepares for a Longer War in Ukraine, With No Strategy to End It](https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html)
+1. [Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
+2. [Seven dead in major Russian attack on Ukraine](https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss)
+3. [Europe Prepares for a Longer War in Ukraine, With No Strategy to End It](https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html)
+4. [Explosions and gunfire as armed groups launch coordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
+5. [Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)
+6. [The Elite ‘Doctors’ Who Care for Mount Everest](https://www.nytimes.com/2026/04/25/world/asia/mount-everest-sherpa-icefall-doctor.html)
+7. [The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown](https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html)
 8. [Raqqa Showcases Syria’s Tumultuous Past](https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html)
 9. [On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles](https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html)
 10. [Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks](https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates)
