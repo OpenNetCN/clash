@@ -1941,14 +1941,14 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月25日 14:01:06
+更新时间：2026年4月25日 15:02:19
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
-2. [Seven dead in major Russian attack on Ukraine](https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss)
-3. [Europe Prepares for a Longer War in Ukraine, With No Strategy to End It](https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html)
-4. [Explosions and gunfire as armed groups launch coordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
+2. [Explosions and gunfire as armed groups launch co-ordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
+3. [Seven dead in major Russian attack on Ukraine](https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss)
+4. [Europe Prepares for a Longer War in Ukraine, With No Strategy to End It](https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html)
 5. [Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)
 6. [The Elite ‘Doctors’ Who Care for Mount Everest](https://www.nytimes.com/2026/04/25/world/asia/mount-everest-sherpa-icefall-doctor.html)
 7. [The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown](https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html)
