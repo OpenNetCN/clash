@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月24日 15:00:59
+更新时间：2026年4月25日 01:01:42
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: U.S. Blockade Will Last ‘as Long as It Takes,’ Hegseth Says](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
-2. [Europeans Ask: What Would It Mean to Defend One Another Without NATO?](https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html)
-3. [Nato says 'no provision' to expel members after report US could seek to suspend Spain](https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss)
-4. [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
-5. [Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest](https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss)
-6. [South Africa's top envoy to Ghana summoned over attacks on foreigners](https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss)
-7. [Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz](https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates)
-8. [Israel's Benjamin Netanyahu treated for early-stage prostate cancer](https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss)
-9. [Poisoning suspected in deaths of 18 wolves in Italian national park](https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss)
-10. [Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules](https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket)
+1. [Iran War Live Updates: Witkoff and Kushner to Go to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz)
+2. [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
+3. [Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks](https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss)
+4. [Vessels seized by the U.S. this week were part of a global 'shadow fleet'](https://www.npr.org/2026/04/24/nx-s1-5795895/vessels-seized-by-the-u-s-this-week-were-part-of-a-global-shadow-fleet)
+5. [US justice department drops probe into Fed chairman Jerome Powell](https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss)
+6. [Britain and Spain Reject Reported Plans by Trump to Punish Them](https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html)
+7. [Three Kosovo Serbs jailed over deadly gun battle and monastery siege](https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss)
+8. [In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill](https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html)
+9. [As Putin Orders That the Economy Be Fixed, Russia Grasps for Solutions](https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html)
+10. [Who is making decisions in Iran?](https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
