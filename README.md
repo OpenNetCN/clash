@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月26日 08:04:17
+更新时间：2026年4月26日 09:02:23
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
-2. [What it was like in the room as shots rang out at correspondents' dinner](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
-3. [In Japan, the Fight Is on Against Unruly Tourists](https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html)
-4. [What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump](https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html)
-5. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
-6. [40 Years Ago, a Nuclear Catastrophe at Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html)
-7. [How Nieves González’s Painting of Lily Allen Made Her Famous](https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html)
-8. [Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon](https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss)
-9. [In a rare interview, a leader of the world's largest right-wing group talks to NPR](https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist)
-10. [Trump cancels US envoys' trip to Pakistan for talks on Iran war](https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss)
+1. [Armed groups launch coordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
+2. [Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
+3. [What it was like in the room as shots rang out at correspondents' dinner](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
+4. [In Japan, the Fight Is on Against Unruly Tourists](https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html)
+5. [What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump](https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html)
+6. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
+7. [40 Years Ago, a Nuclear Catastrophe at Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html)
+8. [How Nieves González’s Painting of Lily Allen Made Her Famous](https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html)
+9. [Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon](https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss)
+10. [In a rare interview, a leader of the world's largest right-wing group talks to NPR](https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist)
 <!-- daily-check end -->
 
 ---
