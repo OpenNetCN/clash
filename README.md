@@ -1941,11 +1941,11 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月26日 04:02:42
+更新时间：2026年4月26日 06:04:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
+1. [Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
 2. [In a rare interview, a leader of the world's largest right-wing group talks to NPR](https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist)
 3. [Trump cancels US envoys' trip to Pakistan for talks on Iran war](https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss)
 4. [Explosions and gunfire as armed groups launch co-ordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
