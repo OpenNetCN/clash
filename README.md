@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月25日 15:02:19
+更新时间：2026年4月26日 02:03:38
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
-2. [Explosions and gunfire as armed groups launch co-ordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
-3. [Seven dead in major Russian attack on Ukraine](https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss)
-4. [Europe Prepares for a Longer War in Ukraine, With No Strategy to End It](https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html)
-5. [Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)
-6. [The Elite ‘Doctors’ Who Care for Mount Everest](https://www.nytimes.com/2026/04/25/world/asia/mount-everest-sherpa-icefall-doctor.html)
-7. [The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown](https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html)
-8. [Raqqa Showcases Syria’s Tumultuous Past](https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html)
-9. [On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles](https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html)
-10. [Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks](https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates)
+1. [Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
+2. [In a rare interview, a leader of the world's largest right-wing group talks to NPR](https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist)
+3. [Trump cancels US envoys' trip to Pakistan for talks on Iran war](https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss)
+4. [Explosions and gunfire as armed groups launch co-ordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
+5. [Orbán steps down from Hungarian parliament after landslide defeat](https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss)
+6. [Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters](https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html)
+7. [Mexico says US agents killed in crash weren't permitted to operate there](https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss)
+8. [Rights groups critical as Venezuela prisoner release scheme 'coming to an end'](https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss)
+9. [Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)
+10. [Indigenous Speakers Are Booed During Commemorations of Australia’s War Dead](https://www.nytimes.com/2026/04/25/world/australia/anzac-day-indigenous-speakers-booed.html)
 <!-- daily-check end -->
 
 ---
