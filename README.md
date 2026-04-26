@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月26日 10:01:43
+更新时间：2026年4月26日 12:00:34
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base](https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html)
-2. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
-3. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
-4. [Armed groups launch coordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
-5. [What it was like in the room as shots rang out at correspondents' dinner](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
-6. [In Japan, the Fight Is on Against Unruly Tourists](https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html)
-7. [What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump](https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html)
-8. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
-9. [How Nieves González’s Painting of Lily Allen Made Her Famous](https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html)
-10. [Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon](https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss)
+1. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
+2. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
+3. [Iranian Negotiators Set to Return to Pakistan to Try to Revive Truce Talks](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
+4. [Islamabad Reopens After U.S.-Iran Talks Fail to Materialize](https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html)
+5. [King Charles U.S. visit comes at tense moment in transatlantic relationship](https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump)
+6. [What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base](https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html)
+7. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+8. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
+9. [Armed groups launch coordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
+10. [What it was like in the room as shots rang out at correspondents' dinner](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
