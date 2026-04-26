@@ -1941,14 +1941,14 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月26日 14:02:59
+更新时间：2026年4月26日 15:00:54
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
-2. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
-3. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
-4. [Iranian Negotiators Set to Return to Pakistan to Try to Revive Truce Talks](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
+1. [Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
+2. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+3. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
+4. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
 5. [Islamabad Reopens After U.S.-Iran Talks Fail to Materialize](https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html)
 6. [King Charles U.S. visit comes at tense moment in transatlantic relationship](https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump)
 7. [What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base](https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html)
