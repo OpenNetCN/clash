@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月26日 06:04:33
+更新时间：2026年4月26日 07:00:24
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan)
-2. [In a rare interview, a leader of the world's largest right-wing group talks to NPR](https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist)
-3. [Trump cancels US envoys' trip to Pakistan for talks on Iran war](https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss)
-4. [Explosions and gunfire as armed groups launch co-ordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
-5. [Orbán steps down from Hungarian parliament after landslide defeat](https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss)
-6. [Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters](https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html)
-7. [Mexico says US agents killed in crash weren't permitted to operate there](https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss)
-8. [Rights groups critical as Venezuela prisoner release scheme 'coming to an end'](https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss)
-9. [Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)
-10. [Indigenous Speakers Are Booed During Commemorations of Australia’s War Dead](https://www.nytimes.com/2026/04/25/world/australia/anzac-day-indigenous-speakers-booed.html)
+2. [What it was like in the room as shots rang out at correspondents' dinner](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
+3. [In Japan, the Fight Is on Against Unruly Tourists](https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html)
+4. [What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump](https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html)
+5. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
+6. [40 Years Ago, a Nuclear Catastrophe at Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/40-years-ago-a-nuclear-catastrophe-at-chernobyl.html)
+7. [Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon](https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss)
+8. [Al Qaeda-Linked Militants Launch Major Attacks on Cities Across Mali](https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html)
+9. [In a rare interview, a leader of the world's largest right-wing group talks to NPR](https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist)
+10. [Trump cancels US envoys' trip to Pakistan for talks on Iran war](https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
