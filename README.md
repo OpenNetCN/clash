@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月26日 12:00:34
+更新时间：2026年4月26日 14:02:59
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
-2. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
-3. [Iranian Negotiators Set to Return to Pakistan to Try to Revive Truce Talks](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
-4. [Islamabad Reopens After U.S.-Iran Talks Fail to Materialize](https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html)
-5. [King Charles U.S. visit comes at tense moment in transatlantic relationship](https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump)
-6. [What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base](https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html)
-7. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+1. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+2. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
+3. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
+4. [Iranian Negotiators Set to Return to Pakistan to Try to Revive Truce Talks](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
+5. [Islamabad Reopens After U.S.-Iran Talks Fail to Materialize](https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html)
+6. [King Charles U.S. visit comes at tense moment in transatlantic relationship](https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump)
+7. [What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base](https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html)
 8. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
 9. [Armed groups launch coordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
-10. [What it was like in the room as shots rang out at correspondents' dinner](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
+10. [I was in the room with Trump and heard the low thudding sound of gunfire](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
