@@ -1949,11 +1949,11 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月27日 04:03:00
+更新时间：2026年4月27日 05:02:23
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe](https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss)
+1. [Trump says he 'wasn't worried' during Washington press dinner shooting](https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss)
 2. [Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
 3. [Egypt's Grand Museum opens after many delays](https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays)
 4. [Mali defence minister killed as country hit by wave of rebel attacks](https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss)
