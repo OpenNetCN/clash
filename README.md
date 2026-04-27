@@ -2130,20 +2130,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月27日 14:03:34
+更新时间：2026年4月27日 15:02:49
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Archbishop of Canterbury Prays With Pope Leo at the Vatican in Historic Meeting](https://www.nytimes.com/2026/04/27/world/europe/pope-leo-archbishop-canterbury-mullally-vatican.html)
+1. [Russian fighters confirm withdrawal from northern Mali city after separatist attacks](https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss)
 2. [Iran’s Foreign Minister Is in Russia for Talks With Putin on Middle East War](https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html)
-3. [King Charles Is Coming to the U.S. at a Very Delicate Time](https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html)
-4. [Mali’s Defense Minister Killed in Attacks by Islamist Insurgents](https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html)
-5. [China blocks Meta from acquiring AI startup Manus](https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus)
-6. [Russian fighters confirm withdrawal from northern Mali city after separatist attacks](https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss)
-7. [Hezbollah Says It Will Keep Weapons as Lebanon Says Israeli Strikes Killed 14](https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html)
-8. [Alleged Correspondents' Dinner shooter to appear in court. And, Charles III visits U.S.](https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk)
-9. [What we're learning about suspected Washington press dinner gunman](https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss)
-10. [Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack](https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss)
+3. [Archbishop of Canterbury Prays With Pope Leo at the Vatican in Historic Meeting](https://www.nytimes.com/2026/04/27/world/europe/pope-leo-archbishop-canterbury-mullally-vatican.html)
+4. [King Charles Is Coming to the U.S. at a Very Delicate Time](https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html)
+5. [Mali’s Defense Minister Killed in Attacks by Islamist Insurgents](https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html)
+6. [China blocks Meta from acquiring AI startup Manus](https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus)
+7. [Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage](https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss)
+8. [Hezbollah Says It Will Keep Weapons as Lebanon Says Israeli Strikes Killed 14](https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html)
+9. [Alleged Correspondents' Dinner shooter to appear in court. And, Charles III visits U.S.](https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk)
+10. [What we're learning about suspected Washington press dinner gunman](https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
