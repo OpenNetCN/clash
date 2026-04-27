@@ -1941,20 +1941,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月26日 15:00:54
+更新时间：2026年4月27日 02:04:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
-2. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
-3. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
-4. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
-5. [Islamabad Reopens After U.S.-Iran Talks Fail to Materialize](https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html)
-6. [King Charles U.S. visit comes at tense moment in transatlantic relationship](https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump)
-7. [What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base](https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html)
-8. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
-9. [Armed groups launch coordinated attacks across Mali](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
-10. [I was in the room with Trump and heard the low thudding sound of gunfire](https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss)
+1. [Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe](https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss)
+2. [Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
+3. [Egypt's Grand Museum opens after many delays](https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays)
+4. [Mali defence minister killed as country hit by wave of rebel attacks](https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss)
+5. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
+6. [Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’](https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html)
+7. [How China is responding to the stalling of talks between the U.S. and Iran](https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran)
+8. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+9. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
+10. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
 <!-- daily-check end -->
 
 ---
