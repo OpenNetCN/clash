@@ -1949,20 +1949,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月27日 05:02:23
+更新时间：2026年4月27日 09:04:10
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump says he 'wasn't worried' during Washington press dinner shooting](https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss)
-2. [Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
-3. [Egypt's Grand Museum opens after many delays](https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays)
-4. [Mali defence minister killed as country hit by wave of rebel attacks](https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss)
-5. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
-6. [Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’](https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html)
-7. [How China is responding to the stalling of talks between the U.S. and Iran](https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran)
-8. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
-9. [Trump doubts shooter motivated by Iran war as peace talks on hold](https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan)
-10. [40 Years After the Meltdown, War Layers Another Disaster on Chernobyl](https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html)
+1. [Trump says King will be 'very safe' during US visit after security talks](https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss)
+2. [Oil prices rise as US-Iran peace talks stall](https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss)
+3. [Pirates seize another vessel off Somali coast as threat level increased](https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss)
+4. [Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war](https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss)
+5. [Palestinian officials hail local elections in a Gaza community and the West Bank](https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank)
+6. [Ukraine's drone commander has Russian oil, troops and morale in his sights](https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss)
+7. [Suspected gunman at Washington press dinner identified as 31-year-old Californian](https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss)
+8. [Missing 5-year-old girl likely abducted from Outback home, police say](https://www.bbc.com/news/articles/cgrlr18e29ro?at_medium=RSS&at_campaign=rss)
+9. [Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold](https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html)
+10. [Egypt's Grand Museum opens after many delays](https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays)
 <!-- daily-check end -->
 
 ---
