@@ -1949,20 +1949,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月27日 11:01:21
+更新时间：2026年4月27日 12:02:08
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Homeowners Fight for Control of Their Community in China](https://www.nytimes.com/2026/04/27/world/asia/china-homeowners-associations.html)
-2. [Can King Charles Help Heal the U.S.-British Rupture?](https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html)
-3. [Oil prices rise as US-Iran peace talks stall](https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss)
-4. [Canada Is a World Leader on Clean Gold, if You Don’t Look Too Closely](https://www.nytimes.com/2026/04/27/world/americas/royal-canadian-mint-gold-drug-cartel-colombia.html)
-5. [Ukraine's drone commander has Russian oil, troops and morale in his sights](https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss)
-6. [Michael Jackson biopic smashes box office record](https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss)
-7. [Suspected gunman at Washington press dinner identified as 31-year-old Californian](https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss)
-8. [At least 42 killed in Chad after water well dispute escalates](https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss)
-9. [Trump says King will be 'very safe' during US visit after security talks](https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss)
-10. [Fighting ‘Sacred’ War in Ukraine, North Korea and Russia Pledge to Deepen Ties](https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html)
+1. [What we're learning about suspected Washington press dinner gunman](https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss)
+2. [Mali’s Defense Minister Killed in Attacks by Islamist Insurgents](https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html)
+3. [Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack](https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss)
+4. [Iran's flurry of diplomacy, as Trump insists U.S. has 'the cards'](https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates)
+5. [Archbishop praises Pope's anti-war comments during Vatican visit](https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss)
+6. [Canada Says Its Gold Is Traceable and Clean. So We Traced It.](https://www.nytimes.com/2026/04/27/world/americas/royal-canadian-mint-gold-drug-cartel-colombia.html)
+7. [Homeowners Fight for Control of Their Community in China](https://www.nytimes.com/2026/04/27/world/asia/china-homeowners-associations.html)
+8. [Can King Charles Help Heal the U.S.-British Rupture?](https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html)
+9. [Oil prices rise as US-Iran peace talks stall](https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss)
+10. [Michael Jackson biopic smashes box office record](https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
