@@ -2136,15 +2136,15 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月28日 06:04:56
+更新时间：2026年4月28日 07:02:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption](https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption)
-2. [Rescuers race to free survivors trapped inside train after fatal Indonesia crash](https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss)
-3. [Canada’s New Route to Citizenship Has Thousands of Americans Lining Up to Apply](https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html)
-4. [Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.](https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html)
-5. [Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke](https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss)
+1. [Jimmy Kimmel rejects White House criticism over Melania widow joke](https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss)
+2. [Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption](https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption)
+3. [Rescuers race to free survivors trapped inside train after fatal Indonesia crash](https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss)
+4. [Canada’s New Route to Citizenship Has Thousands of Americans Lining Up to Apply](https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html)
+5. [Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.](https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html)
 6. [Canada Says Its Gold Is Traceable and Clean. So We Traced It.](https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html)
 7. [Iran Offers Plan to Focus on Strait of Hormuz and Delay Nuclear Talks](https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html)
 8. [Iran’s Foreign Minister Is in Russia for Talks With Putin on Middle East War](https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html)
