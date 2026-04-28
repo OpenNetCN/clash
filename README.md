@@ -2136,11 +2136,11 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月28日 04:02:50
+更新时间：2026年4月28日 05:02:47
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Rescuers race to free survivors trapped inside train after fatal crash](https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss)
+1. [Rescuers race to free survivors trapped inside train after fatal Indonesia crash](https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss)
 2. [Canada’s New Route to Citizenship Has Thousands of Americans Lining Up to Apply](https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html)
 3. [Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.](https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html)
 4. [Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke](https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss)
