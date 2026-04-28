@@ -2136,15 +2136,15 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月28日 12:04:11
+更新时间：2026年4月28日 13:04:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
-2. [WHCA dinner shooter charged. And, Charles III to address Congress](https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm)
-3. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
-4. [Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts](https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates)
-5. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
+1. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
+2. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
+3. [WHCA dinner shooter charged. And, Charles III to address Congress](https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm)
+4. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
+5. [Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts](https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates)
 6. [Man admits plotting attack on Taylor Swift concert in Vienna](https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss)
 7. ['We don't know what will happen to us': U.S. deportees in limbo in DRC](https://www.npr.org/2026/04/28/nx-s1-5798775/drc-latin-america-deportees-asylum-migration)
 8. [Internet Restrictions Spur Russians to Openly Question Putin’s Moves](https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html)
