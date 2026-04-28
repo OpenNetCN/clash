@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月28日 09:03:14
+更新时间：2026年4月28日 10:04:48
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Violence escalates in Colombia with dozens of attacks before presidential vote](https://www.npr.org/2026/04/28/nx-s1-5802273/violence-colombia-before-presidential-vote)
-2. [Austrian goes on trial accused of plotting attack on Taylor Swift concert](https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss)
-3. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
-4. [Jimmy Kimmel rejects White House criticism over Melania widow joke](https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss)
-5. [Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption](https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption)
-6. [Rescuers race to free survivors trapped inside train after fatal Indonesia crash](https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss)
-7. [IS claims responsibility for Nigeria attack that killed 29 people](https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss)
-8. [Suspect charged with attempted assassination of Trump at Washington dinner](https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss)
-9. [US political violence generates a familiar cycle - this time it's in overdrive](https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss)
-10. [Canada’s New Route to Citizenship Has Thousands of Americans Lining Up to Apply](https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html)
+1. ['We don't know what will happen to us': U.S. deportees in limbo in DRC](https://www.npr.org/2026/04/28/nx-s1-5798775/drc-latin-america-deportees-asylum-migration)
+2. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
+3. [Internet Restrictions Spur Russians to Openly Question Putin’s Moves](https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html)
+4. [They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?](https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html)
+5. [Ron Paul Saw The U.S. Mint’s Gold Problems Coming](https://www.nytimes.com/2026/04/28/world/americas/us-mint-gold-program-ron-paul.html)
+6. [Violence escalates in Colombia with dozens of attacks before presidential vote](https://www.npr.org/2026/04/28/nx-s1-5802273/violence-colombia-before-presidential-vote)
+7. [Austrian goes on trial accused of plotting attack on Taylor Swift concert](https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss)
+8. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
+9. [Jimmy Kimmel rejects White House criticism over Melania widow joke](https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss)
+10. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
 <!-- daily-check end -->
 
 ---
