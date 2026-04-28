@@ -129,7 +129,7 @@
 
 ### 🔥 先看这两家（优先）
 
-#### 1. [**BoostNet**｜综合主力首推 · 自研客户端 · 三网直连 IEPL · 新用户 8 折](https://boostnet1.com/register?code=kKMFirlm)
+#### 1. [**BoostNet**｜综合主力首推 · 自研客户端 · 三网直连 IEPL · 新用户 8 折](https://boostqz.com?path=register&code=kKMFirlm)
 
 - ✅ 自研客户端 + 三网直连 IEPL，日常使用更省心，线路稳定性和抗打击能力更强
 - ✅ 稳定性和性价比都很能打，属于少见“不算便宜但也不离谱”的中高端专线机场
@@ -255,7 +255,7 @@
 > 
 > - **适合谁：** 想少折腾、直接上一条长期主力线的中高强度用户，尤其适合 `AI + 流媒体 + 远程办公` 一起用的人  
 > - **不适合：** 预算极低、只想偶尔用一下的轻度用户（更适合银河云/贝贝云等）  
-> - **怎么买：** 日常主力优先 **200G/月（¥49）**；多设备优先 **400G/月（¥79）**；重度优先 **1000G/月（¥129）**｜[立即注册 BoostNet（新用户 8 折）](https://boostnet1.com/register?code=kKMFirlm)
+> - **怎么买：** 日常主力优先 **200G/月（¥49）**；多设备优先 **400G/月（¥79）**；重度优先 **1000G/月（¥129）**｜[立即注册 BoostNet（新用户 8 折）](https://boostqz.com?path=register&code=kKMFirlm)
 > 
 > 🧾 **优惠码怎么用（30 秒）**  
 > 1）点上面的注册链接 → 选套餐/周期 → 进入结算页  
@@ -269,7 +269,7 @@
 **适合人群：** 追求稳定性、速度上限和长期省心体验的中高端用户，尤其适合经常使用 ChatGPT / Claude / Copilot、需要流媒体 4K 解锁、远程办公长时间在线的人；如果你平时也会做常规跨境后台访问、账号日常管理和海外服务登录，BoostNet 这类综合线通常也更省心。  
 **不适合：** 只想最省钱年付、对上限不敏感的纯预算党。  
 **核心优势：** 自研客户端 + 三网直连 IEPL 的组合，让它在稳定性、抗打击能力和日常使用便利度上更有优势；再加上客服响应普遍很快，很多问题几分钟内就能得到回复，更适合不想反复折腾的人。  
-👉 想直接上车： [立即注册 BoostNet（新用户 8 折）](https://boostnet1.com/register?code=kKMFirlm)
+👉 想直接上车： [立即注册 BoostNet（新用户 8 折）](https://boostqz.com?path=register&code=kKMFirlm)
 
 > **BoostNet** 是一家定位偏中高端的专线机场（2024 年运营），主打广东电信/联通/移动三网直连 → IEPL 专线出口落地香港 HGC。它最大的卖点不只是速度上限高，而是“好用、稳、能长期当主力”这三点做得比较均衡。配合自研客户端，日常导入、切换节点和故障恢复都更省心；从长期使用视角看，线路稳定性和抗打击能力也更强。另一个很容易被忽略的优点是客服响应速度快，实际遇到订阅、客户端、节点切换这类问题时，通常几分钟内就能拿到回复。以 2026-03-03 这轮实测为参考，晚高峰看 YouTube 码率能跑到 500M+，4K 大片基本没压力，AI 工具与主流流媒体解锁表现也足够强。
 
@@ -335,7 +335,7 @@
 
 > 📋 **优惠码：** `boost`  
 > 💰 **优惠力度：** 新用户一次性 8 折（部分福利款/特价包可能不参与，以结算页为准）  
-> 🔗 **立即注册：** [BoostNet（中高端 IEPL 专线）](https://boostnet1.com/register?code=kKMFirlm)  
+> 🔗 **立即注册：** [BoostNet（中高端 IEPL 专线）](https://boostqz.com?path=register&code=kKMFirlm)  
 > 📖 **完整测评：** [BoostNet 机场测评（2026-03-03 实测）](https://airport.gptvpnhelper.com/boostnet/)
 
 ---
@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月28日 13:04:58
+更新时间：2026年4月28日 14:04:32
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
-2. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
-3. [WHCA dinner shooter charged. And, Charles III to address Congress](https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm)
-4. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
-5. [Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts](https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates)
-6. [Man admits plotting attack on Taylor Swift concert in Vienna](https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss)
-7. ['We don't know what will happen to us': U.S. deportees in limbo in DRC](https://www.npr.org/2026/04/28/nx-s1-5798775/drc-latin-america-deportees-asylum-migration)
-8. [Internet Restrictions Spur Russians to Openly Question Putin’s Moves](https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html)
-9. [They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?](https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html)
-10. [Ron Paul Saw The U.S. Mint’s Gold Problems Coming](https://www.nytimes.com/2026/04/28/world/americas/us-mint-gold-program-ron-paul.html)
+1. [Hunt for suspected gunman aged 89 as five wounded in Athens](https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss)
+2. [United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
+3. [In Iran, Cheetah Sightings Offer Rare Spots of Hope Amid War](https://www.nytimes.com/2026/04/28/world/middleeast/iran-cheetah-sightings-war.html)
+4. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
+5. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
+6. [WHCA dinner shooter charged. And, Charles III to address Congress](https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm)
+7. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
+8. [Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts](https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates)
+9. [Man admits plotting attack on Taylor Swift concert in Vienna](https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss)
+10. ['We don't know what will happen to us': U.S. deportees in limbo in DRC](https://www.npr.org/2026/04/28/nx-s1-5798775/drc-latin-america-deportees-asylum-migration)
 <!-- daily-check end -->
 
 ---
