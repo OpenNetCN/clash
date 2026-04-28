@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月28日 14:04:32
+更新时间：2026年4月28日 15:04:11
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Hunt for suspected gunman aged 89 as five wounded in Athens](https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss)
-2. [United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
-3. [In Iran, Cheetah Sightings Offer Rare Spots of Hope Amid War](https://www.nytimes.com/2026/04/28/world/middleeast/iran-cheetah-sightings-war.html)
-4. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
-5. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
-6. [WHCA dinner shooter charged. And, Charles III to address Congress](https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm)
-7. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
-8. [Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts](https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates)
-9. [Man admits plotting attack on Taylor Swift concert in Vienna](https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss)
-10. ['We don't know what will happen to us': U.S. deportees in limbo in DRC](https://www.npr.org/2026/04/28/nx-s1-5798775/drc-latin-america-deportees-asylum-migration)
+1. [United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
+2. [Suspected gunman aged 89 held in Greece after five wounded](https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss)
+3. [Third Ukrainian strike hits Russian oil refinery and prompts evacuations](https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss)
+4. [United Arab Emirates Says It Will Leave OPEC in Blow to Oil Cartel](https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html)
+5. [In Iran, Cheetah Sightings Offer Rare Spots of Hope Amid War](https://www.nytimes.com/2026/04/28/world/middleeast/iran-cheetah-sightings-war.html)
+6. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
+7. [Luxury Yacht Linked to Russian Oligarch Passes Through Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/middleeast/yacht-strait-hormuz-russia-oligarch.html)
+8. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
+9. [WHCA dinner shooter charged. And, Charles III to address Congress](https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm)
+10. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
 <!-- daily-check end -->
 
 ---
