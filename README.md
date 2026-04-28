@@ -2130,20 +2130,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月27日 15:02:49
+更新时间：2026年4月28日 01:03:04
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Russian fighters confirm withdrawal from northern Mali city after separatist attacks](https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss)
-2. [Iran’s Foreign Minister Is in Russia for Talks With Putin on Middle East War](https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html)
-3. [Archbishop of Canterbury Prays With Pope Leo at the Vatican in Historic Meeting](https://www.nytimes.com/2026/04/27/world/europe/pope-leo-archbishop-canterbury-mullally-vatican.html)
-4. [King Charles Is Coming to the U.S. at a Very Delicate Time](https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html)
-5. [Mali’s Defense Minister Killed in Attacks by Islamist Insurgents](https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html)
-6. [China blocks Meta from acquiring AI startup Manus](https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus)
-7. [Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage](https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss)
-8. [Hezbollah Says It Will Keep Weapons as Lebanon Says Israeli Strikes Killed 14](https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html)
-9. [Alleged Correspondents' Dinner shooter to appear in court. And, Charles III visits U.S.](https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk)
-10. [What we're learning about suspected Washington press dinner gunman](https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss)
+1. [Canada’s New Route to Citizenship Has Thousands of Americans Lining Up to Apply](https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html)
+2. [Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.](https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html)
+3. [Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke](https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss)
+4. [Canada Says Its Gold Is Traceable and Clean. So We Traced It.](https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html)
+5. [Iran Offers Plan to Focus on Strait of Hormuz and Delay Nuclear Talks](https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html)
+6. [At least four killed and dozens injured in Indonesia train crash](https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss)
+7. [Iran’s Foreign Minister Is in Russia for Talks With Putin on Middle East War](https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html)
+8. [Venice opera house drops incoming music director after nepotism remarks](https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss)
+9. [Hezbollah Vows to Keep Its Weapons as Lebanon Says Israeli Strikes Killed 14](https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html)
+10. [Pakistan accused of attacking Afghan university](https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
