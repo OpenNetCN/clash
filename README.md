@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月28日 15:04:11
+更新时间：2026年4月29日 01:04:25
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
-2. [Suspected gunman aged 89 held in Greece after five wounded](https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss)
-3. [Third Ukrainian strike hits Russian oil refinery and prompts evacuations](https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss)
-4. [United Arab Emirates Says It Will Leave OPEC in Blow to Oil Cartel](https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html)
-5. [In Iran, Cheetah Sightings Offer Rare Spots of Hope Amid War](https://www.nytimes.com/2026/04/28/world/middleeast/iran-cheetah-sightings-war.html)
-6. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
-7. [Luxury Yacht Linked to Russian Oligarch Passes Through Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/middleeast/yacht-strait-hormuz-russia-oligarch.html)
-8. [Russian superyacht sails through Strait of Hormuz despite blockade](https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss)
-9. [WHCA dinner shooter charged. And, Charles III to address Congress](https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm)
-10. [How South Korea Uses A.I. to Check on Its Elderly](https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html)
+1. [Comey charged with threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss)
+2. [Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way](https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html)
+3. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
+4. [King Charles urges 'reconciliation' in address to U.S. Congress amid Trump tensions](https://www.npr.org/2026/04/28/nx-s1-5802803/king-charles-urges-reconciliation-in-address-to-u-s-congress-amid-trump-tensions)
+5. [US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump](https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss)
+6. [Musk says basis of charitable giving at stake in OpenAI lawsuit](https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss)
+7. [Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle](https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html)
+8. [They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?](https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html)
+9. [Prisoner Swap Between Belarus, Poland and Other Nations Frees 10](https://www.nytimes.com/2026/04/28/world/europe/belarus-poland-prisoner-swap-trump.html)
+10. [Ex-TV showgirl's pardon at centre of widening Italian scandal](https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
