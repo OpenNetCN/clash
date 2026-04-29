@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月29日 05:03:45
+更新时间：2026年4月29日 06:02:55
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Comey charged with threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss)
-2. [Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way](https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html)
-3. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
-4. [King Charles urges 'reconciliation' in address to U.S. Congress amid Trump tensions](https://www.npr.org/2026/04/28/nx-s1-5802803/king-charles-urges-reconciliation-in-address-to-u-s-congress-amid-trump-tensions)
-5. [US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump](https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss)
-6. [Musk says basis of charitable giving at stake in OpenAI lawsuit](https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss)
-7. [Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle](https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html)
-8. [They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?](https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html)
-9. [Prisoner Swap Between Belarus, Poland and Other Nations Frees 10](https://www.nytimes.com/2026/04/28/world/europe/belarus-poland-prisoner-swap-trump.html)
-10. [Ex-TV showgirl's pardon at centre of widening Italian scandal](https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss)
+1. [Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle](https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html)
+2. [Australia moves to tax Meta, Google and TikTok to fund newsrooms](https://www.npr.org/2026/04/29/g-s1-119142/australia-moves-to-tax-meta-google-and-tiktok-to-fund-newsrooms)
+3. [Weeks of silence over Iran school strike highly unusual, former US officials say](https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss)
+4. [Five takeaways from the King's historic address to Congress](https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss)
+5. [Comey charged with threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss)
+6. [Trump's face to feature on commemorative US passports](https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss)
+7. [Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way](https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html)
+8. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
+9. [King Charles urges 'reconciliation' in address to U.S. Congress amid Trump tensions](https://www.npr.org/2026/04/28/nx-s1-5802803/king-charles-urges-reconciliation-in-address-to-u-s-congress-amid-trump-tensions)
+10. [US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump](https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
