@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月29日 08:02:44
+更新时间：2026年4月29日 11:02:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Japan zoo staffer allegedly dumps wife's body inside incinerator](https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss)
-2. [Five takeaways from the King's historic address to Congress](https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss)
-3. [Red cards can be given to players who cover their mouths while confronting opponents](https://www.npr.org/2026/04/29/g-s1-119149/red-cards-cover-mouths)
-4. [Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle](https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html)
-5. [Australia moves to tax Meta, Google and TikTok to fund newsrooms](https://www.npr.org/2026/04/29/g-s1-119142/australia-moves-to-tax-meta-google-and-tiktok-to-fund-newsrooms)
-6. [Weeks of silence over Iran school strike highly unusual, former US officials say](https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss)
-7. [Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine](https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss)
-8. [Comey charged with threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss)
-9. [Trump's face to feature on commemorative US passports](https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss)
-10. [Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way](https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html)
+1. [France urges citizens to leave Mali after rebel attacks](https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss)
+2. [South Korean court sentences ex-President Yoon to 7 years in prison](https://www.npr.org/2026/04/29/g-s1-119165/south-korean-court-sentences-ex-president-yoon)
+3. [Internet Restrictions Spur Russians to Openly Question Putin’s Moves](https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html)
+4. [Two dead after small plane crashes into Australia airport hangar](https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss)
+5. [Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.](https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html)
+6. [Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’](https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html)
+7. [Could this conference be a 'turning point' for the world's use of fossil fuels?](https://www.npr.org/2026/04/29/nx-s1-5786914/colombia-conference-fossil-fuels)
+8. [Five takeaways from the King's historic address to Congress](https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss)
+9. [EU says Meta is failing to keep underage users off Facebook and Instagram](https://www.npr.org/2026/04/29/g-s1-119157/eu-meta-underage-users)
+10. [Palestinian refugee uses art to share the story of his childhood with his daughter](https://www.npr.org/2026/04/29/nx-s1-5788021/palestinian-refugee-uses-art-to-share-the-story-of-his-childhood-with-his-daughter)
 <!-- daily-check end -->
 
 ---
