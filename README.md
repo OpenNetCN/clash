@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月29日 11:02:31
+更新时间：2026年4月29日 15:02:52
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [France urges citizens to leave Mali after rebel attacks](https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss)
-2. [South Korean court sentences ex-President Yoon to 7 years in prison](https://www.npr.org/2026/04/29/g-s1-119165/south-korean-court-sentences-ex-president-yoon)
-3. [Internet Restrictions Spur Russians to Openly Question Putin’s Moves](https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html)
-4. [Two dead after small plane crashes into Australia airport hangar](https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss)
-5. [Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.](https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html)
-6. [Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’](https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html)
-7. [Could this conference be a 'turning point' for the world's use of fossil fuels?](https://www.npr.org/2026/04/29/nx-s1-5786914/colombia-conference-fossil-fuels)
-8. [Five takeaways from the King's historic address to Congress](https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss)
-9. [EU says Meta is failing to keep underage users off Facebook and Instagram](https://www.npr.org/2026/04/29/g-s1-119157/eu-meta-underage-users)
-10. [Palestinian refugee uses art to share the story of his childhood with his daughter](https://www.npr.org/2026/04/29/nx-s1-5788021/palestinian-refugee-uses-art-to-share-the-story-of-his-childhood-with-his-daughter)
+1. [US Supreme Court limits use of race in drawing electoral maps](https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss)
+2. [Gallows Humor Provides Respite From Mideast Wars](https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html)
+3. [France urges citizens to leave Mali after rebel attacks](https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss)
+4. [Greetings from Syria, where a postwar olive harvest offers a long-lost taste of home](https://www.npr.org/2026/04/29/g-s1-118663/syria-olive-harvest-homs)
+5. [Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims](https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss)
+6. [Counterterrorism Police Investigating Stabbing in Jewish Area in London](https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html)
+7. [Global forest loss slows but El Niño fires could threaten progress](https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss)
+8. [Russia scales back Moscow Victory Day parade, blaming threat from Ukraine](https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss)
+9. [Trump’s Clash With Merz Shows It’s Hard to Stay Friends With the President](https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html)
+10. [Will King's US visit lead to lasting reset in relations with UK?](https://www.bbc.com/news/articles/cwy2xyvx109o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
