@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月29日 06:02:55
+更新时间：2026年4月29日 08:02:44
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle](https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html)
-2. [Australia moves to tax Meta, Google and TikTok to fund newsrooms](https://www.npr.org/2026/04/29/g-s1-119142/australia-moves-to-tax-meta-google-and-tiktok-to-fund-newsrooms)
-3. [Weeks of silence over Iran school strike highly unusual, former US officials say](https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss)
-4. [Five takeaways from the King's historic address to Congress](https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss)
-5. [Comey charged with threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss)
-6. [Trump's face to feature on commemorative US passports](https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss)
-7. [Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way](https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html)
-8. [The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz](https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html)
-9. [King Charles urges 'reconciliation' in address to U.S. Congress amid Trump tensions](https://www.npr.org/2026/04/28/nx-s1-5802803/king-charles-urges-reconciliation-in-address-to-u-s-congress-amid-trump-tensions)
-10. [US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump](https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss)
+1. [Japan zoo staffer allegedly dumps wife's body inside incinerator](https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss)
+2. [Five takeaways from the King's historic address to Congress](https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss)
+3. [Red cards can be given to players who cover their mouths while confronting opponents](https://www.npr.org/2026/04/29/g-s1-119149/red-cards-cover-mouths)
+4. [Iraq’s Prime Minister-Designate Thrust Into U.S.-Iran Power Struggle](https://www.nytimes.com/2026/04/28/world/middleeast/iraq-ali-al-zaidi.html)
+5. [Australia moves to tax Meta, Google and TikTok to fund newsrooms](https://www.npr.org/2026/04/29/g-s1-119142/australia-moves-to-tax-meta-google-and-tiktok-to-fund-newsrooms)
+6. [Weeks of silence over Iran school strike highly unusual, former US officials say](https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss)
+7. [Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine](https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss)
+8. [Comey charged with threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss)
+9. [Trump's face to feature on commemorative US passports](https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss)
+10. [Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way](https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html)
 <!-- daily-check end -->
 
 ---
