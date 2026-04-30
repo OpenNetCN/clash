@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月30日 04:00:37
+更新时间：2026年4月30日 05:02:39
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. ['I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations](https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss)
-2. [Bondi shooting inquiry calls for gun reform and more security at Jewish festivals](https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss)
-3. [US singer D4vd bought tools online to dispose of girl's body, prosecutors allege](https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss)
-4. [Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.](https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html)
-5. [U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel](https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html)
-6. [King and Queen lay flowers at 9/11 Memorial in New York](https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss)
-7. [Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say](https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html)
-8. [Oil price rises above $120 after reports of 'extended' Iran blockade](https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss)
-9. [Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing](https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss)
-10. [The Austrian nuns who fled their care home are now in Rome and visited the Vatican](https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome)
+1. [Christchurch mass killer loses bid to overturn conviction](https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss)
+2. [Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
+3. ['I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations](https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss)
+4. [Bondi shooting inquiry calls for gun reform and more security at Jewish festivals](https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss)
+5. [US singer D4vd bought tools online to dispose of girl's body, prosecutors allege](https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss)
+6. [Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.](https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html)
+7. [U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel](https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html)
+8. [King and Queen lay flowers at 9/11 Memorial in New York](https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss)
+9. [Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say](https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html)
+10. [Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing](https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
