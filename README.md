@@ -2136,13 +2136,13 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月30日 01:00:06
+更新时间：2026年4月30日 02:04:52
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.](https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html)
-2. [US singer D4vd bought tools online to dispose of girl's body, prosecutors allege](https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss)
-3. [US charges Mexican governor and other leaders with aiding drug cartel](https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss)
+1. [US singer D4vd bought tools online to dispose of girl's body, prosecutors allege](https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss)
+2. [Royal commission into Bondi shooting says gun reform should be prioritised](https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss)
+3. [Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.](https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html)
 4. [U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel](https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html)
 5. ['I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations](https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss)
 6. [King and Queen lay flowers at 9/11 Memorial in New York](https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss)
