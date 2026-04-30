@@ -2136,20 +2136,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月29日 15:02:52
+更新时间：2026年4月30日 01:00:06
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US Supreme Court limits use of race in drawing electoral maps](https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss)
-2. [Gallows Humor Provides Respite From Mideast Wars](https://www.nytimes.com/2026/04/29/world/middleeast/mideast-war-humor.html)
-3. [France urges citizens to leave Mali after rebel attacks](https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss)
-4. [Greetings from Syria, where a postwar olive harvest offers a long-lost taste of home](https://www.npr.org/2026/04/29/g-s1-118663/syria-olive-harvest-homs)
-5. [Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims](https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss)
-6. [Counterterrorism Police Investigating Stabbing in Jewish Area in London](https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html)
-7. [Global forest loss slows but El Niño fires could threaten progress](https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss)
-8. [Russia scales back Moscow Victory Day parade, blaming threat from Ukraine](https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss)
-9. [Trump’s Clash With Merz Shows It’s Hard to Stay Friends With the President](https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html)
-10. [Will King's US visit lead to lasting reset in relations with UK?](https://www.bbc.com/news/articles/cwy2xyvx109o?at_medium=RSS&at_campaign=rss)
+1. [Paraguay Says It’s Not Abandoning Taiwan. China Has Other Plans.](https://www.nytimes.com/2026/04/29/world/paraguay-taiwan-china-pena.html)
+2. [US singer D4vd bought tools online to dispose of girl's body, prosecutors allege](https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss)
+3. [US charges Mexican governor and other leaders with aiding drug cartel](https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss)
+4. [U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel](https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html)
+5. ['I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations](https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss)
+6. [King and Queen lay flowers at 9/11 Memorial in New York](https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss)
+7. [Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say](https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html)
+8. [Oil price rises above $120 after reports of 'extended' Iran blockade](https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss)
+9. [Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing](https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss)
+10. [The Austrian nuns who fled their care home are now in Rome and visited the Vatican](https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome)
 <!-- daily-check end -->
 
 ---
