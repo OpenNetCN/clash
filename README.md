@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月30日 12:04:36
+更新时间：2026年4月30日 13:00:50
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump and Putin Talk, and Ukraine Shrugs](https://www.nytimes.com/2026/04/30/world/europe/trump-putin-ukraine-zelensky-peace-talks.html)
-2. [Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act](https://www.npr.org/2026/04/30/g-s1-119496/up-first-newsletter-pentagon-iran-war-jerome-powell-scotus-voting-rights-wildfire-fuel-costs)
-3. [Oil price hits highest since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
-4. [Attacks on Jewish Targets in Europe Suggest Hybrid Warfare](https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html)
-5. [Israel Intercepts Aid Flotilla Headed to Gaza](https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html)
-6. [Israel intercepts Gaza flotilla near Crete and detains 175 activists](https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss)
-7. [Iranians Live With Pain and Powerlessness, Beneath a Smooth Veneer](https://www.nytimes.com/2026/04/30/world/middleeast/iranian-mood-after-war.html)
-8. [Iceland’s Pools and Hot Tubs Are Now UNESCO-Recognized. Some Locals Aren’t Thrilled.](https://www.nytimes.com/2026/04/30/world/europe/iceland-hot-tub-pools-tourism.html)
-9. [Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon](https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war)
-10. [Trump says he spoke with Putin about a possible ceasefire in Ukraine](https://www.npr.org/2026/04/30/nx-s1-5805188/trump-says-he-spoke-with-putin-about-a-possible-ceasefire-in-ukraine)
+1. [Oil price hits highest since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
+2. [Attacks on Jewish Targets in Europe Suggest Hybrid Warfare](https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html)
+3. [Israel intercepts Gaza flotilla near Crete and detains 175 activists](https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss)
+4. [Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza](https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html)
+5. ['How are we going to get back home?' Islamist group tightens blockade on Mali capital](https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss)
+6. [Ukraine Reacts With Shrug to Phone Call Between Trump and Putin](https://www.nytimes.com/2026/04/30/world/europe/trump-putin-ukraine-zelensky-peace-talks.html)
+7. [Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act](https://www.npr.org/2026/04/30/g-s1-119496/up-first-newsletter-pentagon-iran-war-jerome-powell-scotus-voting-rights-wildfire-fuel-costs)
+8. [Iranians Live With Pain and Powerlessness, Beneath a Smooth Veneer](https://www.nytimes.com/2026/04/30/world/middleeast/iranian-mood-after-war.html)
+9. [Iceland’s Pools and Hot Tubs Are Now UNESCO-Recognized. Some Locals Aren’t Thrilled.](https://www.nytimes.com/2026/04/30/world/europe/iceland-hot-tub-pools-tourism.html)
+10. [Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon](https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war)
 <!-- daily-check end -->
 
 ---
