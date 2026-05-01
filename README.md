@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年4月30日 15:05:06
+更新时间：2026年5月1日 01:02:16
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Attacks on Jewish Targets in Europe Suggest Hybrid Warfare](https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html)
-2. [Israel intercepts Gaza flotilla near Crete and detains 175 activists](https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss)
-3. ['How are we going to get back home?' Islamist group tightens blockade on Mali capital](https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss)
-4. [Trump says US studying troop cuts in Germany, as spat with Merz intensifies](https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss)
-5. [U.K. calls antisemitism an emergency after arson and stabbing attacks on Jewish people](https://www.npr.org/2026/04/30/nx-s1-5805890/uk-stabbing-jewish-community-attacks-antisemitism)
-6. [Oil price hits highest since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
-7. [What to Know About the Stabbing Attack Against 2 Jewish Men in London](https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html)
-8. [Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza](https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html)
-9. [Ukraine Reacts With Shrug to Phone Call Between Trump and Putin](https://www.nytimes.com/2026/04/30/world/europe/trump-putin-ukraine-zelensky-peace-talks.html)
-10. [Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act](https://www.npr.org/2026/04/30/g-s1-119496/up-first-newsletter-pentagon-iran-war-jerome-powell-scotus-voting-rights-wildfire-fuel-costs)
+1. [China scraps tariffs for all but one African nation](https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss)
+2. [Venice Biennale jury resigns days before start of exhibition](https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss)
+3. [Violence in Australian town after arrest of man over girl's murder](https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss)
+4. [20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz](https://www.npr.org/2026/04/30/nx-s1-5802991/20-000-civilian-sailors-are-stuck-in-the-gulf-that-opens-to-the-strait-of-hormuz)
+5. [Britney Spears charged in California with driving under influence](https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss)
+6. [Deadly Israeli strikes on southern Lebanon despite ceasefire](https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss)
+7. [Journalist Detained in Kuwait Says He Was Stripped of Citizenship](https://www.nytimes.com/2026/04/30/world/middleeast/ahmed-shihab-eldin-citizenship.html)
+8. [Iranians Live With Pain and Powerlessness, Beneath a Smooth Veneer](https://www.nytimes.com/2026/04/30/world/middleeast/iranian-mood-after-war.html)
+9. [What to Know About the Stabbing Attack Against 2 Jewish Men in London](https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html)
+10. [Attacks on Jewish Targets in Europe Suggest Hybrid Warfare](https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html)
 <!-- daily-check end -->
 
 ---
