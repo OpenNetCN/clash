@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月1日 07:04:07
+更新时间：2026年5月1日 08:04:41
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Hegseth faces questions about Iran in first congressional appearance since war began](https://www.npr.org/2026/05/01/g-s1-119666/hegseth-faces-questions-about-iran)
-2. [The Venice Biennale jury resigns amid tensions over awards ban, Russian participation](https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns)
-3. [Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal](https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal)
-4. [Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says](https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss)
-5. [Violence in Australian town after arrest of man over girl's murder](https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss)
-6. [Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz](https://www.nytimes.com/2026/04/30/world/middleeast/iran-war-supreme-leader-mojtaba-khamenei-strait-hormuz.html)
-7. [China scraps tariffs for all but one African nation](https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss)
-8. [Venice Biennale jury resigns days before start of top art exhibition](https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss)
-9. [20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz](https://www.npr.org/2026/04/30/nx-s1-5802991/20-000-civilian-sailors-are-stuck-in-the-gulf-that-opens-to-the-strait-of-hormuz)
-10. [Britney Spears charged in California with driving under influence](https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss)
+1. [What to Know About the Stabbing Attack Against 2 Jewish Men in London](https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html)
+2. [Hegseth faces questions about Iran in first congressional appearance since war began](https://www.npr.org/2026/05/01/g-s1-119666/hegseth-faces-questions-about-iran)
+3. [The Venice Biennale jury resigns amid tensions over awards ban, Russian participation](https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns)
+4. [Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal](https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal)
+5. [Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says](https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss)
+6. [Violence in Australian town after arrest of man over girl's murder](https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss)
+7. [Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz](https://www.nytimes.com/2026/04/30/world/middleeast/iran-war-supreme-leader-mojtaba-khamenei-strait-hormuz.html)
+8. [China scraps tariffs for all but one African nation](https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss)
+9. [Venice Biennale jury resigns days before start of top art exhibition](https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss)
+10. [20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz](https://www.npr.org/2026/04/30/nx-s1-5802991/20-000-civilian-sailors-are-stuck-in-the-gulf-that-opens-to-the-strait-of-hormuz)
 <!-- daily-check end -->
 
 ---
