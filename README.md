@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月1日 09:02:40
+更新时间：2026年5月1日 10:04:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [What to Know About the Stabbing Attack Against 2 Jewish Men in London](https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html)
-2. [The U.S. once had a monopoly on rare earths. How it lost to China](https://www.npr.org/2026/05/01/nx-s1-5800873/the-u-s-once-had-a-monopoly-on-rare-earths-how-it-lost-to-china)
-3. ['It's desperate': A look at the conditions sailors stuck in the Strait of Hormuz face](https://www.npr.org/2026/05/01/nx-s1-5798765/its-desperate-a-look-at-the-conditions-sailors-stuck-in-the-strait-of-hormuz-face)
-4. [Myanmar attempts to rehabilitate image with Suu Kyi move](https://www.npr.org/2026/05/01/nx-s1-5807098/myanmar-suu-kyi-house-arrest)
-5. [Man charged with attempted murder after stabbings of Jewish men in London](https://www.npr.org/2026/05/01/g-s1-119674/man-charged-with-attempted-murder-after-london-stabbings)
-6. [Hegseth faces questions about Iran in first congressional appearance since war began](https://www.npr.org/2026/05/01/g-s1-119666/hegseth-faces-questions-about-iran)
-7. [Brazil's Congress approves plan to drastically cut Bolsonaro's jail term](https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss)
-8. [The Venice Biennale jury resigns amid tensions over awards ban, Russian participation](https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns)
-9. [Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal](https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal)
-10. [Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says](https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss)
+1. [What the End of Saudi Arabia’s Big-Spending Era Means for the Kingdom and Beyond](https://www.nytimes.com/2026/05/01/world/middleeast/saudi-arabia-spending-sports-liv-golf.html)
+2. [US imposes sanctions on DR Congo ex-President Kabila alleging rebel support](https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss)
+3. [As Israel Entrenches, Frustration With Hezbollah Turns to Support](https://www.nytimes.com/2026/05/01/world/middleeast/lebanon-hezbollah-ceasefire-israel.html)
+4. [As Iranians Face War, There’s Still Solace in a Cafe](https://www.nytimes.com/2026/05/01/world/middleeast/iran-war-cafes.html)
+5. ['Decimate' means much more today than it did in ancient Rome](https://www.npr.org/2026/05/01/nx-s1-5775464/decimate-ancient-rome-punishment-trump)
+6. [Myanmar’s Junta Claims ‘Benevolence’ for Aung San Suu Kyi. It Still Rules Cruelly.](https://www.nytimes.com/2026/05/01/world/asia/suu-kyi-myanmar-house-arrest-junta.html)
+7. [The U.S. once had a monopoly on rare earths. How it lost to China](https://www.npr.org/2026/05/01/nx-s1-5800873/the-u-s-once-had-a-monopoly-on-rare-earths-how-it-lost-to-china)
+8. [Myanmar attempts to rehabilitate image with Suu Kyi move](https://www.npr.org/2026/05/01/nx-s1-5807098/myanmar-suu-kyi-house-arrest)
+9. [Man charged with attempted murder after stabbings of Jewish men in London](https://www.npr.org/2026/05/01/g-s1-119674/man-charged-with-attempted-murder-after-london-stabbings)
+10. [Hegseth faces questions about Iran in first congressional appearance since war began](https://www.npr.org/2026/05/01/g-s1-119666/hegseth-faces-questions-about-iran)
 <!-- daily-check end -->
 
 ---
