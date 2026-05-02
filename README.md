@@ -2015,14 +2015,14 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月2日 11:01:23
+更新时间：2026年5月2日 12:02:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
-2. [What to Know About the U.S.-Iran Peace Talks](https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html)
-3. [New Netflix documentary reexamines Winnie Mandela's divisive legacy](https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela)
-4. [Thirteen killed in Israeli strikes on southern Lebanon, health ministry says](https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss)
+1. [Thirteen killed in Israeli strikes on southern Lebanon, health ministry says](https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss)
+2. [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
+3. [What to Know About the U.S.-Iran Peace Talks](https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html)
+4. [New Netflix documentary reexamines Winnie Mandela's divisive legacy](https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela)
 5. [After Assad's fall, Syria's Kurds are left in limbo, feeling abandoned by the U.S.](https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us)
 6. [Jordanians Struggle as Mideast Wars Scare Tourists Away](https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html)
 7. [After Trump’s Ousting of Maduro, Little Has Changed for Most Venezuelans](https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html)
