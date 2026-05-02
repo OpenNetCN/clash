@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月2日 04:00:10
+更新时间：2026年5月2日 08:04:25
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US court limits mail-order access to abortion pill mifepristone](https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss)
-2. [U.S. Indictment of Sinaloa’s Governor Is a Reckoning for Residents of the Mexican State](https://www.nytimes.com/2026/05/01/world/americas/us-indictment-sinaloa-governor-cartels-drugs.html)
-3. [Trump tells Congress ceasefire means he does not need their approval for Iran war](https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss)
-4. [US to cut troop levels in Germany by 5,000 amid Trump spat with Merz](https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss)
-5. [Israel Said to Have Helped Defend Emirates in Iran War With Iron Dome](https://www.nytimes.com/2026/05/01/world/middleeast/israel-emirates-iron-dome.html)
-6. [Who shot a Secret Service officer at the Trump press dinner?](https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss)
-7. [Trump ‘Not Satisfied’ With Iran’s Proposal on Ending War](https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html)
-8. [After Canada loosens citizenship requirements, thousands of people apply](https://www.npr.org/2026/05/01/nx-s1-5804529/after-canada-loosens-citizenship-requirements-thousands-of-people-apply)
-9. [Suspect in UK Stabbing Attack on Jewish Men Faces Third Attempted Murder Charge](https://www.nytimes.com/2026/05/01/world/europe/uk-jewish-stabbings-attempted-murder-charges.html)
-10. [Australia wants to become the first country to eliminate a cancer - can it?](https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss)
+1. [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
+2. [Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down](https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html)
+3. [Air Force says former Qatari 747 will be ready to fly as Air Force One this summer](https://www.npr.org/2026/05/02/g-s1-119866/trump-new-air-force-one)
+4. [U.S. to withdraw 5,000 troops from Germany in next 6-12 months](https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany)
+5. ['If we sleep they bite': Rats and weasels infest camps for displaced Gazans](https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss)
+6. [South Korea’s Cherry Blossoms Attract a Connoisseur: The Japanese](https://www.nytimes.com/2026/05/02/world/asia/south-koreas-cherry-blossoms-attract-a-connoisseur-the-japanese.html)
+7. [Learning Muay Thai Can Allow Visitors to Stay in Thailand Longer](https://www.nytimes.com/2026/05/02/world/asia/one-reason-to-learn-muay-thai-you-can-stay-in-thailand-longer.html)
+8. [A 5-Month Wait and a 50% Fail Rate: It’s Hard to Get a British Driving License](https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html)
+9. [Trump claims other presidents flouted war powers law. It's a mixed record](https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss)
+10. [U.S. Indictment of Sinaloa’s Governor Is a Reckoning for Residents of the Mexican State](https://www.nytimes.com/2026/05/01/world/americas/us-indictment-sinaloa-governor-cartels-drugs.html)
 <!-- daily-check end -->
 
 ---
