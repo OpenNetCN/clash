@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月2日 09:10:28
+更新时间：2026年5月2日 10:01:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
-2. [Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down](https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html)
-3. [Air Force says former Qatari 747 will be ready to fly as Air Force One this summer](https://www.npr.org/2026/05/02/g-s1-119866/trump-new-air-force-one)
-4. [U.S. to withdraw 5,000 troops from Germany in next 6-12 months](https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany)
-5. ['If we sleep they bite': Rats and weasels infest camps for displaced Gazans](https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss)
-6. [South Korea’s Cherry Blossoms Attract a Connoisseur: The Japanese](https://www.nytimes.com/2026/05/02/world/asia/south-koreas-cherry-blossoms-attract-a-connoisseur-the-japanese.html)
-7. [Learning Muay Thai Can Allow Visitors to Stay in Thailand Longer](https://www.nytimes.com/2026/05/02/world/asia/one-reason-to-learn-muay-thai-you-can-stay-in-thailand-longer.html)
-8. [A 5-Month Wait and a 50% Fail Rate: It’s Hard to Get a British Driving License](https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html)
-9. [Trump claims other presidents flouted war powers law. It's a mixed record](https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss)
-10. [U.S. Indictment of Sinaloa’s Governor Is a Reckoning for Residents of the Mexican State](https://www.nytimes.com/2026/05/01/world/americas/us-indictment-sinaloa-governor-cartels-drugs.html)
+1. [Thirteen killed in Israeli strikes on southern Lebanon, health ministry says](https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss)
+2. [After Assad's fall, Syria's Kurds are left in limbo, feeling abandoned by the U.S.](https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us)
+3. [Jordanians Struggle as Mideast Wars Scare Tourists Away](https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html)
+4. [After Trump’s Ousting of Maduro, Little Has Changed for Most Venezuelans](https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html)
+5. [How Germany Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
+6. [US to cut troop levels in Germany by 5,000 amid Trump spat with Merz](https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss)
+7. [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
+8. [Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down](https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html)
+9. [Air Force says former Qatari 747 will be ready to fly as Air Force One this summer](https://www.npr.org/2026/05/02/g-s1-119866/trump-new-air-force-one)
+10. [U.S. to withdraw 5,000 troops from Germany in next 6-12 months](https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany)
 <!-- daily-check end -->
 
 ---
