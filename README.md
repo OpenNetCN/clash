@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月2日 13:00:20
+更新时间：2026年5月2日 15:01:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [UK Driving-Test Backlog Leaves Learners Waiting Months](https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html)
+1. [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
 2. [Thirteen killed in Israeli strikes on southern Lebanon, health ministry says](https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss)
-3. [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
-4. [What to Know About the U.S.-Iran Peace Talks](https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html)
-5. [New Netflix documentary reexamines Winnie Mandela's divisive legacy](https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela)
-6. [Ex-F1 driver and Paralympic champion Zanardi dies](https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss)
-7. [After Assad's fall, Syria's Kurds are left in limbo, feeling abandoned by the U.S.](https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us)
-8. [Jordanians Struggle as Mideast Wars Scare Tourists Away](https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html)
-9. [After Trump’s Ousting of Maduro, Little Has Changed for Most Venezuelans](https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html)
-10. [US to cut troop levels in Germany by 5,000 amid Trump spat with Merz](https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss)
+3. [US threatens shipping firms with sanctions if they pay Iran tolls](https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss)
+4. [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
+5. [UK Driving-Test Backlog Leaves Learners Waiting Months](https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html)
+6. [What to Know About the U.S.-Iran Peace Talks](https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html)
+7. [New Netflix documentary reexamines Winnie Mandela's divisive legacy](https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela)
+8. [Ex-F1 driver and Paralympic champion Zanardi dies](https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss)
+9. [After Assad's fall, Syria's Kurds are left in limbo, feeling abandoned by the U.S.](https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us)
+10. [Jordanians Struggle as Mideast Wars Scare Tourists Away](https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html)
 <!-- daily-check end -->
 
 ---
