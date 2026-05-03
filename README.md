@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月2日 15:01:37
+更新时间：2026年5月3日 01:03:06
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
-2. [Thirteen killed in Israeli strikes on southern Lebanon, health ministry says](https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss)
-3. [US threatens shipping firms with sanctions if they pay Iran tolls](https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss)
-4. [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
-5. [UK Driving-Test Backlog Leaves Learners Waiting Months](https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html)
-6. [What to Know About the U.S.-Iran Peace Talks](https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html)
-7. [New Netflix documentary reexamines Winnie Mandela's divisive legacy](https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela)
-8. [Ex-F1 driver and Paralympic champion Zanardi dies](https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss)
-9. [After Assad's fall, Syria's Kurds are left in limbo, feeling abandoned by the U.S.](https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us)
-10. [Jordanians Struggle as Mideast Wars Scare Tourists Away](https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html)
+1. [Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next](https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us)
+2. [Iran submits 14-point response to U.S. proposal to end war](https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal)
+3. [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
+4. [What to Know About the U.S.-Iran Peace Talks](https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html)
+5. [The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?](https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss)
+6. [The clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss)
+7. [Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification](https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss)
+8. [Is there a 'standard' Indian body?](https://www.npr.org/2026/05/02/nx-s1-5734003/is-there-a-standard-indian-body)
+9. [Collaboration helps NPR journalists get you the story of the Iran war up close](https://www.npr.org/2026/05/02/nx-s1-5802996/collaboration-helps-npr-journalists-get-you-the-story-of-the-iran-war-up-close)
+10. [ICRC President Mirjana Spoljaric warns of the war's impact on civilians](https://www.npr.org/2026/05/02/nx-s1-5807914/icrc-president-mirjana-spoljaric-warns-of-the-wars-impact-on-civilians)
 <!-- daily-check end -->
 
 ---
