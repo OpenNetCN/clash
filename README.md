@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月3日 09:02:20
+更新时间：2026年5月3日 10:04:17
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Germany troop cuts send wrong signal to Russia, say two top US Republicans](https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss)
-2. [Huge crowd attends free Shakira Copacabana beach concert](https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss)
-3. [A Perilous Train Ride Home in Pakistan on the Jaffer Express](https://www.nytimes.com/2026/05/03/world/asia/pakistan-jaffer-express-balochistan.html)
-4. [Man charged with murder and sexual assault of 5-year-old Australian girl](https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss)
-5. [How A.I. Is Transforming China’s Entertainment Industry](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html)
-6. [Norway’s Northern Lights Nightmare](https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html)
-7. [An Insurgency Threatens U.S. Mining Ambitions in Pakistan](https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html)
-8. [Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates](https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html)
-9. [Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next](https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us)
-10. [Iran submits 14-point response to U.S. proposal to end war](https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal)
+1. [What to Know About Elections in West Bengal and Other Indian States](https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html)
+2. [The U.S. Set Off a Corruption Scandal That Is Gripping Mexico](https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html)
+3. [Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest](https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html)
+4. [Germany troop cuts send wrong signal to Russia, say two top US Republicans](https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss)
+5. [Huge crowd attends free Shakira Copacabana beach concert](https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss)
+6. [A Perilous Train Ride Home in Pakistan on the Jaffer Express](https://www.nytimes.com/2026/05/03/world/asia/pakistan-jaffer-express-balochistan.html)
+7. [Man charged with murder and sexual assault of 5-year-old Australian girl](https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss)
+8. [How A.I. Is Transforming China’s Entertainment Industry](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html)
+9. [Norway’s Northern Lights Nightmare](https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html)
+10. [An Insurgency Threatens U.S. Mining Ambitions in Pakistan](https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html)
 <!-- daily-check end -->
 
 ---
