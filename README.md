@@ -2015,18 +2015,18 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月4日 13:04:30
+更新时间：2026年5月4日 14:03:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch](https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani)
-2. [Modi's BJP conquers Bengal, one of India's toughest political frontiers](https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss)
-3. [Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade](https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html)
-4. [Rubio to Visit Rome, Vatican Says, After Trump’s Feud With Pope and Meloni](https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html)
-5. [Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized](https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html)
-6. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
-7. [Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
-8. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+1. [What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship](https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html)
+2. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+3. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
+4. [Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade](https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html)
+5. [Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch](https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani)
+6. [Modi's BJP conquers Bengal, one of India's toughest political frontiers](https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss)
+7. [Rubio to Visit Rome, Vatican Says, After Trump’s Feud With Pope and Meloni](https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html)
+8. [Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
 9. [With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank](https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html)
 10. [Chasing Stardom in Korea Nearly Destroyed Ejae. Then Came ‘KPop Demon Hunters.’](https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html)
 <!-- daily-check end -->
