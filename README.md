@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月4日 09:04:44
+更新时间：2026年5月4日 11:03:54
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Rescuers help Timmy, a stranded whale, return home](https://www.npr.org/2026/05/04/nx-s1-5807511/rescuers-help-timmy-a-stranded-whale-return-home)
-2. [After the Hong Kong Fire Killed 3 Generations of His Family, A Son Searches for Justice](https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-family.html)
-3. [Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized](https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html)
-4. [Nigeria plans to repatriate nationals willing to leave South Africa after attacks](https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss)
-5. [2 US service members missing after military exercises in Morocco](https://www.npr.org/2026/05/04/g-s1-119963/2-us-service-members-missing-in-morocco)
-6. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
-7. [How the Kremlin Lures Africans Into Russia’s War in Ukraine](https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html)
-8. [Trump says the U.S will 'guide' stranded ships from the Strait of Hormuz](https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz)
-9. [Crack Down? Close Ranks? U.S. Cartel Case Puts Mexican Leaders on the Spot.](https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html)
-10. [Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says](https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean)
+1. [Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade](https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html)
+2. [Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized](https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html)
+3. [New alliances shakes up Nigerian political landscape](https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss)
+4. [Rubio to Visit Rome, Officials Say, After Trump’s Feud With Pope and Meloni](https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html)
+5. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
+6. [Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
+7. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+8. [With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank](https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html)
+9. [Chasing Stardom in Korea Nearly Destroyed Ejae. Then Came ‘KPop Demon Hunters.’](https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html)
+10. [Former New York City mayor Rudy Giuliani in critical condition in hospital](https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
