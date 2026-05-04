@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月3日 15:04:51
+更新时间：2026年5月4日 01:01:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Concern for jailed Iranian Nobel laureate as brother fears she is dying](https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss)
-2. [‘Wartime Relic’ Explodes Under Campfire in Austria, Injuring Five Children](https://www.nytimes.com/2026/05/03/world/europe/austria-explosion-campfire.html)
-3. [Two US service members reported missing in Morocco, officials say](https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss)
-4. [Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal](https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss)
-5. [How A.I. Is Transforming China’s Entertainment Industry](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html)
-6. [Nigeria summons South African envoy over attacks on its nationals](https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss)
-7. [What to Know About Elections in West Bengal and Other Indian States](https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html)
-8. [The U.S. Set Off a Corruption Scandal That Is Gripping Mexico](https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html)
+1. [Crack Down? Close Ranks? U.S. Cartel Case Puts Mexican Leaders on the Spot.](https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html)
+2. [Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says](https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean)
+3. [Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates](https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html)
+4. [Gas prices went up more than 30 cents a gallon last week. How high could they go?](https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war)
+5. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+6. [Iran says US has responded to its latest peace proposal](https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss)
+7. [Entrepreneurs fight pile-up of garbage in the West Bank](https://www.npr.org/2026/05/03/nx-s1-5787449/entrepreneurs-fight-pile-up-of-garbage-in-the-west-bank)
+8. [Blasting beats and neon lights: inside Nairobi's 'nganya' bus culture](https://www.npr.org/2026/05/03/nx-s1-5797891/blasting-beats-and-neon-lights-inside-nairobis-nganya-bus-culture)
 9. [Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest](https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html)
-10. [Germany troop cuts send wrong signal to Russia, say two top US Republicans](https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss)
+10. [Modern economic chokepoints in war and the impact on geopolitics](https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics)
 <!-- daily-check end -->
 
 ---
