@@ -2015,14 +2015,14 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月4日 11:03:54
+更新时间：2026年5月4日 12:01:10
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade](https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html)
-2. [Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized](https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html)
+2. [Rubio to Visit Rome, Vatican Says, After Trump’s Feud With Pope and Meloni](https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html)
 3. [New alliances shakes up Nigerian political landscape](https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss)
-4. [Rubio to Visit Rome, Officials Say, After Trump’s Feud With Pope and Meloni](https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html)
+4. [Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized](https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html)
 5. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
 6. [Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
 7. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
