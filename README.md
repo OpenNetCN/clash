@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月4日 03:03:17
+更新时间：2026年5月4日 04:03:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Crack Down? Close Ranks? U.S. Cartel Case Puts Mexican Leaders on the Spot.](https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html)
-2. [Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says](https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean)
-3. [Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates](https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html)
-4. [Gas prices went up more than 30 cents a gallon last week. How high could they go?](https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war)
-5. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
-6. [Iran says US has responded to its latest peace proposal](https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss)
-7. [Entrepreneurs fight pile-up of garbage in the West Bank](https://www.npr.org/2026/05/03/nx-s1-5787449/entrepreneurs-fight-pile-up-of-garbage-in-the-west-bank)
-8. [Blasting beats and neon lights: inside Nairobi's 'nganya' bus culture](https://www.npr.org/2026/05/03/nx-s1-5797891/blasting-beats-and-neon-lights-inside-nairobis-nganya-bus-culture)
-9. [Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest](https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html)
-10. [Modern economic chokepoints in war and the impact on geopolitics](https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics)
+1. [Trump says the US will 'guide' stranded ships from the Strait of Hormuz](https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz)
+2. [Crack Down? Close Ranks? U.S. Cartel Case Puts Mexican Leaders on the Spot.](https://www.nytimes.com/2026/05/03/world/americas/mexico-sinaloa-corruption.html)
+3. [Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says](https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean)
+4. [Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates](https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html)
+5. [Gas prices went up more than 30 cents a gallon last week. How high could they go?](https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war)
+6. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+7. [Iran says US has responded to its latest peace proposal](https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss)
+8. [Entrepreneurs fight pile-up of garbage in the West Bank](https://www.npr.org/2026/05/03/nx-s1-5787449/entrepreneurs-fight-pile-up-of-garbage-in-the-west-bank)
+9. [Blasting beats and neon lights: inside Nairobi's 'nganya' bus culture](https://www.npr.org/2026/05/03/nx-s1-5797891/blasting-beats-and-neon-lights-inside-nairobis-nganya-bus-culture)
+10. [Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest](https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html)
 <!-- daily-check end -->
 
 ---
