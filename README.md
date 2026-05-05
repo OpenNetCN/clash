@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月4日 14:03:33
+更新时间：2026年5月5日 01:01:52
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship](https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html)
-2. [Three dead in suspected virus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
-3. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
-4. [Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade](https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html)
-5. [Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch](https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani)
-6. [Modi's BJP conquers Bengal, one of India's toughest political frontiers](https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss)
-7. [Rubio to Visit Rome, Vatican Says, After Trump’s Feud With Pope and Meloni](https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html)
-8. [Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
-9. [With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank](https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html)
-10. [Chasing Stardom in Korea Nearly Destroyed Ejae. Then Came ‘KPop Demon Hunters.’](https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html)
+1. [Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
+3. [US strikes Iranian fast boats as Iran attacks UAE oil facility](https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss)
+4. [Three dead in suspected hantavirus outbreak on Atlantic cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+5. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
+6. [Why U.S. troops are stationed in Germany, and what happens if some leave](https://www.npr.org/2026/05/04/nx-s1-5810195/why-u-s-troops-are-stationed-in-germany-and-what-happens-if-some-leave)
+7. [Modi's party takes control of India's West Bengal in key state election](https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election)
+8. [Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump](https://www.nytimes.com/2026/05/04/world/canada/carney-europe-trump.html)
+9. [Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
+10. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
 <!-- daily-check end -->
 
 ---
