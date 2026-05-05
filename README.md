@@ -2015,13 +2015,13 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月5日 06:01:22
+更新时间：2026年5月5日 07:05:04
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak](https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak)
-2. [Russia declares a truce in Ukraine to mark Victory Day](https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day)
-3. [Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
+1. [Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
+2. [Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak](https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak)
+3. [Russia declares a truce in Ukraine to mark Victory Day](https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day)
 4. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
 5. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
 6. [Deadly China plane crash was caused by fuel cut-off, says report](https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss)
