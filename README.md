@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月5日 10:00:58
+更新时间：2026年5月5日 12:03:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
-2. [Fireworks Factory Explosion in China Kills at Least 26](https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html)
-3. [A 'fun' superstar stuns rivals and reshapes politics in an Indian state](https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss)
-4. [An explosion at a fireworks plant in China kills at least 26 people, state media says](https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china)
-5. [Explosion at China fireworks factory kills 26 people](https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss)
-6. [Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak](https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak)
-7. [Russia declares a truce in Ukraine to mark Victory Day](https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day)
-8. [Popular Australian author pleads guilty over child exploitation material](https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss)
-9. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
-10. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
+1. [SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries](https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion)
+2. [In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.](https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html)
+3. [Iran War Live Updates: Iranian Official Warns of Escalation in Strait of Hormuz Standoff](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
+4. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
+5. [Canadian prime minister says Europe will anchor world order](https://www.npr.org/2026/05/05/nx-s1-5810533/canadian-prime-minister-says-europe-will-anchor-world-order)
+6. [U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire](https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates)
+7. [Cruise Ship Struck by Hantavirus Remains at Sea](https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html)
+8. [Second hantavirus case confirmed after deaths on cruise ship](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+9. [The Growing Rift Between the UAE and Saudi Arabia, Explained](https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html)
+10. [Fireworks Factory Explosion in China Kills at Least 26](https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html)
 <!-- daily-check end -->
 
 ---
