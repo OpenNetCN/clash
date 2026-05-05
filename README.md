@@ -2015,12 +2015,12 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月5日 09:00:48
+更新时间：2026年5月5日 10:00:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Fireworks Factory Explosion in China Kills at Least 21](https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html)
-2. [Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
+1. [Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
+2. [Fireworks Factory Explosion in China Kills at Least 26](https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html)
 3. [A 'fun' superstar stuns rivals and reshapes politics in an Indian state](https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss)
 4. [An explosion at a fireworks plant in China kills at least 26 people, state media says](https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china)
 5. [Explosion at China fireworks factory kills 26 people](https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss)
