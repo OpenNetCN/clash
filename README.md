@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月5日 14:04:18
+更新时间：2026年5月5日 15:01:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: U.S. and Iran Both Claim Control Over Strait of Hormuz](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
-2. [Rare Comet Appears Over New Zealand, Australia and South Africa](https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html)
-3. [Hantavirus may have spread between passengers on cruise ship, WHO says](https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss)
-4. [The Growing Rift Between the UAE and Saudi Arabia, Explained](https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html)
-5. [In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.](https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html)
-6. [Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce](https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss)
-7. [SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries](https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion)
-8. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
-9. [Canadian prime minister says Europe will anchor world order](https://www.npr.org/2026/05/05/nx-s1-5810533/canadian-prime-minister-says-europe-will-anchor-world-order)
-10. [U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire](https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates)
+2. [Hantavirus may have spread between passengers on cruise ship, WHO says](https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss)
+3. [Romanian PM ousted in no-confidence vote](https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss)
+4. [Cruise Ship Struck by Hantavirus Is to Head to Canary Islands, W.H.O. Says](https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html)
+5. [Rare Comet Appears Over New Zealand, Australia and South Africa](https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html)
+6. [The Growing Rift Between the UAE and Saudi Arabia, Explained](https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html)
+7. [In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.](https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html)
+8. [Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce](https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss)
+9. [SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries](https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion)
+10. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
