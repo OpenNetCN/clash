@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月5日 02:03:44
+更新时间：2026年5月5日 06:01:22
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
-2. [US strikes Iranian fast boats as Iran attacks UAE oil facility](https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss)
-3. [Second hantavirus case confirmed after three die in suspected cruise ship outbreak](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
-4. [Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss)
+1. [Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak](https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak)
+2. [Russia declares a truce in Ukraine to mark Victory Day](https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day)
+3. [Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict](https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy)
+4. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
 5. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
-6. [Why U.S. troops are stationed in Germany, and what happens if some leave](https://www.npr.org/2026/05/04/nx-s1-5810195/why-u-s-troops-are-stationed-in-germany-and-what-happens-if-some-leave)
-7. [Modi's party takes control of India's West Bengal in key state election](https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election)
-8. [Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump](https://www.nytimes.com/2026/05/04/world/canada/carney-europe-trump.html)
-9. [Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
-10. [Drone Hits a Moscow High-Rise Days Before a Major Military Parade](https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html)
+6. [Deadly China plane crash was caused by fuel cut-off, says report](https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss)
+7. [The most talked-about looks at this year's Met Gala](https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss)
+8. [Watch: Met Gala sees Beyoncé's return and a star-studded red carpet](https://www.bbc.com/news/videos/cglpy0d7k5jo?at_medium=RSS&at_campaign=rss)
+9. [Second hantavirus case confirmed after three die in suspected cruise ship outbreak](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+10. [Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
