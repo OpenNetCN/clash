@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月5日 15:01:30
+更新时间：2026年5月6日 02:01:39
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: U.S. and Iran Both Claim Control Over Strait of Hormuz](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
-2. [Hantavirus may have spread between passengers on cruise ship, WHO says](https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss)
-3. [Romanian PM ousted in no-confidence vote](https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss)
-4. [Cruise Ship Struck by Hantavirus Is to Head to Canary Islands, W.H.O. Says](https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html)
-5. [Rare Comet Appears Over New Zealand, Australia and South Africa](https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html)
-6. [The Growing Rift Between the UAE and Saudi Arabia, Explained](https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html)
+1. [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
+3. [Trump says US to pause operation to guide vessels through Strait of Hormuz](https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss)
+4. [Apple to pay $250m to iPhone buyers over AI features lawsuit](https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss)
+5. [Trump Looks for a Silver Bullet to End the Iran War. There May Be None.](https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html)
+6. [U.S. says it's made Hormuz safe for commercial shipping, but standoff hasn't changed](https://www.npr.org/2026/05/05/nx-s1-5812487/u-s-says-its-made-hormuz-safe-for-commercial-shipping-but-standoff-hasnt-changed)
 7. [In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.](https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html)
-8. [Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce](https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss)
-9. [SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries](https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion)
-10. [Two killed and many injured after car driven into crowd in German city of Leipzig](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss)
+8. [Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow](https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss)
+9. [NPR went looking for Polymarket's Panama headquarters. It's elusive](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
+10. [The Iran war sent jet fuel prices sky-high. Here's what air travelers should know](https://www.npr.org/2026/05/05/nx-s1-5811918/iran-war-jet-fuel-baggage-fees-travel-tips)
 <!-- daily-check end -->
 
 ---
