@@ -2015,14 +2015,14 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月6日 02:01:39
+更新时间：2026年5月6日 04:03:06
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
+1. [Iran War Live Updates: Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
+2. [Oil prices ease as US pauses Project Freedom to seek deal with Iran](https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss)
 3. [Trump says US to pause operation to guide vessels through Strait of Hormuz](https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss)
-4. [Apple to pay $250m to iPhone buyers over AI features lawsuit](https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss)
+4. [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
 5. [Trump Looks for a Silver Bullet to End the Iran War. There May Be None.](https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html)
 6. [U.S. says it's made Hormuz safe for commercial shipping, but standoff hasn't changed](https://www.npr.org/2026/05/05/nx-s1-5812487/u-s-says-its-made-hormuz-safe-for-commercial-shipping-but-standoff-hasnt-changed)
 7. [In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.](https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html)
