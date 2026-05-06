@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月6日 08:01:04
+更新时间：2026年5月6日 09:01:13
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
-2. [Cruise ship with hantavirus outbreak to sail to Canary Islands](https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss)
-3. [Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire](https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine)
-4. [Police say Australian women with alleged IS ties face charges on return from Syria](https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria)
-5. [To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city](https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss)
-6. [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
-7. [Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea](https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss)
-8. [Trump Looks for a Silver Bullet to End the Iran War. There May Be None.](https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html)
-9. ['Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon](https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss)
-10. [U.S. says it's made Hormuz safe for commercial shipping, but standoff hasn't changed](https://www.npr.org/2026/05/05/nx-s1-5812487/u-s-says-its-made-hormuz-safe-for-commercial-shipping-but-standoff-hasnt-changed)
+2. [U.S. stages largest-ever annual military drills in the Philippines](https://www.npr.org/2026/05/06/nx-s1-5810616/u-s-stages-largest-ever-annual-military-drills-in-the-philippines)
+3. [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
+4. [Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire](https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine)
+5. [Police say Australian women with alleged IS ties face charges on return from Syria](https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria)
+6. [To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city](https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss)
+7. [What is Trump's 'Project Freedom' in the Strait of Hormuz?](https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss)
+8. [Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea](https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss)
+9. [Trump Looks for a Silver Bullet to End the Iran War. There May Be None.](https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html)
+10. [BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon](https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
