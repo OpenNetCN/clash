@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月6日 10:02:59
+更新时间：2026年5月6日 13:04:50
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
-2. [China calls for Strait to be reopened 'as soon as possible' in Iran talks](https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss)
-3. [Skeletons in their clothing: Recovering bodies from the rubble in Gaza](https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies)
-4. [U.S. stages largest-ever annual military drills in the Philippines](https://www.npr.org/2026/05/06/nx-s1-5810616/u-s-stages-largest-ever-annual-military-drills-in-the-philippines)
+1. [Modi’s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India](https://www.nytimes.com/2026/05/05/world/asia/india-modi-congress-west-bengal-elections.html)
+2. [Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
+3. [Iran's Revolutionary Guard says ships can now pass through the Strait of Hormuz](https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates)
+4. [Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'](https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused)
 5. [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
-6. [Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire](https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine)
-7. [Police say Australian women with alleged IS ties face charges on return from Syria](https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria)
-8. [To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city](https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss)
-9. [Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea](https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss)
-10. [Trump Looks for a Silver Bullet to End the Iran War. There May Be None.](https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html)
+6. [China calls for Strait to be reopened 'as soon as possible' in Iran talks](https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss)
+7. [Skeletons in their clothing: Recovering bodies from the rubble in Gaza](https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies)
+8. [U.S. stages largest-ever annual military drills in the Philippines](https://www.npr.org/2026/05/06/nx-s1-5810616/u-s-stages-largest-ever-annual-military-drills-in-the-philippines)
+9. [Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire](https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine)
+10. [Police say Australian women with alleged IS ties face charges on return from Syria](https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria)
 <!-- daily-check end -->
 
 ---
