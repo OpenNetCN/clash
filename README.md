@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月7日 13:01:30
+更新时间：2026年5月7日 15:00:27
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [China announces suspended death sentences for former defence ministers](https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss)
-2. [Three women linked to Islamic State arrested in Australia on return from Syria](https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss)
-3. [US judge releases Jeffrey Epstein's purported suicide note](https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss)
-4. [Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism](https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets)
-5. ['My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback](https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss)
-6. [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: U.S. Awaits Tehran’s Response to Peace Proposal](https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal)
+2. [China gives suspended death sentences to 2 ex-defense ministers](https://www.npr.org/2026/05/07/g-s1-120688/china-gives-suspended-death-sentences-to-2-former-defense-ministers-accused-of-bribery)
+3. [Fears of renewed Gaza war as Hamas disarmament talks stall](https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss)
+4. [New NTSB Report Into Deadly China Eastern Crash Suggests Struggle in Cockpit](https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html)
+5. [Russia Ramps Up Threats Toward Ukraine Over Victory Day Parade](https://www.nytimes.com/2026/05/07/world/europe/ukraine-russia-victory-day.html)
+6. [Race to trace passengers who left hantavirus cruise ship at island](https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss)
 7. [Starmer Braces for Local Election Losses Amid New Era of UK Politics](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html)
-8. [Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs](https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html)
-9. [German Leaders Clash With Spy Chiefs Over Domestic Threat From Iran](https://www.nytimes.com/2026/05/07/world/europe/germany-merz-iran-security-threat-spy.html)
-10. [Dirty nickel: The cost of mining in Indonesia](https://www.npr.org/2026/05/07/g-s1-118218/indonesia-nickel-mineral-mining)
+8. [South Africa condemns 'fake videos' of alleged xenophobic attacks](https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss)
+9. [China Sentences 2 Former Defense Ministers on Bribery Charges](https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html)
+10. [China announces suspended death sentences for former defence ministers](https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
