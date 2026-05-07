@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月7日 11:03:23
+更新时间：2026年5月7日 13:01:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. ['My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback](https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss)
-2. [DR Congo president hints at extending his term and delaying polls](https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss)
-3. [Islamic State-linked women arrive home in Australia from Syria](https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss)
-4. [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
-5. [Shell latest oil giant to see profits surge due to Iran war impact](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
-6. [Starmer Braces for Local Election Losses Amid New Era of UK Politics](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html)
-7. [Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs](https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html)
-8. [German Leaders Clash With Spy Chiefs Over Domestic Threat From Iran](https://www.nytimes.com/2026/05/07/world/europe/germany-merz-iran-security-threat-spy.html)
-9. [Dirty nickel: The cost of mining in Indonesia](https://www.npr.org/2026/05/07/g-s1-118218/indonesia-nickel-mineral-mining)
-10. [Australian Women and Children Linked to ISIS Fighters Return Home](https://www.nytimes.com/2026/05/07/world/asia/australia-isis-women-children-syria.html)
+1. [China announces suspended death sentences for former defence ministers](https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss)
+2. [Three women linked to Islamic State arrested in Australia on return from Syria](https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss)
+3. [US judge releases Jeffrey Epstein's purported suicide note](https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss)
+4. [Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism](https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets)
+5. ['My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback](https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss)
+6. [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+7. [Starmer Braces for Local Election Losses Amid New Era of UK Politics](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html)
+8. [Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs](https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html)
+9. [German Leaders Clash With Spy Chiefs Over Domestic Threat From Iran](https://www.nytimes.com/2026/05/07/world/europe/germany-merz-iran-security-threat-spy.html)
+10. [Dirty nickel: The cost of mining in Indonesia](https://www.npr.org/2026/05/07/g-s1-118218/indonesia-nickel-mineral-mining)
 <!-- daily-check end -->
 
 ---
