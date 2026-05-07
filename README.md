@@ -2015,19 +2015,19 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月7日 01:00:26
+更新时间：2026年5月7日 02:03:44
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [German tourist wins payout after losing sun lounger race](https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss)
-2. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
-3. [Iran War Live Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
-4. [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
-5. [Iran considering US proposal to end war, official says](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
-6. [Antisemitism is a campaign issue in UK regional vote](https://www.npr.org/2026/05/06/nx-s1-5812457/antisemitism-is-a-campaign-issue-in-uk-regional-vote)
-7. [Israel strikes Beirut for first time since Hezbollah ceasefire](https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss)
-8. [World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes](https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html)
-9. [A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters](https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html)
+1. [A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters](https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html)
+2. [German tourist wins payout after losing sun lounger race](https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss)
+3. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
+4. [Iran War Live Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
+5. [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+6. [Iran considering US proposal to end war, official says](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
+7. [Antisemitism is a campaign issue in UK regional vote](https://www.npr.org/2026/05/06/nx-s1-5812457/antisemitism-is-a-campaign-issue-in-uk-regional-vote)
+8. [Israel strikes Beirut for first time since Hezbollah ceasefire](https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss)
+9. [World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes](https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html)
 10. [Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites](https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html)
 <!-- daily-check end -->
 
