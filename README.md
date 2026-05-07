@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月6日 13:04:50
+更新时间：2026年5月7日 01:00:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Modi’s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India](https://www.nytimes.com/2026/05/05/world/asia/india-modi-congress-west-bengal-elections.html)
-2. [Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission](https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz)
-3. [Iran's Revolutionary Guard says ships can now pass through the Strait of Hormuz](https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates)
-4. [Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'](https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused)
-5. [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
-6. [China calls for Strait to be reopened 'as soon as possible' in Iran talks](https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss)
-7. [Skeletons in their clothing: Recovering bodies from the rubble in Gaza](https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies)
-8. [U.S. stages largest-ever annual military drills in the Philippines](https://www.npr.org/2026/05/06/nx-s1-5810616/u-s-stages-largest-ever-annual-military-drills-in-the-philippines)
-9. [Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire](https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine)
-10. [Police say Australian women with alleged IS ties face charges on return from Syria](https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria)
+1. [German tourist wins payout after losing sun lounger race](https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss)
+2. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
+3. [Iran War Live Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
+4. [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+5. [Iran considering US proposal to end war, official says](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
+6. [Antisemitism is a campaign issue in UK regional vote](https://www.npr.org/2026/05/06/nx-s1-5812457/antisemitism-is-a-campaign-issue-in-uk-regional-vote)
+7. [Israel strikes Beirut for first time since Hezbollah ceasefire](https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss)
+8. [World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes](https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html)
+9. [A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters](https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html)
+10. [Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites](https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html)
 <!-- daily-check end -->
 
 ---
