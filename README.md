@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月7日 05:00:13
+更新时间：2026年5月7日 07:01:10
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran considering US proposal as Trump says war will be 'over quickly'](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
-2. [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
-3. [Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87](https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss)
-4. [Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
-5. [A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters](https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html)
-6. [German tourist wins payout after losing sun lounger race](https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss)
-7. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
-8. [Antisemitism is a campaign issue in UK regional vote](https://www.npr.org/2026/05/06/nx-s1-5812457/antisemitism-is-a-campaign-issue-in-uk-regional-vote)
-9. [Israel strikes Beirut for first time since Hezbollah ceasefire](https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss)
-10. [World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes](https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html)
+1. [Shell profits rise as Iran war pushes oil prices higher](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
+2. [Trump's counterterrorism strategy makes targeting drug cartels the top priority](https://www.npr.org/2026/05/07/g-s1-120655/trump-counterterrorism-western-hemisphere)
+3. [Vigils to be held across Australia for 5-year-old girl allegedly murdered in Outback](https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss)
+4. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
+5. [Iran considering US proposal as Trump says war will be 'over quickly'](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
+6. [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+7. [Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87](https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss)
+8. [Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
+9. [A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters](https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html)
+10. [German tourist wins payout after losing sun lounger race](https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
