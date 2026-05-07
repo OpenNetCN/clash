@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月7日 08:01:00
+更新时间：2026年5月7日 09:01:53
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Islamic State-linked families arrive home in Australia from Syria](https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss)
-2. [Shell profits rise as Iran war pushes oil prices higher](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
-3. [Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
-4. [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
-5. [Trump's counterterrorism strategy makes targeting drug cartels the top priority](https://www.npr.org/2026/05/07/g-s1-120655/trump-counterterrorism-western-hemisphere)
-6. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
-7. [Iran considering US proposal as Trump says war will be 'over quickly'](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
-8. [Starmer Braces for Local Election Losses Amid New Era of UK Politics](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html)
-9. [Starmer Faces a Major Test in a Set of UK Elections: What to Know](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html)
-10. [Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87](https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss)
+1. [Shell latest oil giant to see profits surge due to Iran war impact](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
+2. [About 40 passengers previously left ship hit by Hantavirus at island of St. Helena](https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena)
+3. [Affected by the Iran war, residents in Southeast Asian countries voice their concerns](https://www.npr.org/2026/05/07/nx-s1-5813503/affected-by-the-iran-war-residents-in-southeast-asian-countries-voice-their-concerns)
+4. [Secretary of State Marco Rubio meets with Pope Leo after Trump's criticism](https://www.npr.org/2026/05/07/nx-s1-5813720/secretary-of-state-marco-rubio-meets-with-pope-leo-after-trumps-criticism)
+5. [Former U.S. ambassador to the Holy See on Rubio's visit to the Vatican](https://www.npr.org/2026/05/07/nx-s1-5813651/former-u-s-ambassador-to-the-holy-see-on-rubios-visit-to-the-vatican)
+6. [Former U.S. analyst, once jailed for spying for Israel, to run for Israeli parliament](https://www.npr.org/2026/05/07/nx-s1-5812527/former-u-s-analyst-once-jailed-for-spying-for-israel-to-run-for-israeli-parliament)
+7. [Paris Saint-Germain returns to Champions League final after beating Bayern Munich](https://www.npr.org/2026/05/07/g-s1-120662/psg-champions-league-final)
+8. [Islamic State-linked women arrive home in Australia from Syria](https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss)
+9. [Top BJP leader's aide shot dead in violence after Indian state election](https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss)
+10. [Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
 <!-- daily-check end -->
 
 ---
