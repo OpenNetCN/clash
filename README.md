@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月7日 07:01:10
+更新时间：2026年5月7日 08:01:00
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Shell profits rise as Iran war pushes oil prices higher](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
-2. [Trump's counterterrorism strategy makes targeting drug cartels the top priority](https://www.npr.org/2026/05/07/g-s1-120655/trump-counterterrorism-western-hemisphere)
-3. [Vigils to be held across Australia for 5-year-old girl allegedly murdered in Outback](https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss)
-4. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
-5. [Iran considering US proposal as Trump says war will be 'over quickly'](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
-6. [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
-7. [Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87](https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss)
-8. [Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
-9. [A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters](https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html)
-10. [German tourist wins payout after losing sun lounger race](https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss)
+1. [Islamic State-linked families arrive home in Australia from Syria](https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss)
+2. [Shell profits rise as Iran war pushes oil prices higher](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
+3. [Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
+4. [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+5. [Trump's counterterrorism strategy makes targeting drug cartels the top priority](https://www.npr.org/2026/05/07/g-s1-120655/trump-counterterrorism-western-hemisphere)
+6. [Hantavirus Patients Land in Amsterdam With More Cruise Ship Evacuations Planned](https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html)
+7. [Iran considering US proposal as Trump says war will be 'over quickly'](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
+8. [Starmer Braces for Local Election Losses Amid New Era of UK Politics](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html)
+9. [Starmer Faces a Major Test in a Set of UK Elections: What to Know](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html)
+10. [Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87](https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
