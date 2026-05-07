@@ -2015,20 +2015,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月7日 09:01:53
+更新时间：2026年5月7日 10:03:19
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Shell latest oil giant to see profits surge due to Iran war impact](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
-2. [About 40 passengers previously left ship hit by Hantavirus at island of St. Helena](https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena)
-3. [Affected by the Iran war, residents in Southeast Asian countries voice their concerns](https://www.npr.org/2026/05/07/nx-s1-5813503/affected-by-the-iran-war-residents-in-southeast-asian-countries-voice-their-concerns)
-4. [Secretary of State Marco Rubio meets with Pope Leo after Trump's criticism](https://www.npr.org/2026/05/07/nx-s1-5813720/secretary-of-state-marco-rubio-meets-with-pope-leo-after-trumps-criticism)
-5. [Former U.S. ambassador to the Holy See on Rubio's visit to the Vatican](https://www.npr.org/2026/05/07/nx-s1-5813651/former-u-s-ambassador-to-the-holy-see-on-rubios-visit-to-the-vatican)
-6. [Former U.S. analyst, once jailed for spying for Israel, to run for Israeli parliament](https://www.npr.org/2026/05/07/nx-s1-5812527/former-u-s-analyst-once-jailed-for-spying-for-israel-to-run-for-israeli-parliament)
-7. [Paris Saint-Germain returns to Champions League final after beating Bayern Munich](https://www.npr.org/2026/05/07/g-s1-120662/psg-champions-league-final)
-8. [Islamic State-linked women arrive home in Australia from Syria](https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss)
-9. [Top BJP leader's aide shot dead in violence after Indian state election](https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss)
-10. [Iran War Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations](https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil)
+1. [Hantavirus-hit cruise ship on way to Canary Islands after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+2. [Shell latest oil giant to see profits surge due to Iran war impact](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
+3. [Starmer Braces for Local Election Losses Amid New Era of UK Politics](https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html)
+4. [Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs](https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html)
+5. [German Leaders Clash With Spy Chiefs Over Domestic Threat From Iran](https://www.nytimes.com/2026/05/07/world/europe/germany-merz-iran-security-threat-spy.html)
+6. [Dirty nickel: The cost of mining in Indonesia](https://www.npr.org/2026/05/07/g-s1-118218/indonesia-nickel-mineral-mining)
+7. [Australian Women and Children Linked to ISIS Fighters Return Home](https://www.nytimes.com/2026/05/07/world/asia/australia-isis-women-children-syria.html)
+8. [About 40 passengers previously left ship hit by Hantavirus at island of St. Helena](https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena)
+9. [Affected by the Iran war, residents in Southeast Asian countries voice their concerns](https://www.npr.org/2026/05/07/nx-s1-5813503/affected-by-the-iran-war-residents-in-southeast-asian-countries-voice-their-concerns)
+10. [Secretary of State Marco Rubio meets with Pope Leo after Trump's criticism](https://www.npr.org/2026/05/07/nx-s1-5813720/secretary-of-state-marco-rubio-meets-with-pope-leo-after-trumps-criticism)
 <!-- daily-check end -->
 
 ---
