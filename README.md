@@ -2029,20 +2029,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月8日 07:02:58
+更新时间：2026年5月8日 10:04:08
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: U.S. and Iran Exchange Fire Amid a Declared Truce](https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal)
-2. [Rebel Wilson accused of 'complete revision of history' as defamation case closes](https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss)
-3. [Third British national has suspected hantavirus infection, UK government says](https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss)
-4. [Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz](https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss)
-5. [Two Islamic-State linked Australian women charged with crimes against humanity](https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss)
-6. [North Korea says it will deploy new artillery guns targeting Seoul](https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul)
-7. [World Cup fans in China and India face broadcast uncertainty](https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss)
-8. [Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension](https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss)
-9. [Oil prices rise after US and Iran exchange fire in Hormuz strait](https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss)
-10. [A Project in Europe Tested Whether Students Could Live Without Smartphones](https://www.nytimes.com/2026/05/07/world/europe/smartphones-austria-children-experiment.html)
+1. [Live Updates: Early U.K. Election Results Point to Big Losses for Starmer’s Party](https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results)
+2. [Court Decision Leaves South Africa’s President Facing Impeachment Inquiry](https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html)
+3. [Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire](https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz)
+4. [Many Russians in No Mood for Celebration on Kremlin’s Biggest Day of the Year](https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html)
+5. [Spain readies for evacuations as a hantavirus-hit cruise ship heads for Canary Islands](https://www.npr.org/2026/05/08/g-s1-121055/spain-readies-for-evacuations)
+6. [Taiwan Breaks Political Deadlock to Approve $25 Billion U.S. Arms Purchase](https://www.nytimes.com/2026/05/08/world/asia/taiwan-trump-military-china-spending-25-billion.html)
+7. [U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift](https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html)
+8. [The French Couple That Tried to Burgle 29 Churches in 3 Months](https://www.nytimes.com/2026/05/08/france-churches-burglaries-couple.html)
+9. [European countries emerge as NATO leaders as U.S. role recedes](https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany)
+10. [David Attenborough celebrates his 100th birthday](https://www.npr.org/2026/05/08/nx-s1-5802305/david-attenborough-celebrates-his-100th-birthday)
 <!-- daily-check end -->
 
 ---
