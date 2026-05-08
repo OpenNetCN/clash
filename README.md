@@ -2029,20 +2029,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月8日 10:04:08
+更新时间：2026年5月8日 12:00:22
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Live Updates: Early U.K. Election Results Point to Big Losses for Starmer’s Party](https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results)
-2. [Court Decision Leaves South Africa’s President Facing Impeachment Inquiry](https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html)
-3. [Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire](https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz)
-4. [Many Russians in No Mood for Celebration on Kremlin’s Biggest Day of the Year](https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html)
-5. [Spain readies for evacuations as a hantavirus-hit cruise ship heads for Canary Islands](https://www.npr.org/2026/05/08/g-s1-121055/spain-readies-for-evacuations)
-6. [Taiwan Breaks Political Deadlock to Approve $25 Billion U.S. Arms Purchase](https://www.nytimes.com/2026/05/08/world/asia/taiwan-trump-military-china-spending-25-billion.html)
-7. [U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift](https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html)
-8. [The French Couple That Tried to Burgle 29 Churches in 3 Months](https://www.nytimes.com/2026/05/08/france-churches-burglaries-couple.html)
-9. [European countries emerge as NATO leaders as U.S. role recedes](https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany)
-10. [David Attenborough celebrates his 100th birthday](https://www.npr.org/2026/05/08/nx-s1-5802305/david-attenborough-celebrates-his-100th-birthday)
+1. [Live Updates: Early U.K. Local Election Results Point to Big Losses for Starmer’s Party](https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results)
+2. [Three dead after volcano erupts on Indonesian island](https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss)
+3. [Russia and Ukraine accuse each other of breaching Victory Day ceasefire](https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss)
+4. [Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire](https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz)
+5. [South Africa president faces call to resign after court ruling](https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss)
+6. [U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus](https://www.npr.org/2026/05/08/g-s1-121064/up-first-newsletter-iran-us-tennessee-congressional-maps-hantavirus-tariffs)
+7. [White House calls Mark Hamill 'sick' after actor's Trump grave post](https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss)
+8. [US jet fuel could be used in Europe to ease possible shortages](https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss)
+9. [UAE reports drone and missile attack as Iran war ceasefire is challenged](https://www.npr.org/2026/05/08/g-s1-121061/uae-reports-drone-and-missile-attack)
+10. [Military drills on the edge: U.S. and allies test capabilities near Asia's flash points](https://www.npr.org/2026/05/08/g-s1-120681/drills-us-allies-test-capabilities-asia-flash-points)
 <!-- daily-check end -->
 
 ---
