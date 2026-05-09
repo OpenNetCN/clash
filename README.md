@@ -2029,20 +2029,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月9日 09:02:14
+更新时间：2026年5月9日 10:02:02
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Putin denounces Nato at scaled back Victory Day parade](https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss)
-2. [A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability](https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html)
-3. [Latest on the Iran War: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks](https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz)
-4. [China’s Exports and Imports Set Records in April Amid High Energy Costs](https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html)
-5. [Iran accuses US of 'reckless military adventure'](https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss)
-6. [Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire](https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire)
-7. [Peter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban](https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html)
-8. [Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.](https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html)
-9. [Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It](https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html)
-10. [How China’s Leader Lost Faith in His Generals](https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html)
+1. [A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability](https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html)
+2. [Peter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban](https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html)
+3. [Australian by-election a litmus test for right-wing One Nation Party](https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss)
+4. [Russia Has Lost More Than 350,000 Soldiers, New Estimate Finds](https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html)
+5. [Putin denounces Nato at scaled back Victory Day parade](https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss)
+6. [Moscow marks Victory Day with a Red Square parade under tight security](https://www.npr.org/2026/05/09/nx-s1-5816876/russia-victory-day)
+7. [Hungary's new PM to be sworn in during 'regime change' party](https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss)
+8. [Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It](https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html)
+9. [Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran](https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html)
+10. [Iran accuses US of 'reckless military adventure'](https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
 
 ---
