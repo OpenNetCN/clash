@@ -2029,20 +2029,20 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月8日 15:03:36
+更新时间：2026年5月9日 02:01:38
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Many Russians in No Mood for Celebration on Kremlin’s Biggest Day of the Year](https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html)
-2. [Iran War Live Updates: Tehran Accuses U.S. of ‘Reckless’ Attacks After Exchange of Fire in Strait](https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz)
-3. [Live Updates: U.K. Local Election Results Point to Big Losses for Starmer’s Party](https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results)
-4. [Worldwide race to trace passengers from hantavirus-hit cruise ship](https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss)
-5. [International cyber attack disrupts swathe of universities and schools](https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss)
-6. [Iran accuses US of 'reckless military adventure'](https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss)
-7. [South Africa’s President Faces Potential Impeachment After Court Decision](https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html)
-8. [South Africa president faces call to resign after court ruling](https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss)
-9. [Russia and Ukraine accuse each other of breaching Victory Day ceasefire](https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss)
-10. [U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift](https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html)
+1. [Starmer’s Party Suffers Stark Losses in U.K. Local Elections](https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results)
+2. [Latest on the Iran War: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks](https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz)
+3. [International cyber attack disrupts swathe of universities and schools](https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss)
+4. [Hungary's new PM to be sworn in during 'regime change' party](https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss)
+5. [Anger and resignation in Tenerife as hantavirus ship approaches](https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss)
+6. [Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon](https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss)
+7. [Four Men Found Guilty of Haiti President’s Assassination](https://www.nytimes.com/2026/05/08/world/americas/haiti-president-assassination-four-men-charged.html)
+8. [Organizers of a canceled human rights conference in Zambia say China intervened](https://www.npr.org/2026/05/08/nx-s1-5809455/organizers-of-a-canceled-human-rights-conference-in-zambia-say-china-intervened)
+9. [Russia's Victory Day celebrations are dampened by ongoing war with Ukraine](https://www.npr.org/2026/05/08/nx-s1-5810080/russias-victory-day-celebrations-are-dampened-by-ongoing-war-with-ukraine)
+10. [Court Revives ‘Farmgate’ Case Against South African President](https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html)
 <!-- daily-check end -->
 
 ---
