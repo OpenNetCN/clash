@@ -2029,19 +2029,19 @@
 > 💡 这里只放标题和跳转链接，不做长摘要，不影响正文的机场推荐主线。
 
 <!-- daily-check start -->
-更新时间：2026年5月9日 14:01:30
+更新时间：2026年5月9日 15:01:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Hungary's new PM sworn in during 'regime change' party](https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss)
-2. [One Nation Wins Australia Special Election, Claiming Seat in Lower House](https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html)
-3. [Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?](https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html)
-4. [Putin denounces Nato at scaled back Victory Day parade](https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss)
-5. [Rhun ap Iorwerth Breaks Labour’s Dominance in Wales](https://www.nytimes.com/2026/05/09/world/europe/uk-elections-wales-iorwerth.html)
-6. [An expert on Iranian politics reviews the status of negotiations to end the war on Iran](https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran)
-7. [Revisiting Guy Goma's iconic accidental BBC interview 20 years ago this week](https://www.npr.org/2026/05/09/nx-s1-5814110/revisiting-guy-gomas-iconic-accidental-bbc-interview-20-years-ago-this-week)
-8. [A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability](https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html)
-9. [Australian by-election a litmus test for right-wing One Nation Party](https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss)
+1. [Australia's right-wing One Nation party scores historic parliamentary win](https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss)
+2. [Hungary's new PM sworn in after landslide victory over Orbán](https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss)
+3. [One Nation Wins Australia Special Election, Claiming Seat in Lower House](https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html)
+4. [Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?](https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html)
+5. [Putin denounces Nato at scaled back Victory Day parade](https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss)
+6. [Rhun ap Iorwerth Breaks Labour’s Dominance in Wales](https://www.nytimes.com/2026/05/09/world/europe/uk-elections-wales-iorwerth.html)
+7. [An expert on Iranian politics reviews the status of negotiations to end the war on Iran](https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran)
+8. [Revisiting Guy Goma's iconic accidental BBC interview 20 years ago this week](https://www.npr.org/2026/05/09/nx-s1-5814110/revisiting-guy-gomas-iconic-accidental-bbc-interview-20-years-ago-this-week)
+9. [A Scaled-Back Victory Day Parade Shows Putin’s Growing Vulnerability in Ukraine War](https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html)
 10. [Moscow marks Victory Day with a Red Square parade under tight security](https://www.npr.org/2026/05/09/nx-s1-5816876/russia-victory-day)
 <!-- daily-check end -->
 
