@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月10日 08:01:59
+更新时间：2026年5月10日 09:00:16
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?](https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html)
-2. [Virus-hit cruise ship arrives in Tenerife as medics await passengers](https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss)
+1. [Spain starts evacuating virus-hit cruise ship in Tenerife](https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss)
+2. [Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?](https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html)
 3. [Red Card or Black Card? The Conscription Lottery in Thailand.](https://www.nytimes.com/2026/05/10/world/asia/thailand-conscription-lottery.html)
 4. [The Man Who Cuts the Perfect Slice of Ham](https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html)
 5. [Suspected boat explosion injures 11 in Miami](https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss)
