@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月11日 09:04:17
+更新时间：2026年5月11日 11:01:11
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Oil prices jump after Trump dismisses Iran proposal to end war](https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss)
-2. [AI on the agenda as Trump heads to China](https://www.npr.org/2026/05/11/nx-s1-5812681/ai-on-the-agenda-as-trump-heads-to-china)
-3. [Trump calls Iran's latest response to U.S. ceasefire proposal 'totally unacceptable'](https://www.npr.org/2026/05/11/nx-s1-5817535/trump-calls-irans-latest-response-to-u-s-ceasefire-proposal-totally-unacceptable)
-4. [Retired general on what comes next as Iran responds to U.S. proposal to end war](https://www.npr.org/2026/05/11/nx-s1-5816034/retired-general-on-what-comes-next-as-iran-responds-to-u-s-proposal-to-end-war)
-5. [US and French nationals test positive for hantavirus after leaving ship](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
-6. [Remains of US soldier who went missing in Morocco have been recovered](https://www.npr.org/2026/05/11/g-s1-121363/remains-of-missing-us-soldier)
-7. [Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?](https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss)
-8. [French national shows symptoms on return from hantavirus-hit ship](https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss)
-9. [Trump calls Iran response to US proposal to end war 'totally unacceptable'](https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss)
-10. [U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive](https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers)
+1. [Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’](https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz)
+2. [Trump heads to China amid ongoing war with Iran](https://www.npr.org/2026/05/11/nx-s1-5816150/trump-heads-to-china-amid-ongoing-war-with-iran)
+3. [Starmer Promises Urgent Change as He Battles to Save Premiership](https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html)
+4. [The Fight to Euthanize Pablo Escobar’s Hippos in Colombia](https://www.nytimes.com/2026/05/11/world/americas/pablo-escobar-hippos-colombia.html)
+5. [Ailing Iranian Nobel laureate given bail and hospital transfer](https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss)
+6. [Portrait looted by Nazis found in home of Dutch SS leader's descendants](https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss)
+7. [Police find body believed to be of fugitive Australian shooter](https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss)
+8. [Philippine VP Sara Duterte impeached for a second time](https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss)
+9. [US and French nationals test positive for hantavirus after leaving ship](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
+10. [Ukraine Looks to Step Away From Trump and U.S.](https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html)
 <!-- daily-check end -->
