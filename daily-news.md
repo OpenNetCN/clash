@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月11日 07:02:43
+更新时间：2026年5月11日 08:03:19
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Remains of US soldier who went missing in Morocco have been recovered](https://www.npr.org/2026/05/11/g-s1-121363/remains-of-missing-us-soldier)
-2. [Modi urges Indians to work from home and limit foreign travel as Iran war continues](https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss)
+1. [US national on repatriation flight tests positive for hantavirus](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
+2. [Remains of US soldier who went missing in Morocco have been recovered](https://www.npr.org/2026/05/11/g-s1-121363/remains-of-missing-us-soldier)
 3. [Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?](https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss)
 4. [French national shows symptoms on return from hantavirus-hit ship](https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss)
 5. [Trump calls Iran response to US proposal to end war 'totally unacceptable'](https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss)
