@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月11日 15:02:46
+更新时间：2026年5月12日 02:03:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Washington dinner shooting suspect pleads not guilty](https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss)
-2. [Warning that increase in shipping around South Africa to avoid Middle East could harm whales](https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss)
-3. [Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’](https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz)
-4. [Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram](https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss)
-5. [Bosnia's powerful peace envoy quits, with questions over role's future](https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss)
-6. [US and French nationals test positive for hantavirus after leaving ship](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
-7. [Starmer Promises Urgent Change as He Battles to Save Premiership](https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html)
-8. [Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding](https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus)
-9. [Trump heads to China amid ongoing war with Iran](https://www.npr.org/2026/05/11/nx-s1-5816150/trump-heads-to-china-amid-ongoing-war-with-iran)
-10. [The Fight to Euthanize Pablo Escobar’s Hippos in Colombia](https://www.nytimes.com/2026/05/11/world/americas/pablo-escobar-hippos-colombia.html)
+1. [Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’](https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz)
+2. [Trump says Iran ceasefire is on 'massive life support'](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
+3. [US in closely-guarded talks to open new bases in Greenland](https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss)
+4. [Pressure on Starmer Mounts as Dozens of Labour Lawmakers Call on Him to Quit](https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html)
+5. [US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'](https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss)
+6. [How the Trump-Xi summit could set superpower relations for many years to come](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
+7. [Putin Said the War ‘Is Coming to a Close,’ but That’s Not All He Said](https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html)
+8. [South African president says he will not step down after impeachment call](https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss)
+9. [Last passengers leave virus-hit cruise ship as three more test positive](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
+10. [EU agrees sanctions on Israeli settlers over West Bank violence](https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
