@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月13日 05:03:18
+更新时间：2026年5月13日 10:03:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks](https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz)
-2. [Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack](https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss)
-3. [Jason Collins, NBA's first openly gay player, dies aged 47](https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss)
-4. [Thief jailed after stealing unreleased Beyoncé music from car](https://www.bbc.com/news/articles/cx213vnvxvwo?at_medium=RSS&at_campaign=rss)
-5. [Air India crisis deepens ahead of final Ahmedabad crash report](https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss)
-6. [A decade on, Trump returns to a stronger and more assertive China](https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss)
-7. [How Americans see China now](https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now)
-8. [Why Keir Starmer Remains in Deep Peril After Staving Off Calls for Resignation](https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html)
-9. [Australia has some of the world's costliest homes. Will scrapping tax breaks help?](https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss)
-10. [Lebanon says two paramedics among 13 killed in Israeli strikes](https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss)
+1. [Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump](https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html)
+2. [Are These the Bones of the Fourth Musketeer? This Dutch Village Hopes So.](https://www.nytimes.com/2026/05/13/world/europe/three-musketeers-maastricht-dumas-netherlands-dartagnan.html)
+3. [Is the U.S. slipping into 'Competitive Authoritarianism?'](https://www.npr.org/2026/05/13/nx-s1-5816313/word-of-week-competitive-authoritarianism)
+4. [Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran](https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html)
+5. [Wyoming mine aims to increase domestic supply of rare-earth elements](https://www.npr.org/2026/05/13/nx-s1-5750526/wyoming-mine-aims-to-increase-domestic-supply-of-rare-earth-elements)
+6. [Ghana to evacuate 300 from South Africa over anti-immigrant protests](https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss)
+7. [The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors](https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html)
+8. [French hantavirus patient is critically ill as outbreak grows to 11](https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill)
+9. [Britain Has Had 5 Leaders in a Decade. Is It About to Get Another?](https://www.nytimes.com/2026/05/13/world/europe/britain-leadership-turnover.html)
+10. [Will Trump and Xi Try to Slow the A.I. Arms Race?](https://www.nytimes.com/2026/05/13/world/asia/us-china-trump-xi-beijing-ai.html)
 <!-- daily-check end -->
