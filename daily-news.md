@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月13日 02:02:17
+更新时间：2026年5月13日 03:01:34
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack](https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss)
-2. [Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks](https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz)
+1. [Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks](https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz)
+2. [Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack](https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss)
 3. [Jason Collins, NBA's first openly gay player, dies aged 47](https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss)
 4. [Air India crisis deepens ahead of final Ahmedabad crash report](https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss)
 5. [A decade on, Trump returns to a stronger and more assertive China](https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss)
