@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月12日 15:03:32
+更新时间：2026年5月13日 01:00:29
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Uganda's president sworn in for record seventh term](https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss)
-2. [Live Updates: Britain’s Starmer Defies Calls to Resign, For Now](https://www.nytimes.com/live/2026/05/12/world/uk-starmer)
-3. [Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant](https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html)
-4. [Putin’s Credibility Has Suffered in the Iran War. Or Has It?](https://www.nytimes.com/2026/05/12/world/europe/russia-europe-ukraine-syria-iran.html)
-5. [Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’](https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz)
-6. [eBay rejects $55.5bn offer from GameStop](https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss)
-7. [US inflation jumps to 3.8% as energy costs surge from Iran war](https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss)
-8. [Trump heads to China for state visit. And, how the war in Iran has affected inflation](https://www.npr.org/2026/05/12/g-s1-121602/up-first-newsletter-trump-china-xi-jinping-inflation-mifepristone-cameron-hamilton)
-9. [EU needs to delay social media access for children - von der Leyen](https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss)
-10. [Mexico cancels plans to end school year early for World Cup](https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss)
+1. [Iran War Live Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks](https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz)
+2. [How Americans see China now](https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now)
+3. [Why Keir Starmer Remains in Deep Peril After Staving Off Calls for Resignation](https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html)
+4. [Lebanon says two paramedics among 13 killed in Israeli strikes](https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss)
+5. [Israel's government is expected to collapse over ultra-Orthodox military draft](https://www.npr.org/2026/05/12/g-s1-121631/israel-military-ultra-orthodox-netanyahu-coalition)
+6. [US inflation jumps to 3.8% as energy costs surge from Iran war](https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss)
+7. [Dali ship operator charged over deadly Baltimore bridge collapse](https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss)
+8. [No sign of larger hantavirus outbreak, says UN health agency](https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss)
+9. [Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says](https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss)
+10. [Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates](https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
