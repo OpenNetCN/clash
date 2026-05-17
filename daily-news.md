@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月17日 06:01:15
+更新时间：2026年5月17日 08:03:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8](https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html)
-2. [Rival Protests Take Place in London, With a Major Security Effort](https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html)
+1. [W.H.O. Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
+2. [Large-scale Ukrainian drone attack kills three in Moscow region, says Russia](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
 3. [WHO declares Ebola outbreak in DR Congo a global health emergency](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
-4. [How a Nature Cruise Turned Into a Nightmare](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
-5. [Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.](https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html)
-6. [Bulgarian banger 'Bangaranga' bags country its 1st Eurovision win](https://www.npr.org/2026/05/16/nx-s1-5824393/eurovision-winner-dara-bangaranga-bulgaria-vienna-austria)
-7. [Hezbollah drone strike videos show evolving tactics against Israel](https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss)
-8. [Félicien Kabuga Dies; Accused of Masterminding Rwanda’s Genocide](https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html)
-9. [Train Crashes Into Bangkok Traffic, Killing at Least 8](https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html)
-10. [Iranian man barely survives bombing, but wants war to go on](https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on)
+4. [A North Korean Soccer Team Makes a Rare Visit to South Korea](https://www.nytimes.com/2026/05/17/world/asia/north-korea-naegohyang-soccer-football.html)
+5. [Trump-backed challenger defeats Republican senator who voted to convict president](https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss)
+6. [Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8](https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html)
+7. [Rival Protests Take Place in London, With a Major Security Effort](https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html)
+8. [How a Nature Cruise Turned Into a Nightmare](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
+9. [Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.](https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html)
+10. [Bulgarian banger 'Bangaranga' bags country its 1st Eurovision win](https://www.npr.org/2026/05/16/nx-s1-5824393/eurovision-winner-dara-bangaranga-bulgaria-vienna-austria)
 <!-- daily-check end -->
