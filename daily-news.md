@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月21日 08:04:08
+更新时间：2026年5月21日 09:01:10
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Netanyahu scolds Israeli security minister for videos taunting flotilla activists](https://www.npr.org/2026/05/21/nx-s1-5829616/israeli-security-minister-flotilla)
-2. [Ebola fears surge on the ground in Congo over rapid spread of a rare type](https://www.npr.org/2026/05/21/nx-s1-5829610/ebola-fears-surge)
-3. [The Hard-Line Military Fraternity Running Iran](https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html)
-4. [Liberal U.S. mayors team up with European counterparts to fight authoritarianism](https://www.npr.org/2026/05/21/nx-s1-5827032/liberal-u-s-mayor-trump-europe-pact-of-free-cities-democracy-authoritarianism-orban)
-5. [Mira Nair Finds a New Audience as Mother of Zohran Mamdani](https://www.nytimes.com/2026/05/21/world/asia/filmmaker-miru-nair-india-zohran-mamdani.html)
-6. [US charges Cuba's Raúl Castro with murder over 1996 downing of two planes](https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss)
-7. [The French Civil Servant Accused of Drugging More Than 100 Women](https://www.nytimes.com/2026/05/20/world/europe/french-civil-servant-accused-drugging-women.html)
-8. [Ebola vaccine could take nine months as death toll rises further, WHO warns](https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss)
-9. [Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists](https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss)
-10. [Ebola Crisis Sparks Debate Over Global Health Double Standards](https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html)
+1. [DR Congo cancels World Cup training camp over Ebola outbreak](https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss)
+2. [India has a new political superstar - a cockroach](https://www.bbc.com/news/articles/cz72y11jjq1o?at_medium=RSS&at_campaign=rss)
+3. [Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists](https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss)
+4. [Aid cuts may have slowed identification of current Ebola outbreak](https://www.npr.org/2026/05/21/nx-s1-5828951/aid-cuts-may-have-contributed-to-delay-in-identifying-current-ebola-outbreak)
+5. [Netanyahu scolds Israeli security minister for videos taunting flotilla activists](https://www.npr.org/2026/05/21/nx-s1-5829616/israeli-security-minister-flotilla)
+6. [Ebola fears surge on the ground in Congo over rapid spread of a rare type](https://www.npr.org/2026/05/21/nx-s1-5829610/ebola-fears-surge)
+7. [The Hard-Line Military Fraternity Running Iran](https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html)
+8. [Liberal U.S. mayors team up with European counterparts to fight authoritarianism](https://www.npr.org/2026/05/21/nx-s1-5827032/liberal-u-s-mayor-trump-europe-pact-of-free-cities-democracy-authoritarianism-orban)
+9. [Mira Nair Finds a New Audience as Mother of Zohran Mamdani](https://www.nytimes.com/2026/05/21/world/asia/filmmaker-miru-nair-india-zohran-mamdani.html)
+10. [US charges Cuba's Raúl Castro with murder over 1996 downing of two planes](https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
