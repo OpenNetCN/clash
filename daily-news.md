@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月22日 09:04:35
+更新时间：2026年5月22日 13:05:00
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Italy's prime minister wants Israel to apologize for treatment of flotilla activists](https://www.npr.org/2026/05/22/nx-s1-5830108/italys-prime-minister-wants-israel-to-apologize-for-treatment-of-flotilla-activists)
-2. [Nato chief welcomes US sending 5,000 troops to Poland](https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss)
-3. [Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant](https://www.nytimes.com/2026/05/22/world/asia/manhunt-philippines-bato-dela-rosa-fugitive.html)
-4. [US sanctions Tanzanian police official over 'torture' of rights activists](https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss)
-5. [Rubio says Cuba is threat to US as Havana accuses him of 'lies'](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
-6. [US navy chief says $14bn arms sale to Taiwan paused due to Iran war](https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss)
-7. [Africa summit in India postponed over Ebola outbreak fears](https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss)
-8. [UN gravely concerned by an Afghan Taliban law that has provisions on child marriage](https://www.npr.org/2026/05/22/nx-s1-5831001/un-concerned-afghan-taliban-law-child-marriage)
-9. [Trump says he's sending 5,000 more troops to Poland](https://www.npr.org/2026/05/22/g-s1-123596/trump-sending-5-000-troops-to-poland)
-10. [Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action](https://www.npr.org/2026/05/22/nx-s1-5830999/rubio-diplomacy-cuba-trump-military-action)
+1. [The aftermath of Trump-Xi summit: comparing U.S. and China announcements](https://www.npr.org/2026/05/22/g-s1-123647/comparing-u-s-and-china-announcements)
+2. [Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan](https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss)
+3. [AI used to fake evidence that ended Korean actor's career, say police](https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss)
+4. [New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns](https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html)
+5. [Slow Food founder Carlo Petrini dies aged 76](https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss)
+6. [Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK](https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html)
+7. [Cubans grapple with fuel shortages and blackouts as US steps up pressure](https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss)
+8. [On the Ground in South Sudan: Why Akobo Faces an Ebola Risk](https://www.nytimes.com/2026/05/22/world/africa/ebola-south-sudan-congo.html)
+9. [In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way](https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html)
+10. [Before Europe Anoints Someone to Talk to Putin, It Debates What to Talk About](https://www.nytimes.com/2026/05/22/world/europe/ukraine-russia-putin-europe-peace-talks.html)
 <!-- daily-check end -->
