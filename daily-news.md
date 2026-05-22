@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月22日 05:04:58
+更新时间：2026年5月22日 06:02:25
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Australian man dies after falling down ravine on hike to Machu Picchu](https://www.bbc.com/news/articles/c202z3yz9p5o?at_medium=RSS&at_campaign=rss)
-2. [US to send 5,000 more troops to Poland, Trump says](https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss)
-3. [Musk's SpaceX postpones Starship launch as mega share sale looms](https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss)
-4. [Alberta to hold referendum on whether to remain in Canada](https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss)
-5. ['No means no': Greenlanders protest against Trump outside new US consulate](https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss)
-6. [Rubio says Cuba is threat to US as Havana accuses him of 'lies'](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
-7. [Trump's Raúl Castro indictment sends a signal to Cuba](https://www.npr.org/2026/05/21/nx-s1-5829906/trumps-raul-castro-indictment-sends-a-signal-to-cuba)
-8. [Angry crowd sets Ebola hospital tents on fire in DR Congo](https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss)
-9. [Exxon Is Nearing a Deal to Pump Oil in Venezuela, Marking a Victory for Trump](https://www.nytimes.com/2026/05/21/world/americas/exxon-venezuela-oil-trump.html)
-10. [Palestinians drop bid for a senior U.N. role after U.S. pressure](https://www.npr.org/2026/05/21/g-s1-123450/us-palestinians-united-nations-general-assembly)
+2. [UN gravely concerned by an Afghan Taliban law that has provisions on child marriage](https://www.npr.org/2026/05/22/nx-s1-5831001/un-concerned-afghan-taliban-law-child-marriage)
+3. [Trump says he's sending 5,000 more troops to Poland](https://www.npr.org/2026/05/22/g-s1-123596/trump-sending-5-000-troops-to-poland)
+4. [Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action](https://www.npr.org/2026/05/22/nx-s1-5830999/rubio-diplomacy-cuba-trump-military-action)
+5. [US to send 5,000 more troops to Poland, Trump says](https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss)
+6. [Musk's SpaceX postpones Starship launch as mega share sale looms](https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss)
+7. [Alberta to hold referendum on whether to remain in Canada](https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss)
+8. ['No means no': Greenlanders protest against Trump outside new US consulate](https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss)
+9. [Rubio says Cuba is threat to US as Havana accuses him of 'lies'](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
+10. [Trump's Raúl Castro indictment sends a signal to Cuba](https://www.npr.org/2026/05/21/nx-s1-5829906/trumps-raul-castro-indictment-sends-a-signal-to-cuba)
 <!-- daily-check end -->
