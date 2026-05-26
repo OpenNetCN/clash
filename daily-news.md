@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月25日 14:02:51
+更新时间：2026年5月26日 01:02:39
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Top Iranian Negotiators Arrive in Qatar for Talks on Peace Deal](https://www.nytimes.com/live/2026/05/25/world/iran-war-trump)
-2. [Suspect killed after opening fire on Secret Service near White House](https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss)
-3. [Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html)
-4. [Oil prices slide on hopes of US-Iran peace deal](https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss)
-5. [Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise](https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai)
-6. [In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’](https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html)
-7. [Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis](https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html)
-8. [Deal with US not imminent, Iran says](https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss)
-9. [At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall](https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss)
-10. [U.S.-Iran peace deal emerging, while war threats still loom](https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates)
+1. [Iran War Live Updates: As Talks to End War Resume in Qatar, U.S. Conducts Strikes on Iran’s Gulf Coast](https://www.nytimes.com/live/2026/05/25/world/iran-war-trump)
+2. [US military says it has launched new strikes on southern Iran](https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss)
+3. [Ahead of the World Cup, pressure to win and grow American soccer is on Tim Ream's mind](https://www.npr.org/2026/05/25/g-s1-124246/world-cup-usmnt-tim-ream)
+4. [Deal with US not imminent, Iran says](https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss)
+5. [Russia threatens more Kyiv strikes and tells foreign nationals to leave](https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss)
+6. [Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis](https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html)
+7. [Netanyahu says Israel will intensify strikes against Hezbollah](https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss)
+8. [How Uyghurs from China helped Syrian rebels overthrow Bashar al-Assad](https://www.npr.org/2026/05/25/nx-s1-5553312/how-uyghurs-from-china-helped-syrian-rebels-overthrow-bashar-al-assad)
+9. [‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit](https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html)
+10. [Cambodia’s Leader Pardons Top Opposition Politician Kem Sokha](https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html)
 <!-- daily-check end -->
