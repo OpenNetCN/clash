@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月26日 15:01:57
+更新时间：2026年5月27日 01:02:40
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Tensions Rise as Iran Threatens to Retaliate Against U.S. Strikes](https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal)
-2. [Iran condemns US strikes as 'gross violation' of ceasefire](https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss)
-3. [Threat of Deportations Leads to Risky Childbirth for Haitian Mothers](https://www.nytimes.com/2026/05/26/world/americas/dominican-republic-haiti-hospital-deportations.html)
-4. [The Wars in Ukraine and Iran Are More Alike Than You May Think](https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html)
-5. [At Chelsea Flower Show, a Gnome Controversy and Some ‘Good British Madness’](https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html)
-6. [Prospects fade for imminent end to Iran war as attacks restart](https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates)
-7. [Eleven killed in Lebanon village as Israel intensifies strikes](https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss)
-8. [Belgium Crash Kills 4 as Train Hits School Van](https://www.nytimes.com/2026/05/26/world/europe/belgium-minibus-train-collision-children.html)
-9. [Four killed as school minibus collides with train in Belgium](https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss)
-10. [Ebola needs swift response to prevent catastrophe, says DR Congo governor](https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss)
+1. [Dozens killed in Lebanon as Israel intensifies strikes](https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss)
+2. [Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said](https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal)
+3. [Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says](https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss)
+4. [Can EU find a Russia whisperer to mediate an end to war in Ukraine?](https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss)
+5. [Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say](https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss)
+6. [A Spring Heat Wave Is Breaking Records in the U.K., Spain and France](https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html)
+7. [Paris School Worker Tried for Child Abuse in Widespread Assault Inquiry](https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html)
+8. [The Wars in Ukraine and Iran Are More Alike Than You May Think](https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html)
+9. [Canada Strikes Landmark Deal to Export Liquefied Natural Gas to Germany](https://www.nytimes.com/2026/05/26/world/canada/canada-germany-natural-gas-lng.html)
+10. [Why the French Open is named after Roland Garros, who didn't play tennis](https://www.npr.org/2026/05/26/nx-s1-5834922/roland-garros-french-open-namesake)
 <!-- daily-check end -->
