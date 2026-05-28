@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月28日 08:00:06
+更新时间：2026年5月28日 09:02:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Iranian Military Says It Targeted a U.S. Base in Retaliation for Strikes](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal)
-2. [Sixteen pupils killed in Kenya school fire, local police say](https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss)
-3. [US strikes Iran military site as Tehran says it has targeted American base](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
-4. [Nigel Farage’s Far-Right Party Is Now Central to British Politics](https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html)
-5. [Israel strikes southern Lebanon after evacuation orders](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss)
-6. [Iranians are back online after a monthslong shutdown but face heavy restrictions](https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online)
-7. [Why Pakistan and Afghanistan Are Still Fighting](https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html)
-8. [Jill Biden says she thought husband was having a stroke during 2024 debate](https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss)
-9. [Australia charges woman who returned from Syria with joining Islamic State](https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss)
-10. [Australia sues US giant 3M over 'forever chemicals' in firefighting foam](https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss)
+1. [Sixteen pupils killed in Kenya school fire](https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: Iranian Military Says It Targeted a U.S. Base in Retaliation for Strikes](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal)
+3. [More than 500 people have died in Bangladesh measles outbreak](https://www.npr.org/2026/05/28/nx-s1-5836674/more-than-500-people-have-died-in-bangladesh-measles-outbreak)
+4. [In Colombia, a flashy lawyer touts his tough-on-crime approach in presidential race](https://www.npr.org/2026/05/28/nx-s1-5830412/in-colombia-a-flashy-lawyer-touts-his-tough-on-crime-approach-in-presidential-race)
+5. [The possible return of Somali pirates poses a new problem for the shipping industry](https://www.npr.org/2026/05/28/nx-s1-5815335/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry)
+6. [Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss)
+7. [Iran says it targeted American base after fresh US strikes](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
+8. [Fire at School Dormitory in Kenya Kills Several Students](https://www.nytimes.com/2026/05/28/world/africa/kenya-school-fire.html)
+9. [Nigel Farage’s Far-Right Party Is Now Central to British Politics](https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html)
+10. [Iranians are back online after a monthslong shutdown but face heavy restrictions](https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online)
 <!-- daily-check end -->
