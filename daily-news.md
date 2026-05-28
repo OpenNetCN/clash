@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月28日 03:03:18
+更新时间：2026年5月28日 04:03:18
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US strikes Iran targets for second time in three days](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: U.S. Conducts New Strikes on Southern Iran](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal)
+1. [Iran War Live Updates: U.S. Conducts New Strikes on Southern Iran](https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal)
+2. [US strikes Iran targets for second time in three days](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
 3. [Jill Biden says she thought husband was 'having a stroke' during 2024 debate](https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss)
 4. [Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal](https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html)
 5. [After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online](https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html)
