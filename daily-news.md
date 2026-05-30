@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月30日 02:00:04
+更新时间：2026年5月30日 03:03:56
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe](https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss)
+1. [Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival](https://www.bbc.com/news/articles/c1w21gn340xo?at_medium=RSS&at_campaign=rss)
 2. [Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal](https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal)
 3. [After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.](https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html)
 4. [Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say](https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html)
