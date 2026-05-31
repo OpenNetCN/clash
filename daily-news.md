@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月31日 09:00:07
+更新时间：2026年5月31日 13:03:20
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Colombia votes in presidential election that could redefine relations with US](https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss)
-2. [Where Is Toronto’s Best Party? Try the Basement.](https://www.nytimes.com/2026/05/31/world/canada/toronto-basement-jams-caribbean-diaspora.html)
-3. [Ebola spread in DR Congo 'deeply alarming', MSF warns](https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss)
-4. [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss)
-5. [Japan defence minister denies militarism and criticises China's 'huge arsenal'](https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss)
-6. [In Taiwan, ‘Mainland Spouses’ From China Become a Focus of Infiltration Fears](https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html)
-7. [PSG wins back-to-back Champions League titles after shootout victory against Arsenal](https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal)
-8. [Trump says a ceasefire extension deal with Iran is near, but core issues remain](https://www.npr.org/2026/05/30/nx-s1-5839359/trump-says-a-ceasefire-extension-deal-with-iran-is-near-but-core-issues-remain)
-9. [Over a thousand Palestinians from Gaza held in Israeli detention without charge](https://www.npr.org/2026/05/30/nx-s1-5831351/over-a-thousand-palestinians-from-gaza-held-in-israeli-detention-without-charge)
-10. [Iran’s Team Trains in Limbo for World Cup Overshadowed by War](https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html)
+1. [Israel is extending its borders through war. For some, it's part of a greater plan](https://www.npr.org/2026/05/31/nx-s1-5837292/israel-is-extending-its-borders-through-war-for-some-its-part-of-a-greater-plan)
+2. [Israel seizes castle in Lebanon as it expands ground offensive](https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss)
+3. [Nigerian retired general abducted with his wife in the north-west](https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss)
+4. [Where Is Toronto’s Best Party? Try the Basement.](https://www.nytimes.com/2026/05/31/world/canada/toronto-basement-jams-caribbean-diaspora.html)
+5. [Laos cave survivors help with plan to find last two missing men](https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss)
+6. [As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost](https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html)
+7. [South Africa made to look like fools after World Cup visa issues, says minister](https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss)
+8. [Hundreds arrested and dozens of police injured after Champions League riots in France](https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss)
+9. [Colombia Presidential Election: What to Know About the Candidates and Main Issues](https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html)
+10. [Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade](https://www.nytimes.com/2026/05/31/world/americas/cuba-trash-fuel-blockade.html)
 <!-- daily-check end -->
