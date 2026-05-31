@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月31日 04:04:51
+更新时间：2026年5月31日 05:02:17
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss)
-2. [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html)
+1. [In Taiwan, ‘Mainland Spouses’ From China Become a Focus of Infiltration Fears](https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html)
+2. [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss)
 3. [PSG wins back-to-back Champions League titles after shootout victory against Arsenal](https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal)
 4. [Ebola spread in DR Congo 'deeply alarming', MSF warns](https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss)
 5. [Trump says a ceasefire extension deal with Iran is near, but core issues remain](https://www.npr.org/2026/05/30/nx-s1-5839359/trump-says-a-ceasefire-extension-deal-with-iran-is-near-but-core-issues-remain)
