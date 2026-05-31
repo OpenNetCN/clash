@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月31日 02:01:24
+更新时间：2026年5月31日 03:02:57
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Cuba’s blackouts leave high-rise residents with constant uncertainty](https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss)
+1. [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss)
 2. [What to Know About the Ebola Outbreak](https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html)
 3. [PSG wins back-to-back Champions League titles after shootout victory against Arsenal](https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal)
 4. [Ebola spread in DR Congo 'deeply alarming', MSF warns](https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss)
