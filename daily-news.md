@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月1日 06:00:19
+更新时间：2026年6月1日 10:01:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire](https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates)
-2. [Huge blast kills dozens in rebel-held village in Myanmar](https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss)
-3. [Iran and US report new wave of air strikes in Gulf](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss)
-4. [Colombia Presidential Election Heads to a Runoff](https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html)
-5. [Poland's controversial 'Highway to Hel' 666 bus revived](https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss)
-6. [Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation](https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html)
-7. [Colombia presidential runoff pits leftist senator against pro-Trump rival](https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss)
-8. [Trump seeking edits to US-Iran deal, US media report](https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss)
-9. [Israel seizes castle in Lebanon as it expands ground offensive](https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss)
-10. [How aid cuts are hampering the frontline response to the Ebola crisis](https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda)
+1. [Five patients recover from Ebola in DR Congo and leave hospital](https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: U.S. and Iran Exchange New Attacks](https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon)
+3. [US says it struck Iranian radar sites as Kuwait reports missile and drone attacks](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss)
+4. [Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates](https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss)
+5. [Andriy Yermak, Once the Muscle Behind Zelensky, Is Now Crowdfunding Bail Money](https://www.nytimes.com/2026/06/01/world/europe/ukraine-corruption-yermak-zelensky.html)
+6. [An Industrial Gem in Venezuela Now Embodies the Country’s Decay](https://www.nytimes.com/2026/06/01/world/americas/venezuela-economy-cumana.html)
+7. [Funds for Trump's Board of Peace aren't in World Bank account. So where are they?](https://www.npr.org/2026/06/01/nx-s1-5837603/funds-for-trumps-board-of-peace-arent-in-world-bank-account-so-where-are-they)
+8. [After Russian missile strike, owners of Ukrainian coffee shop pledge to rebuild](https://www.npr.org/2026/06/01/nx-s1-5838859/after-russian-missile-strike-owners-of-ukrainian-coffee-shop-pledge-to-rebuild)
+9. [Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar](https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html)
+10. [Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria](https://www.nytimes.com/2026/06/01/world/syria-war-crimes-trial-austria.html)
 <!-- daily-check end -->
