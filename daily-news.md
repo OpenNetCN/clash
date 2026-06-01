@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年5月31日 14:01:59
+更新时间：2026年6月1日 01:00:48
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel seizes medieval castle as it expands major offensive in southern Lebanon](https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon)
-2. [Colombia votes in presidential election that could redefine relations with US](https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss)
-3. [As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost](https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html)
+1. [Colombia Presidential Election Heads to a Runoff](https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html)
+2. [Colombia presidential runoff pits leftist senator against pro-Trump rival](https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss)
+3. [Trump seeking edits to US-Iran deal, US media report](https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss)
 4. [Israel seizes castle in Lebanon as it expands ground offensive](https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss)
-5. [Nigerian retired general abducted with his wife in the north-west](https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss)
-6. [Where Is Toronto’s Best Party? Try the Basement.](https://www.nytimes.com/2026/05/31/world/canada/toronto-basement-jams-caribbean-diaspora.html)
-7. [Laos cave survivors help with plan to find last two missing men](https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss)
-8. [South Africa made to look like fools after World Cup visa issues, says minister](https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss)
+5. [How aid cuts are hampering the frontline response to the Ebola crisis](https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda)
+6. [The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town](https://www.npr.org/2026/05/31/nx-s1-5820634/the-terrifying-day-the-u-s-iran-war-reached-a-sleepy-sri-lankan-town)
+7. [Dead whale towed ashore in Denmark ahead of autopsy](https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss)
+8. [Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation](https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html)
 9. [Hundreds arrested and dozens of police injured after Champions League riots in France](https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss)
-10. [Colombia Presidential Election: What to Know About the Candidates and Main Issues](https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html)
+10. [South Africa made to look like fools over World Cup visa issues, says minister](https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
