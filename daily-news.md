@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月3日 07:01:42
+更新时间：2026年6月3日 08:02:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)
-2. [Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility](https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates)
-3. [Seven killed after drone hits bus in Russia-controlled part of Ukraine](https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss)
+1. [Seven killed after drone hits bus in Russia-controlled part of Ukraine](https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss)
+2. [US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)
+3. [Iran fires missiles at Kuwait and Bahrain, U.S. strikes Iran facility](https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates)
 4. [Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show](https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss)
 5. [Iran Targets Neighbors as U.S. Condemns ‘Aggressive’ Strikes](https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon)
 6. [Murder of Henry Nowak, Who Was Handcuffed by Police While Dying, Fuels Outrage in UK](https://www.nytimes.com/2026/06/02/world/europe/henry-nowak-murder-uk-stabbing.html)
