@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月5日 14:04:26
+更新时间：2026年6月6日 01:00:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [China's highest bridge brings tourists and internet access to remote communities](https://www.npr.org/2026/06/05/g-s1-126304/chinas-highest-bridge-brings-tourists-and-internet-access-to-remote-communities)
-2. [Singer Fally Ipupa's pride at being given major DR Congo honour](https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss)
-3. [Nearly 50 people die of thirst in Sahara desert after lorry breaks down](https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss)
-4. [Hopes of Lebanon Cease-Fire Falter as Israel and Hezbollah Fight On](https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html)
-5. [The Priests Revered in the Land of Five Genders](https://www.nytimes.com/2026/06/05/world/asia/transgender-priests-sulawesi-bissu-bugis.html)
-6. [Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free](https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html)
-7. [Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)
-8. [Fury in France after child murder suspect's criminal record released](https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss)
-9. [Europe Needs New Military Alliance to Defend Itself, Italy Says](https://www.nytimes.com/2026/06/05/world/europe/eu-italy-defense-military-alliance-crosetto.html)
-10. [US actor James Handy stabbed to death, with girlfriend's son arrested](https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss)
+1. [Astronauts return to ISS after sheltering during air leak repair attempt](https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss)
+2. [Putin promotes a new world economic order at St. Petersburg forum](https://www.npr.org/2026/06/05/nx-s1-5845119/putin-promotes-a-new-world-economic-order-at-st-petersburg-forum)
+3. [France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists](https://www.nytimes.com/2026/06/05/world/europe/france-israel-flotilla-activists.html)
+4. [Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)
+5. [A Question Swirling Around Putin’s Big Conference: Could the War End?](https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html)
+6. [Norway's crown princess on lung transplant waiting list, palace says](https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss)
+7. [Xi Jinping will travel to North Korea next week in first visit since 2019](https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019)
+8. [Nearly 50 people die of thirst in Sahara desert after lorry breaks down](https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss)
+9. [Three jailed over heist of ancient golden helmet from Dutch museum](https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&at_campaign=rss)
+10. [Ukraine strikes cargo ships and admits Romania drone blast](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
