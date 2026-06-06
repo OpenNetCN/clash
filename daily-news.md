@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月6日 06:02:03
+更新时间：2026年6月6日 09:04:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.S. military says it shot down Iranian drones launched toward Gulf allies](https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones)
-2. [Laboring Under Delhi’s Harsh Heat, Workers Must Choose Health or Wages](https://www.nytimes.com/2026/06/06/world/asia/india-heat-workers-health-income.html)
-3. [Astronauts return to ISS after sheltering during air leak repair attempt](https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss)
-4. [Putin promotes a new world economic order at St. Petersburg forum](https://www.npr.org/2026/06/05/nx-s1-5845119/putin-promotes-a-new-world-economic-order-at-st-petersburg-forum)
-5. [France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists](https://www.nytimes.com/2026/06/05/world/europe/france-israel-flotilla-activists.html)
-6. [Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)
-7. [Norway's crown princess on lung transplant waiting list, palace says](https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss)
-8. [Xi Jinping will travel to North Korea next week in first visit since 2019](https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019)
-9. [Nearly 50 people die of thirst in Sahara desert after lorry breaks down](https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss)
-10. [Three jailed over heist of ancient golden helmet from Dutch museum](https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&at_campaign=rss)
+1. [Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72](https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss)
+2. [Armenia braces for election as Russia piles pressure on pro-West government](https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss)
+3. [US and Iran exchange strikes in Gulf in latest test of ceasefire](https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss)
+4. [Canada bans Texas cattle over flesh-eating screwworm outbreak in US](https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss)
+5. [U.S. military says it shot down Iranian drones launched toward Gulf allies](https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones)
+6. [Laboring Under Delhi’s Harsh Heat, Workers Must Choose Health or Wages](https://www.nytimes.com/2026/06/06/world/asia/india-heat-workers-health-income.html)
+7. [Iran's football team granted visas to enter US for World Cup, officials say](https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss)
+8. [Rumours and speculation as fans forecast date of Taylor Swift's wedding](https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss)
+9. [Palestinian baby killed by Israeli gunfire in West Bank, health ministry says](https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss)
+10. [Putin promotes a new world economic order at St. Petersburg forum](https://www.npr.org/2026/06/05/nx-s1-5845119/putin-promotes-a-new-world-economic-order-at-st-petersburg-forum)
 <!-- daily-check end -->
