@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月8日 02:00:28
+更新时间：2026年6月8日 03:03:35
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire](https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles)
+1. [Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire](https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles)
 2. [Peru’s Presidential Runoff in a Dead Heat](https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election.html)
 3. [7.8 magnitude quake hits southern Philippines; tsunami risk for some coasts](https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts)
 4. [Oil prices edge higher after strikes on Israel test ceasefire](https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss)
