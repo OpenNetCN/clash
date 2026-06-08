@@ -17,7 +17,7 @@
 
 📌 **墙内访问 GitHub 太慢？**  
 👉 推荐使用镜像站查看测速图与完整内容：  
-🔗 [https://gptvpnhelper.com/airport-access/](https://gptvpnhelper.com/airport-access/)
+🔗 [https://petnooko.com/](https://petnooko.com/)
 
 ---
 
@@ -254,7 +254,7 @@
 > 📋 **优惠码：** `boost`  
 > 💰 **优惠力度：** 新用户一次性 8 折（部分福利款/特价包可能不参与，以结算页为准）  
 > 🔗 **立即注册：** [BoostNet（中高端 IEPL 专线）](https://888.boostqz.com/?path=register&code=kKMFirlm)  
-> 📖 **完整测评：** [BoostNet 机场测评（2026-03-03 实测）](https://airport.gptvpnhelper.com/boostnet/)
+> 📖 **完整测评：** [BoostNet 机场测评（2026-03-03 实测）](https://petnooko.com/boostnet/)
 
 ---
 
@@ -397,13 +397,13 @@
 > 📋 **优惠码：** `888`  
 > 💰 **优惠力度：** 新用户限用 1 次 **8 折**（以结算页最终显示为准）  
 > 🔗 **立即注册：** [悠兔（高端 IEPL 专线）](https://youtunice.com/?path=register&code=erkQTmbM)  
-> 📖 **完整测评：** [悠兔机场测评（2026-04-27 更新）](https://airport.gptvpnhelper.com/youtu/)
+> 📖 **完整测评：** [悠兔机场测评（2026-04-27 更新）](https://petnooko.com/youtu/)
 
 ---
 
 **📷 节点测速与解锁｜悠兔（2025-06-12 样本）**
 
-<img src="https://airport.gptvpnhelper.com/assets/youtu/YouTu-Test.webp" alt="悠兔机场测速与解锁测试图" loading="lazy" />
+<img src="https://petnooko.com/assets/youtu/YouTu-Test.webp" alt="悠兔机场测速与解锁测试图" loading="lazy" />
 
 ---
 
@@ -529,7 +529,7 @@
 
 --- 
 
->  👉 [TNTCloud 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/tntcloud/)
+>  👉 [TNTCloud 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/tntcloud/)
 
 ---
 
@@ -776,7 +776,7 @@
 
 --- 
 
->  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/qingyunti/)
+>  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/qingyunti/)
 
 ---
 
@@ -920,7 +920,7 @@
 
 ---
 
->  👉 [Galaxy 银河云 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/yinheyun/)
+>  👉 [Galaxy 银河云 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/yinheyun/)
 
 **📷 测速图｜银河云（2026-01-18 实测）**
 
@@ -1045,7 +1045,7 @@
 
 --- 
 
->  👉 [WgetCloud 机场详细测评，如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/airport-access/wgetcloud/)
+>  👉 [WgetCloud 机场详细测评，如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/wgetcloud/)
 
 ---
 
@@ -1123,7 +1123,7 @@
 - ✅ **专属折扣**：购买付费套餐使用优惠码 `bbxy-5th` 享 **95 折优惠**（长期有效）
 - ✅ **套餐升级**：新套餐开通后会覆盖旧套餐，如需升级年付以上套餐可发工单补差价
 
-📊 [👉 查看百变小樱机场详细测评：IEPL专线测速、ChatGPT解锁测试、完整套餐介绍](https://gptvpnhelper.com/airport-access/bbxy/)
+📊 [👉 查看百变小樱机场详细测评：IEPL专线测速、ChatGPT解锁测试、完整套餐介绍](https://petnooko.com/bbxy/)
 
 **📷 测速图｜百变小樱（2026-01-19 实测）**
 
@@ -1736,7 +1736,7 @@
 ---
 
 > 📌 本页为Markdown简版导航，如需在体验更好的阅读效果,请访问官网GithubPages页面：  
-> 👉 [https://gptvpnhelper.com/airport-access/](https://gptvpnhelper.com/airport-access/)
+> 👉 [https://petnooko.com/](https://petnooko.com/)
 
 ---
 
