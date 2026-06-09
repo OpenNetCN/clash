@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月9日 14:02:47
+更新时间：2026年6月9日 15:02:22
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon](https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon)
-2. [Ukraine’s Neighbors Seek Shelter as More and More Drones Fly Overhead](https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html)
-3. [Sea drone rescues US army helicopter crew near Strait of Hormuz](https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss)
-4. [One of Pope Leo’s Best Friends Works in Spain. They Talk About Cars.](https://www.nytimes.com/2026/06/09/world/europe/pope-leo-spain-armando-lovera.html)
-5. [4 states head to the polls. And, global conflicts are on the rise, new report says](https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts)
-6. [Kenyan police fire tear gas at protest against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss)
-7. [Man accused of killing mother-in-law with poison-laced satay](https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss)
-8. [A Challenge in the U.S.-Iran Talks: Both Sides Demand Victory](https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html)
-9. [The Roar of ‘Cease-Fire’ in a Once-Thriving City](https://www.nytimes.com/2026/06/09/world/middleeast/lebanon-israel-nabatieh.html)
-10. [Infantino’s Yearslong Effort to Woo Trump for the World Cup](https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html)
+2. [One of Pope Leo’s Best Friends Works in Spain. They Talk About Cars.](https://www.nytimes.com/2026/06/09/world/europe/pope-leo-spain-armando-lovera.html)
+3. [Infantino’s Yearslong Effort to Woo Trump for the World Cup](https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html)
+4. [Drones Stray Into Neighboring Countries as Russia and Ukraine Battle](https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html)
+5. [Sea drone rescues US army helicopter crew near Strait of Hormuz](https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss)
+6. [Somali Referee Says His World Cup Dream Is Dashed After U.S. Denies Entry](https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html)
+7. [4 states head to the polls. And, global conflicts are on the rise, new report says](https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts)
+8. [Kenyan police fire tear gas at protest against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss)
+9. [Man accused of killing mother-in-law with poison-laced satay](https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss)
+10. [A Challenge in the U.S.-Iran Talks: Both Sides Demand Victory](https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html)
 <!-- daily-check end -->
