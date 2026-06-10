@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月9日 15:02:22
+更新时间：2026年6月10日 01:00:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon](https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon)
-2. [One of Pope Leo’s Best Friends Works in Spain. They Talk About Cars.](https://www.nytimes.com/2026/06/09/world/europe/pope-leo-spain-armando-lovera.html)
-3. [Infantino’s Yearslong Effort to Woo Trump for the World Cup](https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html)
-4. [Drones Stray Into Neighboring Countries as Russia and Ukraine Battle](https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html)
-5. [Sea drone rescues US army helicopter crew near Strait of Hormuz](https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss)
-6. [Somali Referee Says His World Cup Dream Is Dashed After U.S. Denies Entry](https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html)
-7. [4 states head to the polls. And, global conflicts are on the rise, new report says](https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts)
-8. [Kenyan police fire tear gas at protest against US Ebola quarantine centre plan](https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss)
-9. [Man accused of killing mother-in-law with poison-laced satay](https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss)
-10. [A Challenge in the U.S.-Iran Talks: Both Sides Demand Victory](https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html)
+1. [Iran War Live Updates: U.S. Launches Strikes on Iran to Retaliate for Downed Helicopter](https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon)
+2. [US strikes Iran in response to downing of helicopter, military says](https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss)
+3. [Somali Referee Says His World Cup Dream Is Dashed After U.S. Denies Entry](https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html)
+4. [World's largest chipmaker does not rule out price rises as costs increase](https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss)
+5. [Inside Myanmar, rebels are losing ground as military forces men into army](https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss)
+6. [UK and allies sanction 'networks' enabling settler violence in West Bank](https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss)
+7. [President Trump says U.S. 'must' respond to Iran attack that downed Army helicopter](https://www.npr.org/2026/06/09/nx-s1-5851862/president-trump-says-u-s-must-respond-to-iran-attack-that-downed-army-helicopter)
+8. [Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks](https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss)
+9. [Nasa names next astronauts for Artemis Moon programme](https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss)
+10. [Drones Stray Into Neighboring Countries as Russia and Ukraine Battle](https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html)
 <!-- daily-check end -->
