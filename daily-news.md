@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月11日 03:01:11
+更新时间：2026年6月11日 05:03:43
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Indonesian Military Court Sentences Four in Acid Attack on Rights Advocate](https://www.nytimes.com/2026/06/10/world/asia/indonesia-military-acid-attack-andrie.html)
+1. [US and Iran exchange strikes across Middle East for second day in a row](https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss)
 2. [Iran War Live Updates: U.S. and Iran Trade Strikes for a Second Day](https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us)
-3. [Tehran targets US Gulf bases after American forces launch new strikes on Iran](https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss)
+3. [Indonesian Military Court Sentences Four in Acid Attack on Rights Advocate](https://www.nytimes.com/2026/06/10/world/asia/indonesia-military-acid-attack-andrie.html)
 4. [Trump says he 'loves the inflation' as US prices rise at fastest rate in three years](https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss)
 5. [The furious dispute over what caused Air India flight 171 to crash](https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss)
 6. [U.S. military says it's striking 'multiple targets' in Iran in 2nd day of renewed fire](https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire)
