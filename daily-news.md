@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月13日 01:04:28
+更新时间：2026年6月13日 03:00:46
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Deal to end fighting would lead to Hormuz reopening, Iran says](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss)
-2. [World Cup Ticket Prices in Mexico City Too Expensive for Most Fans](https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html)
-3. [Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say](https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel)
+1. [Iran War Live Updates: Cease-Fire Deal Appears Within Reach, Officials Say](https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel)
+2. [Deal to end fighting would lead to Hormuz reopening, Iran says](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss)
+3. [World Cup Ticket Prices in Mexico City Too Expensive for Most Fans](https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html)
 4. [Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut](https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss)
 5. [Fans on concourses instead of in seats, claims Fifa](https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss)
 6. [Spain’s Church Hopes Pope Trip Will Stem Secular Tide](https://www.nytimes.com/2026/06/12/world/europe/pope-leo-spain-secular-catholic.html)
