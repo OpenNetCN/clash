@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月16日 03:03:33
+更新时间：2026年6月16日 04:03:06
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret](https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal)
-2. [Trump says deal to end war with Iran already signed and details to be released 'pretty soon'](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss)
+1. [Trump may release US-Iran deal before Friday, Vance says](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss)
+2. [Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret](https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal)
 3. [Married at First Sight Australia allegations 'disturbing', says country's watchdog](https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss)
 4. [Trump arrives in France for G7 leaders summit, touting peace deal with Iran](https://www.npr.org/2026/06/15/nx-s1-5859257/trump-arrives-in-france-for-g7-leaders-summit-touting-peace-deal-with-iran)
 5. [UK Announces Social Media Ban for Children Under 16](https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html)
