@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月17日 04:02:35
+更新时间：2026年6月17日 05:04:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Live Updates: Trump Says He Hopes to Put War in ‘Rearview Mirror’](https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal)
-2. [Can a Trump-Modi Meeting Reset U.S.-India Relations?](https://www.nytimes.com/2026/06/16/world/asia/trump-modi-meeting-g7.html)
+1. [Can a Trump-Modi Meeting Reset U.S.-India Relations?](https://www.nytimes.com/2026/06/16/world/asia/trump-modi-meeting-g7.html)
+2. [Iran War Live Updates: Trump Says He Hopes to Put War in ‘Rearview Mirror’](https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal)
 3. [UK investigating reports Russian warship fired warning shots near yacht in English Channel](https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss)
 4. [Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns](https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html)
 5. [After a Bitter Split, European Leaders Play Nice With Trump](https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html)
