@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月17日 10:01:52
+更新时间：2026年6月17日 12:03:14
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. ['We fear for our lives' - deadline looms for migrants to leave South Africa](https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss)
-2. [Equatorial Guinea government resigns after failing to meet targets](https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss)
-3. [Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal](https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france)
-4. [Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules](https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss)
-5. [Congo Returns to World Cup in High Style After 52 Years Away](https://www.nytimes.com/2026/06/17/world/africa/congo-team-world-cup-soccer-leopard-fashion-sapeur.html)
-6. [Ukraine Tries to Cut Off Crimea, Choking Russian Supply Routes](https://www.nytimes.com/2026/06/17/world/europe/russia-ukraine-crimea-fuel-shortages.html)
-7. [Bahrain Revoked Their Citizenship, and Then Tried to Expel Them to Iran](https://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html)
-8. [How Ecuador’s Andes Created a Language of Its Own](https://www.nytimes.com/2026/06/17/world/americas/ecuador-kichwa-language-andes.html)
-9. [Trump's Iran agreement dominates G7 but big questions remain](https://www.npr.org/2026/06/17/nx-s1-5860782/trumps-iran-agreement-dominates-g7-but-big-questions-remain)
-10. [Trump expected to face questions about Iran war as he wraps up G7 summit](https://www.npr.org/2026/06/17/nx-s1-5860655/trump-expected-to-face-questions-about-iran-war-as-he-wraps-up-g7-summit)
+1. [Live Updates: After G7 Leaders Praise U.S.-Iran Deal, Trump Threatens Iran Again](https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france)
+2. [Trump to face questions at G7 press conference. And, Tuesday's primary results](https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries)
+3. [Russian Navy Ship Fired Warning Shots Near British Couple’s Sailboat](https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html)
+4. [Norway's crown princess undergoes successful lung transplant, palace says](https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss)
+5. [Israel launches fresh strikes on Lebanon despite Trump criticism](https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss)
+6. ['They came with machetes' - deadline looms for migrants to leave South Africa](https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss)
+7. [Equatorial Guinea government resigns after failing to meet targets](https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss)
+8. [Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules](https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss)
+9. [Congo Returns to World Cup in High Style After 52 Years Away](https://www.nytimes.com/2026/06/17/world/africa/congo-team-world-cup-soccer-leopard-fashion-sapeur.html)
+10. [Ukraine Tries to Cut Off Crimea, Choking Russian Supply Routes](https://www.nytimes.com/2026/06/17/world/europe/russia-ukraine-crimea-fuel-shortages.html)
 <!-- daily-check end -->
