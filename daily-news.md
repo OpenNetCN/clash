@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月18日 01:00:14
+更新时间：2026年6月18日 02:03:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Live Updates: U.S. Details Agreement With Iran as Trump Departs G7 Summit](https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france)
 2. [Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html)
-3. [Here's how much the the Iran war cost -- and how its effects will linger](https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade)
+3. [Here's how much the Iran war cost -- and how its effects will linger](https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade)
 4. [Uzbekistan's first World Cup appearance is a dream come true for players and fans](https://www.npr.org/2026/06/17/nx-s1-5856197/uzbekistans-first-world-cup-appearance-is-a-dream-come-true-for-players-and-fans)
 5. [Finland Lifts a Nuclear Weapons Ban, Eyeing an Uncertain World](https://www.nytimes.com/2026/06/17/world/europe/finland-nuclear-devices.html)
 6. [Ex-Nigeria oil minister cleared in UK bribery trial](https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss)
