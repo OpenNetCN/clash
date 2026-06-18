@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月17日 15:00:35
+更新时间：2026年6月18日 01:00:14
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Live Updates: After G7 Leaders Praise U.S.-Iran Deal, Trump Threatens Iran Again](https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france)
-2. [Nigerian man jailed for storing human faeces outside his home](https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss)
-3. [Iran sends tankers loaded with oil past US military blockade](https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss)
-4. [Taiwan says Chinese pressure over the island is the "new normal"](https://www.npr.org/2026/06/17/g-s1-128550/taiwan-says-chinese-pressure-over-the-island-is-the-new-normal)
-5. [Congo Returns to World Cup in High Style After 52 Years Away](https://www.nytimes.com/2026/06/17/world/africa/congo-team-world-cup-soccer-leopard-fashion-sapeur.html)
-6. [Search for six-year-old Ebola patient after armed men storm DR Congo hospital](https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss)
-7. [Trump to face questions at G7 press conference. And, Tuesday's primary results](https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries)
-8. [Japan Raids Ice Cream Giants in Cartel Investigation](https://www.nytimes.com/2026/06/17/world/asia/japan-ice-cream-cartel-investigation.html)
-9. [Norway's crown princess undergoes successful lung transplant, palace says](https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss)
-10. [Israel launches fresh strikes on Lebanon despite Trump criticism](https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss)
+1. [Live Updates: U.S. Details Agreement With Iran as Trump Departs G7 Summit](https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france)
+2. [Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html)
+3. [Here's how much the the Iran war cost -- and how its effects will linger](https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade)
+4. [Uzbekistan's first World Cup appearance is a dream come true for players and fans](https://www.npr.org/2026/06/17/nx-s1-5856197/uzbekistans-first-world-cup-appearance-is-a-dream-come-true-for-players-and-fans)
+5. [Finland Lifts a Nuclear Weapons Ban, Eyeing an Uncertain World](https://www.nytimes.com/2026/06/17/world/europe/finland-nuclear-devices.html)
+6. [Ex-Nigeria oil minister cleared in UK bribery trial](https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss)
+7. [Stars of Israel’s TV Channel for Bibi Fans Turn on Trump](https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html)
+8. [Serial killer who murdered eight women in Long Island town imprisoned for life](https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss)
+9. [Search for six-year-old Ebola patient after armed men storm DR Congo hospital](https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss)
+10. [An inside look at President Trump's campaign to acquire Greenland](https://www.npr.org/2026/06/17/nx-s1-5860861/an-inside-look-at-president-trumps-campaign-to-acquire-greenland)
 <!-- daily-check end -->
