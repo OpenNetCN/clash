@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月18日 14:04:33
+更新时间：2026年6月19日 01:00:05
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [First Russian shadow fleet tanker enters Channel since Smyrtos boarding](https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss)
-2. [Iran War Live Updates: Oil Prices Fall as U.S.-Iran Deal Offers Hope for Shipping](https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal)
-3. [Israel Stunned by Trump’s Iran Deal](https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html)
-4. [Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack](https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html)
-5. [Hegseth Berates NATO Allies for ‘Shameful’ Response to U.S. War in Iran](https://www.nytimes.com/2026/06/18/world/middleeast/hegseth-nato-us-iran-war-trump.html)
-6. [Hegseth says some Nato allies will fail as he announces US review of Europe forces](https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss)
-7. [Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous](https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik)
-8. [Why the By-Election in Makerfield Will Have Giant Consequences for the UK](https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html)
-9. [Afghanistan Issues Ban on Smartphones for Civil Servants and Military](https://www.nytimes.com/2026/06/18/world/asia/afghanistan-taliban-smartphone-ban.html)
-10. [Critics of Russia Say This Critic Isn’t Critical Enough](https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html)
+1. [Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal](https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal)
+2. [Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack](https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html)
+3. [Critics of Russia Say This Critic Isn’t Critical Enough](https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html)
+4. [Secretary of Defense Hegseth scolds NATO allies — again](https://www.npr.org/2026/06/18/nx-s1-5862847/secretary-of-defense-hegseth-scolds-nato-allies-again)
+5. [Thirty-five killed as gunmen attack Niger's biggest airport](https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss)
+6. [US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'](https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss)
+7. [U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking](https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz)
+8. [Gunmen Attack a Major Airport in Niger](https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html)
+9. [Hegseth renews Nato criticism and says US will review presence in Europe](https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss)
+10. [What Iran and US get from deal and why both could struggle to keep it](https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
