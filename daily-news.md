@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月19日 07:02:19
+更新时间：2026年6月19日 08:00:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal](https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal)
-2. [US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'](https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss)
-3. [Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack](https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html)
-4. [Critics of Russia Say This Critic Isn’t Critical Enough](https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html)
-5. [Secretary of Defense Hegseth scolds NATO allies — again](https://www.npr.org/2026/06/18/nx-s1-5862847/secretary-of-defense-hegseth-scolds-nato-allies-again)
-6. [Thirty-five killed as gunmen attack Niger's biggest airport](https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss)
-7. [U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking](https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz)
-8. [Gunmen Attack a Major Airport in Niger](https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html)
-9. [Hegseth renews Nato criticism and says US will review presence in Europe](https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss)
-10. [What Iran and US get from deal and why both could struggle to keep it](https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss)
+1. [Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain](https://www.npr.org/2026/06/19/nx-s1-5864087/labour-andy-burnham-wins-special-election)
+2. [US-Iran talks postponed as Vance pulls out of Switzerland trip](https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss)
+3. [Swiss Officials Say Iran Talks Are Off, for Now](https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html)
+4. [US strike on an alleged drug boat kills 3 in the eastern Pacific Ocean](https://www.npr.org/2026/06/19/nx-s1-5864084/us-strike-alleged-drug-boat-kills-3-eastern-pacific-ocean)
+5. [Do it at home too, women tell Japanese fans who cleaned World Cup stadium](https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss)
+6. [In Trump's shadow, Vance becomes face of Iran deal](https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss)
+7. [What Does It All Mean? Once a Year, French Students Try to Explain.](https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html)
+8. [Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister?](https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html)
+9. [Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack](https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html)
+10. [Critics of Russia Say This Critic Isn’t Critical Enough](https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html)
 <!-- daily-check end -->
