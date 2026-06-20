@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月19日 14:04:36
+更新时间：2026年6月20日 01:01:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Mideast Live Updates: Iran Delayed Talks After Israeli Attacks in Lebanon, Diplomats Say](https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal)
-2. [‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.](https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html)
-3. [Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7](https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss)
-4. [U.K. Live Updates: Starmer Under Pressure After Labour Rival Wins Key Election](https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham)
-5. [Back After Vanishing for 2 Weeks, Russian Banker Tries to Project Calm](https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html)
-6. [A Missing Ingredient in Ukraine’s Barrages on Russia: Ballistic Missiles](https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attacks-ballistic-missiles.html)
-7. [How Quickly Could Andy Burnham Become U.K. Prime Minister?](https://www.nytimes.com/2026/06/19/world/europe/burnham-prime-minister-starmer-uk.html)
-8. [US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app](https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition)
-9. [What you need to know about the preliminary U.S.-Iran agreement signed by Trump](https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement)
-10. [Morocco captain Achraf Hakimi to stand trial for rape](https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss)
+1. [Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain](https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal)
+2. [US to stop funding HIV programmes in South Africa](https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss)
+3. [Zelensky stripped of highest Polish honour over WW2 name of army unit](https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss)
+4. [Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her](https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg)
+5. [Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7](https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss)
+6. [Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported](https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss)
+7. [U.S. to End AIDS Funding for South Africa](https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html)
+8. [Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests](https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html)
+9. [Catherine, Princess of Wales Questions Digital Screens’ Role in Children’s Lives](https://www.nytimes.com/2026/06/19/world/europe/princess-kate-uk-children-social-media-ban.html)
+10. [‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.](https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html)
 <!-- daily-check end -->
