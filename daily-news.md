@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月20日 01:01:58
+更新时间：2026年6月20日 02:01:25
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain](https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal)
+1. [Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain](https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal)
 2. [US to stop funding HIV programmes in South Africa](https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss)
 3. [Zelensky stripped of highest Polish honour over WW2 name of army unit](https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss)
 4. [Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her](https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg)
