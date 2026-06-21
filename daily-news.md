@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月21日 05:01:10
+更新时间：2026年6月21日 07:02:17
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz](https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss)
-2. [Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension](https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon)
-3. [France bans alcohol consumption at music festival events under red heatwave alert](https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss)
+1. [Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension](https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon)
+2. [US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz](https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss)
+3. [France bans alcohol at music festival events under red heatwave alert](https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss)
 4. [Cape Verde Will Count on Vozinha Against Uruguay at the World Cup](https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html)
 5. [Colombia's escalating, brutal internal conflict is defining its presidential election](https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss)
 6. [Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say](https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss)
