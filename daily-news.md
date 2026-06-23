@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月22日 15:02:16
+更新时间：2026年6月23日 01:00:32
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Mideast Live Updates: Vance Points to Progress After First Round of U.S.-Iran Talks](https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon)
-2. [U.K. Live Updates: Starmer Announces Resignation; Burnham Wins Key Endorsement](https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure)
-3. [Cuba’s Fuel Crisis Brings Schools to a Standstill](https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html)
-4. [Vance says Iran will allow nuclear inspectors back into the country](https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss)
-5. [2 students in custody after shooting at high school in Philippines kills 3](https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3)
-6. [Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66](https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html)
-7. [Pakistan Plans to Cut Tax on Menstrual Pads, but Many Say It’s Not Enough](https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html)
-8. [Two Boys Arrested After Deadly School Shooting in the Philippines](https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html)
-9. [Guinea bans exports of raw gold to boost local refining](https://www.bbc.com/news/articles/cjegydvzpzqo?at_medium=RSS&at_campaign=rss)
-10. [Schools close as more than half of France under red heat alerts](https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss)
+1. [U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy](https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon)
+2. [Suspect and a Civilian Are Among Three Killed in Montreal Shooting](https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html)
+3. [US eases oil sanctions as Iran denies Vance claim on nuclear inspectors](https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss)
+4. [Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94](https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss)
+5. [Keir Starmer Resigns as UK Prime Minister](https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html)
+6. [Pakistan Plans to Cut Tax on Menstrual Pads, but Many Say It’s Not Enough](https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html)
+7. [How Will Colombia’s New President Fuel Trump’s Drug War?](https://www.nytimes.com/2026/06/22/world/americas/colombia-president-de-la-espriella-trump-drug-war.html)
+8. [Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast](https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss)
+9. [Kenya minister found in contempt of court over US-backed Ebola centre](https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss)
+10. [WhatsApp to be led by Indian start-up founder as Will Cathcart steps back](https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
