@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月26日 12:01:47
+更新时间：2026年6月26日 13:03:15
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Venezuela Live Updates: More Rescuers Join Urgent Search for Quake Survivors](https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake)
+1. [Venezuela Live Updates: Death Toll Rises to 589 as Rescuers Search for Quake Survivors](https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake)
 2. [As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action](https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html)
 3. [Europe’s Scorching Heat Is Gradually Moving East](https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html)
 4. [UN pauses Strait of Hormuz evacuation plan after cargo ship attacked](https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss)
