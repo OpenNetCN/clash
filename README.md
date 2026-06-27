@@ -948,9 +948,6 @@
 >
 > 如果你人在海外，或手上已经有可用节点，可以打开网页版和单项测评页，查看更完整的排版、测速图和补充信息。
 
-<details>
-<summary>展开网页版入口和各机场单项测评页</summary>
-
 ### 🌐 网页版总入口
 
 - [机场推荐网页版首页](https://gptvpnhelper.com/)：排版、测速图展示和移动端阅读体验更完整，适合已经能正常访问外网的用户打开。
@@ -966,8 +963,6 @@
 | 唯兔云 | 暂无单独页面 | 当前以本文对应段落作为首发测评内容 |
 | 银河云 | [银河云机场测评](https://gptvpnhelper.com/yinheyun/) | 适合关注低价年付、备用线路和预算控制的人 |
 | WgetCloud | [WgetCloud 机场测评](https://gptvpnhelper.com/wgetcloud/) | 适合团队办公或高预算稳定性刚需用户参考 |
-
-</details>
 
 <a id="study"></a>
 
