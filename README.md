@@ -1,6 +1,6 @@
 # 机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测
 
-📅 **内容最后更新：2026年06月21日**
+📅 **内容最后更新：2026年06月27日**
 
 > ℹ️ **近期阶段说明：** 近期机场整体波动明显增加，本文当前推荐位只保留已经恢复稳定、适合继续当主力的机场，也更强调入口更新、晚高峰表现、AI 工具可用性和日常省心程度。
 >
@@ -17,7 +17,7 @@
 
 📌 **墙内访问 GitHub 太慢？**  
 👉 推荐使用镜像站查看测速图与完整内容：  
-🔗 [https://petnooko.com/](https://petnooko.com/)
+🔗 [https://gptvpnhelper.com/](https://gptvpnhelper.com/)
 
 ---
 
@@ -237,7 +237,7 @@
 
 ---
 
-> 📖 **完整测评：** [BoostNet 机场测评（2026-03-03 实测）](https://petnooko.com/boostnet/)
+> 📖 **完整测评：** [BoostNet 机场测评（2026-03-03 实测）](https://gptvpnhelper.com/boostnet/)
 
 ---
 
@@ -370,13 +370,13 @@
 
 📌 **一句话总结：** 如果你要找的是“不是最便宜，但更适合长期主用、晚高峰也更稳”的 IEPL 线路，悠兔现在完全有资格排在 BoostNet 后面优先看。
 
-> 📖 **完整测评：** [悠兔机场测评（2026-04-27 更新）](https://petnooko.com/youtu/)
+> 📖 **完整测评：** [悠兔机场测评（2026-04-27 更新）](https://gptvpnhelper.com/youtu/)
 
 ---
 
 **📷 节点测速与解锁｜悠兔（2025-06-12 样本）**
 
-<img src="https://petnooko.com/assets/youtu/YouTu-Test.webp" alt="悠兔机场测速与解锁测试图" loading="lazy" />
+<img src="https://gptvpnhelper.com/assets/youtu/YouTu-Test.webp" alt="悠兔机场测速与解锁测试图" loading="lazy" />
 
 ---
 
@@ -487,7 +487,7 @@
 
 --- 
 
->  👉 [TNTCloud 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/tntcloud/)
+>  👉 [TNTCloud 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/tntcloud/)
 
 ---
 
@@ -584,7 +584,7 @@
 
 > 👉 **立即注册：** [青云梯（年付¥96/60G）](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 
->  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/qingyunti/)
+>  👉 [青云梯 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/qingyunti/)
 
 ---
 
@@ -817,7 +817,7 @@
 
 ---
 
->  👉 [Galaxy 银河云 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/yinheyun/)
+>  👉 [Galaxy 银河云 机场详细测评,如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/yinheyun/)
 
 **📷 测速图｜银河云（2026-01-18 实测）**
 
@@ -929,7 +929,7 @@
 
 📌 **一句话总结**：企业级旗舰，质量和客服都没问题，但因为当前只支持年付且价格偏高，我暂时不建议大多数普通用户购买；后续如果恢复月付，我会第一时间更新通知。
 
->  👉 [WgetCloud 机场详细测评，如需了解更多测速、解锁、套餐信息、使用教程请前往](https://petnooko.com/wgetcloud/)
+>  👉 [WgetCloud 机场详细测评，如需了解更多测速、解锁、套餐信息、使用教程请前往](https://gptvpnhelper.com/wgetcloud/)
 
 ---
 
@@ -1528,7 +1528,7 @@
 ---
 
 > 📌 本页为Markdown简版导航，如需在体验更好的阅读效果,请访问官网GithubPages页面：  
-> 👉 [https://petnooko.com/](https://petnooko.com/)
+> 👉 [https://gptvpnhelper.com/](https://gptvpnhelper.com/)
 
 ---
 
