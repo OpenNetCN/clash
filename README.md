@@ -15,9 +15,10 @@
 - 🧪 **真实稳定性**：晚高峰速度、丢包率、封锁抗性，是否适合作为主力办公/开发线路
 - 🛠 **程序员友好**：Clash / V2Ray / Trojan / Shadowrocket 等客户端的实际配置与踩坑记录
 
-📌 **墙内访问 GitHub 太慢？**  
-👉 推荐使用镜像站查看测速图与完整内容：  
-🔗 [https://gptvpnhelper.com/](https://gptvpnhelper.com/)
+📌 **阅读入口说明**  
+👉 GitHub README 是长期维护的主内容；网页版排版和测速图展示更完整，但访问稳定性会受网络环境影响；海外或已具备外网访问环境的用户通常可以直接打开。  
+👉 文中各机场的“完整测评 / 详细测评”链接同属网页版页面；如果当前网络环境打不开，优先阅读 README 里的对应段落。  
+🔗 [网页版入口：https://gptvpnhelper.com/](https://gptvpnhelper.com/)
 
 ---
 
@@ -1527,7 +1528,7 @@
 
 ---
 
-> 📌 本页为Markdown简版导航，如需在体验更好的阅读效果,请访问官网GithubPages页面：  
+> 📌 本页为 Markdown 简版导航；网页版排版和测速图展示更完整，但访问稳定性会受网络环境影响；海外或已具备外网访问环境的用户通常可以直接打开：  
 > 👉 [https://gptvpnhelper.com/](https://gptvpnhelper.com/)
 
 ---
