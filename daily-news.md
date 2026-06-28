@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月27日 15:01:00
+更新时间：2026年6月28日 02:00:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Venezuela Live Updates: Rescuers Work as Window Narrows to Find Quake Survivors](https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake)
-2. [Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce](https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz)
-3. [Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.](https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html)
-4. [Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.](https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html)
-5. [In Caracas, this feels like the hardest moment in Venezuela's modern history](https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss)
-6. [Burkina Faso severs diplomatic ties with France](https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss)
-7. [Once He Wanted to Lead FIFA. This Is Much Better.](https://www.nytimes.com/2026/06/27/world/middleeast/jordan-prince-ali-al-hussein-world-cup.html)
-8. [Uzbekistan makes its World Cup debut, a first for Central Asia](https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup)
-9. [Australia Says It Will Toughen Its Social Media Ban for Children](https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html)
-10. [Mexican Officials Have Become Informants for the Trump Administration](https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html)
+1. [Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce](https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz)
+2. [Venezuela Live Updates: Chaotic Rush to Help Victims Delays Some Rescues](https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake)
+3. [Israel strikes southern Lebanon as Hezbollah condemns new deal](https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss)
+4. ['Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes](https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss)
+5. [Venezuela races to find survivors](https://www.npr.org/2026/06/27/nx-s1-5872799/venezuela-races-to-find-survivors)
+6. [New strikes test the Iran ceasefire](https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire)
+7. [Reporter's Notebook: What its like to report from an Ebola outbreak](https://www.npr.org/2026/06/27/nx-s1-5866594/reporters-notebook-what-its-like-to-report-from-an-ebola-outbreak)
+8. [Heatwave breaks records in Germany, Denmark and Czech Republic](https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss)
+9. [Trump's face is added to select US passports for America's 250th birthday](https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss)
+10. [Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.](https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html)
 <!-- daily-check end -->
