@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月29日 08:00:49
+更新时间：2026年6月29日 09:04:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed](https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz)
-2. [Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive](https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss)
+1. [Could neo-Nazi youth, or 'active clubs,' have played a role in Belfast riots?](https://www.npr.org/2026/06/29/nx-s1-5871337/violence-belfast-northern-ireland-white-supremacy-riots-active-clubs)
+2. [U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed](https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz)
 3. [Top South African police officer survives assassination attempt](https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss)
-4. [Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes](https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake)
-5. [South Korea football coach quits as president calls for probe into World Cup loss](https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss)
-6. [Israel moves to formally recognize Armenian WWI deaths as a genocide](https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide)
-7. [Australia to double potential fines over child social media accounts](https://www.npr.org/2026/06/29/nx-s1-5874576/australia-fines-child-social-media-accounts)
-8. [US says it has agreed to 'stand down' after exchange of strikes with Iran](https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss)
-9. [Pakistani strikes kill dozens in Afghanistan](https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss)
-10. [Australian man charged with murder after dead girl found in suitcase in Thailand](https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss)
+4. [Pakistani strikes kill dozens in Afghanistan](https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss)
+5. [Indian journalists condemn 'denial' of voting and passport rights of prominent editor](https://www.bbc.co.uk/news/articles/cpv37jwd3zzo?at_medium=RSS&at_campaign=rss)
+6. [Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive](https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss)
+7. [Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes](https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake)
+8. [South Korea football coach quits as president calls for probe into World Cup loss](https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss)
+9. [Israel moves to formally recognize Armenian WWI deaths as a genocide](https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide)
+10. [Australia to double potential fines over child social media accounts](https://www.npr.org/2026/06/29/nx-s1-5874576/australia-fines-child-social-media-accounts)
 <!-- daily-check end -->
