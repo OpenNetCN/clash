@@ -5,14 +5,14 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月30日 10:04:50
+更新时间：2026年6月30日 11:00:54
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Founder of Asian super-app Gojek sentenced to years in jail for corruption](https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss)
-2. [Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco](https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss)
-3. [Mideast Live Updates: U.S. and Iran Offer Conflicting Plans for Doha Talks](https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz)
-4. [Heavy security deployed in South Africa ahead of anti-migrant protests](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss)
+1. [Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar](https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz)
+2. [Heavy security in South Africa as anti-migrant protesters take to the streets](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss)
+3. [Founder of Asian super-app Gojek sentenced to years in jail for corruption](https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss)
+4. [Manhunt under way after bomb injures Ukrainian oligarch and family in Monaco](https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss)
 5. [China Increases Military and Economic Pressure on Japan](https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html)
 6. [Why the True Death Toll of Venezuela’s Quakes Is So Hard to Know](https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html)
 7. [The Prom Went On in Kyiv, but Masha’s Date Danced Alone](https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html)
