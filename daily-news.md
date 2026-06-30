@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月30日 02:02:49
+更新时间：2026年6月30日 03:03:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction](https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction)
-2. [Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.](https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes)
+1. [Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.](https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes)
+2. [Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction](https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction)
 3. [Efforts to Rescue Venezuela Quake Victims Grow More Desperate](https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html)
 4. ['No one move!': The agonising silence as Venezuela rescuers listen for survivors](https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss)
 5. [One big win and three defeats for Trump in dramatic day at Supreme Court](https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss)
