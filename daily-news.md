@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月29日 14:01:03
+更新时间：2026年6月30日 01:02:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says](https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes)
-2. [Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say](https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say)
-3. [Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London](https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html)
-4. [Five dead following shooting at youth centre in Stade, northern Germany](https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss)
-5. [US says it has agreed to 'stand down' after exchange of strikes with Iran](https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss)
-6. [Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait](https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html)
-7. [Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards](https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss)
-8. [U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE](https://www.npr.org/2026/06/29/g-s1-130793/up-first-newsletter-iran-war-ceasefire-venezuela-earthquakes-ice-lance-schroyer)
-9. [Trump says the U.S. and Iran will meet in Qatar after weekend attacks](https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks)
-10. [Fitness brand founder and Olympian Les Mills dies aged 91](https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss)
+1. [Mideast Live Updates: Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.](https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes)
+2. [Efforts to Rescue Venezuela Quake Victims Grow More Desperate](https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html)
+3. ['No one move!': The agonising silence as Venezuela rescuers listen for survivors](https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss)
+4. [Venezuela's deadly quakes put its U.S.-backed government to the test](https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government)
+5. [Whatever You Do in Russia, Don’t Talk About the War](https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html)
+6. [Aftershock frays nerves as many Venezuelans left to fend for themselves](https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss)
+7. [Six people shot dead at centre for mothers and children in Germany](https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss)
+8. [South African leader warns anti-migrant protesters ahead of unofficial deadline](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss)
+9. [At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief](https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html)
+10. [Scale of Venezuela Earthquakes Death Toll Could Take Weeks to Emerge](https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-death-toll.html)
 <!-- daily-check end -->
