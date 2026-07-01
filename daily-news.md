@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年6月30日 15:02:34
+更新时间：2026年7月1日 02:00:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Parcel Bomb Explodes in Monaco, Injuring 3](https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html)
-2. [Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar](https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz)
-3. [Supreme Court's birthright ruling is major blow to Trump](https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss)
-4. [Senegalese MPs move to clip presidential powers as tensions mount](https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss)
-5. [US Supreme Court upholds bans on transgender women in female school and college sports](https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss)
-6. [What Italy’s Failure to Make the Soccer World Cup Says About Its Wider Woes](https://www.nytimes.com/2026/06/30/world/europe/italy-soccer-world-cup-national-malaise.html)
-7. [US envoys in Doha to meet mediators but not Iranians, Qatar says](https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss)
-8. [After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan](https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html)
-9. [Manhunt after bomb injures Ukrainian oligarch in Monaco](https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss)
-10. [Thousands of anti-migrant protesters march in South Africa amid heavy police presence](https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss)
+1. [U.S. and Iran to Meet with Mediators in Qatar](https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz)
+2. [Trump made more than $1bn from crypto in first year back in office](https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss)
+3. [Afghan Taliban launch strikes on border with Pakistan as tensions escalate](https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss)
+4. [A plane crashed into a tower in Beijing but China is not saying what happened](https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss)
+5. [US Supreme Court has dealt heavy defeats to Trump, while expanding his power](https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss)
+6. [Three-year-old rescued and taken to hospital six days after Venezuela quake](https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss)
+7. [Belfast violence: What to know about the fascist youth groups known as 'active clubs'](https://www.npr.org/2026/06/30/nx-s1-5858882/belfast-violence-what-to-know-about-the-fascist-youth-groups-known-as-active-clubs)
+8. [World Cup Loss Dominates German News, Displacing Even a Mass Shooting](https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html)
+9. [The Prom Went On in Kyiv, but Masha’s Date Danced Alone](https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html)
+10. [Shortages of Rescue Equipment Hampered Venezuela’s Earthquake Response](https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html)
 <!-- daily-check end -->
