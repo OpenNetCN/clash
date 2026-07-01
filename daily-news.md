@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月1日 02:00:28
+更新时间：2026年7月1日 03:03:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.S. and Iran to Meet with Mediators in Qatar](https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz)
-2. [Trump made more than $1bn from crypto in first year back in office](https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss)
+1. [Trump made more than $1bn from crypto in first year back in office](https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss)
+2. [U.S. and Iran to Meet with Mediators in Qatar](https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz)
 3. [Afghan Taliban launch strikes on border with Pakistan as tensions escalate](https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss)
 4. [A plane crashed into a tower in Beijing but China is not saying what happened](https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss)
 5. [US Supreme Court has dealt heavy defeats to Trump, while expanding his power](https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss)
