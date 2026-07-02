@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月2日 04:01:27
+更新时间：2026年7月2日 05:01:24
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [At least eight killed in major missile and drone strikes on Kyiv](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss)
+1. [At least 10 killed in large-scale Russian missile and drone strikes on Kyiv](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss)
 2. [Did this AI anti-drug video make drugs look appealing?](https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss)
 3. [Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'](https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss)
 4. [From Truman's pension to Trump's billions - a White House windfall unmatched by any president](https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss)
