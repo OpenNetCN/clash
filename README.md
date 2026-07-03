@@ -379,12 +379,6 @@
 
 ---
 
-**📷 YouTube 晚高峰 8K HDR 实测｜悠兔（2026-04-27）**
-
-<img src="https://img.petnooko.com/2026/04/f6ea429c530527686249dcef28a8a7f2.webp" alt="悠兔机场 YouTube 8K HDR 晚高峰实测图" loading="lazy" />
-
----
-
 <a id="tnt"></a>
 
 ### 3. 🔥 TNTCloud — 更看重原生IP与专线出口时可看，IPLC专线，海外团队运营
