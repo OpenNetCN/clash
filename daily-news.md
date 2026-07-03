@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月3日 05:02:00
+更新时间：2026年7月3日 06:00:46
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. ['Most massive' Russian attack on Kyiv kills at least 30](https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss)
 2. [Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70](https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70)
-3. [Russia Hammers Ukraine’s Capital in Deadly Attacks](https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack)
-4. [Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset](https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html)
-5. [Venezuela quake survivor pulled out alive after eight days](https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss)
-6. [Ebola treatments trial begins in the Democratic Republic of Congo](https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss)
-7. [Former Olympian indicted for allegedly vandalising Washington Reflecting Pool](https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss)
-8. [Are the wars in Ukraine and Iran showing the limits of global powers?](https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers)
-9. [Can the World’s Largest Stadium Explain the Global Economy?](https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html)
-10. [Bomb blast at Damascus cafe kills six, Syrian state media say](https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss)
+3. [Instagram running ads promoting child sexual abuse material in India, BBC finds](https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss)
+4. [Russia Hammers Ukraine’s Capital in Deadly Attacks](https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack)
+5. [Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset](https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html)
+6. [Taylor Swift's rumoured wedding celebrations begin with star-studded New York event](https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss)
+7. [Venezuela quake survivor pulled out alive after eight days](https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss)
+8. [On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns](https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss)
+9. [How the American Dream has survived 250 years, but only just](https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss)
+10. [A mayor in Japan announced her maternity leave - and got the whole country talking](https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
