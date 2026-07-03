@@ -236,7 +236,7 @@
 
 ---
 
-**📷 speedtest 测速｜BoostNet（2026-07 实测）**
+**📷 节点测速｜BoostNet（2026-07 实测）**
 
 <img src="https://img.petnooko.com/2026/07/fa2bf196c0881c0eca4d96518d1e4f33.webp" alt="BoostNet测速测试（2026-07）" loading="lazy" />
 
