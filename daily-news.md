@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月3日 13:01:41
+更新时间：2026年7月4日 02:02:41
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Allies Converge on Iran as Funeral Ceremonies for Supreme Leader Begin](https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html)
-2. [Russia Hammers Ukraine’s Capital in Deadly Attacks](https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack)
-3. [Ukrainian woman named by Interpol as main suspect in Monaco bomb attack](https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss)
-4. [July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital](https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party)
-5. [Nasa launches mission to save falling space telescope](https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss)
-6. [France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather](https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss)
-7. [Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China](https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html)
-8. [A Hitler Bunker Faces Demolition In Housing-Challenged Berlin](https://www.nytimes.com/2026/07/03/world/europe/a-hitler-bunker-faces-demolition-in-housing-challenged-berlin.html)
-9. [Iran begins public mourning for Ayatollah killed in February](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss)
-10. [China Defends Widely Criticized ‘Ethnic Unity’ Law](https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html)
+1. [Anguished families left to identify Venezuela quake victims at makeshift morgue](https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss)
+2. [Iran's control of the Strait of Hormuz remains a powerful bargaining chip](https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip)
+3. [Iran plans dayslong funeral for Supreme Leader Khamenei after war death](https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death)
+4. [Iran begins public mourning for Ayatollah killed in February](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss)
+5. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
+6. [A U.S. Independence Celebration Damaged a Museum in Belgium](https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html)
+7. [Polish PM warns critical months ahead in face of Russian threat](https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss)
+8. [It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran](https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html)
+9. [Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'](https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss)
+10. [German row over plan for workers to need sick note on first day of illness](https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
