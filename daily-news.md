@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月6日 13:00:46
+更新时间：2026年7月6日 14:01:03
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [With $8 Billion in Venezuelan Oil Money, U.S. Gives $300 Million in Quake Aid](https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html)
-2. [The Funeral of Iran’s Supreme Leader Ayatollah Ali Khamenei](https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html)
-3. [Iran Live Updates: Hundreds of Thousands Attend Ayatollah’s Funeral Procession](https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei)
-4. [Ukraine Remade Air Defense, but Russia Has Changed Its Attacks](https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html)
-5. [Fatigue, Tension, Joy: England Pulls a World Cup All-Nighter](https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html)
-6. [China Test Fires Long-Range Ballistic Missile in the Pacific](https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html)
-7. [Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region](https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss)
-8. [Huge crowds fill Tehran streets for Khamenei's funeral procession](https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss)
-9. [Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup](https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun)
-10. [Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit](https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html)
+1. [Iran Live Updates: Hundreds of Thousands Attend Ayatollah’s Funeral Procession](https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei)
+2. [Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region](https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss)
+3. [With $8 Billion in Venezuelan Oil Money, U.S. Gives $300 Million in Quake Aid](https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html)
+4. [Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit](https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html)
+5. [Sites That Report Venezuela’s Missing Rise Far From Quake Zone](https://www.nytimes.com/2026/07/06/world/americas/venezuela-earthquake-missing.html)
+6. [Wildfire in southern France forces evacuation of 10,000 people](https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss)
+7. [Ukraine Remade Air Defense, but Russia Has Changed Its Attacks](https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html)
+8. [At least 25 killed in Sri Lanka prison riots](https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss)
+9. [Fatigue, Tension, Joy: England Pulls a World Cup All-Nighter](https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html)
+10. [China Test Fires Long-Range Ballistic Missile in the Pacific](https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html)
 <!-- daily-check end -->
