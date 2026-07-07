@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月7日 08:03:19
+更新时间：2026年7月7日 10:04:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [At Least 15 Dead in China After Severe Flooding During Typhoon Maysak](https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html)
-2. [Joining a Human Tide of Mourners Flowing Through Tehran’s Streets](https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html)
-3. [In NATO’s Next Act, Can Europe Play the Leading Role?](https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html)
-4. [India's landmark Ram temple overhauls board after alleged theft of donations](https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss)
-5. [China test-launches a ballistic missile in the South Pacific and raises regional concerns](https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific)
-6. [Tanker set ablaze after being struck by projectile in the Strait of Hormuz](https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz)
-7. [Trump’s Intervention in Balogun’s World Cup Suspension Adds to Conflict With Europe](https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html)
-8. [Zelensky to press Nato for air defence systems after intense Russian strikes](https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss)
-9. [A Long-Awaited Verdict for Marine Le Pen Could Reshape France’s Politics](https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html)
-10. [Erika Kirk attends hearing for suspect charged with husband's murder](https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss)
+1. [Explosions Hit Damascus During Macron Visit](https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html)
+2. [Explosions injure 18 in Damascus during Macron's visit](https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss)
+3. [Estonia Won the War on Fentanyl. What Came Next Was Even Worse.](https://www.nytimes.com/2026/07/07/world/europe/estonia-won-the-war-on-fentanyl-what-came-next-was-even-worse.html)
+4. [Trump's NATO pressure campaign continues as summit begins](https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins)
+5. [Explosions rock Damascus, wounding 18, as French President Macron visits Syria](https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron)
+6. [NATO summit set to begin in Turkey](https://www.npr.org/2026/07/07/nx-s1-5879166/nato-summit-set-to-begin-in-turkey)
+7. [Former U.S. ambassador on Turkey hosting the NATO summit](https://www.npr.org/2026/07/07/nx-s1-5883847/former-u-s-ambassador-on-turkey-hosting-the-nato-summit)
+8. [South Korea Strengthens Law to Curb Spread of Fake News](https://www.nytimes.com/2026/07/07/world/asia/south-korea-law-fake-news.html)
+9. [Erika Kirk comes face-to-face in court with husband's alleged killer](https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss)
+10. [At Least 15 Dead in China After Severe Flooding During Typhoon Maysak](https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html)
 <!-- daily-check end -->
