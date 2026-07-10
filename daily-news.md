@@ -5,14 +5,14 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月10日 04:01:56
+更新时间：2026年7月10日 05:02:39
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Chip giant SK Hynix raises $26.5bn in mega US share sale](https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss)
-2. [Twelve die in wildfire in Spain as heatwave continues in southern Europe](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss)
-3. [Iran War Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes](https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump)
-4. [US and Iran trade attacks as Khamenei is buried](https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss)
+1. [US and Iran trade attacks as Khamenei is buried](https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss)
+2. [Chip giant SK Hynix raises $26.5bn in mega US share sale](https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss)
+3. [Twelve die in wildfire in Spain as heatwave continues in southern Europe](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss)
+4. [Iran War Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes](https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump)
 5. [Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike](https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html)
 6. [Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay](https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html)
 7. [Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike](https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss)
