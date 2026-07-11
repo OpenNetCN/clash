@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月11日 05:02:54
+更新时间：2026年7月11日 06:03:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US wants Iran to pledge to stop shooting at ships in Strait of Hormuz](https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss)
-2. [Trump Tried to Block Canada’s New Bridge to Detroit. It’s Opening Anyway.](https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html)
+1. [After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open](https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html)
+2. [US wants Iran to pledge to stop shooting at ships in Strait of Hormuz](https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss)
 3. [Spain battles to contain one of its deadliest wildfires as at least 12 killed](https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss)
 4. [‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive](https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html)
 5. [Meta pulls new AI image feature after days of backlash](https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss)
