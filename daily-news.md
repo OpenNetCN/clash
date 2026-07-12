@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月12日 08:01:00
+更新时间：2026年7月12日 09:04:44
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [China evacuates nearly two million people as powerful typhoon makes landfall](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss)
-2. [US Senator Lindsey Graham dies after 'brief and sudden illness', his office says](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss)
+1. [US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss)
+2. [China evacuates nearly two million people as powerful typhoon makes landfall](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss)
 3. [Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays](https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html)
 4. [US launches fresh strikes as Iran closes Strait of Hormuz](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss)
 5. [Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals](https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals)
