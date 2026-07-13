@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月13日 14:03:03
+更新时间：2026年7月13日 15:00:07
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Live Updates: U.S. and Iran Ramp Up Threats After New Strikes](https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz)
+1. [Live Updates: U.S. and Iran Edge Toward War Again](https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz)
 2. [Japan Builds Intelligence Agency It Hasn’t Had Since World War II](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html)
 3. [At least 28 killed, 25 critically injured after fire engulfs Bangkok bar](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss)
 4. [A Robot Army Remakes Ground Warfare in Ukraine](https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html)
