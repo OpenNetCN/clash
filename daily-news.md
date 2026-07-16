@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月16日 10:01:38
+更新时间：2026年7月16日 12:04:57
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Eleven people die in fire at Algerian foster care home](https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss)
-2. [US military to start screening for testosterone deficiency, Hegseth says](https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss)
-3. [No Asian team managed to go far this World Cup (again). What's holding them back?](https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan)
-4. [Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day](https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz)
-5. [Iran targets military bases as US launches wave of strikes](https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss)
-6. [Dismissal of Ukraine's popular defense minister draws intense criticism](https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism)
-7. [Australia to Put Environmental Brakes on A.I. Data Centers](https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html)
-8. [The band playing when a Bangkok bar caught fire mourns its members among the 33 dead](https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire)
-9. [Actor Sam Neill died from pneumonia, agent confirms](https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss)
-10. [New monkey species with orange lips found 'hiding' in DR Congo forest](https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss)
+1. [Argentina face action over Falklands banner](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss)
+2. [Iran targets military bases as US launches wave of strikes](https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss)
+3. [Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out](https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html)
+4. [Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle](https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired)
+5. [Protests in Ukraine's cities against Zelensky's removal of defence minister](https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss)
+6. [The political risks from war in Iran. And, ICE's use of force is rising, report finds](https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force)
+7. [Mass Protests Across Ukraine Oppose Ouster of Defense Minister](https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html)
+8. [Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned](https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss)
+9. ['Moment of joy' as Uganda discharges last Ebola patient](https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss)
+10. [Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds](https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html)
 <!-- daily-check end -->
