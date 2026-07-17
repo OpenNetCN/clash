@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月16日 15:03:20
+更新时间：2026年7月17日 02:01:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Italian officials handed jail terms for Genoa bridge disaster that killed 43](https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss)
-2. [Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard](https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html)
-3. [Iran War Live Updates: U.S. and Iran Escalate Attacks, While Hinting at Diplomacy](https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz)
-4. [Protests in Ukrainian cities against Zelensky's removal of defence minister](https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss)
-5. [More than 800 Canadian wildfires burning as air quality alerts extend to US](https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss)
-6. [Hong Kong official warns booksellers on security risks after raids](https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids)
-7. [The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister](https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html)
-8. [In Iran war, Trump Risks Another American ‘Forever War’](https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html)
-9. [Teenager accused of carrying out sabotage actions in Poland for Russia](https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss)
-10. [Volunteer firefighter suspected of starting devastating France forest fire](https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss)
+1. [Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz](https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz)
+2. [Blasts reported in Iran as US launches new wave of strikes](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss)
+3. [JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war](https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss)
+4. [Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war](https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war)
+5. [Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south](https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss)
+6. [What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister](https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html)
+7. [White House teleprompter operator accused of making $100k off Trump speech bets](https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss)
+8. [Fifa 'assessing match reports' over Falklands banner](https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss)
+9. [Israeli Government Pushes Through Divisive Laws Before Election](https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html)
+10. [Italian officials handed jail terms for Genoa bridge disaster that killed 43](https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
