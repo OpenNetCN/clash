@@ -5,15 +5,15 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月17日 02:01:31
+更新时间：2026年7月17日 03:04:32
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz](https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz)
-2. [Blasts reported in Iran as US launches new wave of strikes](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss)
-3. [JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war](https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss)
-4. [Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war](https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war)
-5. [Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south](https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss)
+1. [Canada fires prompt US air quality alerts as smoke blankets major cities](https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss)
+2. [Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz](https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz)
+3. [Blasts reported in Iran as US launches new wave of strikes](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss)
+4. [JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war](https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss)
+5. [Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war](https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war)
 6. [What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister](https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html)
 7. [White House teleprompter operator accused of making $100k off Trump speech bets](https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss)
 8. [Fifa 'assessing match reports' over Falklands banner](https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss)
