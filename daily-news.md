@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月21日 06:01:55
+更新时间：2026年7月21日 07:04:36
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Powerball ticket sales begin Tuesday in the United Kingdom](https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom)
-2. [US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss)
+1. [US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss)
+2. [Powerball ticket sales begin Tuesday in the United Kingdom](https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom)
 3. [Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker](https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html)
 4. [Another U.S. Service Member Is Killed as Iran War Expands](https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz)
 5. [Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss)
