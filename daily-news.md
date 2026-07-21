@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月21日 01:03:17
+更新时间：2026年7月21日 02:04:27
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss)
-2. [US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss)
+1. [US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss)
+2. [Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss)
 3. [Trump Says Netanyahu Will Not Be Arrested in the U.S.](https://www.nytimes.com/2026/07/20/world/middleeast/israel-un-mamdani-netanyahu-arrest.html)
 4. [Yemen's Houthis announce 'maritime embargo' on Saudi Arabia](https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss)
 5. [Notorious drug cartel leader Ismael Zambada sentenced to life in US prison](https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss)
