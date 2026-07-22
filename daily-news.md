@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月22日 04:02:01
+更新时间：2026年7月22日 05:00:52
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [India’s Young Protesters Are Bloodied but Unbowed](https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html)
-2. [Zelensky sacks Ukraine's top army commander after days of protests](https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss)
-3. [Zelensky Dismisses Ukraine’s Top General After Protests](https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html)
-4. [Ukraine's Zelenskyy fires his military chief after protests and names a new one](https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests)
-5. [Former Canadian finance minister on Trump's tariff plan and its impact](https://www.npr.org/2026/07/21/nx-s1-5901973/former-canadian-finance-minister-on-trumps-tariff-plan-and-its-impact)
-6. [Netanyahu Ad Uses a Questionable Tactic Against Bereaved Rival](https://www.nytimes.com/2026/07/21/world/middleeast/netanyahu-ad-gadi-eisenkot.html)
-7. [Nicaragua's President Ortega says no more elections, extending his 20-year rule](https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections)
-8. [Houthis in Yemen Edge Closer to Entering U.S.-Iran War](https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html)
-9. [Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal](https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss)
-10. [Inside the Fight to Rid South Africa of Black Immigrants](https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html)
+1. [France passes law banning under-15s from social media](https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss)
+2. [Michelin-starred restaurateur faces jail for using ants as dessert garnish](https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss)
+3. [US renews strikes on Iran as Trump threatens to attack underground nuclear site](https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss)
+4. [India’s Young Protesters Are Bloodied but Unbowed](https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html)
+5. [Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family](https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss)
+6. [Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more](https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss)
+7. [Zelensky sacks Ukraine's top army commander after days of protests](https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss)
+8. [Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'](https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss)
+9. [Zelensky Dismisses Ukraine’s Top General After Protests](https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html)
+10. [Ukraine's Zelenskyy fires his military chief after protests and names a new one](https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests)
 <!-- daily-check end -->
