@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月22日 10:04:25
+更新时间：2026年7月22日 12:01:56
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Ukrainian drones hit more sites of Russian online retailer Wildberries](https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss)
-2. [A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak](https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html)
-3. [Germany’s Military Buyers Look to Reduce Caution and Embrace Drones](https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html)
-4. ['It's all literally rubble': Lebanese poet returns to see what has become of her home](https://www.npr.org/2026/07/22/nx-s1-5883746/its-all-literally-rubble-lebanese-poet-returns-to-see-what-has-become-of-her-home)
-5. [Group of Indigenous Taiwanese row over 100 miles to recreate their ancestors' journey](https://www.npr.org/2026/07/22/nx-s1-5871201/group-of-indigenous-taiwanese-row-over-100-miles-to-recreate-their-ancestors-journey)
-6. [Ukraine's Zelenskyy fires top military commander amid ongoing protests](https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests)
-7. [K-pop’s NewJeans Hints at Comeback After Monthslong Feud With Its Label](https://www.nytimes.com/2026/07/22/world/asia/newjeans-summer-comeback.html)
-8. [Police station opens at Hitler's birthplace in bid to rid site of Nazi link](https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss)
-9. [India's Modi government under growing pressure as 'cockroach' protests intensify](https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss)
-10. [Japan Is Startled by Prime Minister’s Grueling Sleep Schedule](https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html)
+1. [Ukraine’s New Military Chief Faces a Monumental Test](https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html)
+2. [Iran War Live Updates: Rubio Signals No Letup in U.S. Strikes](https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz)
+3. [Modelling scout linked to Epstein found dead in Paris suburbs](https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss)
+4. [Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran](https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries)
+5. [A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak](https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html)
+6. [Firing of Ukraine’s Top General Signals the End of an Era](https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html)
+7. [U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea](https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates)
+8. [US renews strikes on Iran as Trump threatens to attack underground nuclear site](https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss)
+9. [Ukrainian drones hit more sites of Russian online retailer Wildberries](https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss)
+10. [Germany’s Military Buyers Look to Reduce Caution and Embrace Drones](https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html)
 <!-- daily-check end -->
