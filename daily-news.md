@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月26日 03:01:26
+更新时间：2026年7月26日 06:01:20
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Hundreds of Thousands Flee as Fires Rage in Spain and France](https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations)
-2. [One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany](https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured)
+2. [One dead, several injured after vehicle plows through crowd at Berlin Pride event](https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride)
 3. [France and Spain fires force more than 200,000 to flee homes](https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations)
 4. [More than 300,000 flee wildfires in France and Spain](https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss)
 5. [What to Know About the Wildfires Raging in Western Europe](https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html)
