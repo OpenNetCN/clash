@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月29日 02:04:02
+更新时间：2026年7月29日 03:04:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump administration bans new Chinese humanoid robots](https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss)
-2. [Iran and US trade strikes, shattering brief lull in fighting](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
+1. [Iran and US trade strikes, shattering brief lull in fighting](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
+2. [Trump administration bans new Chinese humanoid robots](https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss)
 3. [How Mexican drug cartels have outsourced meth labs to Nigeria](https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss)
 4. [Japan Mounts Rescues in Buildings That Collapsed After Strong Quake](https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami)
 5. [As Spain battles wildfires, its politicians battle over climate change's role](https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change)
