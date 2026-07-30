@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月30日 03:01:07
+更新时间：2026年7月30日 04:03:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Singapore fines French teen $465 for viral straw-licking stunt](https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss)
+1. [US launches 'heavy' strikes on Iran after attempted attack on American troops](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)
 2. [Iran War Live Updates: U.S. Strikes Iran as Fighting Reignites Across Region](https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump)
-3. [US launches 'powerful' strikes on Iran after attempted attack on American troops](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)
+3. [Singapore fines French teen $465 for viral straw-licking stunt](https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss)
 4. [Israel Strikes Mosque in Gaza City](https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html)
 5. [Three Greek firefighters die as wildfires threaten parts of southern Europe](https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss)
 6. [Trump considering AI controls after OpenAI hacking incidents](https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss)
