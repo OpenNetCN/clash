@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年7月31日 10:03:58
+更新时间：2026年7月31日 12:00:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [About 49,000 migrants enter Spanish territory of Ceuta, officials say](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
-2. [AC Milan and Italy great Baresi dies aged 66](https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss)
-3. [Fifa says 'nobody selling football' as plan continues](https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss)
-4. [Spain sending troops as thousands enter enclave of Ceuta from Morocco](https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss)
-5. [Hamas says it has agreed to disarm after Trump announces Board of Peace plan](https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss)
-6. [At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta](https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration)
-7. [Death toll from southwestern Japan quake climbs to 34](https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll)
-8. [UK rapper Yung Filly found not guilty of raping woman after Australian show](https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss)
-9. [Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain](https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza)
-10. [If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war](https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss)
+1. [Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Territory](https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco)
+2. [About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
+3. [Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit](https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy)
+4. [Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions](https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html)
+5. [Selling Burritos Back to Mexico: Chipotle’s Bold Expansion](https://www.nytimes.com/2026/07/31/world/americas/chipotle-restaurant-mexico.html)
+6. [Archaeologists Find Hundreds of Ancient Glyphs in the Amazon](https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html)
+7. [Peru's ex-president has 15-year jail sentence for corruption charges overturned](https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss)
+8. [In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules](https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html)
+9. [AC Milan and Italy great Baresi dies aged 66](https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss)
+10. [Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says](https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html)
 <!-- daily-check end -->
