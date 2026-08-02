@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月2日 07:03:57
+更新时间：2026年8月2日 08:04:24
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire](https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html)
-2. [Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
-3. [How Spain's migrant crisis created a political storm - whipped up by social media](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss)
-4. [Tourist plane crashes in Peru, killing 13](https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss)
-5. [Young guns for hire - the teenage hitmen recruited to kill across Europe](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
-6. [Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo](https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss)
-7. [The Sopranos star Vincent Pastore dies aged 80](https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss)
-8. [Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers](https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche)
-9. [Improvised Bomb Kills 3 at an Upscale Moscow Restaurant](https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html)
-10. [Spain Installs Floating Barrier in Ceuta After Influx of Migrants](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html)
+1. [Trump says he's cancelling Iran strikes, deal pending](https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending)
+2. [Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis](https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html)
+3. [Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html)
+4. [Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+5. [After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach](https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html)
+6. [Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops](https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html)
+7. [How China Keeps Tabs on Foreigners](https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html)
+8. [How Spain's migrant crisis created a political storm - whipped up by social media](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss)
+9. [Tourist Plane Crashes in Peru, Killing All 13 Aboard](https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html)
+10. [Tourist plane crashes in Peru, killing 13](https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
