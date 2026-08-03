@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月2日 15:04:49
+更新时间：2026年8月3日 01:00:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal](https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss)
-2. [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html)
-3. [Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html)
-4. [Breakfasts around the world: In Australia, being denied vegemite is grounds for suing](https://www.npr.org/2026/08/02/nx-s1-5896064/breakfasts-around-the-world-in-australia-being-denied-vegemite-is-grounds-for-suing)
-5. [Five dead, 41 missing, after Indonesia ferry catches fire](https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss)
-6. [Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops](https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html)
-7. [Trump cancels Iran strikes subject to deal being made 'rapidly'](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
-8. [La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes](https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html)
-9. [How Spain's migrant crisis created a political storm - whipped up by social media](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss)
-10. [Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist](https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html)
+1. [In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants](https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html)
+2. [Two crew killed after firefighting helicopters collide in Greece, as British pilot survives](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
+3. [Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants](https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html)
+4. [Pakistan Police Station Bombing Kills at Least 14](https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html)
+5. [Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission](https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss)
+6. [At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal](https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss)
+7. [Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths](https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss)
+8. [Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html)
+9. [Breakfasts around the world: In Australia, being denied vegemite is grounds for suing](https://www.npr.org/2026/08/02/nx-s1-5896064/breakfasts-around-the-world-in-australia-being-denied-vegemite-is-grounds-for-suing)
+10. [Five dead and 41 missing after Indonesia ferry catches fire](https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
