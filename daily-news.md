@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月5日 04:03:40
+更新时间：2026年8月5日 05:05:04
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall](https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss)
-2. [Russian ballistic missile strike on Kyiv kills two and injures others, officials say](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
+1. [Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
+2. [Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall](https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss)
 3. [Armed man arrested near Trump's golf course ahead of president's visit](https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss)
 4. [EU commends Spain's 'swift response' to Ceuta migrant crisis](https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss)
 5. [Ukraine's air defenses are proving to be a weak point](https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point)
