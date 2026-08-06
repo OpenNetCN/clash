@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月5日 15:01:41
+更新时间：2026年8月6日 01:04:08
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Left-wing political outsider wins Democratic Senate primary in Michigan](https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss)
-2. [Drone carrying explosives found at German airport, police say](https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss)
-3. [Finland Tries to Protect Children Against Deepfakes, With Russia in Mind](https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html)
-4. [UN rights chief alarmed by rise in Iran executions since March](https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss)
-5. [Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker](https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html)
-6. [How the Ukraine War Became a Fight for the Skies](https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html)
-7. [Migrant Crisis Reveals Vast Differences Between Ceuta and Its Moroccan Neighbor](https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html)
-8. [Pope Leo Will Visit Peru, Where He Lived for Years, in November](https://www.nytimes.com/2026/08/05/world/americas/pope-leo-peru-uruguay-argentina.html)
-9. [Waste workers help winner find binned €1m lottery ticket in Italy](https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss)
-10. [Russia strike kills 21 as Ukraine says it needs more missile interceptors](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
+1. [Iran says deal with Oman on Strait of Hormuz is in final stages](https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss)
+2. [Infantino sorry for errors but stays Fifa president](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
+3. [Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games](https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html)
+4. [Ousted Bangladeshi leader vows to return from exile despite facing a death sentence](https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence)
+5. [Kyiv residents face attacks with fewer defenses overhead](https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead)
+6. [Israel strikes south Lebanon after first evacuation warning in weeks](https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss)
+7. [Drone carrying explosives found at German airport, police say](https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss)
+8. [Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers](https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html)
+9. [Ex-leader Hasina gambles on return to Bangladesh despite death penalty](https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss)
+10. [Finland Tries to Protect Children Against Deepfakes, With Russia in Mind](https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html)
 <!-- daily-check end -->
