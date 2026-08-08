@@ -5,7 +5,7 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月8日 08:02:46
+更新时间：2026年8月8日 09:04:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -16,7 +16,7 @@
 5. [Whirling for 7 Days and Nights, in Search of Ecstasy](https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html)
 6. [What to Know About Wildberries, the Company in Ukraine’s Cross Hairs](https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html)
 7. ['I ran because I knew I would die': Russian drones target medics in Ukraine](https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss)
-8. [Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss)
-9. [Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy](https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss)
+8. [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss)
+9. [Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss)
 10. [Thai PM vows to introduce stricter gun laws after eight killed in shooting](https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
