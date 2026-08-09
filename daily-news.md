@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月9日 05:02:39
+更新时间：2026年8月9日 06:04:48
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia](https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html)
-2. [Perez Hilton faces long recovery after self-harm livestream](https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss)
+2. [Perez Hilton faces long recovery after reports he self-harmed during livestream](https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss)
 3. [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html)
 4. [Solar eclipse to occur next week. Here is what to know](https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026)
 5. [Tonnes of rotting food from vast LA warehouse fire creates unbearable stench](https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss)
