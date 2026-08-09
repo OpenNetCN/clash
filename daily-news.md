@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月8日 15:02:35
+更新时间：2026年8月9日 01:00:19
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Yemen Teeters on Civil War as Regional Stability Hangs in the Balance](https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html)
-2. [As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws](https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html)
-3. [Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss)
-4. [US gifts $1bn to Colombia on new right-wing president's first day of office](https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss)
-5. [K-pop's global wave inspires Chile's next pop stars](https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts)
-6. [Child among three killed in Russian missile attacks near Kyiv](https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss)
-7. [Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general](https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss)
-8. [NBA forward Clarke's death due to effects of drugs](https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss)
-9. [Switzerland is a neutral nation but has more nuclear bunkers than any country in the world](https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers)
-10. [Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse](https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html)
+1. [Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia](https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html)
+2. [Tanker sailors still face danger in the Strait of Hormuz](https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz)
+3. [Canada Wildfires: What to Know About Fires in British Columbia and Ontario](https://www.nytimes.com/article/canada-wildfires-2026.html)
+4. [Whirling Like Dervishes in Turkey, but Open to Everyone](https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html)
+5. [Paris tells e-scooter riders to wear safety gear or face fines](https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss)
+6. [Hormuz talks positive, Oman says, as Iran warns deal would not open strait](https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss)
+7. [Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html)
+8. [US offers $1bn to Colombia on new right-wing president's first day of office](https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss)
+9. [Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead](https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov)
+10. [Madonna pays tribute to 'genius, otherworldly' producer William Orbit](https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
