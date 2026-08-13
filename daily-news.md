@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月13日 09:02:16
+更新时间：2026年8月13日 11:04:21
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies](https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html)
-2. [More troops to be sent to West Bank village besieged by Israeli settlers](https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss)
-3. [What to Know About Today’s U.K. Special Election: Farage vs. Binface](https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html)
-4. [Indian actor's video with endangered gibbon sparks investigation](https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss)
-5. [‘An English Summer Is Not the Same Anymore’](https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html)
-6. [Millions crowd cities to see Spain's first total solar eclipse in over a century](https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse)
-7. [Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss)
-8. [The Man on a Mission to Build India’s Most Livable City](https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html)
-9. [BTS star V reveals hearing loss battle during livestream](https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss)
-10. [Photos: See the best photos from the solar eclipse](https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse)
+1. [Putin Visits Islands Seized from Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html)
+2. [Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies](https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html)
+3. [The Man on a Mission to Build India’s Most Livable City](https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html)
+4. [U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'](https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers)
+5. [UK defends seizing shadow fleet tanker after Putin threat](https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss)
+6. [How China Remembers Zhu Rongji, the Premier Who Spoke His Mind](https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html)
+7. [‘An English Summer Is Not the Same Anymore’](https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html)
+8. [A Patient’s Final Breath in a Congolese Ebola Ward](https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html)
+9. [French ambassador to CAR accused of bringing women to official residence faces disciplinary action](https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss)
+10. [More troops to be sent to West Bank village besieged by Israeli settlers](https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
