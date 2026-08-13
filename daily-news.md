@@ -5,7 +5,7 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月13日 12:04:54
+更新时间：2026年8月13日 13:00:19
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -17,6 +17,6 @@
 6. [Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies](https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html)
 7. [The Man on a Mission to Build India’s Most Livable City](https://www.nytimes.com/2026/08/13/world/asia/india-amravati-livable-city-andhra-pradesh.html)
 8. [U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'](https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers)
-9. [‘An English Summer Is Not the Same Anymore’](https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html)
+9. [‘An English Summer Is Not the Same Anymore’](https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html)
 10. [A Patient’s Final Breath in a Congolese Ebola Ward](https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html)
 <!-- daily-check end -->
