@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月16日 14:01:50
+更新时间：2026年8月17日 01:00:24
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void](https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html)
-2. [Four 'extraordinary' Renaissance paintings stolen from Italian museum](https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss)
-3. [Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist](https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss)
-4. [A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network](https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html)
-5. [Thousands displaced by deadly Indonesia earthquake as rescue efforts continue](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
-6. [Europe's tallest Virgin Mary statue unveiled in rural Poland](https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss)
-7. [Twelve killed as Polish bus veers off Hungarian motorway](https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss)
-8. [Five killed as Russia launches fresh aerial attacks across Ukraine](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
-9. [Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia](https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia)
+1. [Trump says US to scale back military drills with South Korea after it stayed out of Iran war](https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss)
+2. [Liechtenstein Changes Its Law to Allow Women to Ascend the Throne](https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html)
+3. [Kushner Meets With Hamas to Advance Trump’s Gaza Plan](https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html)
+4. [US commander says mental health a 'priority' on USS Lincoln](https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss)
+5. [Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu](https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks)
+6. [Trump envoy Kushner meets Hamas leader to push Gaza peace plan](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
+7. [Two dead and hundreds evacuated after twin fires break out on Greek island](https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss)
+8. [Russia says at least seven killed in largest Ukrainian attack of 2026](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
+9. [Teen suspect in Virginia campus shooting found hiding in closet](https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss)
 10. [As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones](https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html)
 <!-- daily-check end -->
