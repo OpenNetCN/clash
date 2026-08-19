@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月18日 14:03:32
+更新时间：2026年8月19日 01:02:19
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Chocó, Colombia, Faces Deeper Hardship After an Earthquake](https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html)
-2. [How Israel’s Financial Chokehold Is Stifling the West Bank Economy](https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html)
-3. [UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
-4. [Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster](https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss)
-5. [U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries](https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione)
-6. [It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs](https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html)
-7. [Six Years in Provence: An Ancient Castle and a Feud Over a Troublesome Bridge](https://www.nytimes.com/2026/08/18/world/europe/provence-chateau-village-feud.html)
-8. [At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present](https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html)
-9. [A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine](https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html)
-10. [Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'](https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss)
+1. [Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs](https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html)
+2. [ZZ Top drummer Frank Beard dies aged 77](https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss)
+3. [Meta hooked children on Facebook and Instagram, court hears](https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss)
+4. [Israel Strikes Air Base in Syria, Drawing Ire From the U.S.](https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html)
+5. [A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine](https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html)
+6. [Canadian tariff deadline looms as two sides continue to negotiate](https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate)
+7. [US announces new sanctions on top ICC figures](https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss)
+8. [Lindsay Clancy begged for help before her children's killings, mother-in-law testifies](https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss)
+9. [Earthquake rocks Spain's historic Granada, injuring three](https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss)
+10. [Chocó, Colombia, Faces Deeper Hardship After an Earthquake](https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html)
 <!-- daily-check end -->
