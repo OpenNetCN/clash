@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月20日 06:02:35
+更新时间：2026年8月20日 09:01:18
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israeli military launches criminal probes into killings of 5-year-old and paramedics](https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes)
-2. [Russia launches missile strikes on Kyiv and surrounding region, killing at least eight](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
-3. [Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza](https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss)
-4. [Founder of collapsed Chinese property giant Evergrande sentenced to life in prison](https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss)
-5. [U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran](https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html)
-6. [Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
-7. [Trump threatens 'tremendous economic consequences' on any country helping Iran](https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss)
-8. [Former Liberian vice president charged in drug-trafficking probe](https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss)
-9. [North Korean Official Dismisses Reduced Drills Between US and South Korea](https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html)
-10. [Giant whales move into Greenland waters as ice disappears](https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss)
+1. [Harry and Meghan returning to the U.K., reports say](https://www.npr.org/2026/08/20/nx-s1-5939312/harry-and-meghan-returning-to-the-u-k-reports-say)
+2. [Congolese officials say Ebola outbreak continues to grow](https://www.npr.org/2026/08/20/nx-s1-5937866/congolese-officials-say-ebola-outbreak-continues-to-grow)
+3. [U.S. oil companies sign some of the first deals with Venezuela since Maduro's capture](https://www.npr.org/2026/08/20/nx-s1-5938237/u-s-oil-companies-sign-some-of-the-first-deals-with-venezuela-since-maduros-capture)
+4. [Israeli military investigates 2 deadly incidents from the Gaza war](https://www.npr.org/2026/08/20/nx-s1-5938093/israeli-military-investigates-2-deadly-incidents-from-the-gaza-war)
+5. [At least 13 killed in Kyiv as Ukraine grapples with air defence shortages](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
+6. [Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza](https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss)
+7. [Chinese court sentences founder of property developer Evergrande to life in prison](https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande)
+8. [Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told](https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss)
+9. [China Sentences Evergrande Founder to Life in Prison](https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html)
+10. [Prince Harry and Meghan are returning to the U.K. with their children](https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk)
 <!-- daily-check end -->
