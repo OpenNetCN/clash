@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月20日 15:02:09
+更新时间：2026年8月21日 02:04:46
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [After Six Years, Harry and Meghan Are Coming Home. What Changed?](https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html)
-2. [Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself](https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html)
-3. [What to Know About Prince Harry and Meghan’s Move Back to the U.K.](https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html)
-4. [At least 15 killed in Kyiv as Ukraine grapples with air defence shortages](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
-5. [German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home](https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss)
-6. [Assad officer extradited to Syria on war crimes charges for first time](https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss)
-7. [The Indian City Where AI Is Creating Jobs for Humans](https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html)
-8. [U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns](https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims)
-9. [China Sentences Evergrande Founder to Life in Prison](https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html)
-10. [Belgian car salesman becomes prince after royal parentage confirmed](https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss)
+2. [How much could Trump's 'economic D-Day' hurt Iran?](https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss)
+3. [Trump Tariff Talks Leave Key Canadian Official Hopeful](https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html)
+4. [Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment](https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss)
+5. [First U.S. Deportees to Arrive in Liberia Amid Growing Backlash](https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html)
+6. [Trump wants to be friends with Kim - but South Korea could pay the price](https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss)
+7. [FBI arrests woman over alleged plot to bomb New York capitol building](https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss)
+8. [Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended](https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html)
+9. [Dozens dead after boat capsizes in north-western Nigeria](https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss)
+10. [Como mayor hit by electric bike and issues blanket ban in Italian city](https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
