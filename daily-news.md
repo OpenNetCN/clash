@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月21日 04:02:09
+更新时间：2026年8月21日 06:01:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Hong Kong's Tiananmen activists guilty in national security trial](https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss)
-2. [Japan executes man who killed five in Pachinko parlour fire](https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss)
-3. [Bali jails Swiss tourist for insulting sacred Day of Silence](https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss)
-4. [After Six Years, Harry and Meghan Are Coming Home. What Changed?](https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html)
-5. [El Niño set to be 'strongest in living memory', says Met Office](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
-6. [How much could Trump's 'economic D-Day' hurt Iran?](https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss)
-7. [Why the US economy is ringing alarm bells](https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss)
-8. [Trump Tariff Talks Leave Key Canadian Official Hopeful](https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html)
-9. [First U.S. Deportees to Arrive in Liberia Amid Growing Backlash](https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html)
-10. [Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended](https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html)
+2. [British rapper Yung Filly to face retrial on rape charges in Australia](https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss)
+3. [Japan executes man who killed five in Pachinko parlour fire](https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss)
+4. [Bali jails Swiss tourist for insulting sacred Day of Silence](https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss)
+5. [After Six Years, Harry and Meghan Are Coming Home. What Changed?](https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html)
+6. [El Niño set to be 'strongest in living memory', says Met Office](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
+7. [How much could Trump's 'economic D-Day' hurt Iran?](https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss)
+8. [Why the US economy is ringing alarm bells](https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss)
+9. [Trump Tariff Talks Leave Key Canadian Official Hopeful](https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html)
+10. [First U.S. Deportees to Arrive in Liberia Amid Growing Backlash](https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html)
 <!-- daily-check end -->
