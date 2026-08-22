@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月22日 07:02:14
+更新时间：2026年8月22日 08:04:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
 2. [Canada says it will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
-3. [U.S. imposes 50% tariffs on $20 billion worth of Canadian products](https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs)
+3. [U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect](https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs)
 4. [Lindsay Clancy suffering 'command hallucination' when she killed children, court hears](https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss)
 5. [Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms](https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html)
 6. [Two injured in stabbing attack at Canada Sikh temple](https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss)
