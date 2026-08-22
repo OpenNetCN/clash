@@ -5,15 +5,15 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月22日 05:04:01
+更新时间：2026年8月22日 07:02:14
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Canada says it will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
-2. [U.S. imposes 50% tariffs on $20 billion worth of Canadian products](https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs)
-3. [Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
-4. [Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms](https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html)
-5. [As they return to the UK, Harry and Meghan search for a brand that sticks](https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss)
+1. [Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
+2. [Canada says it will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
+3. [U.S. imposes 50% tariffs on $20 billion worth of Canadian products](https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs)
+4. [Lindsay Clancy suffering 'command hallucination' when she killed children, court hears](https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss)
+5. [Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms](https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html)
 6. [Two injured in stabbing attack at Canada Sikh temple](https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss)
 7. [TikTok to pay $400m to US in one of largest child privacy settlements](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
 8. [Big tech companies will have to pay to publish Australian news content under new laws](https://www.npr.org/2026/08/21/nx-s1-5939814/big-tech-companies-will-have-to-pay-to-publish-australian-news-content-under-new-laws)
