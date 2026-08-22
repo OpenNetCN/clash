@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月22日 03:04:42
+更新时间：2026年8月22日 04:00:16
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Russian double-tap drone strike kills 16 in Ukrainian mall, officials say](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
+1. [Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
 2. ['We have more work to do', says Canada negotiator as US trade deadline looms](https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss)
 3. [Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms](https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html)
 4. [Two injured in stabbing attack at Canada Sikh temple](https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss)
