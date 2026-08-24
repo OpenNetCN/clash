@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月24日 09:00:23
+更新时间：2026年8月24日 11:03:41
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Canada vows to impose retaliatory tariffs against the U.S.](https://www.npr.org/2026/08/24/nx-s1-5942306/canada-vows-to-impose-retaliatory-tariffs-against-the-u-s)
-2. [Former Canadian diplomat discusses U.S.-Canada trade war](https://www.npr.org/2026/08/24/nx-s1-5942295/former-canadian-diplomat-discusses-u-s-canada-trade-war)
-3. [Treasury secretary expected to detail new round of economics sanctions on Iran](https://www.npr.org/2026/08/24/nx-s1-5942307/treasury-secretary-expected-to-detail-new-round-of-economics-sanctions-on-iran)
-4. [Ukraine sanctions creators of popular Russian cartoon series, 'Masha and the Bear'](https://www.npr.org/2026/08/24/nx-s1-5940846/ukraine-sanctions-creators-of-popular-russian-cartoon-series-masha-and-the-bear)
-5. [Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada](https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss)
-6. [King of Norway's health has worsened, palace says](https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss)
-7. [Maradona's 'Hand of God' ball sells for £2.5m](https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss)
-8. [China probes use of formaldehyde to keep cabbages fresh](https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss)
-9. [Nearly three million Teslas recalled in China over hidden door handles](https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss)
-10. [Divorce, smartphones and control - BBC sees how Taliban run Afghanistan](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
+1. [UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings](https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html)
+2. [Russia's second-biggest online retailer targeted in Ukrainian strikes](https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss)
+3. [Access to Zambian courts prevented as election petition deadline looms](https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss)
+4. [Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada](https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss)
+5. [Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions](https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html)
+6. [A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)
+7. [U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands](https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html)
+8. [Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)
+9. [Can ‘Argentina’s Texas’ Save the Country’s Economy?](https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html)
+10. [Where Iran’s Young People Gather, the Government Sees Threats to Its Authority](https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html)
 <!-- daily-check end -->
