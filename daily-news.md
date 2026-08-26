@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月26日 06:03:38
+更新时间：2026年8月26日 11:01:57
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead](https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead)
-2. [Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs](https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html)
-3. [Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home](https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html)
-4. [How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War](https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html)
-5. [Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss)
-6. [CIA chief travels to Moscow for unannounced talks, US media reports](https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss)
-7. [Mass arrests in global crackdown on West African cyber-crime networks](https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss)
-8. [Israeli Lawmaker Smashes Palestinian Monument in West Bank](https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html)
-9. [Dozens Massacred in Haiti, Officials Say, Heightening Fears of Gangs](https://www.nytimes.com/2026/08/25/world/americas/haiti-massacre-kenscoff.html)
-10. [Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy](https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html)
+1. [Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border](https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss)
+2. [Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer](https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss)
+3. [Libyan who was cleared after Lockerbie bombing trial dies aged 70](https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss)
+4. [Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry](https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan)
+5. [Indian jewellery ad pulled after backlash over actor's outfit](https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss)
+6. [More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead](https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead)
+7. [Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs](https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html)
+8. [Musk's SpaceX to build $100bn launch facility in Louisiana](https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss)
+9. [Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home](https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html)
+10. [Trump says all mines cleared from Strait of Hormuz](https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
