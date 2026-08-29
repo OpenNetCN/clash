@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月29日 05:01:47
+更新时间：2026年8月29日 07:04:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing](https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods)
+1. [Live Updates: Scale of Flood Disaster Grows as Nepal Says 2,400 Are Missing](https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods)
 2. [Footage of Tibet floods isn't being shown in China - and we know little about victims there](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss)
 3. [Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil](https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss)
 4. [Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves](https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves)
