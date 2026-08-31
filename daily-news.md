@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月31日 08:02:23
+更新时间：2026年8月31日 09:01:59
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US and Iran trade strikes for first time in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
-2. [Eight killed and 18 missing after ferry capsizes off northern Cyprus](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
-3. [Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods](https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html)
-4. [What Argentina gets right about youth soccer — and what the U.S. gets wrong](https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong)
-5. [15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon](https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss)
-6. [Families of pilgrims likely caught in floods are desperate for news from Nepal](https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal)
-7. [Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus](https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html)
-8. [Getting aid to Nepal's flood survivors is the next challenge](https://www.npr.org/2026/08/30/nx-s1-5948789/getting-aid-to-nepals-flood-survivors-is-the-next-challenge)
-9. [Noel Godin, who made powerful people nervous around cream pies, dies at 80](https://www.npr.org/2026/08/30/nx-s1-5946807/noel-godin-who-made-powerful-people-nervous-around-cream-pies-dies-at-80)
-10. [What a Brazilian tradition can teach us about the future of psychedelics](https://www.npr.org/2026/08/30/nx-s1-5945717/what-a-brazilian-tradition-can-teach-us-about-the-future-of-psychedelics)
+1. [Rescuers search for the missing after deadly flood along Nepal-Tibet border](https://www.npr.org/2026/08/31/nx-s1-5949292/rescuers-search-for-the-missing-after-deadly-flood-along-nepal-tibet-border)
+2. [U.N. worker shares what aid is needed as Nepal recovers from devastating flood](https://www.npr.org/2026/08/31/nx-s1-5947992/u-n-worker-shares-what-aid-is-needed-as-nepal-recovers-from-devastating-flood)
+3. [Nepal Turns to Mass Burials as Thousands Remain Missing from Floods](https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html)
+4. [US and Iran trade strikes for first time in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+5. [One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon](https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss)
+6. [Algeria president seeks death penalty for arsonists after deadly forest fires](https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss)
+7. ['Moonies' church leader jailed for two years over bribery offences](https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss)
+8. [Eight killed and 18 missing after ferry capsizes off northern Cyprus](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
+9. [What Argentina gets right about youth soccer — and what the U.S. gets wrong](https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong)
+10. [Families of pilgrims likely caught in floods are desperate for news from Nepal](https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal)
 <!-- daily-check end -->
