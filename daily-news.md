@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月31日 04:00:54
+更新时间：2026年8月31日 05:04:34
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Eight killed and 18 missing after ferry capsizes off northern Cyprus](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
-2. [US strikes Iranian launchers on Larak Island in first known attack in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+1. [US and Iran trade strikes for first time in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+2. [Eight killed and 18 missing after ferry capsizes off northern Cyprus](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
 3. [Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods](https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html)
 4. [What Argentina gets right about youth soccer — and what the U.S. gets wrong](https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong)
 5. [15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon](https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss)
