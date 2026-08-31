@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年8月30日 15:01:52
+更新时间：2026年8月31日 03:00:48
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order](https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html)
-2. [Iceland votes against restarting EU membership talks](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
-3. [Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'](https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google)
-4. [Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus](https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html)
-5. [Canada installs large Lake Ontario sign in latest jab at US](https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss)
-6. [China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood](https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html)
-7. [Manhunt after shooting at Swiss rave kills woman, 22, and injures five](https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss)
-8. [The Trump administration claims America will soon get a majority of its oil from Venezuela with new deal](https://www.npr.org/2026/08/30/nx-s1-5948708/the-trump-administration-claims-america-will-soon-get-a-majority-of-its-oil-from-venezuela-with-new-deal)
-9. [Iceland Votes to Steer Clear of European Union Talks](https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html)
-10. [Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply](https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html)
+1. [Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods](https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html)
+2. [What Argentina gets right about youth soccer — and what the U.S. gets wrong](https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong)
+3. [US strikes Iranian launchers on Larak Island in first known attack in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+4. [15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon](https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss)
+5. [Families of pilgrims likely caught in floods are desperate for news from Nepal](https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal)
+6. [Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus](https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html)
+7. [Getting aid to Nepal's flood survivors is the next challenge](https://www.npr.org/2026/08/30/nx-s1-5948789/getting-aid-to-nepals-flood-survivors-is-the-next-challenge)
+8. [Noel Godin, who made powerful people nervous around cream pies, dies at 80](https://www.npr.org/2026/08/30/nx-s1-5946807/noel-godin-who-made-powerful-people-nervous-around-cream-pies-dies-at-80)
+9. [What a Brazilian tradition can teach us about the future of psychedelics](https://www.npr.org/2026/08/30/nx-s1-5945717/what-a-brazilian-tradition-can-teach-us-about-the-future-of-psychedelics)
+10. [The Ukrainian women disappearing into Russian prisons](https://www.npr.org/2026/08/30/nx-s1-5945115/the-ukrainian-women-disappearing-into-russian-prisons)
 <!-- daily-check end -->
