@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月2日 01:01:03
+更新时间：2026年9月2日 02:00:11
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran retaliates after US strikes kills four at wedding party, state media reports](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
+1. [Iran retaliates after US strikes kill four at wedding party, state media reports](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 2. [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html)
 3. [Weeks After Failed Drone Attack, Germany Points Finger at Russia](https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html)
 4. [Ariana Grande completes tour and steps back from public life](https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss)
