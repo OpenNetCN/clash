@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月2日 10:04:14
+更新时间：2026年9月2日 11:01:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations](https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss)
-2. [Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say](https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties)
-3. [Germany blames Russia for last month's attempted drone attack at Leipzig airport](https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack)
-4. [Putin signals support for Iran in ongoing war with the U.S.](https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s)
-5. [Bus crash on Egypt's Red Sea coast kills 16](https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss)
-6. [Guinea-Bissau referendum approves new constitution that expands president's powers](https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss)
-7. [Why US troops have a history in this raucous Thai city](https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss)
-8. [Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage](https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html)
-9. [U.S. military strikes Iran, while Trump vows more for Tehran's retaliation](https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war)
-10. [South Korea jails care home head for sexually assaulting disabled residents](https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss)
+1. [Bus crash on Egypt's Red Sea coast kills 22](https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss)
+2. [Thousands still missing as Nepal-Tibet flood relief and recovery intensifies](https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss)
+3. [US sailors arrive at Thailand's Pattaya after record 250 days at sea](https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss)
+4. [Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations](https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss)
+5. [Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say](https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties)
+6. [Germany blames Russia for last month's attempted drone attack at Leipzig airport](https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack)
+7. [Putin signals support for Iran in ongoing war with the U.S.](https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s)
+8. [Why US troops have a history in this raucous Thai city](https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss)
+9. [Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage](https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html)
+10. [U.S. military strikes Iran, while Trump vows more for Tehran's retaliation](https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war)
 <!-- daily-check end -->
