@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月4日 15:04:47
+更新时间：2026年9月5日 01:02:49
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say](https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss)
-2. [Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect](https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss)
-3. [U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison](https://www.nytimes.com/2026/09/04/world/middleeast/lebanon-uae-pardon-egypt-dissident.html)
-4. [Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates](https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html)
-5. [Philippine vice president is ordered arrested for threats against the president](https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president)
-6. [Myanmar military head visits Vietnam to normalize relations](https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations)
-7. [Body of world's youngest traditional king returns home to Uganda amid succession row](https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss)
-8. [Families Turn to Symbolic Cremation After Nepal Floods](https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html)
-9. [Israel Says It Is Cementing Its Foothold in Southern Lebanon](https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html)
-10. [UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says](https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss)
+1. [Germany's far-right AfD bids for first taste of power in eastern vote](https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss)
+2. [Mistrial declared in Lindsay Clancy murder case, after jury deadlocks](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss)
+3. [The U.N. backs a new world map showing Africa in its true relative size](https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote)
+4. [Alejandro Betancourt, Trump’s Partner in Venezuelan Oil Deal, Has Faced Investigations](https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html)
+5. [Israel Says It Is Cementing Its Foothold in Southern Lebanon](https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html)
+6. [Trump's peace envoys to visit Moscow and Kyiv over weekend](https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss)
+7. [Russian Drone Strikes Office of Ukraine’s Intelligence Chief](https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html)
+8. [Argentine couple to return Nazi-looted painting to rightful owner](https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss)
+9. [Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect](https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss)
+10. [Russia hits Ukrainian security headquarters in drone attack, Zelensky says](https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
