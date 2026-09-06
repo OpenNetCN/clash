@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月6日 13:00:41
+更新时间：2026年9月6日 14:03:01
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump Envoys Make First Visit to Kyiv](https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html)
-2. [US envoys arrive in Ukraine for talks after meeting Putin in Russia](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
+1. [US envoys meet Zelensky in Ukraine after talks with Putin in Russia](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
+2. [Trump Envoys Make First Visit to Kyiv](https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html)
 3. [China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.](https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html)
 4. [Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches](https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html)
 5. [A Bad Year for Bees Gets Worse as Trump’s Tariffs Hit Canada’s Honey Belt](https://www.nytimes.com/2026/09/06/world/canada/a-bad-year-for-bees-gets-worse-as-trumps-tariffs-hit-canadas-honey-belt.html)
