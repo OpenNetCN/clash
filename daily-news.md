@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月7日 15:00:26
+更新时间：2026年9月8日 02:03:18
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Burundians rush to leave Kenya ahead of crackdown on unregistered traders](https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss)
-2. [Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies](https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html)
-3. [After Victory in German State, Far Right Needs Help to Take Power](https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html)
-4. [Germany's far-right AfD says 'democracy demands' parties work with them after state election win](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss)
-5. [Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before](https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html)
-6. [Israeli strikes in southern Lebanese village kill 12](https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss)
-7. [Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’](https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html)
-8. [As Nepal identifies those killed in the floods, questions grow over China's reporting](https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting)
-9. [They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.](https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html)
-10. [5 dead after crash at Miami Airport. And, Germany's far-right wins state election](https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany)
+1. [Ukraine's chief prosecutor resigns over call centre corruption scandal](https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss)
+2. [Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate](https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html)
+3. [Trump threatens to stop sale of Canadian Bombardier jets in US](https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss)
+4. [Eiffel Tower shut by staff protest after female workers moved for religious visit](https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss)
+5. [Flight recorders recovered from 'devastating' Amazon cargo plane crash](https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss)
+6. [In Peru, the Trump Administration Sees the Limits of Its Anti-China Push](https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html)
+7. [The UN passed resolution ahead of General Assembly calling for end to child marriage](https://www.npr.org/2026/09/07/nx-s1-5954226/the-un-passed-resolution-ahead-of-general-assembly-calling-for-end-to-child-marriage)
+8. [Palestinian parents fear for children's lives at school as settler attacks grow](https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss)
+9. [Britain Set to Target Israeli West Bank Settlements With Trade Ban](https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html)
+10. [Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’](https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html)
 <!-- daily-check end -->
