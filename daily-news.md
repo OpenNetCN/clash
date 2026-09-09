@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月8日 15:04:57
+更新时间：2026年9月9日 01:01:49
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz](https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html)
-2. [Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs](https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss)
-3. [Hungary expels 10 Russian diplomats as relations worsen](https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss)
-4. [UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing](https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html)
-5. [Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns](https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss)
-6. [Saudi Arabia vows to respond after Houthis attack cities and energy facilities](https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss)
-7. [Four Renoir paintings worth millions stolen in French museum heist](https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss)
-8. [Rubio to Push Colombia’s New Leader to Tackle Cocaine Trade](https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html)
-9. [Australian social media users to be offered choice to opt out of algorithms](https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms)
-10. [U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods](https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel)
+1. [US slaps import ban on Canadian alcohol and other goods](https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss)
+2. [Meta continues to run ads promoting child sexual abuse material in India - report](https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss)
+3. ['Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on](https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss)
+4. [Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’](https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html)
+5. [Paul Adams: British-Israeli relations at lowest ebb in decades](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss)
+6. [Kenya's foreign trader crackdown sparks fear among migrant communities](https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa)
+7. [UK announces sanctions on West Bank settlements prompting furious Israeli response](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss)
+8. [Iceland Summons U.S. Ambassador Over Provocative Trump Map](https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html)
+9. [Ukrainian TV channel building hit by Russian drone as five killed in Kyiv](https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss)
+10. [Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War](https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html)
 <!-- daily-check end -->
