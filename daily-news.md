@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月9日 09:01:10
+更新时间：2026年9月9日 14:00:37
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iceland summons U.S. ambassador after Trump posts countries draped with American flag](https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag)
-2. [Oil hits $100 a barrel for first time since July after US strikes](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
-3. ['You're not alone in the darkness': Gambia president urges calm after violent blackout protests](https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss)
-4. [US slaps import ban on Canadian alcohol, motorbikes and other goods](https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss)
-5. [South Park creators rename show 'South America' in apparent dig at Trump](https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss)
-6. [U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship](https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers)
-7. [Hong Kong's first leader after British handover dies](https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss)
-8. [Hungary Expels 10 Russian Diplomats, Signaling a Shift](https://www.nytimes.com/2026/09/08/world/europe/hungary-russia-diplomats-expulsion.html)
-9. [Carney Says Retaliation Against U.S. Tariffs Was Unavoidable](https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html)
-10. [Meta continues to run ads promoting child sexual abuse material in India - report](https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss)
+1. [Greetings from Paris, where the 2024 Olympics balloon rises again](https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries)
+2. [How a Driver’s Sudden Death Triggered Ebola Panic in Congo](https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html)
+3. [Germany's Merz attacks AfD in stormy debate after far-right election win](https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss)
+4. [Europe Unites to Pressure Israel, Breaking With U.S.](https://www.nytimes.com/2026/09/09/world/europe/britain-france-israel-settlements-trade.html)
+5. [White House pulls Tetris-style 'Build The Wall' game after copyright concern](https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss)
+6. [Nepal’s Flood Relief Workers Feel the Pain of Trump’s Cuts to U.S.A.I.D.](https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html)
+7. [Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure](https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html)
+8. [N Korea has built two-storey uranium enrichment facility, says watchdog](https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss)
+9. [U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns](https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian)
+10. [Colombia's new president loosens gun control rules](https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
