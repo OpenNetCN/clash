@@ -17,7 +17,7 @@
 | 你的需求 | 首选 | 入门套餐（流量 / 周期） | 为什么 | 下一步 |
 | --- | --- | --- | --- | --- |
 | 🏆 第一次买长期主力 / AI + 流媒体都要 | **BoostNet** | 200G / ¥49/月 | 自研客户端 + 三网直连 IEPL，综合使用更省心 | [看评测](#boostnet) · [立即注册](https://tw.boostqz.com/?path=register&code=kKMFirlm) |
-| 💎 老牌旗舰 / 稳定性优先 / 通用客户端 | **WgetCloud** | 约 ¥79/月起 | 老牌高端机场，极致稳定，客服响应快，支持 Clash 等通用客户端，覆盖节点齐全 | [看评测](#wgetcloud) · [立即注册（需外网）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
+| 💎 老牌旗舰 / 稳定性优先 / 通用客户端 | **WgetCloud** | 200G/月，约 ¥79/月起 | 老牌高端机场，极致稳定，客服响应快，支持 Clash 等通用客户端，覆盖节点齐全 | [看评测](#wgetcloud) · [立即注册（需外网）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
 | 🌤 年付省心 / 家庭多设备 | **青云梯** | 每月 60G / ¥96/年 | 老牌 IPLC 专线，适合长期低成本使用 | [看评测](#qingyunti) · [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
 | 🤖 原生 / 高质量 IP / IDE 登录稳定 | **TNTCloud** | 110G / ¥20/月 | IPLC 专线 + 高质量出口，适合专项 AI 与登录场景 | [看评测](#tnt) · [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
 
@@ -122,13 +122,13 @@
 
 | 需求场景 | 优先选择 | 备选/补充 | 购买建议 |
 | --- | --- | --- | --- |
-| AI + 流媒体综合主力 | [BoostNet](#boostnet) | [悠兔](#youtu) | BoostNet 默认看 200G/月；更看重 IEPL 和高峰视频再看悠兔 |
+| AI + 流媒体综合主力 | [BoostNet](#boostnet) | [WgetCloud](#wgetcloud) | BoostNet 默认看 200G/月；更看重老牌稳定性和通用客户端可选 WgetCloud |
+| 稳定性优先 / 团队办公 | [WgetCloud](#wgetcloud) | [BoostNet](#boostnet) | 老牌旗舰，支持通用客户端，200G/月基础档，价格以官网结算页为准 |
 | 长期主用 / 晚高峰视频 | [悠兔](#youtu) | [BoostNet](#boostnet) | 悠兔默认看 300G/月，想先试线路可从 150G/月开始 |
 | 年付省心 / 家庭多设备 / 老牌稳定长期用 | [青云梯](#qingyunti) | [银河云](#yinheyun) | 更适合想长期年付、省心使用和多设备一起用的用户 |
 | ChatGPT / Claude / Cursor / IDE 登录 | [BoostNet](#boostnet) | [TNTCloud](#tnt) | 先保证综合稳定，再按需补专项出口 |
 | TikTok / 跨境电商 / 多区域业务 | [唯兔云](#weituyun) | [TNTCloud](#tnt) | 先确认目标地区节点和账号场景，不要只看最低价 |
 | 预算优先 / 年付备用 | [银河云](#yinheyun) | [青云梯](#qingyunti) | 低预算可以年付备用；更看重老牌稳定和家庭多设备再看青云梯 |
-| 稳定性优先 / 团队办公 | [WgetCloud](#wgetcloud) | [BoostNet](#boostnet) | 老牌旗舰，支持通用客户端，价格以官网结算页为准 |
 
 
 > 🛡️ **作者补充：** `BoostNet / 悠兔 / WgetCloud` 价格确实稍贵一点，但今年 4 月那波对机场的集中打击里，它们的**恢复能力是我观察到最强的**——基本很快就恢复可用，客服也全程能联系上，不会出现「机场用不了、客服又失联」的情况。愿意为稳定多花一点的用户，这三家更让人安心。
