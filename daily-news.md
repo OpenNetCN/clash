@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月10日 09:02:39
+更新时间：2026年9月10日 10:00:34
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump says every adult American would get $5,000 if Republicans win midterms](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss)
-2. [Scientists say August was Earth's hottest month they've measured](https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest)
-3. [Uganda pulling out of Prince Harry's Invictus Games, says military chief](https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss)
-4. [UN peacekeepers give NPR a rare look behind Israeli lines](https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines)
-5. ['I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it](https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it)
-6. [Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry](https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss)
-7. [Iran war won't end until after crucial November elections, says Trump](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss)
-8. [At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines](https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html)
-9. [Spanish intelligence warned of Ceuta mass crossing plans before surge](https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss)
-10. [Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate](https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html)
+1. [Royal family rift after popular TV news presenter chosen to succeed Ugandan king](https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss)
+2. ['Significant casualties' after fire on cargo ship in eastern China](https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss)
+3. [With Messaging That Mirrors Putin’s, Germany’s Far-Right Party Gains Ground](https://www.nytimes.com/2026/09/10/world/europe/germany-russia-afd-putin.html)
+4. [Apple's new boss starts with big gamble on £1,999 first folding iPhone](https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss)
+5. [The ‘Forever War’ in Afghanistan: 25 Years in Pictures](https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html)
+6. [Why Yemen Is Back on the Brink of War](https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html)
+7. [Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.](https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html)
+8. [Kenneth Feinberg Recalls Running the 9/11 Compensation Fund](https://www.nytimes.com/2026/09/10/world/kenneth-feinberg-sept-11-compensation.html)
+9. [After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie](https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html)
+10. [Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home](https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html)
 <!-- daily-check end -->
