@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月11日 06:04:44
+更新时间：2026年9月11日 08:03:55
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iran-backed Houthi rebels seize strategic Red Sea port in Yemen](https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port)
-2. [Coach crash kills several people in Swiss Alps](https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss)
-3. [Five killed and 67 injured in Russian strike on shopping centre, Ukraine says](https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss)
-4. [Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands](https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html)
+1. [Why Houthi military gains in Yemen may further increase gas prices](https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices)
+2. [Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison](https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html)
+3. [Princess Diana's 'revenge dress' goes up for auction](https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss)
+4. [Hong Kong court sentences 3 Tiananmen vigil organizers to prison](https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers)
 5. [Man jailed after threatening to kill son's teacher in French village](https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss)
-6. [After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie](https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html)
-7. [Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally](https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html)
-8. [More than 20 children killed in DR Congo school fire](https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss)
-9. [Moscow Claims Ukraine Planned to Start a War Between Russia and the U.K.](https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html)
-10. [UK Sanctions Against Israeli Settlers Divide British Rabbis](https://www.nytimes.com/2026/09/10/world/europe/britain-israel-jews-sanctions-settlers.html)
+6. [Iran-backed Houthi rebels seize strategic Red Sea port in Yemen](https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port)
+7. [Why Emerging Powers Keep Joining BRICS, Even When They Disagree](https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html)
+8. [At BRICS Summit, China and India Vie for Influence](https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html)
+9. [Coach crash kills several people in Swiss Alps](https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss)
+10. [Five killed and 67 injured in Russian strike on shopping centre, Ukraine says](https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
