@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月12日 12:03:11
+更新时间：2026年9月12日 14:04:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [A united Ireland would be 'fantastic' says Trump during Irish visit](https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss)
-2. [Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)
-3. [Visa Issue Threatens U.S.-Brazil Cooperation on Crime](https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html)
-4. [The Doctor Pressuring African Leaders to Own the Ebola Response](https://www.nytimes.com/2026/09/12/world/africa/jean-kaseya-africa-cdc.html)
-5. [In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise](https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html)
-6. [Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War](https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html)
-7. [The secret quest to preserve Palestinian writer Raja Shehadeh's diaries](https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh)
-8. [Tyla and Other Stars Cancel Concerts Amid Anti-Immigrant Backlash](https://www.nytimes.com/2026/09/12/world/africa/tyla-south-africa-concert-nigeria-immigration.html)
+2. [In Flood-Stricken Nepal, a Cool Gust Carries Hopes of a Miracle Rescue](https://www.nytimes.com/2026/09/12/world/asia/nepal-floods-himalayas-hydropower-tunnel.html)
+3. [Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent](https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html)
+4. ['People are still afraid of those three letters': Fighting the stigma of HIV](https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma)
+5. [Passenger train derails in France leaving at least 44 injured](https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss)
+6. [Record heatwaves in France set to make champagne stronger](https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss)
+7. [Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War](https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html)
+8. ['BRICS' forum brings together emerging economies, aimed at countering western dominance](https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance)
 9. [‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting](https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html)
-10. [BRICS leaders meet in India as wars and US tensions test the bloc](https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india)
+10. [Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks](https://www.npr.org/2026/09/12/nx-s1-5964940/saudi-arabia-forced-to-shut-down-crucial-red-sea-pipeline-after-attacks)
 <!-- daily-check end -->
