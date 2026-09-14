@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月14日 07:02:03
+更新时间：2026年9月14日 08:04:34
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Indonesia searches for 129 people missing after ferry capsizes](https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry)
+1. [Indonesia searches for 129 people missing after ferry capsizes in the Java Sea](https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry)
 2. [Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through](https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train)
 3. [Hyrox athlete sparks debate for continuing race after soiling herself](https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss)
 4. [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
