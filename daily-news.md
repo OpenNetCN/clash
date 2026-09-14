@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月13日 14:04:02
+更新时间：2026年9月14日 01:01:04
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Okinawa Set to Elect Conservative Amid Fears About China and Economy](https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html)
-2. [Six dead, 130 missing after Indonesian ferry capsizes in Java Sea](https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss)
-3. [Iran Will Meet With Gulf Arab States as Mideast Conflict Widens](https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html)
-4. [Iran war reshapes Brics ties but also exposes divisions](https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss)
-5. [AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
-6. [Indonesian passenger ship overturns, sparking search for about 130 missing](https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns)
-7. [How Iran’s Hard-liners Blew Up the Peace Deal with Trump](https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html)
-8. [Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan](https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html)
-9. [Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief](https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html)
-10. [An Election in Sweden Shows Shifting Priorities](https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html)
+1. [Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief](https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html)
+2. [Election in Sweden Is Too Close to Call](https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html)
+3. [Swedish party blocs tied after Sunday vote, projections say](https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss)
+4. [World leaders gathered for the annual BRICS summit. Here are the takeaways](https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways)
+5. [Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?](https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman)
+6. [Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls](https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html)
+7. [King Charles Will Convene A.I. Leaders Amid Calls to Slow Development](https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html)
+8. [Trump says he will remove all Irish whiskey tariffs as he ends two-day visit](https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss)
+9. [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
+10. [Trump downplays warnings of AI risks, citing rivalry with China](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
