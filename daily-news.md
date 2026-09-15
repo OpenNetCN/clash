@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月14日 15:02:49
+更新时间：2026年9月15日 01:01:02
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [The New Moscow: A Digital Utopia Doubling as a Surveillance Trap](https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html)
-2. [Wild dogs record 2,500-mile trek across Africa in search of a mate](https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss)
-3. [Saudi Leader Meets U.S. General as Widening Conflict Threatens Oil Markets](https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html)
-4. [The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one](https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh)
-5. [Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies](https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html)
-6. [Why Scandals Don’t Bring Down Politicians Anymore](https://www.nytimes.com/2026/09/14/world/scandal-shame-politics-polarization.html)
-7. [Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
-8. [France Mocked U.S. for Human Rights Vote, Then Quietly Apologized](https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html)
-9. [Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback](https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks)
-10. [Zambians warned not to eat dead wildlife after anthrax kills dozens of animals](https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss)
+1. [Legendary costume designer Bob Mackie dies aged 87](https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss)
+2. [Syrians Protest as Surge in Fuel Prices Adds to Cost-of-Living Crisis](https://www.nytimes.com/2026/09/14/world/middleeast/syrians-protest-fuel-price-rises.html)
+3. [Israel is 'dismantling Palestinian life' says Israeli human rights group](https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group)
+4. [Saudi Leader Meets U.S. Commander as Houthi Attacks Threaten Oil Markets](https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html)
+5. [‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash](https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html)
+6. [China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule](https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html)
+7. [Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find](https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss)
+8. [Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies](https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html)
+9. [France Mocked U.S. for Human Rights Vote, Then Quietly Apologized](https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html)
+10. [The New Moscow: A Digital Utopia Doubling as a Surveillance Trap](https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html)
 <!-- daily-check end -->
