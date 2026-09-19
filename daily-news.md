@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月18日 15:02:51
+更新时间：2026年9月19日 02:02:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [German Art Institutions Prepare for a Fight as Far Right Looks to Take Power](https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bauhaus-culture.html)
-2. [Russian hybrid attacks against Europe intensifying, says Macron](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss)
-3. [37 Miners in Nigeria Die in Police Custody, Sparking Protests](https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html)
-4. [Manitoba Joins List of Canadian Provinces to Stop Changing Clocks](https://www.nytimes.com/2026/09/18/world/canada/manitoba-daylight-saving-clock-change.html)
-5. [Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants](https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html)
-6. [Dozens of suspected illegal miners die in Nigerian custody](https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss)
-7. [Police begin operation to move migrants from Ceuta beaches](https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss)
-8. [Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children](https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss)
-9. [At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque](https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss)
-10. [Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation](https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine)
+1. [A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees](https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html)
+2. [Trump says he is banning CNN and Politico from White House](https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss)
+3. [Russians head to the polls to choose lawmakers for their parliament](https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament)
+4. [US and Denmark reach deal over Greenland after Trump annexation threats](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+5. [At least 21 killed after vehicle loaded with explosives rams Pakistan mosque](https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss)
+6. [Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell](https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html)
+7. [When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing](https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks)
+8. [Syrian regime planned American journalist's kidnapping for weeks](https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded)
+9. [Is the Kennedy Center losing 'hundreds of millions of dollars'?](https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss)
+10. [St. Pierre and Miquelon, France, In the Spotlight as Macron and Carney Visit](https://www.nytimes.com/2026/09/18/world/canada/saint-pierre-miquelon-france-canada-macron-carney.html)
 <!-- daily-check end -->
