@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月19日 10:04:41
+更新时间：2026年9月19日 12:01:40
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts](https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html)
-2. [Deadly shark attack prompts rare kill order in Western Australia](https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss)
-3. [Behold the Most Handsome Melons in Mexico](https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html)
-4. [Millionaire Activist James Chambers Seeks Asylum in Spain](https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html)
-5. [The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?](https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html)
-6. [A Small Country’s Huge Windfall from the War in Iran](https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html)
-7. [Russia holds parliamentary vote in areas it seized from Ukraine in the war](https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine)
-8. [Trump says he is banning CNN and Politico from White House](https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss)
-9. [As Europe warms, Italy sees West Nile virus spread](https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread)
-10. [US and Denmark reach deal to build US military presence in Greenland](https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal)
+1. [What Does Trump Want With Greenland?](https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html)
+2. [Shark attack prompts rare kill order in Western Australia as victim named](https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss)
+3. [Inside the Breakdown of U.K.-Israel Relations Over West Bank Settlements](https://www.nytimes.com/2026/09/19/world/europe/uk-israel-west-bank-sanctions.html)
+4. [France, Poland and European allies warn of escalating Russian 'hybrid' attacks](https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks)
+5. [US and Denmark reach deal over Greenland after Trump annexation threats](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+6. [Millions without power as Cuba hit by latest major blackout](https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss)
+7. [Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts](https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html)
+8. [Behold the Most Handsome Melons in Mexico](https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html)
+9. [Millionaire Activist James Chambers Seeks Asylum in Spain](https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html)
+10. [The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?](https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html)
 <!-- daily-check end -->
