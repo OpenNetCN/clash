@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月20日 01:03:05
+更新时间：2026年9月20日 02:01:54
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Ed Sheeran addresses Macklemore controversy at Philadelphia show](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
+1. [Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
 2. [Houthis say they targeted Saudi capital with ballistic missiles](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
 3. [Cultural treasures are being destroyed by war, and people want justice](https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss)
 4. [Our head teacher was an abuser. We joined forces to get justice - now we're married](https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss)
