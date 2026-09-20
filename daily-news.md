@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月19日 14:04:51
+更新时间：2026年9月20日 01:03:05
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [A Small Country’s Huge Windfall from the War in Iran](https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html)
-2. [Google's Gemini AI hacked three companies in security test](https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss)
-3. [Reported Explosions Put Saudi Capital on Edge Amid Conflict With Houthis](https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html)
-4. [‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump](https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html)
-5. [Behold the Most Handsome Melons in Mexico](https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html)
-6. [What Does Trump Want With Greenland?](https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html)
-7. [Shark attack prompts rare kill order in Western Australia as victim named](https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss)
-8. [Inside the Breakdown of U.K.-Israel Relations Over West Bank Settlements](https://www.nytimes.com/2026/09/19/world/europe/uk-israel-west-bank-sanctions.html)
-9. [France, Poland and European allies warn of escalating Russian 'hybrid' attacks](https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks)
-10. [US and Denmark reach deal over Greenland after Trump annexation threats](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+1. [Ed Sheeran addresses Macklemore controversy at Philadelphia show](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
+2. [Houthis say they targeted Saudi capital with ballistic missiles](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
+3. [Cultural treasures are being destroyed by war, and people want justice](https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss)
+4. [Our head teacher was an abuser. We joined forces to get justice - now we're married](https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss)
+5. [Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+6. [The Most Handsome Melon in Mexico? Yes, It’s a Real Contest.](https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html)
+7. [Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian](https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html)
+8. [Trump says US will form 'AI Force' and appoint an artificial intelligence tsar](https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss)
+9. [In Significant Escalation, Houthis Attack Saudi Capital](https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html)
+10. [‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump](https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html)
 <!-- daily-check end -->
