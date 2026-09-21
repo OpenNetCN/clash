@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月21日 06:03:46
+更新时间：2026年9月21日 08:03:54
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise](https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html)
-2. [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
-3. [On a Dot of France Off Canada, Carney and Macron Talk Partnership](https://www.nytimes.com/2026/09/20/world/canada/carney-macron-saint-pierre-miquelon-canada-eu.html)
-4. [Thirty More Arrested in Jovenel Moïse Assassination](https://www.nytimes.com/2026/09/20/world/americas/haiti-assassination-trial-moise.html)
-5. [Poison suspected in deaths of ten lions in game reserve in Tanzania](https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania)
-6. [A Diplomat From Myanmar Refuses to Give Up New York City Post](https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html)
-7. [Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece](https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss)
-8. [They Have Almost No Chance in Russia’s Elections. Why Are They Running?](https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html)
-9. [Defining global leadership in AI at Trump-Xi summit](https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit)
-10. [Hundreds of Drones Target Moscow on Final Day of Russian Elections](https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html)
+1. [Seven Ethiopian rebel groups form new alliance](https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss)
+2. [Sydney policeman allegedly disguised himself as Uber Eats rider before murders](https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss)
+3. [Presley Gerber, Cindy Crawford's son, dies aged 27](https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss)
+4. [Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'](https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss)
+5. [US and China discuss AI safety plan ahead of Trump-Xi summit](https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss)
+6. [Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.](https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html)
+7. [‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers](https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html)
+8. [One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms](https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html)
+9. [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
+10. [Russia's elections had few surprises - but how the Kremlin uses the results will be crucial](https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
