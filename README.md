@@ -1,4 +1,4 @@
-# Clash机场与节点订阅指南｜2026 机场推荐、客户端配置与可用性记录
+# 机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测
 
 [![last commit](https://img.shields.io/github/last-commit/OpenNetCN/clash?label=last%20update)](https://github.com/OpenNetCN/clash/commits/main)
 [![stars](https://img.shields.io/github/stars/OpenNetCN/clash?style=flat)](https://github.com/OpenNetCN/clash/stargazers)
