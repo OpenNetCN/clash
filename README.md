@@ -135,7 +135,9 @@
 
 ## 🏆 七家机场选购摘要
 
-每家先看适合人群、推荐依据和限制，再核对套餐。下列线路与服务参数来自已有资料，无法仅凭线路名称推断速度、解锁或账号风控表现。完整测速和图文另见品牌页。
+每家先看适合人群、推荐依据和限制，再核对套餐。本页保留代表性测速与解锁截图，完整评测另见品牌页。
+
+> **图片怎么读：** 日期以图内时间为准，均为历史单次样本；地区、运营商、带宽、线程和测试工具不同，不能仅凭峰值横向排名。“解锁”是工具探测标签，不保证实际账号或全部功能可用。图内旧域名、客户端提示、协议及倍率需与当前官网说明区分；节点列表前几行也可能是套餐信息别名，不能直接按行数推算独立节点数。
 
 <a id="boostnet"></a>
 
@@ -164,10 +166,25 @@
 >
 > ⚠️ **购买前必看：** 禁止共享他人使用；**仅限中国大陆，新疆不可用，境外不可用**；禁 BT / P2P / PT；**不提供退款**。
 
+**📷 测速样本｜2026-07-03 12:04（CST）**
+
+图内标注广西移动 2Gbps，展示不同地区节点的延迟与下载速度，部分节点明显较慢。这是白天样本，不能用于推断晚高峰表现；点击图片可查看原图。
+
+<a href="https://img.petnooko.com/2026/07/fa2bf196c0881c0eca4d96518d1e4f33.webp"><img src="https://img.petnooko.com/2026/07/fa2bf196c0881c0eca4d96518d1e4f33.webp" alt="BoostNet 测速样本，2026-07-03，广西移动 2Gbps" width="520" /></a>
+
+<details>
+<summary>查看解锁记录｜2026-07-01</summary>
+
+图内标注佛山移动 500Mbps；Netflix、Disney+、TikTok 等列同时存在成功、失败或 N/A 结果，应逐节点看目标平台。图中旧客户端提示不代表当前规则，当前支持情况见本节客户端说明。
+
+<a href="https://img.petnooko.com/2026/07/6720b911653a171fe3b7d57777ae6f6d.webp"><img src="https://img.petnooko.com/2026/07/6720b911653a171fe3b7d57777ae6f6d.webp" alt="BoostNet 平台解锁探测记录，2026-07-01" width="900" /></a>
+
+</details>
+
 > 🔗 **查看套餐并注册：** [BoostNet](https://tw.boostqz.com/?path=register&code=kKMFirlm)
 > 💰 **价格口径：** 以上为 2026-04-28 套餐记录，以官网结算页最终显示为准
 
-📖 完整测速图、解锁实测与使用细节 → [BoostNet 机场测评](https://gptvpnhelper.com/boostnet/)
+📖 完整评测与使用细节 → [BoostNet 机场测评](https://gptvpnhelper.com/boostnet/)
 
 ---
 
@@ -182,7 +199,7 @@
 - **适合谁：** 团队办公、内容创作、把稳定性放在首位的用户，以及需要 Clash 等通用客户端的人
 - **不适合：** 只想要最低价、日常轻度使用的用户（看 [青云梯](#qingyunti) / [银河云](#yinheyun)）
 - **主要依据：** 支持 Clash 等通用客户端，有带日期的测速记录；品牌页 2026-08-01 资料记载已恢复季付。适合明确需要客户端灵活性并能接受季付实付门槛的人
-- **核心参数：** Trojan 主协议 + Shadowsocks（路由器兼容）｜当前监测 29 节点覆盖五大洲｜全节点 Full-Cone UDP｜按档 3 / 4 / 5 个在线 IP｜工单 + 邮件，响应时间以实际工单为准
+- **核心参数：** Trojan 主协议 + Shadowsocks（路由器兼容）｜当前监测 29 节点覆盖五大洲｜UDP 类型需逐节点核对（下方样本含 FullCone 与 Unknown）｜按档 3 / 4 / 5 个在线 IP｜工单 + 邮件，响应时间以实际工单为准
 - **客户端：** 支持 Clash 等通用客户端，导入格式和版本按官网说明确认
 - **怎么买：** 想控制预算从 **基础专线服务（记录价 ¥237/季，折合 ¥79/月）** 起步；AI 与远程协作更重看 **优质专线服务** ｜ 👉 [查看套餐并注册 WgetCloud（需外网环境）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh)
 
@@ -194,10 +211,25 @@
 
 > 📌 **注册入口需要外网环境**，没有可用连接时点击可能打不开。优质 / 精品档支持智能负载均衡。
 
+**📷 测速样本｜2026-08-10 09:35（CST）**
+
+图中香港、日本等地区有较快的样本，也有新加坡、日本等节点速度偏低的记录。测试环境未在图内完整注明，不能与其他品牌截图直接比较；点击图片可查看原图。
+
+<a href="https://img.petnooko.com/2026/08/9922aa40f9ea86da3ea2ba347f89e64c.webp"><img src="https://img.petnooko.com/2026/08/9922aa40f9ea86da3ea2ba347f89e64c.webp" alt="WgetCloud 节点测速样本，2026-08-10" width="720" /></a>
+
+<details>
+<summary>查看 AI 与流媒体探测记录｜2026-08-10</summary>
+
+同日探测结果因节点和平台不同而异，例如部分香港节点的 OpenAI 标为“仅 APP”、Claude 标为“失败”。这些标签属于当次探测结果，不等于账号登录、长会话或所有功能均已验证。
+
+<a href="https://img.petnooko.com/2026/08/9ccf39901853ffadb886561bcd3d3f69.webp"><img src="https://img.petnooko.com/2026/08/9ccf39901853ffadb886561bcd3d3f69.webp" alt="WgetCloud AI 与流媒体探测记录，2026-08-10" width="900" /></a>
+
+</details>
+
 > 🔗 **查看套餐并注册：** [WgetCloud（需外网环境）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh)
 > 💰 **价格口径：** 以上为品牌页 2026-08-01 季付资料，折合月价不代表支持月付。当前售卖周期与结算价尚待重新核对，下单前以官网为准。
 
-📖 2026-08-10 的 32 节点测速、各平台解锁比例与长测记录 → [WgetCloud 机场测评](https://gptvpnhelper.com/wgetcloud/)
+📖 完整评测与更多测试说明 → [WgetCloud 机场测评](https://gptvpnhelper.com/wgetcloud/)
 
 ---
 
@@ -229,10 +261,27 @@
 
 > **套餐说明：** 已有资料记载个人套餐线路权限一致，支持 UDP；实际速度与平台访问需按节点验证，不将相同线路权限理解为相同测速结果。
 
+**📷 测速样本｜2026-07-03 12:25（CST）**
+
+图内标注广西移动 2Gbps，能看到不同地区和倍率线路的速度差异。这是白天样本，不作为晚高峰视频结论；点击图片可查看原图。
+
+<a href="https://img.petnooko.com/2026/07/b78f6f7bad6cdb780b2c862f654f5be6.webp"><img src="https://img.petnooko.com/2026/07/b78f6f7bad6cdb780b2c862f654f5be6.webp" alt="悠兔测速样本，2026-07-03，广西移动 2Gbps" width="460" /></a>
+
+图中协议标为 AnyTLS，部分线路标有 2.5x 倍率，与上方既有 Shadowsocks / 2x 资料不同；当前协议和倍率需按实际订阅核对。
+
+<details>
+<summary>查看解锁记录｜2026-07-01</summary>
+
+图内标注佛山移动 500Mbps，展示 Netflix、Disney+、OpenAI 等平台的逐节点探测结果，包含失败和 N/A。图中旧客户端提示仅保留作历史记录，当前支持情况见本节说明。
+
+<a href="https://img.petnooko.com/2026/07/75d3ea2e7b8b399f069362706c978621.webp"><img src="https://img.petnooko.com/2026/07/75d3ea2e7b8b399f069362706c978621.webp" alt="悠兔平台解锁探测记录，2026-07-01" width="900" /></a>
+
+</details>
+
 > 🔗 **查看套餐并注册：** [悠兔（线路1）](https://tw.youtu1.com/?path=register&code=erkQTmbM) ｜ [备用（线路2）](https://tw.youtunice.com/?path=register&code=erkQTmbM)
 > 💰 **价格口径：** 以上为 2026-04-28 套餐记录，以官网结算页最终显示为准
 
-📖 2026-04-27 晚高峰 8K HDR 零丢帧实测、多区域测速与解锁图 → [悠兔机场测评](https://gptvpnhelper.com/youtu/)
+📖 更多图文与 2026-04-27 晚高峰视频记录（与上图为不同批次） → [悠兔机场测评](https://gptvpnhelper.com/youtu/)
 
 ---
 
@@ -257,6 +306,15 @@
 | 青云·VIP1 | 150GB | ¥25 | ¥67 | ¥240（≈¥20/月） |
 | 青云·VIP2 | 300GB | ¥45 | ¥121 | ¥432（≈¥36/月） |
 | 青云·VIP3 | 600GB | ¥85 | ¥229 | ¥916（≈¥76/月） |
+
+<details>
+<summary>查看历史测速与解锁样本｜2025-10-29</summary>
+
+**测试日期以图内时间为准：2025-10-29 16:16（CST）。** 图中同时列出速度及部分平台探测结果，含失败、未知和无速度记录。该样本较旧，仅供了解历史测试情况，不代表当前节点或解锁状态。
+
+<a href="https://img.petnooko.com/2026/06/e069f62470a4d54c91bedf415794123a.webp"><img src="https://img.petnooko.com/2026/06/e069f62470a4d54c91bedf415794123a.webp" alt="青云梯历史测速与平台探测记录，图内日期 2025-10-29" width="900" /></a>
+
+</details>
 
 > 🔗 **查看套餐并注册：** [青云梯（¥96/年，每月 60GB）](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)
 > 💰 **价格口径：** 以上为已有资料价格，以官网结算页最终显示为准
@@ -289,6 +347,15 @@ IPLC 全专线 · Trojan · 原生 / 高质量 IP · 2024 年成立
 | VIP4（巨量） | 1100GB | ¥160 / 月 | 重度使用；共享须核对条款 |
 | 定制套餐 | 独享 / 定制 | ¥680 / 月 | 专线独享，支持定向功能 |
 
+<details>
+<summary>查看历史测速与解锁样本｜2026-01-18</summary>
+
+图内时间为 2026-01-18 10:04（CST），标注陕西联通 1Gbps。速度与平台探测结果需分开看，例如部分 Netflix 结果为“未知”，部分 Disney+ 结果为“失败”。该图仅作历史样本，不代表近期晚高峰或当前解锁表现。
+
+<a href="https://img.petnooko.com/2026/01/5e4f9e11b7e226cc9d679b0e7fbbd882.webp"><img src="https://img.petnooko.com/2026/01/5e4f9e11b7e226cc9d679b0e7fbbd882.webp" alt="TNTCloud 历史测速与平台探测记录，2026-01-18" width="900" /></a>
+
+</details>
+
 > 🔗 **查看套餐并注册：** [TNTCloud](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)
 > 💰 **价格口径：** 以上为已有资料价格，以官网结算页最终显示为准
 
@@ -320,6 +387,17 @@ IPLC 全专线 · SS2022 · 东南亚节点丰富 · 2025 年运营
 | 重度版 | 1000GB | ¥119.9 | ¥323.9 | ¥1150.9 |
 
 **一次性流量包（不属于年付套餐）：** 既有资料列出不限时 500GB、首次 ¥340；500GB 为整包总流量，不是每月配额。有效期、重置和续费价格以结算页为准。
+
+<details>
+<summary>查看测速样本｜2026-07-22</summary>
+
+图内时间为 2026-07-22 11:47（CST），标注珠海联通 9Gbps、32 线程，不能与其他带宽环境的截图直接比较。图中既有较快记录，也有多条零速度记录；这是一张测速图，不包含平台解锁验证。
+
+图中协议标为 VLESS，与上方既有 SS2022 资料不同；当前协议需向官网核对，不能据此推断支持 Clash 等通用客户端。
+
+<a href="https://img.petnooko.com/2026/08/74dbedc4bd12fee92c761a47950d2e9d.webp"><img src="https://img.petnooko.com/2026/08/74dbedc4bd12fee92c761a47950d2e9d.webp" alt="唯兔云测速样本，2026-07-22，含零速度节点记录" width="900" /></a>
+
+</details>
 
 > 🔗 **查看套餐并注册：** [唯兔云](https://realvpn.v2yunvipaff.com/#/?code=5LVpl8Mh)
 > 💰 **价格口径：** 以上为已有资料价格，以官网结算页最终显示为准
@@ -363,6 +441,15 @@ IPLC 全专线 · SS2022 · 东南亚节点丰富 · 2025 年运营
 | 星系套餐 | ¥714 | ¥2352 | ¥3024 |
 
 另有一次性 1000GB 流量包，记录价 ¥680，原套餐名“永久不限时套餐”。1000GB 是整包总流量，不是月配额；“不限时”不代表服务永久存续，具体有效期和使用条件以条款为准。
+
+</details>
+
+<details>
+<summary>查看历史测速与解锁样本｜2026-01-18</summary>
+
+图内时间为 2026-01-18 10:16（CST），标注辽宁移动 1Gbps。各地区速度及解锁结果有差异，部分平台显示失败或未知。该图仅作历史参考，不代表当前节点列表或近期晚高峰表现。
+
+<a href="https://img.petnooko.com/2026/01/9890c60caa8e3fb3fd16659dd7983c88.webp"><img src="https://img.petnooko.com/2026/01/9890c60caa8e3fb3fd16659dd7983c88.webp" alt="银河云历史测速与平台探测记录，2026-01-18" width="900" /></a>
 
 </details>
 
