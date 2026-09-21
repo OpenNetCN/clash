@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月21日 12:04:13
+更新时间：2026年9月21日 15:03:13
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Seven Ethiopian rebel groups form new alliance](https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss)
-2. [CNN, MS NOW and Politico to file lawsuit against Trump's White House ban](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss)
-3. [Flight Delays Disrupt UK Airports Once Again](https://www.nytimes.com/2026/09/21/world/europe/uk-flights-airports-air-traffic-control.html)
-4. [World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'](https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting)
-5. [At 92, the Bard of Bollywood Is Still Writing About Love](https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html)
-6. [‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers](https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html)
-7. [Former UN Deputy Secretary General on the role of the UN in today's biggest conflicts](https://www.npr.org/2026/09/21/nx-s1-5974141/former-un-deputy-secretary-general-on-the-role-of-the-un-in-todays-biggest-conflicts)
-8. [Three arrested in South Africa over one of nine women's body finds](https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss)
-9. [U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.](https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html)
-10. [Challenges to Identity, Real and Imagined, Drive Europe’s Far Right](https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html)
+1. [Airlines criticise air traffic control as second glitch causes more disruption in UK](https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss)
+2. [At 92, the Bard of Bollywood Is Still Writing About Love](https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html)
+3. [One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms](https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html)
+4. [The Fuel That Feeds Europe’s Far Right: Nostalgia and Lost Pride](https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html)
+5. [CNN, MS NOW and Politico to file lawsuit against Trump's White House ban](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss)
+6. [Merz vows to keep coalition together for Germany's 'democratic future'](https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss)
+7. [Millions urged to evacuate as powerful Typhoon Dujuan hits Japan](https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss)
+8. [U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.](https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html)
+9. [Ex-Commander of China’s Military Accused of Corruption and Expelled From Party](https://www.nytimes.com/2026/09/21/world/asia/china-generals-expelled-corruption.html)
+10. [Xhaka under investigation over Covid-19 certificate](https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
