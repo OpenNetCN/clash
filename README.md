@@ -11,23 +11,27 @@
 > **资料日期：** 套餐核对日期见各品牌摘要，节点观测和测速截图另列日期。顶部更新时间表示文章修订时间，不代表所有价格与客户端政策都已在当天复核。
 
 <a id="quick-pick"></a>
+<a id="person"></a>
 
 ## 🔥 30 秒选机场（先看这个）
 
-先选一家验证自己的场景。下表列出四种常见需求，其余场景见 [个人推荐](#person)。价格为本文资料记录，付款前核对当前结算金额。
+先按主要用途锁定一家，再核对套餐和限制。下表按本文推荐顺序列出七家，各有侧重；已有主力时才按需补专项或备用。价格为本文资料记录，付款前核对当前结算金额。
 
 | 你的需求 | 先看哪家 | 套餐与实付参考 | 点击前确认 | 下一步 |
 | --- | --- | --- | --- | --- |
 | 综合日常主力：AI + 流媒体 + 办公 | **BoostNet** | 200GB/月，¥49/月 | 支持官方客户端及 Clash 等通用客户端；新疆及境外不可用；不退款 | [看限制](#boostnet) · [查看套餐并注册](https://tw.boostqz.com/?path=register&code=kKMFirlm) |
-| 需要 Clash 等通用客户端 / 高预算办公 | **WgetCloud** | 200GB/30天，记录价 ¥237/季（折合 ¥79/月） | 注册入口需外网；季付记录不代表可月付 | [看限制](#wgetcloud) · [查看套餐并注册（需外网）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
+| 高预算办公 / 重视连续使用 | **WgetCloud** | 200GB/30天，记录价 ¥237/季（折合 ¥79/月） | 注册入口需外网；季付记录不代表可月付 | [看限制](#wgetcloud) · [查看套餐并注册（需外网）](https://invite.wgetcloud.ltd/auth/register?code=kVJQPh) |
+| 长期主用 / 经常看视频 | **悠兔** | 先试 150GB/月 ¥39；主力 300GB/月 ¥59 | 支持官方客户端及 Clash 等通用客户端；新疆、港澳台及境外不可用 | [看限制](#youtu) · [查看套餐并注册](https://tw.youtu1.com/?path=register&code=erkQTmbM) |
 | 年付轻量 / 家庭多设备 | **青云梯** | 60GB/月，¥96/年（折合 ¥8/月） | 此档仅年付；只支持官方客户端，购买前确认设备支持 | [看限制](#qingyunti) · [查看套餐并注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
-| 补充专项出口 / IDE 登录场景 | **TNTCloud** | 试线路 110GB/月 ¥20；专项主用 220GB/月 ¥40 | 只支持官方客户端；出口需按目标平台验证 | [看限制](#tnt) · [查看套餐并注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
+| 已有主力，补专项出口 / IDE 登录 | **TNTCloud** | 试线路 110GB/月 ¥20；专项主用 220GB/月 ¥40 | 只支持官方客户端；先验证目标平台是否有改善 | [看限制](#tnt) · [查看套餐并注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
+| TikTok / 电商 / 目标地区业务 | **唯兔云** | 先试 100GB/月 ¥14.9；主力 200GB/月 ¥29.9 | 只支持官方客户端；先核对目标地区及业务功能 | [看限制](#weituyun) · [查看套餐并注册](https://realvpn.v2yunvipaff.com/#/?code=5LVpl8Mh) |
+| 第二家低流量备用 | **银河云** | 50GB/月，¥98/年 | 只支持官方客户端；此档仅年付，退款条件需确认 | [看限制](#yinheyun) · [查看套餐并注册](https://realvtest.galaxyvipaff01.cc/register?aff=tcOd0ob7) |
 
 <a id="client-tip"></a>
 
 > **先确认设备，再付款：** **WgetCloud、BoostNet、悠兔均支持 Clash 等通用客户端；BoostNet、悠兔也提供官方客户端。青云梯、银河云、唯兔云、TNTCloud 当前只支持官方客户端。** 具体支持的系统、通用客户端名称与版本，以及安装或导入方式，请按对应官网说明操作。
 
-🧭 [按场景选](#person) · [七家选购摘要](#top7) · [节点观测](#daily-check) · [新手上手](#study) · [购买前检查](#risk)
+🧭 [七家选购摘要](#top7) · [节点观测](#daily-check) · [新手上手](#study) · [购买前检查](#risk)
 
 <a id="web-entry"></a>
 
@@ -61,46 +65,26 @@
 
 推荐理由以对应场景、使用记录和购买限制为依据，便于按自己的需求核对。
 
+> **历史观察：** 在作者跟踪的 2026 年 4 月故障期间，BoostNet、悠兔和 WgetCloud 的恢复及客服联系情况相对较好。本页未附足以横向排名的完整恢复时长记录，这段观察不构成后续可用性或客服响应承诺。
+
 </details>
 
 ## 📚 目录
 
 1. [30 秒选机场](#quick-pick)
-2. [按需求直接选：个人推荐](#person)
-3. [每日节点可用性观测](#daily-check)
-4. [七家机场选购摘要](#top7)
-5. [七家套餐与限制对比](#top9-table)
-6. [新手上手：先确认设备，再注册连接](#study)
-7. [客户端配置与订阅（GitHub 专区）](#config)：[客户端下载](#clients) · [Mihomo 配置](#clash-config) · [订阅导入](#client-config) · [术语表](#glossary)
-8. [选购核对清单](#choose)
-9. [什么是机场](#ssssr)
-10. [购买建议与风险提醒](#risk)
-11. [免责声明](#免责声明)
-12. [机场与 VPN 对比](#vs)
-13. [FAQ](#faq)
-14. [常用海外资源](#listweb)
-15. [反馈与贡献](#contribute)
-
----
-
-<a id="person"></a>
-
-## ✨ 按需求直接选：我的个人推荐
-
-这里补充速选表未展开的场景。需要先确认客户端、地区和预算，推荐顺序不代表每一家都适合所有人。
-
-| 需求场景 | 优先选择 | 备选/补充 | 购买建议 |
-| --- | --- | --- | --- |
-| AI + 流媒体综合主力 | [BoostNet](#boostnet) | [WgetCloud](#wgetcloud) | BoostNet 默认看 200G/月；更看重老牌稳定性、需要 Clash 等通用客户端时可选 WgetCloud |
-| 稳定性优先 / 团队办公 | [WgetCloud](#wgetcloud) | [BoostNet](#boostnet) | 支持 Clash 等通用客户端；基础档记录价 ¥237/季，200GB/30天；团队需核对在线 IP 与共享条款 |
-| 长期主用 / 晚高峰视频 | [悠兔](#youtu) | [BoostNet](#boostnet) | 悠兔默认看 300G/月，想先试线路可从 150G/月开始 |
-| 年付省心 / 家庭多设备 / 老牌稳定长期用 | [青云梯](#qingyunti) | [银河云](#yinheyun) | 更适合想长期年付、省心使用和多设备一起用的用户 |
-| ChatGPT / Claude / Cursor / IDE 登录 | [BoostNet](#boostnet) | [TNTCloud](#tnt) | 先保证综合稳定，再按需补专项出口 |
-| TikTok / 跨境电商 / 多区域业务 | [唯兔云](#weituyun) | [TNTCloud](#tnt) | 先确认目标地区节点和账号场景，不要只看最低价 |
-| 预算优先 / 年付备用 | [银河云](#yinheyun) | [青云梯](#qingyunti) | 银河云作为第二家年付备用候选，并非最低价；只比预算与流量时也应比较青云梯和唯兔云轻量档 |
-
-
-> **历史观察：** 在作者跟踪的 2026 年 4 月故障期间，BoostNet、悠兔和 WgetCloud 的恢复及客服联系情况相对较好。本页未附足以横向排名的完整恢复时长记录，这段观察不构成后续可用性或客服响应承诺。
+2. [每日节点可用性观测](#daily-check)
+3. [七家机场选购摘要](#top7)
+4. [七家套餐与限制对比](#top9-table)
+5. [新手上手：先确认设备，再注册连接](#study)
+6. [客户端配置与订阅（GitHub 专区）](#config)：[客户端下载](#clients) · [Mihomo 配置](#clash-config) · [订阅导入](#client-config) · [术语表](#glossary)
+7. [选购核对清单](#choose)
+8. [什么是机场](#ssssr)
+9. [购买建议与风险提醒](#risk)
+10. [免责声明](#免责声明)
+11. [机场与 VPN 对比](#vs)
+12. [FAQ](#faq)
+13. [常用海外资源](#listweb)
+14. [反馈与贡献](#contribute)
 
 ---
 
