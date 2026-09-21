@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月21日 09:01:31
+更新时间：2026年9月21日 10:00:50
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
-2. [Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.](https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html)
-3. [Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon](https://www.nytimes.com/2026/09/21/world/middleeast/why-a-law-to-help-prisoners-became-a-new-sectarian-flashpoint-in-lebanon.html)
-4. [18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.](https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited)
-5. [How Russia's parliamentary election might affect the war in Ukraine](https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine)
-6. [Seven Ethiopian rebel groups form new alliance](https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss)
-7. [Sydney policeman allegedly disguised himself as Uber Eats rider before murders](https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss)
-8. [Presley Gerber, Cindy Crawford's son, dies aged 27](https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss)
-9. [Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'](https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss)
-10. [US and China discuss AI safety plan ahead of Trump-Xi summit](https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss)
+1. [Three arrested in South Africa over one of nine women's bodies found](https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss)
+2. [U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.](https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html)
+3. [Challenges to Identity, Real and Imagined, Drive Europe’s Far Right](https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html)
+4. [At 92, the Bard of Bollywood Is Still Writing About Love](https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html)
+5. [What to know as world leaders converge at the United Nations this week](https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly)
+6. [German chancellor stands his ground after his party loses in state elections](https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz)
+7. [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
+8. [Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.](https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html)
+9. [Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon](https://www.nytimes.com/2026/09/21/world/middleeast/why-a-law-to-help-prisoners-became-a-new-sectarian-flashpoint-in-lebanon.html)
+10. [18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.](https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited)
 <!-- daily-check end -->
