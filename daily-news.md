@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月23日 12:04:47
+更新时间：2026年9月23日 15:02:38
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Is Nepal's flood a harbinger of what's to come in the Himalayas?](https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower)
-2. [Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss)
-3. [Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'](https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice)
-4. [U.N. Live Updates: Iran’s President to Address World Leaders After Trump Threat](https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine)
-5. [U.S. ambassador to the U.N. discusses Trump's address at UNGA](https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga)
-6. [The Winner of This Rivalry Gets Ice Cream. But So Does the Loser.](https://www.nytimes.com/2026/09/23/world/middleeast/ice-cream-ramallah-baladna-rukab.html)
-7. [Youth Frustration and Migration Shadow Morocco’s Election](https://www.nytimes.com/2026/09/23/world/africa/morocco-election-youth-frustration.html)
-8. [At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label](https://www.nytimes.com/2026/09/23/world/asia/unga-japan-takaichi-enemy-state.html)
-9. [Why Germany’s Leader Merz Is Struggling to Sway Voters](https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html)
+1. [U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks in a Defiant Address](https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine)
+2. [Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss)
+3. [Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire](https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss)
+4. [Eleven killed in mass shooting at house in South Africa](https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss)
+5. [U.S. ambassador to the U.N. discusses progress on key issues](https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues)
+6. [Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing](https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss)
+7. [Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious](https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour)
+8. [Dramatic eviction of woman aged 87 highlights Spain's housing shortage](https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss)
+9. [Dolly Parton's manager accuses her nephew of 'threats and intimidation'](https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss)
 10. [Trump’s New Favorite Neighbor: Mexico](https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html)
 <!-- daily-check end -->
