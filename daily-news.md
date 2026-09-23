@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月23日 05:00:45
+更新时间：2026年9月23日 08:02:20
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions](https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news)
-2. [Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss)
-3. [US to build two military bases in Greenland under new deal with Denmark](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss)
-4. [The United Nations General Assembly is meeting. Is it accomplishing anything?](https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything)
-5. [How Ceuta, football and Israel are shaping Morocco's election](https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss)
-6. [Ethiopian Rebel Groups Join Forces Against the Government](https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html)
-7. [Sri Lanka court convicts 15 men over deadly Easter Sunday bombings](https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss)
-8. [Trump Praises Burnham as ‘Natural Business Person’ After First Meeting](https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html)
-9. [Sri Lanka Convicts 15 in Easter 2019 Bomb Attacks](https://www.nytimes.com/2026/09/22/world/asia/sri-lanka-convictions-easter-2019-bomb-attacks.html)
-10. [Ukraine anger as EU removes Russian oligarchs from sanctions list](https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss)
+2. [Eleven killed in mass shooting at house in South Africa](https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss)
+3. [Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing](https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss)
+4. [US and Iran hold first talks since June after Trump's 'annihilation' threat](https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss)
+5. [US to build two military bases in Greenland under new deal with Denmark](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss)
+6. [The United Nations General Assembly is meeting. Is it accomplishing anything?](https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything)
+7. [How Ceuta, football and Israel are shaping Morocco's election](https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss)
+8. [Ethiopian Rebel Groups Join Forces Against the Government](https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html)
+9. [Sri Lanka court convicts 15 men over deadly Easter Sunday bombings](https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss)
+10. [Trump Praises Burnham as ‘Natural Business Person’ After First Meeting](https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html)
 <!-- daily-check end -->
