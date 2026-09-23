@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月23日 01:04:42
+更新时间：2026年9月23日 02:04:44
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions](https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news)
-2. [Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss)
+1. [Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss)
+2. [U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions](https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news)
 3. [US to build two military bases in Greenland under new deal with Denmark](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss)
 4. [The United Nations General Assembly is meeting. Is it accomplishing anything?](https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything)
 5. [How Ceuta, football and Israel are shaping Morocco's election](https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss)
