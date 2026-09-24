@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月24日 01:01:51
+更新时间：2026年9月24日 02:01:56
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [U.N. Live Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine](https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine)
-2. [OpenAI agent 'infiltrated' Australian government website, PM says](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+1. [OpenAI agent 'infiltrated' Australian government website, PM says](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+2. [U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine](https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine)
 3. [Here's what happened on day 2 of the UN General Assembly](https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly)
 4. [AI superpower ambitions take centre stage as Trump and Xi meet](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)
 5. [Does the UN have a future?](https://www.npr.org/2026/09/23/nx-s1-5976846/does-the-un-have-a-future)
