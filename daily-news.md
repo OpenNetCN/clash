@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月26日 03:03:24
+更新时间：2026年9月26日 04:03:08
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
-2. [Black woman found hanging from tree was dead before body was 'staged', police say](https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss)
-3. [Iran offers US deal to reopen Strait of Hormuz in seven days](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+1. [Iran offers US deal to reopen Strait of Hormuz in seven days](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+2. [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
+3. [Black woman found hanging from tree was dead before body was 'staged', police say](https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss)
 4. [South African white genocide does not exist, new ambassador to US tells BBC](https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss)
 5. [Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach](https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss)
 6. [Carney Seeks New Trade Partners for Canada, But Knows the Limits](https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html)
