@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月26日 10:04:51
+更新时间：2026年9月26日 11:04:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [One dead and five missing after explosion destroys building close to Acropolis in Athens](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
+1. [At least two dead after explosion destroys building close to Acropolis in Athens](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
 2. [At Least 2 Dead After Explosion in Athens Tourist District](https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html)
 3. [Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.](https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html)
 4. [Bangkok roads submerged as flood disaster declared](https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss)
