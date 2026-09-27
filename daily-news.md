@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月27日 05:03:06
+更新时间：2026年9月27日 09:04:04
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Bangkok roads submerged as flood disaster declared](https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss)
-2. [Nor'easter brings flooding as New York and New Jersey declare emergency](https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss)
-3. [The Surprising Reasons China Is Skeptical of A.I. Safety Calls](https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html)
-4. [Recreational Aerial Craft Become Weapons in Myanmar’s War](https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html)
-5. [The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.](https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html)
-6. [A Tetris-Like Maze Blocks Protests in Pakistan’s Capital](https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html)
-7. [Russian Foreign Minister Vows Russia Will See Ukraine War Through](https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html)
-8. [Trump rejects Iran deal to reopen Strait of Hormuz in seven days](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
-9. [At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia](https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html)
-10. [Trump gave Xi Jinping a warm welcome. What did the talks accomplish?](https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish)
+1. [Two mass shootings in South Africa leave 27 dead](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss)
+2. [Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal](https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss)
+3. [Nor'easter brings flooding as New York and New Jersey declare emergency](https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss)
+4. [The Surprising Reasons China Is Skeptical of A.I. Safety Calls](https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html)
+5. [Recreational Aerial Craft Become Weapons in Myanmar’s War](https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html)
+6. [The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.](https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html)
+7. [Four killed in helicopter crash near Montreal](https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss)
+8. [A Tetris-Like Maze Blocks Protests in Pakistan’s Capital](https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html)
+9. [Russian Foreign Minister Vows Russia Will See Ukraine War Through](https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html)
+10. [Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too](https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
