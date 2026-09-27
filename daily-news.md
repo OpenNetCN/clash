@@ -5,7 +5,7 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月27日 14:05:04
+更新时间：2026年9月27日 15:01:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -18,5 +18,5 @@
 7. [Playing 'La Bamba' for an hour? Must be a Mexican fandango!](https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango)
 8. [Photos: These shepherds climb down a mountain to go to night school](https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho)
 9. ['Scourge' of abuse must be rooted out, says Pope, during Lourdes visit](https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss)
-10. [27 killed in mass shootings in South Africa overnight](https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html)
+10. [At Least 27 Killed in 2 Overnight Mass Shootings in South Africa](https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html)
 <!-- daily-check end -->
