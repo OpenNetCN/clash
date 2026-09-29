@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月29日 02:02:54
+更新时间：2026年9月29日 03:03:54
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
-2. [Tennessee governor rejects clemency bid for Christa Pike as execution looms](https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss)
+1. [Tennessee governor declines to halt execution of state's lone woman on death row](https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss)
+2. [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
 3. [British men released on bail after suspected terror plot](https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot)
 4. [French PM warns against escalation of school protests after 164 arrested](https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss)
 5. [New York Times executive fatally shot allegedly by elderly in-laws](https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss)
