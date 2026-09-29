@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月29日 12:02:14
+更新时间：2026年9月29日 14:03:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [The Rescuers Keeping Two Ukrainian ‘Fortress Cities’ Alive](https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html)
-2. [Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened](https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects)
-3. [Evicted Spanish pensioner can move back home, lawyer says](https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss)
-4. [Evicted Woman Set to Return Home as Spain Plans Fixes to Housing Crisis](https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html)
-5. [Hurricane Polo makes landfall on Mexico's Pacific coast](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss)
-6. [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
-7. [As A.I. Panic Grows, Javier Milei Is Pitching Argentina As a Rules-Free Haven](https://www.nytimes.com/2026/09/29/world/americas/argentina-ai-rules-milei.html)
-8. [AMLO Son Poses Political Problems for Mexico’s President Sheinbaum](https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html)
-9. [Bomb by Bomb, the Slow Death of My Hometown in Ukraine](https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html)
-10. [As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in](https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence)
+1. [Israeli Settler Attack in West Bank Blocks Palestinian Family From Returning Home](https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html)
+2. [Spain announces new housing measures after protests over 87-year-old woman's eviction](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)
+3. [Estonia blames Russia for arson at defence company supplying Ukraine](https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss)
+4. [Bodies ‘Like Pieces of Charcoal’: Dozens Killed in Myanmar Military Bombing](https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html)
+5. ['I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail](https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss)
+6. [Israeli settlers attack West Bank village and block Palestinian family's return home](https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss)
+7. [French hard-right leader accuses opponents of 'total war' after claims of antisemitism](https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss)
+8. [The Migrants Being Shipped Back to a War Zone](https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html)
+9. [Accusations of Antisemitism Hit a Star of the French Far Right](https://www.nytimes.com/2026/09/29/world/europe/bardella-antisemitism-denial-france.html)
+10. [A Turkish Doughnut Maker Whose Sweets Honor the Dead](https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html)
 <!-- daily-check end -->
