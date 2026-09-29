@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月29日 09:03:56
+更新时间：2026年9月29日 11:01:49
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in](https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence)
-2. [Evicted Spanish pensioner can move back home, lawyer says](https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss)
-3. [Bodies ‘Like Pieces of Charcoal’: Dozens Killed in Myanmar Military Bombing](https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html)
-4. [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
-5. [Hurricane Polo makes landfall on Mexico's Pacific coast](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss)
-6. [Malaysia begins controversial repatriation of asylum seekers to Myanmar](https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss)
-7. [OpenAI Apologizes for Australia Medicare Hack](https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html)
-8. [US ban on Canadian alcohol and dairy comes into effect as trade war drags on](https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss)
-9. [New York Times executive fatally shot by elderly in-laws, police say](https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss)
-10. [Prime Minister Andy Burnham’s Labour Conference Speech Will Aim to Reset UK Mood](https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html)
+1. [Evicted Spanish pensioner can move back home, lawyer says](https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss)
+2. [Evicted Woman Set to Return Home as Spain Plans Fixes to Housing Crisis](https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html)
+3. [Hurricane Polo makes landfall on Mexico's Pacific coast](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss)
+4. [The Rescuers Keeping Two Ukrainian ‘Fortress Cities’ Alive](https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html)
+5. [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
+6. [As A.I. Panic Grows, Javier Milei Is Pitching Argentina As a Rules-Free Haven](https://www.nytimes.com/2026/09/29/world/americas/argentina-ai-rules-milei.html)
+7. [AMLO Son Poses Political Problems for Mexico’s President Sheinbaum](https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html)
+8. [Bomb by Bomb, the Slow Death of My Hometown in Ukraine](https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html)
+9. [As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in](https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence)
+10. [Bodies ‘Like Pieces of Charcoal’: Dozens Killed in Myanmar Military Bombing](https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html)
 <!-- daily-check end -->
