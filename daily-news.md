@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年9月29日 14:03:58
+更新时间：2026年9月30日 01:00:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israeli Settler Attack in West Bank Blocks Palestinian Family From Returning Home](https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html)
-2. [Spain announces new housing measures after protests over 87-year-old woman's eviction](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)
-3. [Estonia blames Russia for arson at defence company supplying Ukraine](https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss)
-4. [Bodies ‘Like Pieces of Charcoal’: Dozens Killed in Myanmar Military Bombing](https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html)
-5. ['I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail](https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss)
-6. [Israeli settlers attack West Bank village and block Palestinian family's return home](https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss)
-7. [French hard-right leader accuses opponents of 'total war' after claims of antisemitism](https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss)
-8. [The Migrants Being Shipped Back to a War Zone](https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html)
-9. [Accusations of Antisemitism Hit a Star of the French Far Right](https://www.nytimes.com/2026/09/29/world/europe/bardella-antisemitism-denial-france.html)
-10. [A Turkish Doughnut Maker Whose Sweets Honor the Dead](https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html)
+1. [Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home](https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html)
+2. [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss)
+3. [South Africa to clean up high-risk areas after 12 women killed](https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss)
+4. [Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries](https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss)
+5. [More than 400 detained as France student protests escalate](https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss)
+6. [Why the U.S. Is Imposing New Visa Restrictions on South Africa](https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html)
+7. [Tankers Are Loading Oil Again From a Vital Saudi Pipeline](https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html)
+8. [Dozens Killed in Myanmar Military Bombing](https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html)
+9. [Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit](https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi)
+10. [First female prime minister named in Morocco after winning elections](https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
