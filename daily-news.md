@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月1日 08:01:59
+更新时间：2026年10月1日 09:01:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash](https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss)
-2. [Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says](https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss)
+1. [Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says](https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss)
+2. [Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash](https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss)
 3. [US death row inmate survives execution attempt after two lethal injections](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
 4. [Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners](https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html)
 5. [Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?](https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html)
