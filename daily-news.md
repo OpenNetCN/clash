@@ -5,13 +5,13 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月2日 06:02:35
+更新时间：2026年10月2日 07:04:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates](https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss)
-2. [Investigators Seek to Establish Motive in FlyDubai Attack](https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots)
-3. [US pressures Europe over diesel reserves as Trump threatens export ban](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
+1. [US pressures Europe to release diesel reserves as Trump threatens export ban](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
+2. [Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates](https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss)
+3. [Investigators Seek to Establish Motive in FlyDubai Attack](https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots)
 4. [Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz](https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html)
 5. [A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe](https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html)
 6. [China’s Push into A.I. Has Led to a Problem: Too Much Usage](https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html)
