@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月2日 13:03:21
+更新时间：2026年10月3日 01:04:58
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Police in India Detain Hundreds Rallying Against ‘Vote Theft’](https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html)
-2. [Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack](https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html)
-3. [Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack](https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html)
-4. [Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine](https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html)
-5. [Cornell rape case gets special prosecutor. And, Renee Good's family sues the government](https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good)
-6. [Christa Pike in critical condition after surviving two lethal injections, lawyer says](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
-7. [Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates](https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss)
-8. ['Ashamed': Cornell students gather to voice anger over alleged gang rape](https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss)
-9. [China’s Push into A.I. Has Led to a Problem: Too Much Usage](https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html)
-10. ['I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)
+1. [How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight](https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html)
+2. [Cornell frat house rape accuser 'under siege' online, says lawyer](https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss)
+3. [Women given shorts at Oktoberfest to prevent upskirting](https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss)
+4. [US road rage killer's sentence quashed because AI video of victim was shown in court](https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss)
+5. [Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage](https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html)
+6. [Riot police clash with students as education protests rage in France](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss)
+7. [How Brazil's two leading presidential candidates are talking about crime](https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime)
+8. [Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas](https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html)
+9. [US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss)
+10. [Coast Guard Says It Stopped Ships Carrying Fuel to Cuba](https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html)
 <!-- daily-check end -->
