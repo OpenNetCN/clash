@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月3日 07:00:28
+更新时间：2026年10月3日 11:02:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Russia strikes second major bridge in Kyiv, mayor says](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
-2. [G7 to release millions of barrels of oil and diesel after Trump threat](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
-3. [Brazil's big political rematch: What to know](https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy)
-4. [Cornell frat house rape accuser 'under siege' online, says lawyer](https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss)
-5. [How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight](https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html)
-6. [Women given shorts at Oktoberfest to prevent upskirting](https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss)
-7. [US road rage killer's sentence quashed because AI video of victim was shown in court](https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss)
-8. [Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage](https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html)
-9. [Riot police clash with students as education protests rage in France](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss)
-10. [How Brazil's two leading presidential candidates are talking about crime](https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime)
+1. [UK-Iranian dual national bailed after RAF Fairford incident arrest](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss)
+2. [Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says](https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html)
+3. [Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
+4. [Russia strikes second major bridge in Kyiv, mayor says](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
+5. [FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says](https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html)
+6. [Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.](https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html)
+7. [American High School Students Are Selling Guns Bound for Cartels](https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html)
+8. [Kim wins Asian Games gold to secure military exemption](https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss)
+9. [G7 to release millions of barrels of oil and diesel after Trump threat](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
+10. [Brazil's big political rematch: What to know](https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy)
 <!-- daily-check end -->
