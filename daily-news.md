@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月3日 15:00:43
+更新时间：2026年10月4日 02:01:40
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight](https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html)
-2. [FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says](https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html)
-3. [American High School Students Are Selling Guns Bound for Cartels](https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html)
-4. [Flydubai co-pilot attacked captain with axe, UAE official says](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
-5. [Why has Brazil accused the US of election interference?](https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss)
-6. [Protesters across Spain demand action over housing crisis](https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss)
-7. [Russia hits second major bridge in Ukraine's capital Kyiv](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
-8. [Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views](https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html)
-9. [Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline](https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html)
-10. [Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says](https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html)
+1. [Cornell president says university 'must do better' after frat house rape allegations](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss)
+2. [For some Brazilians, this election is a vote on Trump](https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump)
+3. [France arrests 5,000 people, mostly teens, as school protests spread](https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread)
+4. [U.S. withdrawal from Iraq is complete](https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete)
+5. [Lula or Bolsonaro? Some Brazilian voters say they don't want either](https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either)
+6. [Medical plane with 6 on board missing off Massachusetts coast](https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss)
+7. [Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline](https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html)
+8. [American High School Students Are Selling Guns Bound for Cartels](https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html)
+9. [Tennessee prison chief to resign after Christa Pike's failed execution](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
+10. [Russia hits second major bridge in Ukraine's capital Kyiv](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
