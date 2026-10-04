@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月4日 09:00:27
+更新时间：2026年10月4日 10:05:02
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Kyiv bridge hit in further drone attack as German chancellor makes surprise visit](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss)
+1. [Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss)
 2. [Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa](https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html)
 3. [Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views](https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html)
 4. [Australia investigating Flydubai co-pilot's links to country](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
