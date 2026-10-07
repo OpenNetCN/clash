@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月7日 12:04:13
+更新时间：2026年10月7日 13:03:36
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Chemistry Nobel awarded for solving mystery of life's asymmetry](https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss)
-2. [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)
-3. [Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss)
-4. [Zelensky condemns 'vile' large-scale Russian attacks that killed 15](https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss)
-5. [U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7](https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day)
-6. [Investigation continues into whether U.K. air base incident is linked to Iran](https://www.npr.org/2026/10/07/nx-s1-5992704/investigation-continues-into-whether-u-k-air-base-incident-is-linked-to-iran)
-7. [US death row inmate Christa Pike awake and speaking after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
-8. [Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry](https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry)
-9. [Student Protests Expand to More Than 40 French Cities](https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools)
-10. [Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations](https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss)
+1. [Zelensky condemns 'vile' large-scale Russian attacks that killed 20](https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss)
+2. [Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss)
+3. [Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow](https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss)
+4. [The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?](https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html)
+5. [Case of U.S. Marine Accused of Murder in Japan Draws Outcry](https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html)
+6. [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)
+7. [Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push](https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html)
+8. [How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing](https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html)
+9. [Chemistry Nobel awarded for solving mystery of life's asymmetry](https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss)
+10. [U.S. Formally Seeks Information From Russia About Possible Plague Death](https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html)
 <!-- daily-check end -->
