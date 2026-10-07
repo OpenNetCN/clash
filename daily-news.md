@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月7日 09:01:03
+更新时间：2026年10月7日 11:03:51
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Thousands protest in France to support students calling for more resources in schools](https://www.npr.org/2026/10/07/nx-s1-5992967/thousands-protest-in-france-to-support-students-calling-for-more-resources-in-schools)
-2. [American teacher based in France discusses the student-led protests](https://www.npr.org/2026/10/07/nx-s1-5992754/american-teacher-based-in-france-discusses-the-student-led-protests)
-3. [Former German spy chief to face charges of espionage and attempted treason](https://www.npr.org/2026/10/07/nx-s1-5992954/former-german-spy-chief-to-face-charges-of-espionage-and-attempted-treason)
-4. [3 years after Hamas attack, Israel remembers those killed](https://www.npr.org/2026/10/07/nx-s1-5989537/3-years-after-hamas-attack-israel-remembers-those-killed)
-5. [Israeli journalist on how Netanyahu's future has changed since the Oct. 7 attacks](https://www.npr.org/2026/10/07/nx-s1-5992751/israeli-journalist-on-how-netanyahus-future-has-changed-since-the-oct-7-attacks)
-6. [Student Protests Expand to More Than 40 French Cities](https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools)
-7. [India's opposition leader dragged onto bus as police break up protest](https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss)
-8. [US death row inmate Christa Pike awake and speaking after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
-9. [Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked](https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war)
-10. [Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
+1. [U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7](https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day)
+2. [Investigation continues into whether U.K. air base incident is linked to Iran](https://www.npr.org/2026/10/07/nx-s1-5992704/investigation-continues-into-whether-u-k-air-base-incident-is-linked-to-iran)
+3. [Chemistry Nobel awarded for solving mystery of life's asymmetry](https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss)
+4. [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)
+5. [US death row inmate Christa Pike awake and speaking after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
+6. [Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry](https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry)
+7. [Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss)
+8. [Student Protests Expand to More Than 40 French Cities](https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools)
+9. [Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations](https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss)
+10. [Japan beer giants raided over alleged price-fixing cartel](https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
