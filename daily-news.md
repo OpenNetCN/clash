@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月8日 12:02:15
+更新时间：2026年10月8日 14:01:04
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem](https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html)
-2. [Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved](https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico)
-3. [Here’s the latest.](https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students)
-4. [Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv](https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war)
-5. [Italy Weighs Controversial Law Giving Bonus Seats to Election Winners](https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html)
-6. [Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge](https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss)
-7. [Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says](https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss)
-8. [South Korea recalls Ukraine envoy over prisoner-of-war row](https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss)
-9. [Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.](https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html)
-10. [‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine](https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html)
+1. [Live Updates: Students Rally in France for Second Day of Mass Protests in a Week](https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools)
+2. [Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll](https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html)
+3. [Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far](https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html)
+4. [South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs](https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html)
+5. [China Expands Its Military Reach by Building a Base in Laos](https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html)
+6. [Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge](https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss)
+7. [Italy overhauls electoral system after fiercely contested debate](https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss)
+8. [South Korea to recall its ambassador to Ukraine over North Korean POW dispute](https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute)
+9. [Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says](https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss)
+10. [Teacher who sexually abused pupil back in Indonesia jail after BBC investigation](https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
