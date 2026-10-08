@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月7日 15:03:20
+更新时间：2026年10月8日 02:02:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Zelensky condemns 'vile' large-scale Russian attacks that killed 24](https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss)
-2. [Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss)
-3. [The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?](https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html)
-4. [Rubio Stresses Need for U.S. Security Work With Greece on Migration and Terrorism](https://www.nytimes.com/2026/10/07/us/politics/rubio-greece-defense-immigration.html)
-5. [Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai](https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square)
-6. [DIY fertilizer is a blessing as farmers face steep prices due to the Iran war](https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war)
-7. [For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge](https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html)
-8. [Case of U.S. Marine Accused of Murder in Japan Draws Outcry](https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html)
-9. [The School Near Paris That Shows Why French Students Are Protesting](https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html)
-10. [Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow](https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss)
+1. [For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge](https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html)
+2. [Spanish pensioner whose eviction sparked nationwide protests dies, union says](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss)
+3. [‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87](https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html)
+4. [What is the pneumonic plague?](https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death)
+5. [Israelis mourn 7 October attack victims three years after deadly Hamas raid](https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss)
+6. [Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push](https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html)
+7. [Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill](https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html)
+8. [Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance](https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html)
+9. [Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges](https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html)
+10. [Canada suspends plans to expand assisted dying to people with mental illness](https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
