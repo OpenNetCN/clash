@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月8日 08:00:31
+更新时间：2026年10月8日 10:01:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem](https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html)
-2. [UK says 'vital services' to continue in East Jerusalem as Israel says most consulate diplomats leaving](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss)
-3. [Spanish pensioner whose eviction sparked nationwide protests dies](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss)
-4. [India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.](https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html)
-5. [‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87](https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html)
-6. [Maricarmen, the 87-year-old woman whose eviction shook Spain, has died](https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies)
-7. [Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90](https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss)
-8. [US and Lebanon protecting wanted Syrian general, BBC finds](https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss)
-9. [Italy Weighs Controversial Law Giving Bonus Seats to Election Winners](https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html)
-10. [For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat](https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html)
+1. [Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.](https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html)
+2. [‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine](https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html)
+3. [How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel](https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html)
+4. [Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find](https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice)
+5. [France Braces for a Second Day of Mass Protests in a Week](https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html)
+6. [Former ambassador on NATO's meeting in Ukraine and the ongoing war](https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war)
+7. [Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss)
+8. [Christa Pike now walking after failed US execution, lawyer tells BBC](https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss)
+9. [Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem](https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html)
+10. [Spanish pensioner whose eviction sparked nationwide protests dies](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
