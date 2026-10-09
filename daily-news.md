@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月9日 01:02:17
+更新时间：2026年10月9日 02:00:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [The long-deployed USS Lincoln returns home to San Diego Bay](https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay)
-2. [Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
+1. [Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
+2. [The long-deployed USS Lincoln returns home to San Diego Bay](https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay)
 3. [Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC](https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss)
 4. [Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll](https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html)
 5. [How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel](https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html)
