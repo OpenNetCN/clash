@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月9日 08:03:58
+更新时间：2026年10月9日 10:04:38
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Firing squad execution to be livestreamed, Pentagon says](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
-2. [Labour Holds Off Green Party in Election for Starmer’s Former London Seat](https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html)
-3. [Russian strikes and approaching winter force many in Kyiv to pack bags and flee](https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss)
-4. [Cars torched and shops looted as anti-migrant violence erupts in South Africa](https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss)
-5. [ICE agent shoots man in New York City](https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss)
-6. [A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate](https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html)
-7. [Adidas sues Australian label White Fox over four stripes design](https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss)
-8. [The long-deployed USS Lincoln returns home to San Diego Bay](https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay)
-9. [Suspect linked to Monaco bomb attack on millionaire speaks to BBC](https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss)
-10. [How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel](https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html)
+1. [Live Updates: Human Rights Lawyer Navi Pillay Wins Nobel Peace Prize](https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026)
+2. [Fort Hood survivor supports gunman's execution by firing squad but questions livestream](https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss)
+3. [Fired OpenAI researchers say they were let go for 'prioritising safety'](https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss)
+4. [Firing squad execution to be livestreamed, Pentagon says](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
+5. [Labour Holds Off Green Party in Election for Starmer’s Former London Seat](https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html)
+6. [France’s Long, Fervent History of Protest](https://www.nytimes.com/2026/10/09/world/europe/frances-long-fervent-history-of-protest.html)
+7. [In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark](https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html)
+8. [India’s Young Put Their Bodies on the Line to Be Heard](https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html)
+9. [As Putin Wages Shadow War, Europe Looks for a Way to Hit Back](https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html)
+10. [Cars torched and shops looted as anti-migrant violence erupts in South Africa](https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
