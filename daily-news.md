@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月10日 15:04:04
+更新时间：2026年10月11日 01:03:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Woman injures three people in third Poland school knife attack in a week](https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss)
-2. [Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says](https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss)
-3. [Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
-4. [Russian glide bomb attack on Zaporizhzhia kills at least 15 people](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
-5. [Inside Erik Prince’s Mercenary Deal in Congo](https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html)
-6. ['Cockroach' group leaders among hundreds detained in Delhi protest](https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss)
-7. [Headmaster detained after BBC investigation into alleged sexual abuse of students](https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss)
-8. [U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows](https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows)
-9. [What to Know About the Delhi Protests](https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html)
-10. [A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher](https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html)
+1. [Twelve killed in attack on airport in Saudi capital Riyadh](https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss)
+2. [Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say](https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say)
+3. [Four dead and thousands without power after Hurricane Isaias lashes US](https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss)
+4. [Young men live in fear of being snatched off the streets and sold to Myanmar's army](https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss)
+5. [Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment](https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment)
+6. [Trump weighs joining the fight against Houthis after Riyadh airport attack](https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack)
+7. [Protests against voter roll revisions rock capital of world's largest democracy](https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy)
+8. [Russian glide bomb attack on Zaporizhzhia kills at least 20 people](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
+9. ['Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
+10. [Expedition hopes to find aviator Amelia Earhart's plane on remote island](https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
