@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月11日 08:01:07
+更新时间：2026年10月11日 09:02:24
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Delhi braces for more protests as 'cockroach' group's leaders released](https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss)
+1. [Delhi sees more protests as 'cockroach' group's leaders released](https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss)
 2. [What to Know About the Protests in India](https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html)
 3. [US justice department investigates TV networks over Trump pool coverage](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
 4. ['Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
