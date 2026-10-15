@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月15日 10:03:23
+更新时间：2026年10月15日 13:03:21
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html)
-2. [Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training](https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training)
-3. [While Leo Recovers From Lung Surgery, the Church Runs on Autopilot](https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html)
-4. [Why Does Saudi Arabia Struggle to Stop Houthi Attacks?](https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html)
-5. [Meet Neha Bora, Activist and Face of India’s Young Protesters](https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html)
-6. [Home of London’s Oldest Restaurant, Rules, Is Given to National Trust](https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html)
-7. [The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones](https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html)
-8. [North Korea and China Open Their Biggest Border Bridge](https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html)
-9. [Ukraine says its Starshield access is back](https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back)
-10. [Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted](https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted)
+1. [While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot](https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html)
+2. [32 Children Killed After School Roof Collapses in Pakistan](https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html)
+3. [At least 33 pupils and teacher killed after school roof collapses in Pakistan](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)
+4. [Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
+5. [Home of London’s Oldest Restaurant, Rules, Is Given to National Trust](https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html)
+6. [Meet Neha Bora, Activist and Face of India’s Young Protesters](https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html)
+7. [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html)
+8. [Why Does Saudi Arabia Struggle to Stop Houthi Attacks?](https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html)
+9. [Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric](https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia)
+10. [Eight crew missing after drone attack leaves tanker ablaze off Romania's coast](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
