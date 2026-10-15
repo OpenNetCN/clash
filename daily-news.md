@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月15日 01:02:13
+更新时间：2026年10月15日 03:02:29
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html)
-2. [Mexico Bans Violent Content on Social Media for Children](https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html)
+1. [Mexico Bans Violent Content on Social Media for Children](https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html)
+2. [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html)
 3. [Australia's first-ever Michelin stars go to 11 restaurants in one state](https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss)
 4. [Musk says US government may be behind slowdown of Ukraine drone speeds](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)
 5. [Student protesters attack government buildings in Albania](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss)
