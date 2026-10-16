@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月16日 04:01:02
+更新时间：2026年10月16日 05:02:40
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Three children and teacher killed by 16-year-old at Oregon primary school](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
+1. [Three children and teacher killed in US primary school shooting](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
 2. [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html)
 3. ['It's really hard to believe' - How Oregon primary school shooting unfolded](https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss)
 4. [Houthi Missiles Strike Government Headquarters in Yemen](https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html)
