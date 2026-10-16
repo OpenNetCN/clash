@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月15日 15:04:22
+更新时间：2026年10月16日 01:03:26
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter](https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html)
-2. [Trump calls off livestream for Fort Hood shooter's execution by firing squad](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
-3. [Seven crew missing after drone attack leaves tanker ablaze off Romania's coast](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss)
-4. [Why Does Saudi Arabia Struggle to Stop Houthi Attacks?](https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html)
-5. [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html)
-6. [32 Children Killed After School Roof Collapses in Pakistan](https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html)
-7. [While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot](https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html)
-8. [At least 33 pupils and teacher killed after school roof collapses in Pakistan](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)
-9. [Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
+1. [Houthi Missiles Strike Government Headquarters in Yemen](https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html)
+2. [Houthi missile attack on Yemeni presidential palace kills five, minister says](https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss)
+3. [Tip-off foiled US teen suspect's plot to attack Hindu temple, police say](https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss)
+4. [Bus hits train stopped on French side of Channel Tunnel, with 19 injured](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
+5. [Violent Protests in Albania](https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html)
+6. [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html)
+7. [Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism](https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html)
+8. [Trump calls off livestream of Fort Hood attacker's execution by firing squad](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
+9. [Second Ebola Infection Announced in Kenya](https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html)
 10. [Meet Neha Bora, Activist and Face of India’s Young Protesters](https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html)
 <!-- daily-check end -->
