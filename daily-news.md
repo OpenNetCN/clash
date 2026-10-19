@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月19日 01:02:28
+更新时间：2026年10月19日 08:00:07
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Inside the shadowy world of anti-Putin sabotage from within Russia](https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss)
-2. [Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens](https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html)
-3. [EU tariffs aimed at China hitting Ukraine, steel boss says](https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss)
-4. [Trump says suspension of Russia sanctions is to keep peace negotiations going](https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss)
-5. [Major fire at Canada military base leaves four dead, dozens injured](https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss)
-6. [France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops](https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html)
-7. ['Very upsetting': Residents in shock after historic French town hall set alight](https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss)
-8. [Inside Chicago's battle against the synthetic drugs flooding the US](https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss)
-9. [Political rivals implicated under Pakistan's anti-terror law](https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law)
-10. ['Life is absolutely brutal in Gaza,' says World Food Programme head](https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head)
+1. [France's government under pressure after weekend of widespread violence](https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss)
+2. [Bollywood actor Tiger Shroff survives shooting attempt in Mumbai](https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss)
+3. [Bomb threat forces Israel to Austria flight into emergency landing](https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss)
+4. [Funding shortages force World Food Programme to cut aid to Gaza](https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss)
+5. [Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection](https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu)
+6. [Kenya pastor accused of ordering parents to starve their children to death faces verdict](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)
+7. [Singing, Dancing and Getting Dumped by A.I. on Korean TV](https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html)
+8. [Pope Leo Addresses the Faithful a Day After Leaving the Hospital](https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html)
+9. [Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens](https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html)
+10. [U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them](https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html)
 <!-- daily-check end -->
