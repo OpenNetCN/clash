@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月20日 11:00:57
+更新时间：2026年10月20日 12:01:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [France to Extend Curfews After a Night of Calm, Prime Minister Says](https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html)
-2. [France Protests Show Europe’s Shift Away From Centrist Politics](https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html)
+1. [Rubio Visits India to Boost Economic Ties Amid Friction With Trump](https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html)
+2. [Suspect arrested after historic town hall set alight - French media](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
 3. [The Mayor of a City in Haiti Warned of a Massacre. No One Listened.](https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html)
-4. [A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa](https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html)
-5. [Suspect arrested after historic town hall set alight during disorder - French media](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
-6. [Why Israeli Gen Z voters are drawn to the far right](https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss)
-7. [Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions](https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html)
-8. [Voters in Oil-Rich Alberta Reject Leaving Canada](https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html)
-9. [Alberta voters reject a move toward independence in referendum backing Canadian unity](https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada)
-10. [The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England](https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html)
+4. [Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss)
+5. [Man charged with attack on Australian MP as suspect's father says she is family friend](https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss)
+6. [Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu](https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html)
+7. [France to Extend Curfews After a Night of Calm, Prime Minister Says](https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html)
+8. [Residents warned not to drink tap water after hundreds fall sick near South Africa capital](https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss)
+9. [The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England](https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html)
+10. [DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns](https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok)
 <!-- daily-check end -->
