@@ -5,7 +5,7 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月20日 10:02:09
+更新时间：2026年10月20日 11:00:57
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -14,9 +14,9 @@
 3. [The Mayor of a City in Haiti Warned of a Massacre. No One Listened.](https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html)
 4. [A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa](https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html)
 5. [Suspect arrested after historic town hall set alight during disorder - French media](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
-6. [Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions](https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html)
-7. [Voters in Oil-Rich Alberta Reject Leaving Canada](https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html)
-8. [Alberta voters reject a move toward independence in referendum backing Canadian unity](https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada)
-9. [The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England](https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html)
-10. [Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure](https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss)
+6. [Why Israeli Gen Z voters are drawn to the far right](https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss)
+7. [Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions](https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html)
+8. [Voters in Oil-Rich Alberta Reject Leaving Canada](https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html)
+9. [Alberta voters reject a move toward independence in referendum backing Canadian unity](https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada)
+10. [The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England](https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html)
 <!-- daily-check end -->
