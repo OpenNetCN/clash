@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月19日 13:03:18
+更新时间：2026年10月20日 01:00:20
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [For Israelis and Jews in the U.A.E., an Eroding Sense of Security](https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html)
-2. [France’s Far Right Seizes the Moment as Rioting Stuns the Country](https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html)
-3. [Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?](https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html)
-4. [How a Trillion-Dollar Industry Launders Illegal Gold](https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html)
-5. [Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says](https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html)
-6. [Israeli Police Detain 10 Over Violent Settler Attacks in West Bank](https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html)
-7. [France Officials Acknowledge ‘Failure’ Around Riots](https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html)
-8. [Personal attacks fire up debate before Brazil's run-off vote](https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss)
-9. [Australian prime minister says lawmaker critically injured by car is 'no accident'](https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured)
-10. [Italian PM Meloni to hold emergency meeting after weekend of violent clashes](https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss)
+1. [Five ways El Niño is affecting the weather around the world](https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss)
+2. [Alberta voters decide whether to take a step toward separating from Canada](https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada)
+3. [The French Teen Maimed During School Unrest by Tear Gas Grenade](https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html)
+4. [Italy Faces Parallel Protests in the North and South](https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html)
+5. [Curfew imposed in parts of central Paris and other cities after rioting across France](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)
+6. [Ex-OpenAI worker accused of planting device had Saudi support, says court filing](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)
+7. [Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation](https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss)
+8. [Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)
+9. [For Israelis and Jews in the U.A.E., an Eroding Sense of Security](https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html)
+10. [France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting](https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html)
 <!-- daily-check end -->
