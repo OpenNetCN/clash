@@ -5,14 +5,14 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月21日 07:03:08
+更新时间：2026年10月21日 08:01:55
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Katya Adler: France divided over who to blame for riots and what to learn from them](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)
 2. [US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)
-3. [Elon Musk considering Tesla-SpaceX merger](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
-4. [Pakistan arrests man hunted by US over $126m postage fraud case](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)
+3. [Elon Musk confirms talks to merge Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+4. [Pakistan arrests man wanted by US over $126m postage fraud case](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)
 5. [Zelenskyy says early warning system for Russian missile attacks resumes](https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning)
 6. [France announces nightly curfews 'for as long as necessary' in Paris and other cities](https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews)
 7. [Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump](https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss)
