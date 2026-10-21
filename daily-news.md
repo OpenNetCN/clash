@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月21日 04:04:55
+更新时间：2026年10月21日 05:00:33
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)
-2. [France is divided over who to blame for and what to learn from weekend riots](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)
+2. [France is divided over who to blame for weekend riots and what to learn from them](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)
 3. [Elon Musk says Tesla-SpaceX merger being considered](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
 4. [Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump](https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss)
 5. [Robert Kabera, Rwandan Government Critic, Beheaded in Uganda](https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html)
