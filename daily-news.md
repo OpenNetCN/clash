@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月22日 15:03:57
+更新时间：2026年10月23日 02:01:55
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Teacher in Oregon shooting said she pretended to be dead to survive](https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss)
-2. [YouTuber arrested after popular Indian finance influencer's suicide](https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss)
-3. [Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates](https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino)
-4. [Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say](https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss)
-5. [International Criminal Court Wins E.U.’s Top Human Rights Prize](https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html)
-6. [Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out](https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss)
-7. [Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave](https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html)
-8. [Two European women held captive for more than a year in Niger freed in Libya](https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss)
+1. [Trump ordered to answer questions under oath in BBC lawsuit](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss)
+2. [Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)
+3. [Serbian Election Underscores the Region’s Long Political Limbo](https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html)
+4. [L'Oreal says weight loss drugs are impacting beauty and skin care sales](https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss)
+5. [What we know about war plans that Trump and Netanyahu are drawing up](https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up)
+6. [Trump says Musk has restored access to Ukraine's Starlink network](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
+7. [In the Wake of Riots, the French Authorities Ban Some Protests](https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html)
+8. [Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave](https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html)
 9. [As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off](https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html)
-10. [In Wake of Riots, French Authorities Ban Some Protests](https://www.nytimes.com/2026/10/22/france-protests-macron.html)
+10. [Race to update services' computer systems after cyber-security flaw found](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
