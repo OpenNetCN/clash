@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月26日 02:00:46
+更新时间：2026年10月26日 03:01:10
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Aleksandar Vucic Concedes Defeat in Serbian Election](https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html)
-2. [Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son](https://www.nytimes.com/live/2026/10/25/world/brazil-election)
+1. [Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result](https://www.nytimes.com/live/2026/10/25/world/brazil-election)
+2. [Aleksandar Vucic Concedes Defeat in Serbian Election](https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html)
 3. [Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
 4. [Brazil's left-wing President Lula elected for fourth term](https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election)
 5. [María Corina Machado Returns to Venezuela](https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html)
