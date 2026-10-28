@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月27日 14:01:55
+更新时间：2026年10月28日 03:01:28
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Meghan, Actress Turned Duchess, Will Join Australian Cooking Show](https://www.nytimes.com/2026/10/27/world/europe/meghan-junior-masterchef-australia.html)
-2. [Jordan Says Its Deadly Strikes in Syria Targeted Islamic State](https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html)
-3. [Mbappé sorry for 'ill-judged' Mao remark after backlash in China](https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss)
-4. [Nanotyrannus skeleton goes to auction in New York with £4.5m price tag](https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss)
-5. [Norway and Finland leaders hold rare call with Putin](https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss)
-6. [2 Right-Wingers Who Broke With Netanyahu Could Bid to Unseat Him](https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html)
-7. [King Charles Faces High Stakes Test With Caribbean Tour](https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html)
-8. [Truce begins in Ukraine city where residents ate weeds to survive](https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss)
-9. [Ex-FBI chief James Comey faces federal charges for third time](https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss)
-10. [Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election](https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections)
+1. [Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear](https://www.nytimes.com/live/2026/10/27/world/israel-elections)
+2. [Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown](https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html)
+3. [Alexander brothers each sentenced to 30 years in prison in sex trafficking case](https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss)
+4. [U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear](https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear)
+5. [Ceasefire extended across Ukraine's Kherson region, officials say](https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss)
+6. [In Israel’s Election, It’s Nationalism vs. Founding Ideals](https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html)
+7. [Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case](https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss)
+8. [European Leaders Split Over Phone Call to Putin](https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html)
+9. [Israel's voter turnout soars as Netanyahu faces a tight election](https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections)
+10. [Egypt court fines journalist Lina Attalah and orders news site's closure](https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
