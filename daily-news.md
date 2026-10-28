@@ -5,11 +5,11 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月28日 03:01:28
+更新时间：2026年10月28日 06:03:15
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear](https://www.nytimes.com/live/2026/10/27/world/israel-elections)
+1. [Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear](https://www.nytimes.com/live/2026/10/27/world/israel-elections)
 2. [Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown](https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html)
 3. [Alexander brothers each sentenced to 30 years in prison in sex trafficking case](https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss)
 4. [U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear](https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear)
