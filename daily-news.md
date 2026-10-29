@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月29日 03:00:46
+更新时间：2026年10月29日 06:01:53
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Flávio Bolsonaro denies fleeing Brazil after landing in Miami](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)
-2. [Flávio Bolsonaro Lands in Miami After Fleeing Brazil](https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html)
+1. [Flávio Bolsonaro Lands in Miami After Fleeing Brazil](https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html)
+2. [Flávio Bolsonaro denies fleeing Brazil after landing in Miami](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)
 3. [Girl seriously injured in wolf attack at German wildlife park](https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss)
 4. [Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami](https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami)
 5. [High-speed train crash kills at least 68 people in Spain](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)
