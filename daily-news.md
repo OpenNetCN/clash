@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年10月31日 15:04:55
+更新时间：2026年11月1日 02:02:40
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
-2. [How Locals and Shopkeepers Tried to Save One Paris Street From Rioters](https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html)
-3. [Ethiopian PM puts ministers through military training](https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss)
-4. [Here is the latest.](https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween)
-5. [Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections](https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html)
-6. [Train Disaster Is Blow to Spain’s Leader, Already Election Underdog](https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html)
-7. [Poland Deploys Riot Police in Standoff Over Country’s Top Court](https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html)
-8. [What to Know About Fighting Between Ethiopia and Rebels in Tigray](https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html)
-9. [US approves sale of 500 Patriot missiles to Ukraine](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss)
-10. [Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!](https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners)
+1. [How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán](https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss)
+2. [India's opposition set to hold mega rally seeking election chief's resignation](https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss)
+3. [North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.](https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html)
+4. [Crypto firm Binance covers 90% of losses after $6.3bn hack](https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss)
+5. [Clashes Erupt Again in France, After Festive Start to Day of Protest](https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html)
+6. [‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories](https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html)
+7. [Thousands demonstrate in Paris as protests spread across Europe](https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss)
+8. [Secretary Rubio has a tough time getting officials at G20 on the same page](https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page)
+9. [A new political era in the Southern Philippines](https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines)
+10. [France seethes again as youth-led protests sweep Europe](https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe)
 <!-- daily-check end -->
