@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月6日 05:02:16
+更新时间：2026年11月6日 06:03:45
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Trump signs order preventing future presidents from changing Oval Office](https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss)
-2. [Global tech stocks plunge as US midterms add to AI slowdown fears](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+1. [Global tech stocks plunge as US midterms add to AI slowdown fears](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+2. [Trump signs order preventing future presidents from changing Oval Office](https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss)
 3. [White House denies Hegseth and Rubio to leave jobs after Republican election losses](https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss)
 4. [Pope begins lengthy trip to Latin America weeks after lung cancer surgery](https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss)
 5. [California governor commutes sentences for state's 548 death row inmates](https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss)
