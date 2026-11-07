@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月7日 06:02:18
+更新时间：2026年11月7日 07:02:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Paraguay's President Santiago Peña impeached and arrested](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
-2. [Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?](https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html)
+1. [Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?](https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html)
+2. [Paraguay's President Santiago Peña impeached and arrested](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
 3. [Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations](https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss)
 4. [After Israel’s Election, Who Will Get the First Chance to Form a Government?](https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html)
 5. [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
