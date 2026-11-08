@@ -5,15 +5,15 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月8日 14:04:55
+更新时间：2026年11月8日 15:02:50
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene](https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html)
-2. [What to Know About the Mass Shooting in Krakow, Poland](https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html)
-3. [Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh](https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html)
-4. [Who Is Gadi Eisenkot, Israel’s Opposition Leader?](https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html)
-5. [What we know so far after Krakow gun attack](https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss)
+1. [What we know so far after Krakow gun attack](https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss)
+2. [Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene](https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html)
+3. [What to Know About the Mass Shooting in Krakow, Poland](https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html)
+4. [Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh](https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html)
+5. [Who Is Gadi Eisenkot, Israel’s Opposition Leader?](https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html)
 6. [A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades](https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino)
 7. [In Argentina, Pope Leo to Meet Church at Odds With President Milei](https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html)
 8. [South Africa’s Politics May Never Be the Same Again](https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html)
