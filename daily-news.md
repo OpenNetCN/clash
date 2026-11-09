@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月9日 12:02:11
+更新时间：2026年11月9日 13:01:21
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Krakow shooting suspect has died in hospital, police say](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
-2. [Immigrants Are Being Systematically Returned Home Despite Court Orders](https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html)
-3. [At least 34 dead after Europe-bound migrant boat sinks off Senegal](https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss)
-4. [Why a South Korean city is turning to a U.S. college to outsmart AI?](https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai)
-5. [How a Bank Implosion in Paraguay Ensnared a President](https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html)
-6. [Ukraine Peace Talks Resume This Week in Abu Dhabi](https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html)
-7. [Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.](https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html)
-8. [Trump says he was 'kidding' about Dana White press secretary offer](https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss)
-9. [How a bank collapse left millions in limbo and toppled Paraguay's president](https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno)
-10. [Inside the French drug gangs recruiting children to kill](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
+1. [Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff](https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31)
+2. [Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine](https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss)
+3. [Immigrants Are Being Systematically Returned Home Despite Court Orders](https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html)
+4. [Krakow shooting suspect has died in hospital, police say](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
+5. [At least 34 dead after Europe-bound migrant boat sinks off Senegal](https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss)
+6. [Why a South Korean city is turning to a U.S. college to outsmart AI?](https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai)
+7. [How a Bank Implosion in Paraguay Ensnared a President](https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html)
+8. [Four killed in Gaza after sand embankment collapses onto tents, health ministry says](https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss)
+9. [Ukraine Peace Talks Resume This Week in Abu Dhabi](https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html)
+10. [Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.](https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html)
 <!-- daily-check end -->
