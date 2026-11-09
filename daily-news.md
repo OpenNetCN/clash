@@ -5,14 +5,14 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月9日 05:00:33
+更新时间：2026年11月9日 06:04:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Cruise ship pianist rescued from sea after nine hours in Pacific Ocean](https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss)
-2. [In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy](https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html)
-3. [Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says](https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss)
-4. [Targeted by U.S., Armed Group Strikes Back in Colombia](https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html)
+1. [Targeted by U.S., Armed Group Strikes Back in Colombia](https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html)
+2. [Cruise ship pianist rescued from sea after nine hours in Pacific Ocean](https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss)
+3. [In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy](https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html)
+4. [Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says](https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss)
 5. [Trains Collide Near Cairo, Killing 4](https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html)
 6. [Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect](https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html)
 7. [The world's largest telecoms firm is on trial and the outcome has global implications](https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications)
