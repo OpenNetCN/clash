@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月10日 11:00:10
+更新时间：2026年11月10日 13:02:01
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Police officer dies and another injured after backpack explosion in Oviedo](https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss)
-2. [As Fresh Air Becomes a Luxury, Many Indonesians Turn on Their Leader](https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html)
-3. [Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground](https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html)
-4. [The Man Who Helped the C.I.A. Secretly Operate in Mexico](https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html)
-5. [In Argentina, Pope Leo Walks in the Giant Shadow of Francis](https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html)
-6. [Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.](https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html)
-7. [Trump says more US attacks on Iran 'highly unlikely'](https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss)
-8. [Kushner and Witkoff renew peace talks to end war between Russia and Ukraine](https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine)
-9. [Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss)
-10. [DR Congo sentences 66 soldiers to death for being 'cowards'](https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss)
+1. [Anthropic to raise $64bn in major stock market listing](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
+2. [U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels](https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html)
+3. [Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia](https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html)
+4. [Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground](https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html)
+5. [David Walliams, UK Celebrity, Is Accused of Sexual Misconduct](https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html)
+6. [Israel’s New Parliament Gathers With No Government in Sight](https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html)
+7. [Israel's new parliament to be sworn in as leaders compete to form government](https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss)
+8. [House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed](https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas)
+9. [Police officer dies and another injured after backpack explosion in Oviedo](https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss)
+10. [Israeli forces kill Palestinian boy in West Bank, health ministry says](https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
