@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月10日 14:03:23
+更新时间：2026年11月10日 15:01:35
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Indonesia's VP offers resignation as questions mount over his eligibility](https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility)
-2. [Anthropic heads for $1.3 trillion valuation in major stock market listing](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
-3. [Iran rejects French claims it was behind supermarket fridge hacking](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
-4. [U.S. Received $12 Billion From Venezuela’s Oil, Report Shows](https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html)
-5. [California police investigate after 27 fall ill at half-marathon running event](https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss)
-6. [U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels](https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html)
-7. [Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia](https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html)
-8. [Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground](https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html)
-9. [David Walliams, UK Celebrity, Is Accused of Sexual Misconduct](https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html)
-10. [Israel’s New Parliament Gathers With No Government in Sight](https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html)
+1. [Israel’s New Parliament Gathers With No Government in Sight](https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html)
+2. [Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
+3. [First day of Ukraine peace talks 'very productive', US says](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss)
+4. [Arrests made in Mohamed Al Fayed probe in France, police say](https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss)
+5. [Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest](https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html)
+6. ['Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent](https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent)
+7. [The Man Who Helped the C.I.A. Secretly Operate in Mexico](https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html)
+8. [Indonesia's VP offers resignation as questions mount over his eligibility](https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility)
+9. [Iran rejects French claims it was behind supermarket fridge hacking](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
+10. [U.S. Received $12 Billion From Venezuela’s Oil, Report Shows](https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html)
 <!-- daily-check end -->
