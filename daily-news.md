@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月11日 12:01:12
+更新时间：2026年11月11日 13:01:38
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [US House blocks bid to impeach Defence Secretary Pete Hegseth, for now](https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss)
-2. [Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance](https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html)
-3. [A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France](https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html)
-4. [Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets](https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy)
-5. [They’re in Ukraine. Why Do Their Phones Say They’re in Peru?](https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html)
-6. [Spain's first general strike in 14 years demands solutions to housing crisis](https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike)
-7. [Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement](https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html)
-8. [Ebola tops 11,000 cases in Congo's deadliest outbreak](https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak)
-9. [US warns Madagascar over growing military ties with Russia](https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss)
-10. [On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics](https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html)
+1. [Hundreds of Italian schools hit by threats in suspected bomb hoax](https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss)
+2. [House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks](https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases)
+3. [Haitian PM praises El Salvador after joint strike on alleged home of gang leader](https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss)
+4. [US House blocks bid to impeach Defence Secretary Pete Hegseth, for now](https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss)
+5. [Transport workers in Chile block highways in protest over surging fuel prices](https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss)
+6. [Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance](https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html)
+7. [A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France](https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html)
+8. [Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets](https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy)
+9. [They’re in Ukraine. Why Do Their Phones Say They’re in Peru?](https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html)
+10. [Spain's first general strike in 14 years demands solutions to housing crisis](https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike)
 <!-- daily-check end -->
