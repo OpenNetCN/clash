@@ -5,7 +5,7 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月11日 11:03:36
+更新时间：2026年11月11日 12:01:12
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -17,6 +17,6 @@
 6. [Spain's first general strike in 14 years demands solutions to housing crisis](https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike)
 7. [Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement](https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html)
 8. [Ebola tops 11,000 cases in Congo's deadliest outbreak](https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak)
-9. [On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics](https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html)
-10. [Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave](https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss)
+9. [US warns Madagascar over growing military ties with Russia](https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss)
+10. [On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics](https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html)
 <!-- daily-check end -->
