@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月10日 15:01:35
+更新时间：2026年11月11日 01:03:21
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Israel’s New Parliament Gathers With No Government in Sight](https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html)
-2. [Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
-3. [First day of Ukraine peace talks 'very productive', US says](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss)
-4. [Arrests made in Mohamed Al Fayed probe in France, police say](https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss)
-5. [Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest](https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html)
-6. ['Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent](https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent)
-7. [The Man Who Helped the C.I.A. Secretly Operate in Mexico](https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html)
-8. [Indonesia's VP offers resignation as questions mount over his eligibility](https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility)
-9. [Iran rejects French claims it was behind supermarket fridge hacking](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
-10. [U.S. Received $12 Billion From Venezuela’s Oil, Report Shows](https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html)
+1. [US House blocks bid to impeach Defence Secretary Pete Hegseth, for now](https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss)
+2. ['It can kill us': Kenyans fear impact of El Niño with floods predicted](https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss)
+3. [US Soldier Is Arrested in UK on Suspicion of Spying for Russia](https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html)
+4. [Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor](https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss)
+5. [Novaya Gazeta, Russia’s Bravest Newspaper, Closes](https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html)
+6. [Spain's king and queen attend memorial service for rail crash victims](https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss)
+7. [Violence erupts in Bangladesh as ousted PM's supporters stage protest](https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss)
+8. [Gaza Floods Kill 4](https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html)
+9. [In Interview, Sonia Gandhi Recalls Love and Loss in India](https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html)
+10. [U.S. boycotts U.N. human rights review for second year running](https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva)
 <!-- daily-check end -->
