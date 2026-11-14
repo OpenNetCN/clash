@@ -5,7 +5,7 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月14日 01:04:53
+更新时间：2026年11月14日 03:02:22
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -13,7 +13,7 @@
 2. ['Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
 3. [Europe Agrees on a Team to Represent It in Talks With Russia](https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html)
 4. [Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs](https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html)
-5. [Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+5. [Microsoft 'deeply sorry' for global outage as it reports broad recovery](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
 6. [Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
 7. [What's Trump's strategy now with Iran? To keep things as they are](https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are)
 8. [Why is Microsoft's outage lasting so long and will emails be lost?](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
