@@ -5,14 +5,14 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月16日 06:03:40
+更新时间：2026年11月16日 08:02:17
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Wife of assassinated ex-Haitian leader registers for presidential election](https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss)
-2. [Mexican drug lord Miguel Angel Felix Gallardo dies age 80](https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss)
-3. [Australian MP 'full of gratitude' upon leaving hospital after alleged car attack](https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss)
-4. [Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss)
+1. [Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss)
+2. [Wife of assassinated ex-Haitian leader registers for presidential election](https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss)
+3. [Mexican drug lord Miguel Ángel Félix Gallardo dies age 80](https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss)
+4. [Australian MP 'full of gratitude' upon leaving hospital after alleged car attack](https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss)
 5. [Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss)
 6. [What to expect from Trump and Xi's upcoming meeting in China](https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china)
 7. [Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?](https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry)
