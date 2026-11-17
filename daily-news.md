@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月17日 07:03:19
+更新时间：2026年11月17日 08:00:22
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
-2. [Two major Kyiv bridges hit in Russian attack, mayor says](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
+1. [Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
+2. [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
 3. [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
 4. [Imran Khan seeks urgent medical care fearing he 'may not return alive'](https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss)
 5. [Pope Endures Grueling Travel in South America Weeks After Surgery](https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html)
