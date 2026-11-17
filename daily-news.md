@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月17日 08:00:22
+更新时间：2026年11月17日 09:00:16
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
 1. [Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
-2. [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
-3. [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
-4. [Imran Khan seeks urgent medical care fearing he 'may not return alive'](https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss)
-5. [Pope Endures Grueling Travel in South America Weeks After Surgery](https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html)
-6. [Africa: Trading in yuan](https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan)
-7. [Five EU countries announce migrant deportation centre in Rwanda](https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss)
-8. [OpenAI sued by California over Hugging Face attack](https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss)
-9. [10 Numbers That Might Change How You See Asia](https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html)
-10. [Forensic expert says his analysis of autopsy photos suggests Epstein was killed](https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss)
+2. [Japan sends up jets after alleged Russian incursion of its airspace](https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss)
+3. [Leaked Records Show Deutsche Bank Courting Russian Oligarchs](https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html)
+4. [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
+5. [They’re Young, Frustrated and Want France to Change. They Disagree on How.](https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html)
+6. [Trump Will Miss Most of the ASEAN Summit](https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html)
+7. [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+8. [Imran Khan seeks urgent medical care fearing he 'may not return alive'](https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss)
+9. [Pope Endures Grueling Travel in South America Weeks After Surgery](https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html)
+10. [Africa: Trading in yuan](https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan)
 <!-- daily-check end -->
