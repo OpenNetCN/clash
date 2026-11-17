@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月16日 15:01:35
+更新时间：2026年11月17日 01:01:31
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Raye, Rosalia and Dolly Parton recognised in Grammy nominations](https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss)
-2. [U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons](https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html)
-3. [Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial](https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html)
-4. [Estonia to close Russia border crossings after attempted drone factory arson attack](https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss)
-5. [Gérard Depardieu drops appeal against sexual assault conviction](https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss)
-6. [Five EU countries expected to announce migrant deportation centre in Rwanda](https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss)
-7. [Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly](https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html)
-8. [Pope Endures Grueling Travel in South America Weeks After Surgery](https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html)
-9. [Man sentenced over 'horrific' attempted murder of three children](https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss)
-10. [Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+1. [Africa: Trading in yuan](https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan)
+2. [Five EU countries announce migrant deportation centre in Rwanda](https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss)
+3. [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+4. [10 Numbers That Might Change How You See Asia](https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html)
+5. [Houthi rebel advance in Yemen may further destabilise global economy](https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss)
+6. [Forensic expert says his analysis of autopsy photos suggests Epstein was killed](https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss)
+7. [Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship](https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html)
+8. [Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly](https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html)
+9. [Lindsay Clancy to face retrial next year for deaths of her three children](https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss)
+10. [Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial](https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html)
 <!-- daily-check end -->
