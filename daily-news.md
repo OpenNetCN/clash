@@ -5,14 +5,14 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月18日 03:02:37
+更新时间：2026年11月18日 04:02:32
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Live Updates: Trump to Meet Philippine Leader Before Flying to China](https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit)
+1. [Live Updates: Trump Meets Philippine Leader Before Flying to China](https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit)
 2. [Nvidia says it won't reinstate Huang as firm reports bumper results](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
 3. [Tracking China’s Intensifying War of Words Against Japan](https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html)
-4. [Thomas Markle charged over child sex abuse material in Philippines](https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss)
+4. [Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material](https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss)
 5. [Xi said China would welcome American students for exchanges. What's the reality?](https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality)
 6. [Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
 7. [Russian military plane crashes, killing all 19 on board](https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss)
