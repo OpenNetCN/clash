@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月19日 06:02:19
+更新时间：2026年11月19日 09:02:15
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls](https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss)
-2. [Crimean Bridge attacked again, Russian official says](https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss)
-3. [Trump, Xi and Putin Shake Hands as Leaders Gather in China](https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec)
-4. [Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit](https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html)
-5. [Elon Musk says record spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
-6. [AI giant Anthropic valued at up to $1.5tn ahead of stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
-7. [Van Gogh painting sells for record $190.4m after row over its Nazi history](https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss)
-8. [Myanmar faces historic genocide verdict at UN court over Rohingya massacres](https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss)
-9. [Israeli military launches rare ground operation in Gaza beyond Yellow Line](https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss)
-10. [Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion](https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html)
+1. [Live Updates: Trump, Xi and Putin Meet for Their First Summit](https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec)
+2. [Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests](https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html)
+3. [Crimean Bridge attacked again, Russia says](https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss)
+4. [A Village Burned, Its People Killed or Exiled. Was It Genocide?](https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html)
+5. [After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast](https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html)
+6. [This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls](https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss)
+7. [Elon Musk says record $446m spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
+8. [Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
+9. [Van Gogh painting sells for record $190.4m after row over its Nazi history](https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss)
+10. [Myanmar faces historic genocide verdict at UN court over Rohingya massacres](https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
