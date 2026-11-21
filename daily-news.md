@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月21日 05:01:33
+更新时间：2026年11月21日 06:01:55
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Man convicted of starting Palisades fire in Los Angeles](https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss)
-2. ['He's a killer': Zelensky reacts to Trump calling Putin a friend](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
+1. [Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
+2. [Man convicted of starting Palisades fire in Los Angeles](https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss)
 3. [Mamdani announces plan to close New York's Rikers Island jail by 2032](https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss)
 4. [In a year of AI solving maths problems, Anthropic may have just solved the biggest](https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss)
 5. [The War Is Ravaging Ukraine’s Wildlife, Too](https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html)
