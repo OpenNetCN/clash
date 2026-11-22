@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月21日 15:01:20
+更新时间：2026年11月22日 01:02:30
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Fight over fossil fuels leaves COP31 climate talks in deadlock](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
-2. [Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts](https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html)
-3. [Killer robots: U.N. talks fall short of hopes for legally binding rules](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)
-4. [Catherine, Princess of Wales, Documents Life With Cancer in BBC Film](https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html)
-5. [U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again](https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html)
-6. [Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
-7. [On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win](https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html)
-8. [Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks](https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks)
-9. [Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI](https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai)
-10. [Deal with EU not dependent on tuition fees agreement, Miliband says](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
+1. [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss)
+2. [Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out](https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss)
+3. [Fight over fossil fuels leaves COP31 climate talks in deadlock](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
+4. [What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?](https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit)
+5. [Highlights and challenges from covering an historic month in South America](https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america)
+6. [A grieving family in Lebanon returns to their village](https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village)
+7. [Lock of former US President George Washington's hair sells for $4,000](https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss)
+8. [Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts](https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html)
+9. [Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military](https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html)
+10. [Russia-bound ship attacked in Gulf of Finland](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss)
 <!-- daily-check end -->
