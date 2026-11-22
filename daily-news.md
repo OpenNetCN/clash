@@ -5,7 +5,7 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月22日 02:01:20
+更新时间：2026年11月22日 03:02:02
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
@@ -16,7 +16,7 @@
 5. [Highlights and challenges from covering an historic month in South America](https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america)
 6. [A grieving family in Lebanon returns to their village](https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village)
 7. [Lock of former US President George Washington's hair sells for $4,000](https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss)
-8. [Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts](https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html)
-9. [Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military](https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html)
-10. [Russia-bound ship attacked in Gulf of Finland](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss)
+8. [Russia-bound ship attacked in Gulf of Finland](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss)
+9. [Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead](https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained)
+10. [Killer robots: U.N. talks fall short of hopes for legally binding rules](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)
 <!-- daily-check end -->
