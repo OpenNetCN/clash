@@ -5,12 +5,12 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月25日 01:02:36
+更新时间：2026年11月25日 02:00:09
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region](https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html)
-2. [Huawei found guilty of stealing trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+1. [Huawei found guilty of stealing trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+2. [Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region](https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html)
 3. [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
 4. [Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say](https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html)
 5. [Nigerian monarch, 92, suspended after sexual assault claims](https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss)
