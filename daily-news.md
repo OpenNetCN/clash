@@ -5,18 +5,18 @@
 返回主文：[机场推荐 2026｜Clash机场 / 节点订阅与科学上网实测](./README.md)
 
 <!-- daily-check start -->
-更新时间：2026年11月26日 12:00:43
+更新时间：2026年11月26日 13:04:43
 
 数据来源：BBC World / NYT World / NPR World（自动抓取 RSS，按发布时间排序，自动去重）
 
-1. [Attack Blamed on ISIS Kills 2 Syrian Security Force Members](https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html)
-2. [Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic](https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html)
-3. [El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs](https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html)
-4. [After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream](https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html)
-5. [Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia](https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html)
-6. [Brazilian Duped Into Fighting for Russia: ‘War Is Hell’](https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html)
-7. [New UK-EU treaty has 10-year termination clause](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
-8. [Musk's plan to send a million SpaceX data satellites into space approved](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
-9. [Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities](https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html)
-10. [The Unbearable Heat of Delhi’s Summer Nights](https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html)
+1. [Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic](https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html)
+2. [Tributes for Duran Duran guitarist Andy Taylor after his death aged 65](https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss)
+3. [Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says](https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech)
+4. [Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one](https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss)
+5. [Seven injured, four critically, after Bangkok oil refinery explosion](https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss)
+6. [Attack Blamed on ISIS Kills 2 Syrian Security Force Members](https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html)
+7. [Hope for millions as cheaper HIV prevention jab reaches Africa](https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss)
+8. [Myanmar refuses to comply with parts of ICJ genocide ruling](https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss)
+9. [El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs](https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html)
+10. [After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream](https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html)
 <!-- daily-check end -->
